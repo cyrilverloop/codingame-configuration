@@ -1,0 +1,53 @@
+{
+    "path": "hard/Surface",
+    "name": "Surface",
+    "alphanumName": "surface",
+    "link": "https://www.codingame.com/ide/puzzle/surface",
+    "tests": [
+        {
+            "name": "Example of the statement",
+            "alphanumName": "exampleOfTheStatement",
+            "file": "01 - example of the statement.txt"
+        },
+        {
+            "name": "No lake",
+            "alphanumName": "noLake",
+            "file": "02 - no lake.txt"
+        },
+        {
+            "name": "The area is a lake",
+            "alphanumName": "theAreaIsALake",
+            "file": "03 - the area is a lake.txt"
+        },
+        {
+            "name": "1 lake on a small map",
+            "alphanumName": "oneLakeOnASmallMap",
+            "file": "04 - 1 lake on a small map.txt"
+        },
+        {
+            "name": "Several lakes on a small map",
+            "alphanumName": "severalLakesOnASmallMap",
+            "file": "05 - several lakes on a small map.txt"
+        },
+        {
+            "name": "Some lakes on a 20x20 map",
+            "alphanumName": "someLakesOnA20x20Map",
+            "file": "06 - some lakes on a 20x20 map.txt"
+        },
+        {
+            "name": "Many lakes on a 100x50 map",
+            "alphanumName": "manyLakesOnA100x50Map",
+            "file": "07 - many lakes on a 100x50 map.txt"
+        },
+        {
+            "name": "100 tests on a 1000x1000 map",
+            "alphanumName": "100TestsOnA1000x1000Map",
+            "file": "08 - 100 tests on a 1000x1000 map.txt"
+        },
+        {
+            "name": "Large map, large lake",
+            "alphanumName": "largeMapLargeLake",
+            "file": "09 - large map, large lake.txt"
+        }
+    ]
+}

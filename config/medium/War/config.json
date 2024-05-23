@@ -1,0 +1,53 @@
+{
+    "path": "medium/War",
+    "name": "War",
+    "alphanumName": "war",
+    "link": "https://www.codingame.com/ide/puzzle/winamax-battle",
+    "tests": [
+        {
+            "name": "3 cards",
+            "alphanumName": "threeCards",
+            "file": "01 - 3 cards.txt"
+        },
+        {
+            "name": "26 cards",
+            "alphanumName": "twentySixCards",
+            "file": "02 - 26 cards.txt"
+        },
+        {
+            "name": "26 cards, medium length",
+            "alphanumName": "twentySixCardsMediumLength",
+            "file": "03 - 26 cards, medium length.txt"
+        },
+        {
+            "name": "Battle",
+            "alphanumName": "battle",
+            "file": "04 - battle.txt"
+        },
+        {
+            "name": "One game, one battle",
+            "alphanumName": "oneGameOneBattle",
+            "file": "05 - one game, one battle.txt"
+        },
+        {
+            "name": "2 chained battles",
+            "alphanumName": "twoChainedBattles",
+            "file": "06 - 2 chained battles.txt"
+        },
+        {
+            "name": "Long game",
+            "alphanumName": "longGame",
+            "file": "07 - long game.txt"
+        },
+        {
+            "name": "PAT",
+            "alphanumName": "PAT",
+            "file": "08 - PAT.txt"
+        },
+        {
+            "name": "Another PAT",
+            "alphanumName": "anotherPAT",
+            "file": "09 - another PAT.txt"
+        }
+    ]
+}

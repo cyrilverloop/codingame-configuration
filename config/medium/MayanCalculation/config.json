@@ -1,0 +1,68 @@
+{
+    "path": "medium/MayanCalculation",
+    "name": "Mayan Calculation",
+    "alphanumName": "mayanCalculation",
+    "link": "https://www.codingame.com/ide/puzzle/mayan-calculation",
+    "tests": [
+        {
+            "name": "Simple addition",
+            "alphanumName": "simpleAddition",
+            "file": "01 - simple addition.txt"
+        },
+        {
+            "name": "Addition with carry",
+            "alphanumName": "additionWithCarry",
+            "file": "02 - addition with carry.txt"
+        },
+        {
+            "name": "Multiplication",
+            "alphanumName": "multiplication",
+            "file": "03 - multiplication.txt"
+        },
+        {
+            "name": "Simple subtraction",
+            "alphanumName": "simpleSubtraction",
+            "file": "04 - simple subtraction.txt"
+        },
+        {
+            "name": "Subtraction",
+            "alphanumName": "subtraction",
+            "file": "05 - subtraction.txt"
+        },
+        {
+            "name": "Simple division",
+            "alphanumName": "simpleDivision",
+            "file": "06 - simple division.txt"
+        },
+        {
+            "name": "Division",
+            "alphanumName": "division",
+            "file": "07 - division.txt"
+        },
+        {
+            "name": "Great multiplication",
+            "alphanumName": "greatMultiplication",
+            "file": "08 - great multiplication.txt"
+        },
+        {
+            "name": "Zero",
+            "alphanumName": "zero",
+            "file": "09 - zero.txt"
+        },
+        {
+            "name": "Missing power",
+            "alphanumName": "missingPower",
+            "file": "10 - missing power.txt"
+        },
+        {
+            "name": "Base 20",
+            "alphanumName": "base20",
+            "file": "11 - base 20.txt"
+        },
+        {
+            "name": "Other symbols",
+            "alphanumName": "otherSymbols",
+            "file": "12 - other symbols.txt"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "path": "medium/BlunderEpisode1",
+    "name": "Blunder - Episode 1",
+    "alphanumName": "blunderEpisode1",
+    "link": "https://www.codingame.com/ide/puzzle/blunder-episode-1",
+    "tests": [
+        {
+            "name": "Simple moves",
+            "alphanumName": "simpleMoves",
+            "file": "01 - simple moves.txt"
+        },
+        {
+            "name": "Obstacles",
+            "alphanumName": "obstacles",
+            "file": "02 - obstacles.txt"
+        },
+        {
+            "name": "Priorities",
+            "alphanumName": "priorities",
+            "file": "03 - priorities.txt"
+        },
+        {
+            "name": "Straight line",
+            "alphanumName": "straightLine",
+            "file": "04 - straight line.txt"
+        },
+        {
+            "name": "Path modifier",
+            "alphanumName": "pathModifier",
+            "file": "05 - path modifier.txt"
+        },
+        {
+            "name": "Breaker mode",
+            "alphanumName": "breakerMode",
+            "file": "06 - breaker mode.txt"
+        },
+        {
+            "name": "Inverter",
+            "alphanumName": "inverter",
+            "file": "07 - inverter.txt"
+        },
+        {
+            "name": "Teleport",
+            "alphanumName": "teleport",
+            "file": "08 - teleport.txt"
+        },
+        {
+            "name": "Broken wall?",
+            "alphanumName": "brokenWall",
+            "file": "09 - broken wall.txt"
+        },
+        {
+            "name": "All together",
+            "alphanumName": "allTogether",
+            "file": "10 - all together.txt"
+        },
+        {
+            "name": "LOOP",
+            "alphanumName": "LOOP",
+            "file": "11 - LOOP.txt"
+        },
+        {
+            "name": "Multiple loops?",
+            "alphanumName": "multipleLoops",
+            "file": "12 - multiple loops.txt"
+        }
+    ]
+}

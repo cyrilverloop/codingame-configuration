@@ -1,0 +1,53 @@
+{
+    "path": "medium/Scrabble",
+    "name": "Scrabble",
+    "alphanumName": "scrabble",
+    "link": "https://www.codingame.com/ide/puzzle/scrabble",
+    "tests": [
+        {
+            "name": "Only one word",
+            "alphanumName": "onlyOneWord",
+            "file": "01 - only one word.txt"
+        },
+        {
+            "name": "2 words with the same value",
+            "alphanumName": "twoWordsWithTheSameValue",
+            "file": "02 - 2 words with the same value.txt"
+        },
+        {
+            "name": "2 words with different values",
+            "alphanumName": "twoWordsWithDifferentValues",
+            "file": "03 - 2 words with different values.txt"
+        },
+        {
+            "name": "Many possibilities",
+            "alphanumName": "manyPossibilities",
+            "file": "04 - many possibilities.txt"
+        },
+        {
+            "name": "Value better than size",
+            "alphanumName": "valueBetterThanSize",
+            "file": "05 - value better than size.txt"
+        },
+        {
+            "name": "Valid word",
+            "alphanumName": "validWord",
+            "file": "06 - valid word.txt"
+        },
+        {
+            "name": "Large dictionary 1",
+            "alphanumName": "largeDictionary1",
+            "file": "07 - large dictionary 1.txt"
+        },
+        {
+            "name": "Large dictionary 2",
+            "alphanumName": "largeDictionary2",
+            "file": "08 - large dictionary 2.txt"
+        },
+        {
+            "name": "Cannot use letter twice",
+            "alphanumName": "cannotUseLetterTwice",
+            "file": "09 - cannot use letter twice.txt"
+        }
+    ]
+}

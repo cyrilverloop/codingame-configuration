@@ -1,0 +1,53 @@
+{
+    "path": "hard/BlunderEpisode2",
+    "name": "Blunder - Episode 2",
+    "alphanumName": "blunderEpisode2",
+    "link": "https://www.codingame.com/ide/puzzle/blunder-episode-2",
+    "tests": [
+        {
+            "name": "One room",
+            "alphanumName": "oneRoom",
+            "file": "01 - one room.txt"
+        },
+        {
+            "name": "3 rooms",
+            "alphanumName": "threeRooms",
+            "file": "02 - 3 rooms.txt"
+        },
+        {
+            "name": "15 rooms, small range",
+            "alphanumName": "fifteenRoomsSmallRange",
+            "file": "03 - 15 rooms, small range.txt"
+        },
+        {
+            "name": "55 rooms",
+            "alphanumName": "fiftyFiveRooms",
+            "file": "04 - 55 rooms.txt"
+        },
+        {
+            "name": "1275 rooms",
+            "alphanumName": "oneThousandTwoHundredAndSeventyFiveRooms",
+            "file": "05 - 1275 rooms.txt"
+        },
+        {
+            "name": "5050 rooms",
+            "alphanumName": "fiveThousandAndFiftyRooms",
+            "file": "06 - 5050 rooms.txt"
+        },
+        {
+            "name": "9870 rooms",
+            "alphanumName": "nineThousandEightHundredAndSeventyRooms",
+            "file": "07 - 9870 rooms.txt"
+        },
+        {
+            "name": "Square building",
+            "alphanumName": "squareBuilding",
+            "file": "08 - square building.txt"
+        },
+        {
+            "name": "Multiple entries",
+            "alphanumName": "multipleEntries",
+            "file": "09 - multiple entries.txt"
+        }
+    ]
+}

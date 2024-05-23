@@ -1,0 +1,23 @@
+{
+    "path": "hard/SuperComputer",
+    "name": "Super Computer",
+    "alphanumName": "superComputer",
+    "link": "https://www.codingame.com/ide/puzzle/super-computer",
+    "tests": [
+        {
+            "name": "Example 1",
+            "alphanumName": "example1",
+            "file": "01 - example 1.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "example2",
+            "file": "02 - example 2.txt"
+        },
+        {
+            "name": "Large number of scientists",
+            "alphanumName": "largeNumberOfScientists",
+            "file": "03 - large number of scientists.txt"
+        }
+    ]
+}

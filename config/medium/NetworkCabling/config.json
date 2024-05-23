@@ -1,0 +1,53 @@
+{
+    "path": "medium/NetworkCabling",
+    "name": "Network Cabling",
+    "alphanumName": "networkCabling",
+    "link": "https://www.codingame.com/ide/puzzle/network-cabling",
+    "tests": [
+        {
+            "name": "Example 1",
+            "alphanumName": "example1",
+            "file": "01 - example 1.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "example2",
+            "file": "02 - example 2.txt"
+        },
+        {
+            "name": "Example 3",
+            "alphanumName": "example3",
+            "file": "03 - example 3.txt"
+        },
+        {
+            "name": "Example 4",
+            "alphanumName": "example4",
+            "file": "04 - example 4.txt"
+        },
+        {
+            "name": "Example 5",
+            "alphanumName": "example5",
+            "file": "05 - example 5.txt"
+        },
+        {
+            "name": "Example 6",
+            "alphanumName": "example6",
+            "file": "06 - example 6.txt"
+        },
+        {
+            "name": "Example 7",
+            "alphanumName": "example7",
+            "file": "07 - example 7.txt"
+        },
+        {
+            "name": "Example 8",
+            "alphanumName": "example8",
+            "file": "08 - example 8.txt"
+        },
+        {
+            "name": "Example 9",
+            "alphanumName": "example9",
+            "file": "09 - example 9.txt"
+        }
+    ]
+}

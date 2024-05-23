@@ -1,0 +1,33 @@
+{
+    "path": "medium/TelephoneNumbers",
+    "name": "Telephone Numbers",
+    "alphanumName": "telephoneNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/telephone-numbers",
+    "tests": [
+        {
+            "name": "A telephone number",
+            "alphanumName": "aTelephoneNumber",
+            "file": "01 - a telephone number.txt"
+        },
+        {
+            "name": "Numbers with a different base",
+            "alphanumName": "numbersWithADifferentBase",
+            "file": "02 - numbers with a different base.txt"
+        },
+        {
+            "name": "Number included in another",
+            "alphanumName": "numberIncludedInAnother",
+            "file": "03 - number included in another.txt"
+        },
+        {
+            "name": "Numbers with a common part",
+            "alphanumName": "numbersWithACommonPart",
+            "file": "04 - numbers with a common part.txt"
+        },
+        {
+            "name": "Long list of numbers",
+            "alphanumName": "longListOfNumbers",
+            "file": "05 - long list of numbers.txt"
+        }
+    ]
+}

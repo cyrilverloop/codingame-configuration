@@ -1,0 +1,38 @@
+{
+    "path": "expert/TheResistance",
+    "name": "The Resistance",
+    "alphanumName": "theResistance",
+    "link": "https://www.codingame.com/ide/puzzle/the-resistance",
+    "tests": [
+        {
+            "name": "Correct detection of a letter",
+            "alphanumName": "correctDetectionOfALetter",
+            "file": "01 - correct detection of a letter.txt"
+        },
+        {
+            "name": "Correct detection of a word",
+            "alphanumName": "correctDetectionOfAWord",
+            "file": "02 - correct detection of a word.txt"
+        },
+        {
+            "name": "Simple messages",
+            "alphanumName": "simpleMessages",
+            "file": "03 - simple messages.txt"
+        },
+        {
+            "name": "Long sequence, large dictionary",
+            "alphanumName": "longSequenceLargeDictionary",
+            "file": "04 - long sequence, large dictionary.txt"
+        },
+        {
+            "name": "Same encoding for different words",
+            "alphanumName": "sameEncodingForDifferentWords",
+            "file": "05 - same encoding for different words.txt"
+        },
+        {
+            "name": "Many possibilities",
+            "alphanumName": "manyPossibilities",
+            "file": "06 - many possibilities.txt"
+        }
+    ]
+}

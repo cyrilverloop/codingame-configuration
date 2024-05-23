@@ -1,0 +1,53 @@
+{
+    "path": "medium/TheGift",
+    "name": "The Gift",
+    "alphanumName": "theGift",
+    "link": "https://www.codingame.com/ide/puzzle/the-gift",
+    "tests": [
+        {
+            "name": "Example 1",
+            "alphanumName": "example1",
+            "file": "01 - example 1.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "example2",
+            "file": "02 - example 2.txt"
+        },
+        {
+            "name": "Example 3",
+            "alphanumName": "example3",
+            "file": "03 - example 3.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "impossible",
+            "file": "04 - impossible.txt"
+        },
+        {
+            "name": "Sort",
+            "alphanumName": "sort",
+            "file": "05 - sort.txt"
+        },
+        {
+            "name": "Budget Limit",
+            "alphanumName": "budgetLimit",
+            "file": "06 - budget Limit.txt"
+        },
+        {
+            "name": "Several solutions budget",
+            "alphanumName": "severalSolutionsBudget",
+            "file": "07 - several solutions budget.txt"
+        },
+        {
+            "name": "Several solution fast",
+            "alphanumName": "severalSolutionFast",
+            "file": "08 - several solution fast.txt"
+        },
+        {
+            "name": "Big random",
+            "alphanumName": "bigRandom",
+            "file": "09 - big random.txt"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "path": "expert/MusicScores",
+    "name": "Music Scores",
+    "alphanumName": "musicScores",
+    "link": "https://www.codingame.com/ide/puzzle/music-scores",
+    "tests": [
+        {
+            "name": "One quarter note between lines",
+            "alphanumName": "oneQuarterNoteBetweenLines",
+            "file": "01 - one quarter note between lines.txt"
+        },
+        {
+            "name": "One quarter note on a line",
+            "alphanumName": "oneQuarterNoteOnALine",
+            "file": "02 - one quarter note on a line.txt"
+        },
+        {
+            "name": "One half note between lines",
+            "alphanumName": "oneHalfNoteBetweenLines",
+            "file": "03 - one half note between lines.txt"
+        },
+        {
+            "name": "One half note on a line",
+            "alphanumName": "oneHalfNoteOnALine",
+            "file": "04 - one half note on a line.txt"
+        },
+        {
+            "name": "Only quarter notes without lower C",
+            "alphanumName": "onlyQuarterNotesWithoutLowerC",
+            "file": "05 - only quarter notes without lower C.txt"
+        },
+        {
+            "name": "Only half notes without lower C",
+            "alphanumName": "onlyHalfNotesWithoutLowerC",
+            "file": "06 - only half notes without lower C.txt"
+        },
+        {
+            "name": "Scale half and quarter notes",
+            "alphanumName": "scalehalfAndQuarterNotes",
+            "file": "07 - scale half and quarter notes.txt"
+        },
+        {
+            "name": "Lower C",
+            "alphanumName": "lowerC",
+            "file": "08 - lower C.txt"
+        },
+        {
+            "name": "Very close",
+            "alphanumName": "veryClose",
+            "file": "09 - very close.txt"
+        },
+        {
+            "name": "Only 1 pixel wide",
+            "alphanumName": "only1PixelWide",
+            "file": "10 - Only 1 pixel wide.txt"
+        },
+        {
+            "name": "Doctor Who theme",
+            "alphanumName": "doctorWhoTheme",
+            "file": "11 - doctor Who theme.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "random",
+            "file": "12 - random.txt"
+        }
+    ]
+}

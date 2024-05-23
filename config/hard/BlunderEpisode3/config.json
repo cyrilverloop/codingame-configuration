@@ -1,0 +1,48 @@
+{
+    "path": "hard/BlunderEpisode3",
+    "name": "Blunder - Episode 3",
+    "alphanumName": "blunderEpisode3",
+    "link": "https://www.codingame.com/ide/puzzle/blunder-episode-3",
+    "tests": [
+        {
+            "name": "O(1)",
+            "alphanumName": "O1",
+            "file": "01 - O(1).txt"
+        },
+        {
+            "name": "O(log n)",
+            "alphanumName": "OLogN",
+            "file": "02 - O(log n).txt"
+        },
+        {
+            "name": "O(n)",
+            "alphanumName": "ON",
+            "file": "03 - O(n).txt"
+        },
+        {
+            "name": "O(n log n)",
+            "alphanumName": "ONLogN",
+            "file": "04 - O(n log n).txt"
+        },
+        {
+            "name": "O(n^2)",
+            "alphanumName": "ON2",
+            "file": "05 - O(n^2).txt"
+        },
+        {
+            "name": "O(n^2 log n)",
+            "alphanumName": "ON2LogN",
+            "file": "06 - O(n^2 log n).txt"
+        },
+        {
+            "name": "O(n^3)",
+            "alphanumName": "ON3",
+            "file": "07 - O(n^3).txt"
+        },
+        {
+            "name": "O(2^n)",
+            "alphanumName": "O2N",
+            "file": "08 - O(2^n).txt"
+        }
+    ]
+}

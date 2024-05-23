@@ -1,0 +1,38 @@
+{
+    "path": "easy/Temperatures",
+    "name": "Temperatures",
+    "alphanumName": "temperatures",
+    "link": "https://www.codingame.com/ide/puzzle/temperatures",
+    "tests": [
+        {
+            "name": "Simple test case",
+            "alphanumName": "simpleTestCase",
+            "file": "01 - simple test case.txt"
+        },
+        {
+            "name": "Only negative numbers",
+            "alphanumName": "onlyNegativeNumbers",
+            "file": "02 - only negative numbers.txt"
+        },
+        {
+            "name": "Choose the right temperature",
+            "alphanumName": "chooseTheRightTemperature",
+            "file": "03 - choose the right temperature.txt"
+        },
+        {
+            "name": "Choose the right temperature 2",
+            "alphanumName": "chooseTheRightTemperature2",
+            "file": "04 - choose the right temperature 2.txt"
+        },
+        {
+            "name": "Complex test case",
+            "alphanumName": "complexTestCase",
+            "file": "05 - complex test case.txt"
+        },
+        {
+            "name": "No temperature",
+            "alphanumName": "noTemperature",
+            "file": "06 - no temperature.txt"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "path": "easy/Defibrillators",
+    "name": "Defibrillators",
+    "alphanumName": "defibrillators",
+    "link": "https://www.codingame.com/ide/puzzle/defibrillators",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Exact position",
+            "alphanumName": "exactPosition",
+            "file": "02 - exact position.txt"
+        },
+        {
+            "name": "Complete file",
+            "alphanumName": "completeFile",
+            "file": "03 - complete file.txt"
+        },
+        {
+            "name": "Complete file 2",
+            "alphanumName": "completeFile2",
+            "file": "04 - complete file 2.txt"
+        }
+    ]
+}

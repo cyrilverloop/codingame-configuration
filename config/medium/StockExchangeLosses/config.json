@@ -1,0 +1,38 @@
+{
+    "path": "medium/StockExchangeLosses",
+    "name": "Stock Exchange Losses",
+    "alphanumName": "stockExchangeLosses",
+    "link": "https://www.codingame.com/ide/puzzle/stock-exchange-losses",
+    "tests": [
+        {
+            "name": "(3 2 4 2 1 5) -> -3",
+            "alphanumName": "firstCase",
+            "file": "01 - (3 2 4 2 1 5) -3.txt"
+        },
+        {
+            "name": "Maximum Loss between the first and last values (5 3 4 2 3 1) -> -4",
+            "alphanumName": "maximumLossBetweenTheFirstAndLastValues",
+            "file": "02 - maximum Loss between the first and last values (5 3 4 2 3 1) -4.txt"
+        },
+        {
+            "name": "Profit (1 2 4 4 5) -> 0",
+            "alphanumName": "profit",
+            "file": "03 - profit (1 2 4 4 5) 0.txt"
+        },
+        {
+            "name": "Profit 2 (3 4 7 9 10) -> 0",
+            "alphanumName": "profit2",
+            "file": "04 - profit 2 (3 4 7 9 10) 0.txt"
+        },
+        {
+            "name": "Large dataset (n = 99999)",
+            "alphanumName": "largeDatasetN99999",
+            "file": "05 - large dataset (n = 99999).txt"
+        },
+        {
+            "name": "Varied (3 2 10 7 15 14)",
+            "alphanumName": "varied",
+            "file": "06 - varied (3 2 10 7 15 14).txt"
+        }
+    ]
+}

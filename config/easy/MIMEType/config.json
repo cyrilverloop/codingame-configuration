@@ -1,0 +1,33 @@
+{
+    "path": "easy/MIMEType",
+    "name": "MIME Type",
+    "alphanumName": "MIMEType",
+    "link": "https://www.codingame.com/ide/puzzle/mime-type",
+    "tests": [
+        {
+            "name": "Simple example",
+            "alphanumName": "simpleExample",
+            "file": "01 - simple example.txt"
+        },
+        {
+            "name": "Unknown MIME types",
+            "alphanumName": "unknownMIMETypes",
+            "file": "02 - unknown MIME types.txt"
+        },
+        {
+            "name": "Correct division of the extension",
+            "alphanumName": "correctDivisionOfTheExtension",
+            "file": "03 - correct division of the extension.txt"
+        },
+        {
+            "name": "Consideration of the case (upper or lower)",
+            "alphanumName": "considerationOfTheCase",
+            "file": "04 - consideration of the case (upper or lower).txt"
+        },
+        {
+            "name": "Large dataset",
+            "alphanumName": "largeDataset",
+            "file": "05 - large dataset.txt"
+        }
+    ]
+}

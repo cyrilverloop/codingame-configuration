@@ -1,0 +1,68 @@
+{
+    "path": "hard/CGXFormatter",
+    "name": "CGX Formatter",
+    "alphanumName": "CGXFormatter",
+    "link": "https://www.codingame.com/ide/puzzle/cgx-formatter",
+    "tests": [
+        {
+            "name": "Boolean value with spaces and tabs",
+            "alphanumName": "booleanValueWithSpacesAndTabs",
+            "file": "01 - boolean value with spaces and tabs.txt"
+        },
+        {
+            "name": "Simple string of characters which must not be modified",
+            "alphanumName": "simpleStringOfCharactersWhichMustNotBeModified",
+            "file": "02 - simple string of characters which must not be modified.txt"
+        },
+        {
+            "name": "Block containing a single value",
+            "alphanumName": "blockContainingASingleValue",
+            "file": "03 - block containing a single value.txt"
+        },
+        {
+            "name": "Block containing a multiple values",
+            "alphanumName": "blockContainingMultipleValues",
+            "file": "04 - block containing a multiple values.txt"
+        },
+        {
+            "name": "Nested blocks",
+            "alphanumName": "nestedBlocks",
+            "file": "05 - nested blocks.txt"
+        },
+        {
+            "name": "Empty block",
+            "alphanumName": "emptyBlock",
+            "file": "06 - empty block.txt"
+        },
+        {
+            "name": "Block containing several blocks",
+            "alphanumName": "blockContainingSeveralBlocks",
+            "file": "07 - block containing several blocks.txt"
+        },
+        {
+            "name": "Key/value without blanks",
+            "alphanumName": "keyValueWithoutBlanks",
+            "file": "08 - key value without blanks.txt"
+        },
+        {
+            "name": "Block with several key/value",
+            "alphanumName": "blockWithSeveralKeyValue",
+            "file": "09 - block with several key value.txt"
+        },
+        {
+            "name": "Example provided",
+            "alphanumName": "exampleProvided",
+            "file": "10 - example provided.txt"
+        },
+        {
+            "name": "Full example",
+            "alphanumName": "fullExample",
+            "file": "11 - full example.txt"
+        },
+        {
+            "name": "Numerous overlaps",
+            "alphanumName": "numerousOverlaps",
+            "file": "12 - numerous overlaps.txt"
+        }
+    ]
+}

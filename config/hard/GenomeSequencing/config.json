@@ -1,0 +1,43 @@
+{
+    "path": "hard/GenomeSequencing",
+    "name": "Genome Sequencing",
+    "alphanumName": "genomeSequencing",
+    "link": "https://www.codingame.com/ide/puzzle/genome-sequencing",
+    "tests": [
+        {
+            "name": "AACCTT",
+            "alphanumName": "AACCTT",
+            "file": "01 - AACCTT.txt"
+        },
+        {
+            "name": "AGATTACAGA",
+            "alphanumName": "AGATTACAGA",
+            "file": "02 - AGATTACAGA.txt"
+        },
+        {
+            "name": "AACTT",
+            "alphanumName": "AACTT",
+            "file": "03 - AACTT.txt"
+        },
+        {
+            "name": "AGATTA",
+            "alphanumName": "AGATTA",
+            "file": "04 - AGATTA.txt"
+        },
+        {
+            "name": "Reversed AGATTA",
+            "alphanumName": "reversedAGATTA",
+            "file": "05 - reversed AGATTA.txt"
+        },
+        {
+            "name": "ATCG",
+            "alphanumName": "ATCG",
+            "file": "06 - ATCG.txt"
+        },
+        {
+            "name": "CCCTGACATGA",
+            "alphanumName": "CCCTGACATGA",
+            "file": "07 - CCCTGACATGA.txt"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "path": "easy/Unary",
+    "name": "Unary",
+    "alphanumName": "unary",
+    "link": "https://www.codingame.com/ide/puzzle/unary",
+    "tests": [
+        {
+            "name": "Character C",
+            "alphanumName": "characterC",
+            "file": "01 - character C.txt"
+        },
+        {
+            "name": "Message CC",
+            "alphanumName": "messageCC",
+            "file": "02 - message CC.txt"
+        },
+        {
+            "name": "Character %",
+            "alphanumName": "characterPercentSign",
+            "file": "03 - character %.txt"
+        },
+        {
+            "name": "Message from Chuck Norris",
+            "alphanumName": "messageFromChuckNorris",
+            "file": "04 - message from Chuck Norris.txt"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "path": "medium/ConwaySequence",
+    "name": "Conway Sequence",
+    "alphanumName": "conwaySequence",
+    "link": "https://www.codingame.com/ide/puzzle/conway-sequence",
+    "tests": [
+        {
+            "name": "R=1 and L=11",
+            "alphanumName": "R1AndL11",
+            "file": "01 - R=1 and L=11.txt"
+        },
+        {
+            "name": "R=2 and L=1",
+            "alphanumName": "R2AndL1",
+            "file": "02 - R=2 and L=1.txt"
+        },
+        {
+            "name": "R=5 and L=10",
+            "alphanumName": "R5AndL10",
+            "file": "03 - R=5 and L=10.txt"
+        },
+        {
+            "name": "R=25 and L=10",
+            "alphanumName": "R25AndL10",
+            "file": "04 - R=25 and L=10.txt"
+        },
+        {
+            "name": "R=1 and L=25",
+            "alphanumName": "R1AndL25",
+            "file": "05 - R=1 and L=25.txt"
+        },
+        {
+            "name": "R=33 and L=25",
+            "alphanumName": "R33AndL25",
+            "file": "06 - R=33 and L=25.txt"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "path": "medium/DwarfsStandingOnTheShouldersOfGiants",
+    "name": "Dwarfs standing on the shoulders of giants",
+    "alphanumName": "dwarfsStandingOnTheShouldersOfGiants",
+    "link": "https://www.codingame.com/ide/puzzle/dwarfs-standing-on-the-shoulders-of-giants",
+    "tests": [
+        {
+            "name": "Simple example",
+            "alphanumName": "simpleExample",
+            "file": "01 - simple example.txt"
+        },
+        {
+            "name": "Complete example",
+            "alphanumName": "completeExample",
+            "file": "02 - complete example.txt"
+        },
+        {
+            "name": "Several mentors",
+            "alphanumName": "severalMentors",
+            "file": "03 - several mentors.txt"
+        },
+        {
+            "name": "Several mentors 2",
+            "alphanumName": "severalMentors2",
+            "file": "04 - several mentors 2.txt"
+        }
+    ]
+}

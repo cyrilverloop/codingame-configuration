@@ -1,0 +1,38 @@
+{
+    "path": "hard/RollerCoaster",
+    "name": "Roller Coaster",
+    "alphanumName": "rollerCoaster",
+    "link": "https://www.codingame.com/ide/puzzle/roller-coaster",
+    "tests": [
+        {
+            "name": "Simple case",
+            "alphanumName": "simpleCase",
+            "file": "01 - simple case.txt"
+        },
+        {
+            "name": "1000 groups of a few people",
+            "alphanumName": "oneThousandGroupsOfAFewPeople",
+            "file": "02 - 1000 groups of a few people.txt"
+        },
+        {
+            "name": "The same groups go on the ride several times during the day",
+            "alphanumName": "theSameGroupsGoOnTheRideSeveralTimesDuringTheDay",
+            "file": "03 - the same groups go on the ride several times during the day.txt"
+        },
+        {
+            "name": "All the people get on the roller coaster at least once",
+            "alphanumName": "allThePeopleGetOnTheRollerCoasterAtLeastOnce",
+            "file": "04 - all the people get on the roller coaster at least once.txt"
+        },
+        {
+            "name": "High earnings during the day (> 2^32)",
+            "alphanumName": "highEarningsduringTheDay",
+            "file": "05 - high earnings during the day.txt"
+        },
+        {
+            "name": "Works with a large dataset",
+            "alphanumName": "worksWithALargeDataset",
+            "file": "06 - works with a large dataset.txt"
+        }
+    ]
+}

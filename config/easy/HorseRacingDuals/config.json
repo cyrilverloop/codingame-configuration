@@ -1,0 +1,23 @@
+{
+    "path": "easy/HorseRacingDuals",
+    "name": "Horse-racing Duals",
+    "alphanumName": "horseRacingDuals",
+    "link": "https://www.codingame.com/ide/puzzle/horse-racing-duals",
+    "tests": [
+        {
+            "name": "Simple case",
+            "alphanumName": "simpleCase",
+            "file": "01 - simple case.txt"
+        },
+        {
+            "name": "Horses in any order",
+            "alphanumName": "horsesInAnyOrder",
+            "file": "02 - horses in any order.txt"
+        },
+        {
+            "name": "Many horses",
+            "alphanumName": "manyHorses",
+            "file": "03 - many horses.txt"
+        }
+    ]
+}
