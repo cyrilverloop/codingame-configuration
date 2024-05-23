@@ -48,6 +48,15 @@ One file per test;
 ```
 
 
+## Install
+
+### PHP
+
+```shellsession
+composer require "cyril-verloop/codingame-configuration"
+```
+
+
 ## Contributing
 
 Contributions are welcome following the [contribution](CONTRIBUTING.md) guide.
