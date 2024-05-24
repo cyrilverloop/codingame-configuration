@@ -50,6 +50,12 @@ One file per test;
 
 ## Install
 
+### JavaScript
+
+```shellsession
+npm i @cyril-verloop/codingame-configuration
+```
+
 ### PHP
 
 ```shellsession

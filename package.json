@@ -1,0 +1,19 @@
+{
+  "name": "@cyril-verloop/codingame-configuration",
+  "version": "1.1.0",
+  "description": "A project that contains CodinGame input, output and default code.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrilverloop/codingame-configuration.git"
+  },
+  "keywords": [
+    "CodinGame",
+    "configuration"
+  ],
+  "author": "Cyril VERLOOP <cyril.verloop@webqard.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyrilverloop/codingame-configuration/issues"
+  },
+  "homepage": "https://github.com/cyrilverloop/codingame-configuration#readme"
+}
