@@ -53,7 +53,7 @@ One file per test;
 ### JavaScript
 
 ```shellsession
-npm i @cyril-verloop/codingame-configuration
+npm i @cyrilverloop/codingame-configuration
 ```
 
 ### PHP
