@@ -1,5 +1,5 @@
 {
-  "name": "@cyril-verloop/codingame-configuration",
+  "name": "@cyrilverloop/codingame-configuration",
   "version": "1.1.0",
   "description": "A project that contains CodinGame input, output and default code.",
   "repository": {
