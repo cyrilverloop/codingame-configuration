@@ -1,0 +1,28 @@
+{
+    "namespace": "easy/ABunnyAndCarrots",
+    "name": "A Bunny and Carrots",
+    "alphanumName": "aBunnyAndCarrots",
+    "link": "https://www.codingame.com/ide/puzzle/a-bunny-and-carrots",
+    "tests": [
+        {
+            "name": "Small Garden",
+            "alphanumName": "smallGarden",
+            "file": "01 - small garden.txt"
+        },
+        {
+            "name": "A Bigger Garden",
+            "alphanumName": "aBiggerGarden",
+            "file": "02 - a bigger garden.txt"
+        },
+        {
+            "name": "Wide Garden",
+            "alphanumName": "wideGarden",
+            "file": "03 - wide garden.txt"
+        },
+        {
+            "name": "So Many Carrots!!",
+            "alphanumName": "soManyCarrots",
+            "file": "04 - so many carrots!!.txt"
+        }
+    ]
+}
