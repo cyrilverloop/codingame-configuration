@@ -44,7 +44,9 @@ The `config.json` file MUST use the following architecture :
 ```
 
 * `path` : MUST be the path to the configuration;
-* `name` : MUST be the name of the puzzle from CodinGame;
+* `name` : MUST be the name of the puzzle from CodinGame.
+Single quote `'` MUST be replaced by `‘` for opening and by `’` for closing and apostrophe.
+Double quote `"` MUST be replaced by `«` for opening and by `»` for closing;
 * `alphanumName` : MUST be the name of the puzzle with only alpha-numeric characters (no space or special character).
 It MUST be case insensitive and unique amongst all configurations.
 It MUST start with a letter. The corresponding regex is : `[a-zA-Z]{1}[a-zA-Z0-9]{0,}`;
@@ -52,7 +54,9 @@ It MUST start with a letter. The corresponding regex is : `[a-zA-Z]{1}[a-zA-Z0-9
 * `tests` : MUST list every tests from CodinGame in the same order.
 
 Each test MUST contain :
-* `name` : MUST be the name of the test from CodinGame;
+* `name` : MUST be the name of the test from CodinGame.
+Single quote `'` MUST be replaced by `‘` for opening and by `’` for closing and apostrophe.
+Double quote `"` MUST be replaced by `«` for opening and by `»` for closing;
 * `alphanumName` : MUST be the name of the test with only alpha-numeric characters (no space or special character).
 It MUST be case insensitive and unique amongst all tests of the current configuration.
 It MUST start with a letter. The corresponding regex is : `[a-zA-Z]{1}[a-zA-Z0-9]{0,}`;
