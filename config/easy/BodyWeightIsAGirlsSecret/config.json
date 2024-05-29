@@ -1,0 +1,33 @@
+{
+    "path": "easy/BodyWeightIsAGirlsSecret",
+    "name": "Body weight is a girl’s secret",
+    "alphanumName": "bodyWeightIsAGirlsSecret",
+    "link": "https://www.codingame.com/ide/puzzle/body-weight-is-a-girls-secret",
+    "testConfigurations": [
+        {
+            "name": "All different",
+            "alphanumName": "allDifferent",
+            "file": "01 - all different.txt"
+        },
+        {
+            "name": "Same paired values",
+            "alphanumName": "samePairedValues",
+            "file": "02 - same paired values.txt"
+        },
+        {
+            "name": "Same individual values",
+            "alphanumName": "sameIndividualValues",
+            "file": "03 - same individual values.txt"
+        },
+        {
+            "name": "Including a baby",
+            "alphanumName": "includingABaby",
+            "file": "04 - including a baby.txt"
+        },
+        {
+            "name": "XXL",
+            "alphanumName": "XXL",
+            "file": "05 - XXL.txt"
+        }
+    ]
+}

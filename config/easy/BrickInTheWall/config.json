@@ -1,0 +1,53 @@
+{
+    "path": "easy/BrickInTheWall",
+    "name": "Brick in the Wall",
+    "alphanumName": "brickInTheWall",
+    "link": "https://www.codingame.com/ide/puzzle/brick-in-the-wall",
+    "testConfigurations": [
+        {
+            "name": "Three bricks",
+            "alphanumName": "threeBricks",
+            "file": "01 - three bricks.txt"
+        },
+        {
+            "name": "42 bricks in the wall",
+            "alphanumName": "42BricksInTheWall",
+            "file": "02 - 42 bricks in the wall.txt"
+        },
+        {
+            "name": "Fibonacci bricks (+1)",
+            "alphanumName": "fibonacciBricks",
+            "file": "03 - fibonacci bricks (+1).txt"
+        },
+        {
+            "name": "Odd, even",
+            "alphanumName": "oddEven",
+            "file": "04 - odd, even.txt"
+        },
+        {
+            "name": "I can see over it I.",
+            "alphanumName": "iCanSeeOverItI",
+            "file": "05 - i can see over it I..txt"
+        },
+        {
+            "name": "I can see over it II.",
+            "alphanumName": "iCanSeeOverItII",
+            "file": "06 - i can see over it II..txt"
+        },
+        {
+            "name": "Test 12589",
+            "alphanumName": "test12589",
+            "file": "07 - test 12589.txt"
+        },
+        {
+            "name": "Tall",
+            "alphanumName": "tall",
+            "file": "08 - tall.txt"
+        },
+        {
+            "name": "A real wall",
+            "alphanumName": "aRealWall",
+            "file": "09 - a real wall.txt"
+        }
+    ]
+}

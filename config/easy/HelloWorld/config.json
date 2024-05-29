@@ -1,0 +1,38 @@
+{
+    "path": "easy/HelloWorld",
+    "name": "Hello, World!",
+    "alphanumName": "helloWorld",
+    "link": "https://www.codingame.com/ide/puzzle/hello-world",
+    "testConfigurations": [
+        {
+            "name": "Dualism",
+            "alphanumName": "dualism",
+            "file": "01 - dualism.txt"
+        },
+        {
+            "name": "Border travels in TriTheatreLand",
+            "alphanumName": "borderTravelsInTriTheatreLand",
+            "file": "02 - border travels in TriTheatreLand.txt"
+        },
+        {
+            "name": "CodinGame World",
+            "alphanumName": "CodinGameWorld",
+            "file": "03 - CodinGame world.txt"
+        },
+        {
+            "name": "Lonely Planet",
+            "alphanumName": "lonelyPlanet",
+            "file": "04 - lonely planet.txt"
+        },
+        {
+            "name": "Roundtrip in Europe",
+            "alphanumName": "roundtripInEurope",
+            "file": "05 - roundtrip in Europe.txt"
+        },
+        {
+            "name": "Pole to Pole with Michael Palin",
+            "alphanumName": "poleToPoleWithMichaelPalin",
+            "file": "06 - pole to Pole with Michael Palin.txt"
+        }
+    ]
+}

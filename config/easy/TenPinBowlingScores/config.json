@@ -1,0 +1,28 @@
+{
+    "path": "easy/TenPinBowlingScores",
+    "name": "10 pin Bowling Scores",
+    "alphanumName": "10PinBowlingScores",
+    "link": "https://www.codingame.com/ide/puzzle/10-pin-bowling-scores",
+    "testConfigurations": [
+        {
+            "name": "No Strikes No Spares",
+            "alphanumName": "noStrikesNoSpares",
+            "file": "01 - no strikes no spares.txt"
+        },
+        {
+            "name": "Spares",
+            "alphanumName": "spares",
+            "file": "02 - spares.txt"
+        },
+        {
+            "name": "Strikes",
+            "alphanumName": "strikes",
+            "file": "03 - strikes.txt"
+        },
+        {
+            "name": "Strikes and Spares",
+            "alphanumName": "strikesAndSpares",
+            "file": "04 - strikes and spares.txt"
+        }
+    ]
+}

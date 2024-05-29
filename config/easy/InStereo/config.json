@@ -1,0 +1,28 @@
+{
+    "path": "easy/InStereo",
+    "name": "In Stereo",
+    "alphanumName": "inStereo",
+    "link": "https://www.codingame.com/ide/puzzle/in-stereo",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Lattice",
+            "alphanumName": "lattice",
+            "file": "02 - lattice.txt"
+        },
+        {
+            "name": "Diamond",
+            "alphanumName": "diamond",
+            "file": "03 - diamond.txt"
+        },
+        {
+            "name": "ViewFullscreen",
+            "alphanumName": "viewFullscreen",
+            "file": "04 - viewFullscreen.txt"
+        }
+    ]
+}

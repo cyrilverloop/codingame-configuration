@@ -1,0 +1,28 @@
+{
+    "path": "easy/SumOfSpiralsDiagonals",
+    "name": "Sum of Spiral’s Diagonals",
+    "alphanumName": "sumOfSpiralsDiagonals",
+    "link": "https://www.codingame.com/ide/puzzle/sum-of-spirals-diagonals",
+    "testConfigurations": [
+        {
+            "name": "Odd Spiral",
+            "alphanumName": "oddSpiral",
+            "file": "01 - odd spiral.txt"
+        },
+        {
+            "name": "Even Spiral",
+            "alphanumName": "evenSpiral",
+            "file": "02 - even spiral.txt"
+        },
+        {
+            "name": "Bigger Spiral",
+            "alphanumName": "biggerSpiral",
+            "file": "03 - bigger spiral.txt"
+        },
+        {
+            "name": "Milky Way",
+            "alphanumName": "milkySpiral",
+            "file": "04 - milky spiral.txt"
+        }
+    ]
+}

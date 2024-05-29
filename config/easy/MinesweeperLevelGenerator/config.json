@@ -1,0 +1,38 @@
+{
+    "path": "easy/MinesweeperLevelGenerator",
+    "name": "Minesweeper level generator",
+    "alphanumName": "minesweeperLevelGenerator",
+    "link": "https://www.codingame.com/ide/puzzle/minesweeper-level-generator",
+    "testConfigurations": [
+        {
+            "name": "Simple level",
+            "alphanumName": "simpleLevel",
+            "file": "01 - simple level.txt"
+        },
+        {
+            "name": "Corner selection",
+            "alphanumName": "cornerSelection",
+            "file": "02 - corner selection.txt"
+        },
+        {
+            "name": "Edge selection",
+            "alphanumName": "edgeSelection",
+            "file": "03 - edge selection.txt"
+        },
+        {
+            "name": "Beginner level",
+            "alphanumName": "beginnerLevel",
+            "file": "04 - beginner level.txt"
+        },
+        {
+            "name": "Intermediate level",
+            "alphanumName": "intermediateLevel",
+            "file": "05 - intermediate level.txt"
+        },
+        {
+            "name": "Expert level",
+            "alphanumName": "expertLevel",
+            "file": "06 - expert level.txt"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "path": "easy/PiratesTreasure",
+    "name": "Pirate’s treasure",
+    "alphanumName": "piratesTreasure",
+    "link": "https://www.codingame.com/ide/puzzle/pirates-treasure",
+    "testConfigurations": [
+        {
+            "name": "Smallest island",
+            "alphanumName": "smallestIsland",
+            "file": "01 - smallest island.txt"
+        },
+        {
+            "name": "Fully surrounded",
+            "alphanumName": "fullySurrounded",
+            "file": "02 - fully surrounded.txt"
+        },
+        {
+            "name": "Small island",
+            "alphanumName": "smallIsland",
+            "file": "03 - small island.txt"
+        },
+        {
+            "name": "Large island",
+            "alphanumName": "largeIsland",
+            "file": "04 - large island.txt"
+        },
+        {
+            "name": "Edge",
+            "alphanumName": "edge",
+            "file": "05 - edge.txt"
+        }
+    ]
+}

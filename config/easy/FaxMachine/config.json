@@ -1,0 +1,33 @@
+{
+    "path": "easy/FaxMachine",
+    "name": "Fax machine",
+    "alphanumName": "faxMachine",
+    "link": "https://www.codingame.com/ide/puzzle/fax-machine",
+    "testConfigurations": [
+        {
+            "name": "The Example",
+            "alphanumName": "theExample",
+            "file": "01 - the example.txt"
+        },
+        {
+            "name": "Half Black half white",
+            "alphanumName": "halfBlackHalfWhite",
+            "file": "02 - half black half white.txt"
+        },
+        {
+            "name": "Hello",
+            "alphanumName": "hello",
+            "file": "03 - hello.txt"
+        },
+        {
+            "name": "Heart",
+            "alphanumName": "heart",
+            "file": "04 - heart.txt"
+        },
+        {
+            "name": "Inverse",
+            "alphanumName": "inverse",
+            "file": "05 - inverse.txt"
+        }
+    ]
+}

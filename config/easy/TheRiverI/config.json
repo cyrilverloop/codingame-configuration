@@ -1,0 +1,53 @@
+{
+    "path": "easy/TheRiverI",
+    "name": "The River I.",
+    "alphanumName": "theRiverI",
+    "link": "https://www.codingame.com/ide/puzzle/the-river-i-",
+    "testConfigurations": [
+        {
+            "name": "We will meet at 47",
+            "alphanumName": "weWillMeetAt47",
+            "file": "01 - we will meet at 47.txt"
+        },
+        {
+            "name": "r1 < r2",
+            "alphanumName": "r1LTr2",
+            "file": "02 - r1 lt r2.txt"
+        },
+        {
+            "name": "r1 > r2",
+            "alphanumName": "r1GTr2",
+            "file": "03 - r1 gt r2.txt"
+        },
+        {
+            "name": "More than... I.",
+            "alphanumName": "moreThanI",
+            "file": "04 - more than... I..txt"
+        },
+        {
+            "name": "More than... II.",
+            "alphanumName": "moreThanII",
+            "file": "05 - more than... II..txt"
+        },
+        {
+            "name": "River 2489",
+            "alphanumName": "river2489",
+            "file": "06 - river 2489.txt"
+        },
+        {
+            "name": "River 13",
+            "alphanumName": "river13",
+            "file": "07 - river 13.txt"
+        },
+        {
+            "name": "Primes",
+            "alphanumName": "primes",
+            "file": "08 - primes.txt"
+        },
+        {
+            "name": "Even bigger",
+            "alphanumName": "evenBigger",
+            "file": "09 - even bigger.txt"
+        }
+    ]
+}

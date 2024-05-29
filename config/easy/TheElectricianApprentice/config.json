@@ -1,0 +1,48 @@
+{
+    "path": "easy/TheElectricianApprentice",
+    "name": "The Electrician Apprentice",
+    "alphanumName": "theElectricianApprentice",
+    "link": "https://www.codingame.com/ide/puzzle/the-electrician-apprentice",
+    "testConfigurations": [
+        {
+            "name": "1 switch 1 light",
+            "alphanumName": "oneSwitch1Light",
+            "file": "01 - 1 switch 1 light.txt"
+        },
+        {
+            "name": "2 parallel switches 1 light",
+            "alphanumName": "twoParallelSwitches1Light",
+            "file": "02 - 2 parallel switches 1 light.txt"
+        },
+        {
+            "name": "2 series switches 1 light",
+            "alphanumName": "twoSeriesSwitches1Light",
+            "file": "03 - 2 series switches 1 light.txt"
+        },
+        {
+            "name": "Two lights",
+            "alphanumName": "twoLights",
+            "file": "04 - two lights.txt"
+        },
+        {
+            "name": "Series and parallel",
+            "alphanumName": "seriesAndParallel",
+            "file": "05 - series and parallel.txt"
+        },
+        {
+            "name": "Mixed",
+            "alphanumName": "mixed",
+            "file": "06 - mixed.txt"
+        },
+        {
+            "name": "Weird Home",
+            "alphanumName": "weirdHome",
+            "file": "07 - weird home.txt"
+        },
+        {
+            "name": "Regular Home",
+            "alphanumName": "regularHome",
+            "file": "08 - regular home.txt"
+        }
+    ]
+}

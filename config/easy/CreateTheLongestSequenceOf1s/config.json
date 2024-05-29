@@ -1,0 +1,83 @@
+{
+    "path": "easy/CreateTheLongestSequenceOf1s",
+    "name": "Create the longest sequence of 1s",
+    "alphanumName": "createTheLongestSequenceOf1s",
+    "link": "https://www.codingame.com/ide/puzzle/create-the-longest-sequence-of-1s",
+    "testConfigurations": [
+        {
+            "name": "2 bits",
+            "alphanumName": "twoBits",
+            "file": "01 - 2 bits.txt"
+        },
+        {
+            "name": "5 bits",
+            "alphanumName": "fiveBits",
+            "file": "02 - 5 bits.txt"
+        },
+        {
+            "name": "11 bits",
+            "alphanumName": "elevenBits",
+            "file": "03 - 11 bits.txt"
+        },
+        {
+            "name": "50 bits",
+            "alphanumName": "fiftyBits",
+            "file": "04 - 50 bits.txt"
+        },
+        {
+            "name": "100 bits",
+            "alphanumName": "oneHundredBits",
+            "file": "05 - 100 bits.txt"
+        },
+        {
+            "name": "999 bits",
+            "alphanumName": "nineHundredAndNinetyNineBits",
+            "file": "06 - 999 bits.txt"
+        },
+        {
+            "name": "32 bits",
+            "alphanumName": "thirtyTwoBits",
+            "file": "07 - 32 bits.txt"
+        },
+        {
+            "name": "20 bits",
+            "alphanumName": "twentyBits",
+            "file": "08 - 20 bits.txt"
+        },
+        {
+            "name": "Whole string",
+            "alphanumName": "wholeString",
+            "file": "09 - whole string.txt"
+        },
+        {
+            "name": "All zeros",
+            "alphanumName": "allZeros",
+            "file": "10 - all zeros.txt"
+        },
+        {
+            "name": "Gaps",
+            "alphanumName": "gaps",
+            "file": "11 - gaps.txt"
+        },
+        {
+            "name": "Random 100",
+            "alphanumName": "random100",
+            "file": "12 - random 100.txt"
+        },
+        {
+            "name": "Random 32",
+            "alphanumName": "random32",
+            "file": "13 - random 32.txt"
+        },
+        {
+            "name": "Gaps 2",
+            "alphanumName": "gaps2",
+            "file": "14 - gaps 2.txt"
+        },
+        {
+            "name": "Steps",
+            "alphanumName": "steps",
+            "file": "15 - steps.txt"
+        }
+    ]
+}

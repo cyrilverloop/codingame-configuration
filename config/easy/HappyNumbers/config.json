@@ -1,0 +1,33 @@
+{
+    "path": "easy/HappyNumbers",
+    "name": "Happy Numbers",
+    "alphanumName": "happyNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/happy-numbers",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "Moderate",
+            "alphanumName": "moderate",
+            "file": "02 - moderate.txt"
+        },
+        {
+            "name": "Serious",
+            "alphanumName": "serious",
+            "file": "03 - serious.txt"
+        },
+        {
+            "name": "Watch out the limit",
+            "alphanumName": "watchOutTheLimit",
+            "file": "04 - watch out the limit.txt"
+        },
+        {
+            "name": "Cocktail",
+            "alphanumName": "cocktail",
+            "file": "05 - cocktail.txt"
+        }
+    ]
+}

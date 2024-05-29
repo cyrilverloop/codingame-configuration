@@ -1,0 +1,38 @@
+{
+    "path": "easy/UniquePrefixes",
+    "name": "Unique Prefixes",
+    "alphanumName": "uniquePrefixes",
+    "link": "https://www.codingame.com/ide/puzzle/unique-prefixes",
+    "testConfigurations": [
+        {
+            "name": "1-length prefixes",
+            "alphanumName": "oneLengthPrefixes",
+            "file": "01 - 1-length prefixes.txt"
+        },
+        {
+            "name": "4-length prefixes",
+            "alphanumName": "fourLengthPrefixes",
+            "file": "02 - 4-length prefixes.txt"
+        },
+        {
+            "name": "Weekly Challenge",
+            "alphanumName": "weeklyChallenge",
+            "file": "03 - weekly challenge.txt"
+        },
+        {
+            "name": "Ascending Prefixes",
+            "alphanumName": "ascendingPrefixes",
+            "file": "04 - ascending prefixes.txt"
+        },
+        {
+            "name": "Descending Prefixes",
+            "alphanumName": "descendingPrefixes",
+            "file": "05 - descending prefixes.txt"
+        },
+        {
+            "name": "Pierre, Paul, Jacques & co.",
+            "alphanumName": "PierrePaulJacquesCo",
+            "file": "06 - Pierre, Paul, Jacques & co..txt"
+        }
+    ]
+}

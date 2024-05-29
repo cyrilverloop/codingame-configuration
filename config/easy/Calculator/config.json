@@ -1,0 +1,43 @@
+{
+    "path": "easy/Calculator",
+    "name": "Calculator",
+    "alphanumName": "calculator",
+    "link": "https://www.codingame.com/ide/puzzle/calculator",
+    "testConfigurations": [
+        {
+            "name": "A simple operation",
+            "alphanumName": "aSimpleOperation",
+            "file": "01 - a simple operation.txt"
+        },
+        {
+            "name": "Multiplication and division",
+            "alphanumName": "multiplicationAndDivision",
+            "file": "02 - multiplication and division.txt"
+        },
+        {
+            "name": "Using AC",
+            "alphanumName": "usingAC",
+            "file": "03 - using AC.txt"
+        },
+        {
+            "name": "Change of opinion",
+            "alphanumName": "changeOfOpinion",
+            "file": "04 - change of opinion.txt"
+        },
+        {
+            "name": "Many operations",
+            "alphanumName": "manyOperations",
+            "file": "05 - many operations.txt"
+        },
+        {
+            "name": "Press equal many times",
+            "alphanumName": "pressEqualManyTimes",
+            "file": "06 - press equal many times.txt"
+        },
+        {
+            "name": "Long test",
+            "alphanumName": "longTest",
+            "file": "07 - long test.txt"
+        }
+    ]
+}

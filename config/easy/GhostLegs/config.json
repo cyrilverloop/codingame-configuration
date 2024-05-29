@@ -1,0 +1,38 @@
+{
+    "path": "easy/GhostLegs",
+    "name": "Ghost Legs",
+    "alphanumName": "ghostLegs",
+    "link": "https://www.codingame.com/ide/puzzle/ghost-legs",
+    "testConfigurations": [
+        {
+            "name": "Simple Sample",
+            "alphanumName": "simpleSample",
+            "file": "01 - simple sample.txt"
+        },
+        {
+            "name": "Small Sample",
+            "alphanumName": "smallSample",
+            "file": "02 - small sample.txt"
+        },
+        {
+            "name": "6 Lanes",
+            "alphanumName": "sixLanes",
+            "file": "03 - 6 lanes.txt"
+        },
+        {
+            "name": "8 Lanes",
+            "alphanumName": "eightLanes",
+            "file": "04 - 8 lanes.txt"
+        },
+        {
+            "name": "10 Lanes",
+            "alphanumName": "tenLanes",
+            "file": "05 - 10 lanes.txt"
+        },
+        {
+            "name": "Wide and Wild",
+            "alphanumName": "wideAndWild",
+            "file": "06 - wide and wild.txt"
+        }
+    ]
+}

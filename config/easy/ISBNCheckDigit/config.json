@@ -1,0 +1,28 @@
+{
+    "path": "easy/ISBNCheckDigit",
+    "name": "ISBN Check digit",
+    "alphanumName": "ISBNCheckDigit",
+    "link": "https://www.codingame.com/ide/puzzle/isbn-check-digit",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Short",
+            "alphanumName": "short",
+            "file": "02 - short.txt"
+        },
+        {
+            "name": "Longer",
+            "alphanumName": "longer",
+            "file": "03 - longer.txt"
+        },
+        {
+            "name": "Much longer",
+            "alphanumName": "muchLonger",
+            "file": "04 - much longer.txt"
+        }
+    ]
+}

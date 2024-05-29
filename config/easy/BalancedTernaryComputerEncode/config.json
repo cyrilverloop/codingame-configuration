@@ -1,0 +1,28 @@
+{
+    "path": "easy/BalancedTernaryComputerEncode",
+    "name": "Balanced ternary computer: encode",
+    "alphanumName": "balancedTernaryComputerEncode",
+    "link": "https://www.codingame.com/ide/puzzle/balanced-ternary-computer-encode",
+    "testConfigurations": [
+        {
+            "name": "Short",
+            "alphanumName": "short",
+            "file": "01 - short.txt"
+        },
+        {
+            "name": "Negative",
+            "alphanumName": "negative",
+            "file": "02 - negative.txt"
+        },
+        {
+            "name": "Long",
+            "alphanumName": "long",
+            "file": "03 - long.txt"
+        },
+        {
+            "name": "Single digit",
+            "alphanumName": "singleDigit",
+            "file": "04 - single digit.txt"
+        }
+    ]
+}

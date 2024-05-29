@@ -1,0 +1,28 @@
+{
+    "path": "easy/RotatingArrows",
+    "name": "Rotating arrows",
+    "alphanumName": "rotatingArrows",
+    "link": "https://www.codingame.com/ide/puzzle/rotating-arrows",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "More rotate",
+            "alphanumName": "moreRotate",
+            "file": "02 - more rotate.txt"
+        },
+        {
+            "name": "Overflow",
+            "alphanumName": "overflow",
+            "file": "03 - overflow.txt"
+        },
+        {
+            "name": "Repeat",
+            "alphanumName": "repeat",
+            "file": "04 - repeat.txt"
+        }
+    ]
+}

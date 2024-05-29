@@ -1,0 +1,28 @@
+{
+    "path": "easy/RectangularBlockSpinner",
+    "name": "Rectangular block spinner",
+    "alphanumName": "rectangularBlockSpinner",
+    "link": "https://www.codingame.com/ide/puzzle/rectangular-block-spinner",
+    "testConfigurations": [
+        {
+            "name": "Shine Bright like a Dimond",
+            "alphanumName": "shineBrightLikeADimond",
+            "file": "01 - shine bright like a dimond.txt"
+        },
+        {
+            "name": "Small random 1",
+            "alphanumName": "smallRandom1",
+            "file": "02 - small random 1.txt"
+        },
+        {
+            "name": "Small random 2",
+            "alphanumName": "smallRandom2",
+            "file": "03 - small random 2.txt"
+        },
+        {
+            "name": "Large random",
+            "alphanumName": "largeRandom",
+            "file": "04 - large random.txt"
+        }
+    ]
+}

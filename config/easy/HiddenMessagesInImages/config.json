@@ -1,0 +1,28 @@
+{
+    "path": "easy/HiddenMessagesInImages",
+    "name": "Hidden Messages In Images",
+    "alphanumName": "hiddenMessagesInImages",
+    "link": "https://www.codingame.com/ide/puzzle/hidden-messages-in-images",
+    "testConfigurations": [
+        {
+            "name": "Hello World!",
+            "alphanumName": "helloWorld",
+            "file": "01 - hello world!.txt"
+        },
+        {
+            "name": "This is a lot of fun!",
+            "alphanumName": "thisIsALotOfFun",
+            "file": "02 - this is a lot of fun!.txt"
+        },
+        {
+            "name": "I learned something new with this puzzle",
+            "alphanumName": "iLearnedSomethingNewWithThisPuzzle",
+            "file": "03 - i learned something new with this puzzle.txt"
+        },
+        {
+            "name": "I will hide messages in all my photos",
+            "alphanumName": "iWillHideMessagesInAllMyPhotos",
+            "file": "04 - i will hide messages in all my photos.txt"
+        }
+    ]
+}

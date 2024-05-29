@@ -1,0 +1,38 @@
+{
+    "path": "easy/XMLMDF2016",
+    "name": "XML MDF-2016",
+    "alphanumName": "XMLMDF2016",
+    "link": "https://www.codingame.com/ide/puzzle/xml-mdf-2016",
+    "testConfigurations": [
+        {
+            "name": "Only one",
+            "alphanumName": "onlyOne",
+            "file": "01 - only one.txt"
+        },
+        {
+            "name": "Nested might lose",
+            "alphanumName": "nestedMightLose",
+            "file": "02 - nested might lose.txt"
+        },
+        {
+            "name": "Several nested might win",
+            "alphanumName": "severalNestedMightWin",
+            "file": "03 - several nested might win.txt"
+        },
+        {
+            "name": "Several deeper nested might win too",
+            "alphanumName": "severalDeeperNestedMightWinToo",
+            "file": "04 - several deeper nested might win too.txt"
+        },
+        {
+            "name": "Only one shall win",
+            "alphanumName": "onlyOneShallWin",
+            "file": "05 - only one shall win.txt"
+        },
+        {
+            "name": "Size should not matter",
+            "alphanumName": "sizeShouldNotMatter",
+            "file": "06 - size should not matter.txt"
+        }
+    ]
+}

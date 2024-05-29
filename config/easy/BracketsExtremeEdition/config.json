@@ -1,0 +1,48 @@
+{
+    "path": "easy/BracketsExtremeEdition",
+    "name": "Brackets, extreme edition.",
+    "alphanumName": "bracketsExtremeEdition",
+    "link": "https://www.codingame.com/ide/puzzle/brackets-extreme-edition",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "{([{S}]]6K[()]}",
+            "alphanumName": "S6K",
+            "file": "02 - {([{S}]]6K[()]}.txt"
+        },
+        {
+            "name": "{C{}[{[a]}RqhL]{y2}}",
+            "alphanumName": "CaRqhLy2",
+            "file": "03 - {C{}[{[a]}RqhL]{y2}}.txt"
+        },
+        {
+            "name": "W12{}{}L{}",
+            "alphanumName": "W12L",
+            "file": "04 - W12{}{}L{}.txt"
+        },
+        {
+            "name": "h{Pn{GT{h}(c))}",
+            "alphanumName": "hPnGThc",
+            "file": "05 - h{Pn{GT{h}(c))}.txt"
+        },
+        {
+            "name": "{[{iHTSc}]}p(R)m(){q({})",
+            "alphanumName": "iHTScpRmq",
+            "file": "06 - {[{iHTSc}]}p(R)m(){q({}).txt"
+        },
+        {
+            "name": "][",
+            "alphanumName": "7",
+            "file": "07 - ][.txt"
+        },
+        {
+            "name": "{(})",
+            "alphanumName": "8",
+            "file": "08 - {(}).txt"
+        }
+    ]
+}

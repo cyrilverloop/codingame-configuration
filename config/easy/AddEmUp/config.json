@@ -1,0 +1,43 @@
+{
+    "path": "easy/AddEmUp",
+    "name": "Add’em Up",
+    "alphanumName": "addEmUp",
+    "link": "https://www.codingame.com/ide/puzzle/addem-up",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "02 - easy.txt"
+        },
+        {
+            "name": "In a row",
+            "alphanumName": "inARow",
+            "file": "03 - in a row.txt"
+        },
+        {
+            "name": "XX",
+            "alphanumName": "XX",
+            "file": "04 - XX.txt"
+        },
+        {
+            "name": "CC",
+            "alphanumName": "CC",
+            "file": "05 - CC.txt"
+        },
+        {
+            "name": "D",
+            "alphanumName": "D",
+            "file": "06 - D.txt"
+        },
+        {
+            "name": "M",
+            "alphanumName": "M",
+            "file": "07 - M.txt"
+        }
+    ]
+}

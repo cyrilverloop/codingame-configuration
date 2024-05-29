@@ -1,0 +1,33 @@
+{
+    "path": "easy/TicTacToe",
+    "name": "TicTacToe",
+    "alphanumName": "ticTacToe",
+    "link": "https://www.codingame.com/ide/puzzle/tictactoe",
+    "testConfigurations": [
+        {
+            "name": "No opponent - line",
+            "alphanumName": "noOpponentLine",
+            "file": "01 - no opponent - line.txt"
+        },
+        {
+            "name": "No opponent - column",
+            "alphanumName": "noOpponentColumn",
+            "file": "02 - no opponent - column.txt"
+        },
+        {
+            "name": "No opponent - diagonal",
+            "alphanumName": "noOpponentDiagonal",
+            "file": "03 - no opponent - diagonal.txt"
+        },
+        {
+            "name": "Real condition",
+            "alphanumName": "realCondition",
+            "file": "04 - real condition.txt"
+        },
+        {
+            "name": "No win condition",
+            "alphanumName": "noWinCondition",
+            "file": "05 - no win condition.txt"
+        }
+    ]
+}

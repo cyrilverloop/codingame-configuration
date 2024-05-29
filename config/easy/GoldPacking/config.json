@@ -1,0 +1,28 @@
+{
+    "path": "easy/GoldPacking",
+    "name": "Gold Packing",
+    "alphanumName": "goldPacking",
+    "link": "https://www.codingame.com/ide/puzzle/gold-packing",
+    "testConfigurations": [
+        {
+            "name": "Perfect Fit",
+            "alphanumName": "perfectFit",
+            "file": "01 - perfect fit.txt"
+        },
+        {
+            "name": "Odd Lengths",
+            "alphanumName": "oddLengths",
+            "file": "02 - odd lengths.txt"
+        },
+        {
+            "name": "Prime Gold",
+            "alphanumName": "primeGold",
+            "file": "03 - prime gold.txt"
+        },
+        {
+            "name": "Triangular Numbers",
+            "alphanumName": "triangularNumbers",
+            "file": "04 - triangular numbers.txt"
+        }
+    ]
+}

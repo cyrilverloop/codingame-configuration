@@ -1,0 +1,33 @@
+{
+    "path": "easy/RockPaperScissorsLizardSpock",
+    "name": "Rock Paper Scissors Lizard Spock",
+    "alphanumName": "rockPaperScissorsLizardSpock",
+    "link": "https://www.codingame.com/ide/puzzle/rock-paper-scissors-lizard-spock",
+    "testConfigurations": [
+        {
+            "name": "Test 1 - Same as example",
+            "alphanumName": "test1SameAsExample",
+            "file": "01 - test 1 - same as example.txt"
+        },
+        {
+            "name": "Test 2 - With 2 players",
+            "alphanumName": "test2With2Players",
+            "file": "02 - test 2 - with 2 players.txt"
+        },
+        {
+            "name": "Test 3 - With 32 players",
+            "alphanumName": "test3With32Players",
+            "file": "03 - test 3 - with 32 players.txt"
+        },
+        {
+            "name": "Test 4 - Only Rock and Paper",
+            "alphanumName": "test4OnlyRockAndPaper",
+            "file": "04 - test 4 - only rock and paper.txt"
+        },
+        {
+            "name": "Test 5 - With 1024 players",
+            "alphanumName": "test5With1024Players",
+            "file": "05 - test 5 - with 1024 players.txt"
+        }
+    ]
+}

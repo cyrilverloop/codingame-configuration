@@ -1,0 +1,43 @@
+{
+    "path": "easy/DetectiveGeek",
+    "name": "Detective Geek",
+    "alphanumName": "detectiveGeek",
+    "link": "https://www.codingame.com/ide/puzzle/detective-geek",
+    "testConfigurations": [
+        {
+            "name": "Test 1",
+            "alphanumName": "test1",
+            "file": "01 - test 1.txt"
+        },
+        {
+            "name": "Algeria",
+            "alphanumName": "algeria",
+            "file": "02 - algeria.txt"
+        },
+        {
+            "name": "Egypt",
+            "alphanumName": "egypt",
+            "file": "03 - egypt.txt"
+        },
+        {
+            "name": "India",
+            "alphanumName": "india",
+            "file": "04 - india.txt"
+        },
+        {
+            "name": "Japan",
+            "alphanumName": "japan",
+            "file": "05 - japan.txt"
+        },
+        {
+            "name": "Italy",
+            "alphanumName": "italy",
+            "file": "06 - italy.txt"
+        },
+        {
+            "name": "South korea",
+            "alphanumName": "southKorea",
+            "file": "07 - south korea.txt"
+        }
+    ]
+}

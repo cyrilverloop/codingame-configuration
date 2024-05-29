@@ -1,0 +1,38 @@
+{
+    "path": "easy/ArtificialEmotionalIntelligence",
+    "name": "Artificial Emotional Intelligence",
+    "alphanumName": "artificialEmotionalIntelligence",
+    "link": "https://www.codingame.com/ide/puzzle/artificial-emotional-intelligence",
+    "testConfigurations": [
+        {
+            "name": "Simple case",
+            "alphanumName": "simpleCase",
+            "file": "01 - simple case.txt"
+        },
+        {
+            "name": "Repeating letters and space",
+            "alphanumName": "repeatingLettersAndSpace",
+            "file": "02 - repeating letters and space.txt"
+        },
+        {
+            "name": "With hyphen and period",
+            "alphanumName": "withHyphenAndPeriod",
+            "file": "03 - with hyphen and period.txt"
+        },
+        {
+            "name": "Symbols and numbers",
+            "alphanumName": "symbolsAndNumbers",
+            "file": "04 - symbols and numbers.txt"
+        },
+        {
+            "name": "You are not enough",
+            "alphanumName": "youAreNotEnough",
+            "file": "05 - you are not enough.txt"
+        },
+        {
+            "name": "With ‘Y’ and ‘Z’",
+            "alphanumName": "withYAndZ",
+            "file": "06 - with ‘Y’ and ‘Z’.txt"
+        }
+    ]
+}

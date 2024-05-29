@@ -1,0 +1,73 @@
+{
+    "path": "easy/GraffitiOnTheFence",
+    "name": "Graffiti on the fence",
+    "alphanumName": "graffitiOnTheFence",
+    "link": "https://www.codingame.com/ide/puzzle/graffiti-on-the-fence",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Overlapping 1",
+            "alphanumName": "overlapping1",
+            "file": "02 - overlapping 1.txt"
+        },
+        {
+            "name": "Overlapping 2",
+            "alphanumName": "overlapping2",
+            "file": "03 - overlapping 2.txt"
+        },
+        {
+            "name": "All painted",
+            "alphanumName": "allPainted",
+            "file": "04 - all painted.txt"
+        },
+        {
+            "name": "Continuous",
+            "alphanumName": "continuous",
+            "file": "05 - continuous.txt"
+        },
+        {
+            "name": "Long fence 1",
+            "alphanumName": "longFence1",
+            "file": "06 - long fence 1.txt"
+        },
+        {
+            "name": "Long fence 2",
+            "alphanumName": "longFence2",
+            "file": "07 - long fence 2.txt"
+        },
+        {
+            "name": "Long fence 3",
+            "alphanumName": "longFence3",
+            "file": "08 - long fence 3.txt"
+        },
+        {
+            "name": "Long fence 4",
+            "alphanumName": "longFence4",
+            "file": "09 - long fence 4.txt"
+        },
+        {
+            "name": "Long fence 5",
+            "alphanumName": "longFence5",
+            "file": "10 - long fence 5.txt"
+        },
+        {
+            "name": "Long fence 6",
+            "alphanumName": "longFence6",
+            "file": "11 - long fence 6.txt"
+        },
+        {
+            "name": "Minor test 1",
+            "alphanumName": "minorTest1",
+            "file": "12 - minor test 1.txt"
+        },
+        {
+            "name": "Minor test 2",
+            "alphanumName": "minorTest2",
+            "file": "13 - minor test 2.txt"
+        }
+    ]
+}

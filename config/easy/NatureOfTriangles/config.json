@@ -1,0 +1,33 @@
+{
+    "path": "easy/NatureOfTriangles",
+    "name": "Nature of triangles",
+    "alphanumName": "natureOfTriangles",
+    "link": "https://www.codingame.com/ide/puzzle/nature-of-triangles",
+    "testConfigurations": [
+        {
+            "name": "Scalene triangles",
+            "alphanumName": "scaleneTriangles",
+            "file": "01 - scalene triangles.txt"
+        },
+        {
+            "name": "Isosceles triangles",
+            "alphanumName": "isoscelesTriangles",
+            "file": "02 - isosceles triangles.txt"
+        },
+        {
+            "name": "Right angled triangles",
+            "alphanumName": "rightAngledTriangles",
+            "file": "03 - right angled triangles.txt"
+        },
+        {
+            "name": "Almost right",
+            "alphanumName": "almostRight",
+            "file": "04 - almost right.txt"
+        },
+        {
+            "name": "Everything",
+            "alphanumName": "everything",
+            "file": "05 - everything.txt"
+        }
+    ]
+}

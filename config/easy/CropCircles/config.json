@@ -1,0 +1,68 @@
+{
+    "path": "easy/CropCircles",
+    "name": "Crop-Circles",
+    "alphanumName": "cropCircles",
+    "link": "https://www.codingame.com/ide/puzzle/crop-circles",
+    "testConfigurations": [
+        {
+            "name": "Basic",
+            "alphanumName": "basic",
+            "file": "01 - basic.txt"
+        },
+        {
+            "name": "We are not alone",
+            "alphanumName": "weAreNotAlone",
+            "file": "02 - we are not alone.txt"
+        },
+        {
+            "name": "Classic with PLANT",
+            "alphanumName": "classicWithPLANT",
+            "file": "03 - classic with PLANT.txt"
+        },
+        {
+            "name": "Bulls Eye",
+            "alphanumName": "bullsEye",
+            "file": "04 - bulls eye.txt"
+        },
+        {
+            "name": "PLANTMOW",
+            "alphanumName": "PLANTMOW",
+            "file": "05 - PLANTMOW.txt"
+        },
+        {
+            "name": "A Person",
+            "alphanumName": "aPerson",
+            "file": "06 - a person.txt"
+        },
+        {
+            "name": "Half Moons",
+            "alphanumName": "halfMoons",
+            "file": "07 - half moons.txt"
+        },
+        {
+            "name": "Bonus",
+            "alphanumName": "bonus",
+            "file": "08 - bonus.txt"
+        },
+        {
+            "name": "Single",
+            "alphanumName": "single",
+            "file": "09 - single.txt"
+        },
+        {
+            "name": "Venn Diagram",
+            "alphanumName": "vennDiagram",
+            "file": "10 - venn diagram.txt"
+        },
+        {
+            "name": "That was excessive",
+            "alphanumName": "thatWasExcessive",
+            "file": "11 - that was excessive.txt"
+        },
+        {
+            "name": "Why am i even here ?",
+            "alphanumName": "whyAmIEvenHere",
+            "file": "12 - why am i even here.txt"
+        }
+    ]
+}

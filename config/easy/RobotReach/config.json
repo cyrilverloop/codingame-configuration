@@ -1,0 +1,33 @@
+{
+    "path": "easy/RobotReach",
+    "name": "Robot Reach",
+    "alphanumName": "robotReach",
+    "link": "https://www.codingame.com/ide/puzzle/robot-reach",
+    "testConfigurations": [
+        {
+            "name": "Simple 3x3",
+            "alphanumName": "simple3x3",
+            "file": "01 - simple 3x3.txt"
+        },
+        {
+            "name": "Simple 3x3 - 3",
+            "alphanumName": "simple3x33",
+            "file": "02 - simple 3x3 - 3.txt"
+        },
+        {
+            "name": "Test 3",
+            "alphanumName": "test3",
+            "file": "03 - test 3.txt"
+        },
+        {
+            "name": "Test 4",
+            "alphanumName": "test4",
+            "file": "04 - test 4.txt"
+        },
+        {
+            "name": "Test 5",
+            "alphanumName": "test5",
+            "file": "05 - test 5.txt"
+        }
+    ]
+}

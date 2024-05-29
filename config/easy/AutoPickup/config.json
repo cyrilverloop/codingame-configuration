@@ -1,0 +1,33 @@
+{
+    "path": "easy/AutoPickup",
+    "name": "Auto pickup",
+    "alphanumName": "autoPickup",
+    "link": "https://www.codingame.com/ide/puzzle/auto-pickup",
+    "testConfigurations": [
+        {
+            "name": "just a item drop",
+            "alphanumName": "justAItemDrop",
+            "file": "01 - just a item drop.txt"
+        },
+        {
+            "name": "more than 1 drop",
+            "alphanumName": "moreThan1Drop",
+            "file": "02 - more than 1 drop.txt"
+        },
+        {
+            "name": "other packets",
+            "alphanumName": "otherPackets",
+            "file": "03 - other packets.txt"
+        },
+        {
+            "name": "In between",
+            "alphanumName": "inBetween",
+            "file": "04 - in between.txt"
+        },
+        {
+            "name": "that is a long one",
+            "alphanumName": "thatIsALongOne",
+            "file": "05 - that is a long one.txt"
+        }
+    ]
+}

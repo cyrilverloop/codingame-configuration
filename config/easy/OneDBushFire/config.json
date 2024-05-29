@@ -1,0 +1,33 @@
+{
+    "path": "easy/OneDBushFire",
+    "name": "1D Bush Fire",
+    "alphanumName": "oneDBushFire",
+    "link": "https://www.codingame.com/ide/puzzle/1d-bush-fire",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Basic operations",
+            "alphanumName": "basicOperations",
+            "file": "02 - basic operations.txt"
+        },
+        {
+            "name": "Smoky trail",
+            "alphanumName": "smokyTrail",
+            "file": "03 - smoky trail.txt"
+        },
+        {
+            "name": "Traps in fames",
+            "alphanumName": "trapsInFames",
+            "file": "04 - traps in fames.txt"
+        },
+        {
+            "name": "Ambushes",
+            "alphanumName": "ambushes",
+            "file": "05 - ambushes.txt"
+        }
+    ]
+}

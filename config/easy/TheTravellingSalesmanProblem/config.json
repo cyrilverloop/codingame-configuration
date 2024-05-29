@@ -1,0 +1,28 @@
+{
+    "path": "easy/TheTravellingSalesmanProblem",
+    "name": "The Travelling Salesman Problem",
+    "alphanumName": "theTravellingSalesmanProblem",
+    "link": "https://www.codingame.com/ide/puzzle/the-travelling-salesman-problem",
+    "testConfigurations": [
+        {
+            "name": "5 Cities",
+            "alphanumName": "fiveCities",
+            "file": "01 - 5 cities.txt"
+        },
+        {
+            "name": "12 Cities",
+            "alphanumName": "twelveCities",
+            "file": "02 - 12 cities.txt"
+        },
+        {
+            "name": "14 Cities",
+            "alphanumName": "fourteenCities",
+            "file": "03 - 14 cities.txt"
+        },
+        {
+            "name": "10 Cities",
+            "alphanumName": "tenCities",
+            "file": "04 - 10 cities.txt"
+        }
+    ]
+}

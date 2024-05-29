@@ -1,0 +1,33 @@
+{
+    "path": "easy/TextFormatting",
+    "name": "Text formatting",
+    "alphanumName": "textFormatting",
+    "link": "https://www.codingame.com/ide/puzzle/text-formatting",
+    "testConfigurations": [
+        {
+            "name": "One sentence without spaces",
+            "alphanumName": "oneSentenceWithoutSpaces",
+            "file": "01 - one sentence without spaces.txt"
+        },
+        {
+            "name": "Two sentences",
+            "alphanumName": "twoSentences",
+            "file": "02 - two sentences.txt"
+        },
+        {
+            "name": "Extra spaces",
+            "alphanumName": "extraSpaces",
+            "file": "03 - extra spaces.txt"
+        },
+        {
+            "name": "More errors",
+            "alphanumName": "moreErrors",
+            "file": "04 - more errors.txt"
+        },
+        {
+            "name": "Shakespeare",
+            "alphanumName": "shakespeare",
+            "file": "05 - shakespeare.txt"
+        }
+    ]
+}

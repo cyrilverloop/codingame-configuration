@@ -1,0 +1,28 @@
+{
+    "path": "easy/OrderOfSuccession",
+    "name": "orDer oF succeSsion",
+    "alphanumName": "orderOfSuccession",
+    "link": "https://www.codingame.com/ide/puzzle/order-of-succession",
+    "testConfigurations": [
+        {
+            "name": "A simple tree",
+            "alphanumName": "aSimpleTree",
+            "file": "01 - a simple tree.txt"
+        },
+        {
+            "name": "Full Elizabeth tree",
+            "alphanumName": "fullElizabethTree",
+            "file": "02 - full Elizabeth tree.txt"
+        },
+        {
+            "name": "Dead people",
+            "alphanumName": "deadPeople",
+            "file": "03 - dead people.txt"
+        },
+        {
+            "name": "Non anglican people",
+            "alphanumName": "nonAnglicanPeople",
+            "file": "04 - non anglican people.txt"
+        }
+    ]
+}

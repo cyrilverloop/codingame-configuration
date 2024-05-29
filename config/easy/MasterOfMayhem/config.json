@@ -1,0 +1,33 @@
+{
+    "path": "easy/MasterOfMayhem",
+    "name": "Master of Mayhem",
+    "alphanumName": "masterOfMayhem",
+    "link": "https://www.codingame.com/ide/puzzle/master-of-mayhem",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "No Info",
+            "alphanumName": "noInfo",
+            "file": "02 - no info.txt"
+        },
+        {
+            "name": "Too Many Cooks",
+            "alphanumName": "tooManyCooks",
+            "file": "03 - too many cooks.txt"
+        },
+        {
+            "name": "Nobody Left",
+            "alphanumName": "nobodyLeft",
+            "file": "04 - nobody left.txt"
+        },
+        {
+            "name": "Only One",
+            "alphanumName": "onlyOne",
+            "file": "05 - only one.txt"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "path": "easy/PersonalBest",
+    "name": "Personal Best",
+    "alphanumName": "personalBest",
+    "link": "https://www.codingame.com/ide/puzzle/personal-best",
+    "testConfigurations": [
+        {
+            "name": "Single Gymnast, Single Record",
+            "alphanumName": "singleGymnastSingleRecord",
+            "file": "01 - single gymnast, single record.txt"
+        },
+        {
+            "name": "Single Gymnast, Multiple Records",
+            "alphanumName": "singleGymnastMultipleRecords",
+            "file": "02 - single gymnast, multiple records.txt"
+        },
+        {
+            "name": "Single Gymnast, Multiple Names",
+            "alphanumName": "singleGymnastMultipleNames",
+            "file": "03 - single gymnast, multiple names.txt"
+        },
+        {
+            "name": "Multiple Gymnasts, Single Category, Multiple Competitions",
+            "alphanumName": "multipleGymnastsSingleCategoryMultipleCompetitions",
+            "file": "04 - multiple gymnasts, single category, multiple competitions.txt"
+        },
+        {
+            "name": "Multiple Gymnasts, Multiple Categories, Multiple Competitions",
+            "alphanumName": "multipleGymnastsMultipleCategoriesMultipleCompetitions",
+            "file": "05 - multiple gymnasts, multiple categories, multiple competitions.txt"
+        }
+    ]
+}

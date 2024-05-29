@@ -1,0 +1,58 @@
+{
+    "path": "easy/LogicGates",
+    "name": "Logic gates",
+    "alphanumName": "logicGates",
+    "link": "https://www.codingame.com/ide/puzzle/logic-gates",
+    "testConfigurations": [
+        {
+            "name": "2 input signals, 3 gates",
+            "alphanumName": "twoInputSignals3Gates",
+            "file": "01 - 2 input signals, 3 gates.txt"
+        },
+        {
+            "name": "Inverter (NAND)",
+            "alphanumName": "inverterNAND",
+            "file": "02 - inverter (NAND).txt"
+        },
+        {
+            "name": "AND",
+            "alphanumName": "AND",
+            "file": "03 - AND.txt"
+        },
+        {
+            "name": "OR",
+            "alphanumName": "OR",
+            "file": "04 - OR.txt"
+        },
+        {
+            "name": "XOR",
+            "alphanumName": "XOR",
+            "file": "05 - XOR.txt"
+        },
+        {
+            "name": "Buffer (OR)",
+            "alphanumName": "bufferOR",
+            "file": "06 - buffer (OR).txt"
+        },
+        {
+            "name": "NAND",
+            "alphanumName": "NAND",
+            "file": "07 - NAND.txt"
+        },
+        {
+            "name": "NOR",
+            "alphanumName": "NOR",
+            "file": "08 - NOR.txt"
+        },
+        {
+            "name": "NXOR",
+            "alphanumName": "NXOR",
+            "file": "09 - NXOR.txt"
+        },
+        {
+            "name": "All gates",
+            "alphanumName": "allGates",
+            "file": "10 - all gates.txt"
+        }
+    ]
+}

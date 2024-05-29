@@ -1,0 +1,63 @@
+{
+    "path": "easy/HoochClash",
+    "name": "Hooch Clash",
+    "alphanumName": "hoochClash",
+    "link": "https://www.codingame.com/ide/puzzle/hooch-clash",
+    "testConfigurations": [
+        {
+            "name": "This is fun!",
+            "alphanumName": "thisIsFun",
+            "file": "01 - this is fun!.txt"
+        },
+        {
+            "name": "This is valid!",
+            "alphanumName": "thisIsValid",
+            "file": "02 - this is valid!.txt"
+        },
+        {
+            "name": "Fun enough",
+            "alphanumName": "funEnough",
+            "file": "03 - fun enough.txt"
+        },
+        {
+            "name": "Whee",
+            "alphanumName": "whee",
+            "file": "04 - whee.txt"
+        },
+        {
+            "name": "Higher",
+            "alphanumName": "higher",
+            "file": "05 - higher.txt"
+        },
+        {
+            "name": "Much higher",
+            "alphanumName": "muchHigher",
+            "file": "06 - much higher.txt"
+        },
+        {
+            "name": "Crazy High",
+            "alphanumName": "crazyHigh",
+            "file": "07 - crazy high.txt"
+        },
+        {
+            "name": "Stoned",
+            "alphanumName": "stoned",
+            "file": "08 - stoned.txt"
+        },
+        {
+            "name": "Overflow",
+            "alphanumName": "overflow",
+            "file": "09 - overflow.txt"
+        },
+        {
+            "name": "Underflow",
+            "alphanumName": "underflow",
+            "file": "10 - underflow.txt"
+        },
+        {
+            "name": "B&B",
+            "alphanumName": "BAndB",
+            "file": "11 - B&B.txt"
+        }
+    ]
+}

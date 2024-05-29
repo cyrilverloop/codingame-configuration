@@ -1,0 +1,73 @@
+{
+    "path": "easy/AreTheClumpsNormal",
+    "name": "Are The Clumps Normal",
+    "alphanumName": "areTheClumpsNormal",
+    "link": "https://www.codingame.com/ide/puzzle/are-the-clumps-normal",
+    "testConfigurations": [
+        {
+            "name": "Simple Normal",
+            "alphanumName": "simpleNormal",
+            "file": "01 - simple normal.txt"
+        },
+        {
+            "name": "Simple Abnormal",
+            "alphanumName": "simpleAbnormal",
+            "file": "02 - simple abnormal.txt"
+        },
+        {
+            "name": "Abnormal At The Last Second",
+            "alphanumName": "abnormalAtTheLastSecond",
+            "file": "03 - abnormal at the last second.txt"
+        },
+        {
+            "name": "Wildly Abnormal",
+            "alphanumName": "wildlyAbnormal",
+            "file": "04 - wildly abnormal.txt"
+        },
+        {
+            "name": "Bigger than 2^64 Normal",
+            "alphanumName": "biggerThan2p64Normal",
+            "file": "05 - bigger than 2^64 Normal.txt"
+        },
+        {
+            "name": "Way Bigger than 2^64 Abnormal",
+            "alphanumName": "wayBiggerThan2p64Abnormal",
+            "file": "06 - way bigger than 2^64 abnormal.txt"
+        },
+        {
+            "name": "Lots of Abnormal",
+            "alphanumName": "lotsOfAbnormal",
+            "file": "07 - lots of abnormal.txt"
+        },
+        {
+            "name": "Rep Digit",
+            "alphanumName": "repDigit",
+            "file": "08 - rep digit.txt"
+        },
+        {
+            "name": "Take The First Deviation",
+            "alphanumName": "takeTheFirstDeviation",
+            "file": "09 - take the first deviation.txt"
+        },
+        {
+            "name": "Maximum Normal",
+            "alphanumName": "maximumNormal",
+            "file": "10 - maximum normal.txt"
+        },
+        {
+            "name": "Maximum Abnormal",
+            "alphanumName": "maximumAbnormal",
+            "file": "11 - maximum abnormal.txt"
+        },
+        {
+            "name": "Humongous Binary",
+            "alphanumName": "humongousBinary",
+            "file": "12 - humongous binary.txt"
+        },
+        {
+            "name": "Cooldown",
+            "alphanumName": "cooldown",
+            "file": "13 - cooldown.txt"
+        }
+    ]
+}

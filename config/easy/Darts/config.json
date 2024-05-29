@@ -1,0 +1,28 @@
+{
+    "path": "easy/Darts",
+    "name": "Darts",
+    "alphanumName": "darts",
+    "link": "https://www.codingame.com/ide/puzzle/darts",
+    "testConfigurations": [
+        {
+            "name": "Hit and Miss Duos",
+            "alphanumName": "hitAndMissDuos",
+            "file": "01 - hit and miss duos.txt"
+        },
+        {
+            "name": "Solo Play",
+            "alphanumName": "soloPlay",
+            "file": "02 - Solo play.txt"
+        },
+        {
+            "name": "Chaotic Ties",
+            "alphanumName": "chaoticTies",
+            "file": "03 - chaotic ties.txt"
+        },
+        {
+            "name": "Circles",
+            "alphanumName": "circles",
+            "file": "04 - circles.txt"
+        }
+    ]
+}

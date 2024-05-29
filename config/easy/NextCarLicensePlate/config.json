@@ -1,0 +1,48 @@
+{
+    "path": "easy/NextCarLicensePlate",
+    "name": "Next car license plate ?",
+    "alphanumName": "nextCarLicensePlate",
+    "link": "https://www.codingame.com/ide/puzzle/next-car-license-plate",
+    "testConfigurations": [
+        {
+            "name": "+5",
+            "alphanumName": "plus5",
+            "file": "01 - +5.txt"
+        },
+        {
+            "name": "+100",
+            "alphanumName": "plus100",
+            "file": "02 - +100.txt"
+        },
+        {
+            "name": "999+1",
+            "alphanumName": "nineHundredNinetyNinePlus1",
+            "file": "03 - 999+1.txt"
+        },
+        {
+            "name": "+10 000",
+            "alphanumName": "plus10000",
+            "file": "04 - +10 000.txt"
+        },
+        {
+            "name": "+100 000",
+            "alphanumName": "plus100000",
+            "file": "05 - +100 000.txt"
+        },
+        {
+            "name": "+1 000 000",
+            "alphanumName": "plus1000000",
+            "file": "06 - +1 000 000.txt"
+        },
+        {
+            "name": "Very big",
+            "alphanumName": "veryBig",
+            "file": "07 - very big.txt"
+        },
+        {
+            "name": "998+1",
+            "alphanumName": "nineHundredNinetyEightPlus1",
+            "file": "08 - 998+1.txt"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "path": "easy/Lumen",
+    "name": "Lumen",
+    "alphanumName": "lumen",
+    "link": "https://www.codingame.com/ide/puzzle/lumen",
+    "testConfigurations": [
+        {
+            "name": "THEY only have one candle",
+            "alphanumName": "theyOnlyHaveOneCandle",
+            "file": "01 - THEY only have one candle.txt"
+        },
+        {
+            "name": "THEY are doing a ritual",
+            "alphanumName": "theyAreDoingARitual",
+            "file": "02 - THEY are doing a ritual.txt"
+        },
+        {
+            "name": "THEY have a large pit",
+            "alphanumName": "theyHaveALargePit",
+            "file": "03 - THEY have a large pit.txt"
+        },
+        {
+            "name": "THEY have a small cellar",
+            "alphanumName": "theyHaveASmallCellar",
+            "file": "04 - THEY have a small cellar.txt"
+        },
+        {
+            "name": "THEY have a medium cellar",
+            "alphanumName": "theyHaveAMediumCellar",
+            "file": "05 - THEY have a medium cellar.txt"
+        },
+        {
+            "name": "THEY have a large cellar",
+            "alphanumName": "theyHaveALargeCellar",
+            "file": "06 - THEY have a large cellar.txt"
+        },
+        {
+            "name": "THEY are not very smart",
+            "alphanumName": "theyAreNotVerySmart",
+            "file": "07 - THEY are not very smart.txt"
+        },
+        {
+            "name": "THEY have a great hall",
+            "alphanumName": "theyHaveAGreatHall",
+            "file": "08 - THEY have a great hall.txt"
+        },
+        {
+            "name": "Not Euclidean",
+            "alphanumName": "notEuclidean",
+            "file": "09 - Not Euclidean.txt"
+        }
+    ]
+}

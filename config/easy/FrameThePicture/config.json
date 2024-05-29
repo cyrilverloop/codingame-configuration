@@ -1,0 +1,33 @@
+{
+    "path": "easy/FrameThePicture",
+    "name": "Frame the picture",
+    "alphanumName": "frameThePicture",
+    "link": "https://www.codingame.com/ide/puzzle/frame-the-picture",
+    "testConfigurations": [
+        {
+            "name": "Tiny picture, thin frame",
+            "alphanumName": "tinyPictureThinFrame",
+            "file": "01 - tiny picture, thin frame.txt"
+        },
+        {
+            "name": "Small picture, thin frame",
+            "alphanumName": "smallPictureThinFrame",
+            "file": "02 - small picture, thin frame.txt"
+        },
+        {
+            "name": "Small picture, 2-character frame",
+            "alphanumName": "smallPicture2CharacterFrame",
+            "file": "03 - small picture, 2-character frame.txt"
+        },
+        {
+            "name": "Medium picture, 3-character frame",
+            "alphanumName": "mediumPicture3CharacterFrame",
+            "file": "04 - medium picture, 3-character frame.txt"
+        },
+        {
+            "name": "Some art",
+            "alphanumName": "someArt",
+            "file": "05 - some art.txt"
+        }
+    ]
+}

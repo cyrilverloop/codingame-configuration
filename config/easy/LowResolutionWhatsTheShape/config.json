@@ -1,0 +1,63 @@
+{
+    "path": "easy/LowResolutionWhatsTheShape",
+    "name": "Low Resolution: What’s The Shape?",
+    "alphanumName": "lowResolutionWhatsTheShape",
+    "link": "https://www.codingame.com/ide/puzzle/low-resolution-whats-the-shape",
+    "testConfigurations": [
+        {
+            "name": "Rectangle",
+            "alphanumName": "rectangle",
+            "file": "01 - rectangle.txt"
+        },
+        {
+            "name": "Square",
+            "alphanumName": "square",
+            "file": "02 - square.txt"
+        },
+        {
+            "name": "Touching Top Isosceles",
+            "alphanumName": "touchingTopIsosceles",
+            "file": "03 - touching top isosceles.txt"
+        },
+        {
+            "name": "Touching Bottom Non-Isosceles",
+            "alphanumName": "touchingBottomNonIsosceles",
+            "file": "04 - touching bottom non-isosceles.txt"
+        },
+        {
+            "name": "Touching Left Only ‘X’ and ‘.’",
+            "alphanumName": "touchingLeftOnlyXAndDot",
+            "file": "05 - touching left only ‘X’ and ‘.’.txt"
+        },
+        {
+            "name": "Touching Right Top - Right Angle",
+            "alphanumName": "touchingRightTopRightAngle",
+            "file": "06 - touching right top - right angle.txt"
+        },
+        {
+            "name": "Circle Small",
+            "alphanumName": "circleSmall",
+            "file": "07 - circle small.txt"
+        },
+        {
+            "name": "Circle Big",
+            "alphanumName": "circleBig",
+            "file": "08 - circle big.txt"
+        },
+        {
+            "name": "Ellipse 1",
+            "alphanumName": "ellipse1",
+            "file": "09 - ellipse 1.txt"
+        },
+        {
+            "name": "Ellipse 2",
+            "alphanumName": "ellipse2",
+            "file": "10 - ellipse 2.txt"
+        },
+        {
+            "name": "Ellipse 3",
+            "alphanumName": "ellipse3",
+            "file": "11 - ellipse 3.txt"
+        }
+    ]
+}

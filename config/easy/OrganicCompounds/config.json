@@ -1,0 +1,63 @@
+{
+    "path": "easy/OrganicCompounds",
+    "name": "Organic Compounds",
+    "alphanumName": "organicCompounds",
+    "link": "https://www.codingame.com/ide/puzzle/organic-compounds",
+    "testConfigurations": [
+        {
+            "name": "Saturated hydrocarbon (valid)",
+            "alphanumName": "saturatedHydrocarbonValid",
+            "file": "01 - saturated hydrocarbon (valid).txt"
+        },
+        {
+            "name": "Unsaturated hydrocarbon (valid)",
+            "alphanumName": "unsaturatedHydrocarbonValid",
+            "file": "02 - unsaturated hydrocarbon (valid).txt"
+        },
+        {
+            "name": "hydrocarbon with 1 substituent",
+            "alphanumName": "hydrocarbonWith1Substituent",
+            "file": "03 - hydrocarbon with 1 substituent.txt"
+        },
+        {
+            "name": "multiple substituents (invalid)",
+            "alphanumName": "multipleSubstituentsInvalid",
+            "file": "04 - multiple substituents (invalid).txt"
+        },
+        {
+            "name": "Unsaturated hydrocarbon with substituents",
+            "alphanumName": "unsaturatedHydrocarbonWithSubstituents",
+            "file": "05 - unsaturated hydrocarbon with substituents.txt"
+        },
+        {
+            "name": "INVALID",
+            "alphanumName": "INVALID",
+            "file": "06 - INVALID.txt"
+        },
+        {
+            "name": "Cyclic Hydrocarbon",
+            "alphanumName": "cyclicHydrocarbon",
+            "file": "07 - cyclic hydrocarbon.txt"
+        },
+        {
+            "name": "Cyclic Hydrocarbon with substituents",
+            "alphanumName": "cyclicHydrocarbonWithSubstituents",
+            "file": "08 - cyclic hydrocarbon with substituents.txt"
+        },
+        {
+            "name": "2 Carbon cycles",
+            "alphanumName": "twoCarbonCycles",
+            "file": "09 - 2 carbon cycles.txt"
+        },
+        {
+            "name": "Enormous Compound",
+            "alphanumName": "enormousCompound",
+            "file": "10 - enormous compound.txt"
+        },
+        {
+            "name": "Codingame",
+            "alphanumName": "codingame",
+            "file": "11 - codingame.txt"
+        }
+    ]
+}

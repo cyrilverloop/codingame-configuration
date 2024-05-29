@@ -1,0 +1,33 @@
+{
+    "path": "easy/BulkEmailGenerator",
+    "name": "Bulk Email Generator",
+    "alphanumName": "bulkEmailGenerator",
+    "link": "https://www.codingame.com/ide/puzzle/bulk-email-generator",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "CG Email",
+            "alphanumName": "CGEmail",
+            "file": "02 - CG email.txt"
+        },
+        {
+            "name": "Edge Cases",
+            "alphanumName": "edgeCases",
+            "file": "03 - edge cases.txt"
+        },
+        {
+            "name": "Comment Spam",
+            "alphanumName": "commentSpam",
+            "file": "04 - comment spam.txt"
+        },
+        {
+            "name": "More Edge Cases",
+            "alphanumName": "moreEdgeCases",
+            "file": "05 - more edge cases.txt"
+        }
+    ]
+}

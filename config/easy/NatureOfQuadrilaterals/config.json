@@ -1,0 +1,38 @@
+{
+    "path": "easy/NatureOfQuadrilaterals",
+    "name": "Nature of quadrilaterals",
+    "alphanumName": "natureOfQuadrilaterals",
+    "link": "https://www.codingame.com/ide/puzzle/nature-of-quadrilaterals",
+    "testConfigurations": [
+        {
+            "name": "Quadrilateral",
+            "alphanumName": "quadrilateral",
+            "file": "01 - quadrilateral.txt"
+        },
+        {
+            "name": "Parallelogram",
+            "alphanumName": "parallelogram",
+            "file": "02 - parallelogram.txt"
+        },
+        {
+            "name": "Rhombus",
+            "alphanumName": "rhombus",
+            "file": "03 - rhombus.txt"
+        },
+        {
+            "name": "Rectangle",
+            "alphanumName": "rectangle",
+            "file": "04 - rectangle.txt"
+        },
+        {
+            "name": "Square",
+            "alphanumName": "square",
+            "file": "05 - square.txt"
+        },
+        {
+            "name": "Everything",
+            "alphanumName": "everything",
+            "file": "06 - everything.txt"
+        }
+    ]
+}

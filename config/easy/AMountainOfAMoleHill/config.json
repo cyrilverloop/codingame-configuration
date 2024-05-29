@@ -1,0 +1,48 @@
+{
+    "path": "easy/AMountainOfAMoleHill",
+    "name": "A mountain of a mole hill",
+    "alphanumName": "aMountainOfAMoleHill",
+    "link": "https://www.codingame.com/ide/puzzle/a-mountain-of-a-mole-hill",
+    "testConfigurations": [
+        {
+            "name": "A simple garden",
+            "alphanumName": "aSimpleGarden",
+            "file": "01 - a simple garden.txt"
+        },
+        {
+            "name": "From another angle",
+            "alphanumName": "fromAnotherAngle",
+            "file": "02 - from another angle.txt"
+        },
+        {
+            "name": "Getting crowded",
+            "alphanumName": "gettingCrowded",
+            "file": "03 - getting crowded.txt"
+        },
+        {
+            "name": "Divide and conquer",
+            "alphanumName": "divideAndConquer",
+            "file": "04 - divide and conquer.txt"
+        },
+        {
+            "name": "Bag of snakes",
+            "alphanumName": "bagOfSnakes",
+            "file": "05 - bag of snakes.txt"
+        },
+        {
+            "name": "Zzzzz...",
+            "alphanumName": "zzzzz",
+            "file": "06 - zzzzz....txt"
+        },
+        {
+            "name": "Include and infiltrate",
+            "alphanumName": "includeAndInfiltrate",
+            "file": "07 - Include and infiltrate.txt"
+        },
+        {
+            "name": "How did THAT happen?",
+            "alphanumName": "howDidTHATHappen",
+            "file": "08 - how did THAT happen.txt"
+        }
+    ]
+}

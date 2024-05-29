@@ -1,0 +1,28 @@
+{
+    "path": "easy/SelfDrivingCarTesting",
+    "name": "Self-driving car testing",
+    "alphanumName": "selfDrivingCarTesting",
+    "link": "https://www.codingame.com/ide/puzzle/self-driving-car-testing",
+    "testConfigurations": [
+        {
+            "name": "A simple straight line",
+            "alphanumName": "aSimpleStraightLine",
+            "file": "01 - a simple straight line.txt"
+        },
+        {
+            "name": "Gentleman, start your engines",
+            "alphanumName": "gentlemanStartYourEngines",
+            "file": "02 - gentleman, start your engines.txt"
+        },
+        {
+            "name": "The Senna ‘S’",
+            "alphanumName": "theSennaS",
+            "file": "03 - the Senna ‘S’.txt"
+        },
+        {
+            "name": "Drunk car",
+            "alphanumName": "drunkCar",
+            "file": "04 - drunk car.txt"
+        }
+    ]
+}

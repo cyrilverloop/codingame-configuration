@@ -1,0 +1,38 @@
+{
+    "path": "easy/RobotShow",
+    "name": "Robot Show",
+    "alphanumName": "robotShow",
+    "link": "https://www.codingame.com/ide/puzzle/robot-show",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "02 - simple.txt"
+        },
+        {
+            "name": "More Bots",
+            "alphanumName": "moreBots",
+            "file": "03 - more bots.txt"
+        },
+        {
+            "name": "Ping Pong",
+            "alphanumName": "pingPong",
+            "file": "04 - ping pong.txt"
+        },
+        {
+            "name": "Traffic Jam",
+            "alphanumName": "trafficJam",
+            "file": "05 - traffic jam.txt"
+        },
+        {
+            "name": "Singular",
+            "alphanumName": "singular",
+            "file": "06 - singular.txt"
+        }
+    ]
+}

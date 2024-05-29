@@ -1,0 +1,38 @@
+{
+    "path": "easy/EncryptionDecryptionOfEnigmaMachine",
+    "name": "Encryption/Decryption of Enigma machine",
+    "alphanumName": "encryptionDecryptionOfEnigmaMachine",
+    "link": "https://www.codingame.com/ide/puzzle/encryptiondecryption-of-enigma-machine",
+    "testConfigurations": [
+        {
+            "name": "Encode 3",
+            "alphanumName": "encode3",
+            "file": "01 - encode 3.txt"
+        },
+        {
+            "name": "Encode 23",
+            "alphanumName": "encode23",
+            "file": "02 - encode 23.txt"
+        },
+        {
+            "name": "Decode 21",
+            "alphanumName": "decode21",
+            "file": "03 - decode 21.txt"
+        },
+        {
+            "name": "Encode 21",
+            "alphanumName": "encode21",
+            "file": "04 - encode 21.txt"
+        },
+        {
+            "name": "Encode 42",
+            "alphanumName": "encode42",
+            "file": "05 - encode 42.txt"
+        },
+        {
+            "name": "Decode 49",
+            "alphanumName": "decode49",
+            "file": "06 - decode 49.txt"
+        }
+    ]
+}

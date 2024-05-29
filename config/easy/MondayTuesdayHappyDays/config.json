@@ -1,0 +1,33 @@
+{
+    "path": "easy/MondayTuesdayHappyDays",
+    "name": "Monday Tuesday Happy Days",
+    "alphanumName": "mondayTuesdayHappyDays",
+    "link": "https://www.codingame.com/ide/puzzle/monday-tuesday-happy-days",
+    "testConfigurations": [
+        {
+            "name": "Tomorrow",
+            "alphanumName": "tomorrow",
+            "file": "01 - tomorrow.txt"
+        },
+        {
+            "name": "Sometime next month",
+            "alphanumName": "sometimeNextMonth",
+            "file": "02 - sometime next month.txt"
+        },
+        {
+            "name": "Sometime next month, leap year",
+            "alphanumName": "sometimeNextMonthLeapYear",
+            "file": "03 - sometime next month, leap year.txt"
+        },
+        {
+            "name": "When was that again?",
+            "alphanumName": "whenWasThatAgain",
+            "file": "04 - when was that again.txt"
+        },
+        {
+            "name": "Future",
+            "alphanumName": "future",
+            "file": "05 - future.txt"
+        }
+    ]
+}

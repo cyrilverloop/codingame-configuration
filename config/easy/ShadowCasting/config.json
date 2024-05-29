@@ -1,0 +1,28 @@
+{
+    "path": "easy/ShadowCasting",
+    "name": "Shadow Casting",
+    "alphanumName": "shadowCasting",
+    "link": "https://www.codingame.com/ide/puzzle/shadow-casting",
+    "testConfigurations": [
+        {
+            "name": "X",
+            "alphanumName": "X",
+            "file": "01 - X.txt"
+        },
+        {
+            "name": "Square",
+            "alphanumName": "square",
+            "file": "02 - square.txt"
+        },
+        {
+            "name": "Coding Games",
+            "alphanumName": "codingGames",
+            "file": "03 - coding games.txt"
+        },
+        {
+            "name": "ASCII",
+            "alphanumName": "ASCII",
+            "file": "04 - ASCII.txt"
+        }
+    ]
+}

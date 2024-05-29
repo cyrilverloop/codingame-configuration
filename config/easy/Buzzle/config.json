@@ -1,0 +1,43 @@
+{
+    "path": "easy/Buzzle",
+    "name": "Buzzle",
+    "alphanumName": "buzzle",
+    "link": "https://www.codingame.com/ide/puzzle/buzzle",
+    "testConfigurations": [
+        {
+            "name": "Test 1 - Level 1+",
+            "alphanumName": "test1Level1",
+            "file": "01 - test 1 - level 1+.txt"
+        },
+        {
+            "name": "Test 2 - Level 2+",
+            "alphanumName": "test2Level2",
+            "file": "02 - test 2 - level 2+.txt"
+        },
+        {
+            "name": "Test 3 - Level 3+",
+            "alphanumName": "test3Level3",
+            "file": "03 - test 3 - level 3+.txt"
+        },
+        {
+            "name": "Test 4 - Level 4",
+            "alphanumName": "test4Level4",
+            "file": "04 - test 4 - level 4.txt"
+        },
+        {
+            "name": "Test 5 - Level 4",
+            "alphanumName": "test5Level4",
+            "file": "05 - test 5 - level 4.txt"
+        },
+        {
+            "name": "Everything is Buzzle",
+            "alphanumName": "everythingIsBuzzle",
+            "file": "06 - everything is buzzle.txt"
+        },
+        {
+            "name": "Ternary",
+            "alphanumName": "ternary",
+            "file": "07 - ternary.txt"
+        }
+    ]
+}

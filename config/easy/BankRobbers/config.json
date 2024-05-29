@@ -1,0 +1,28 @@
+{
+    "path": "easy/BankRobbers",
+    "name": "Bank Robbers",
+    "alphanumName": "bankRobbers",
+    "link": "https://www.codingame.com/ide/puzzle/bank-robbers",
+    "testConfigurations": [
+        {
+            "name": "One robber, one easy vault",
+            "alphanumName": "oneRobberOneEasyVault",
+            "file": "01 - one robber, one easy vault.txt"
+        },
+        {
+            "name": "More robbers, more vaults",
+            "alphanumName": "moreRobbersMoreVaults",
+            "file": "02 - more robbers, more vaults.txt"
+        },
+        {
+            "name": "Fewer robbers than vaults",
+            "alphanumName": "fewerRobbersThanVaults",
+            "file": "03 - fewer robbers than vaults.txt"
+        },
+        {
+            "name": "Big Heist",
+            "alphanumName": "bigHeist",
+            "file": "04 - big heist.txt"
+        }
+    ]
+}

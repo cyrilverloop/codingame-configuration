@@ -1,0 +1,38 @@
+{
+    "path": "easy/OneByOneByOneRubiksCubeMovements",
+    "name": "1×1×1 Rubik’s cube movements",
+    "alphanumName": "oneByOneByOneRubiksCubeMovements",
+    "link": "https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements",
+    "testConfigurations": [
+        {
+            "name": "One rotation",
+            "alphanumName": "oneRotation",
+            "file": "01 - one rotation.txt"
+        },
+        {
+            "name": "Two rotations",
+            "alphanumName": "twoRotations",
+            "file": "02 - two rotations.txt"
+        },
+        {
+            "name": "Give me five!",
+            "alphanumName": "giveMeFive",
+            "file": "03 - give me five!.txt"
+        },
+        {
+            "name": "Identity",
+            "alphanumName": "identity",
+            "file": "04 - identity.txt"
+        },
+        {
+            "name": "A long route",
+            "alphanumName": "aLongRoute",
+            "file": "05 - a long route.txt"
+        },
+        {
+            "name": "Stuttering",
+            "alphanumName": "stuttering",
+            "file": "06 - stuttering.txt"
+        }
+    ]
+}

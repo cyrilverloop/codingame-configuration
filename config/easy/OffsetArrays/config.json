@@ -1,0 +1,58 @@
+{
+    "path": "easy/OffsetArrays",
+    "name": "Offset Arrays",
+    "alphanumName": "offsetArrays",
+    "link": "https://www.codingame.com/ide/puzzle/offset-arrays",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "Negative indexing",
+            "alphanumName": "negativeIndexing",
+            "file": "02 - negative indexing.txt"
+        },
+        {
+            "name": "Nested",
+            "alphanumName": "nested",
+            "file": "03 - nested.txt"
+        },
+        {
+            "name": "One-based",
+            "alphanumName": "oneBased",
+            "file": "04 - one-based.txt"
+        },
+        {
+            "name": "Only one element",
+            "alphanumName": "onlyOneElement",
+            "file": "05 - only one element.txt"
+        },
+        {
+            "name": "Big Offsets #1",
+            "alphanumName": "bigOffsets1",
+            "file": "06 - big offsets #1.txt"
+        },
+        {
+            "name": "Big Offsets #2",
+            "alphanumName": "bigOffsets2",
+            "file": "07 - big offsets #2.txt"
+        },
+        {
+            "name": "Deep nesting",
+            "alphanumName": "deepNesting",
+            "file": "08 - deep nesting.txt"
+        },
+        {
+            "name": "Complicated #1",
+            "alphanumName": "complicated1",
+            "file": "09 - complicated #1.txt"
+        },
+        {
+            "name": "Complicated #2",
+            "alphanumName": "complicated2",
+            "file": "10 - complicated #2.txt"
+        }
+    ]
+}

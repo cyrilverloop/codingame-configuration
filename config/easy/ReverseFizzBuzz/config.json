@@ -1,0 +1,33 @@
+{
+    "path": "easy/ReverseFizzBuzz",
+    "name": "Reverse FizzBuzz",
+    "alphanumName": "reverseFizzBuzz",
+    "link": "https://www.codingame.com/ide/puzzle/reverse-fizzbuzz",
+    "testConfigurations": [
+        {
+            "name": "Sample",
+            "alphanumName": "sample",
+            "file": "01 - sample.txt"
+        },
+        {
+            "name": "Everything is a Fizz",
+            "alphanumName": "everythingIsAFizz",
+            "file": "02 - everything is a Fizz.txt"
+        },
+        {
+            "name": "Fizz is Buzz",
+            "alphanumName": "fizzIsBuzz",
+            "file": "03 - Fizz is Buzz.txt"
+        },
+        {
+            "name": "One Fizz to rule them all",
+            "alphanumName": "oneFizzToRuleThemAll",
+            "file": "04 - one Fizz to rule them all.txt"
+        },
+        {
+            "name": "Tricky",
+            "alphanumName": "tricky",
+            "file": "05 - tricky.txt"
+        }
+    ]
+}

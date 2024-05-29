@@ -1,0 +1,53 @@
+{
+    "path": "easy/ByTrainOrByCar",
+    "name": "By train or by car ?",
+    "alphanumName": "byTrainOrByCar",
+    "link": "https://www.codingame.com/ide/puzzle/by-train-or-by-car",
+    "testConfigurations": [
+        {
+            "name": "1) Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "2) no stop car first",
+            "alphanumName": "noStopCarFirst",
+            "file": "02 - no stop car first.txt"
+        },
+        {
+            "name": "3) no stop train first",
+            "alphanumName": "noStopTrainFirst",
+            "file": "03 - no stop train first.txt"
+        },
+        {
+            "name": "4) Orléans Cholet",
+            "alphanumName": "OrleansCholet",
+            "file": "04 - Orléans Cholet.txt"
+        },
+        {
+            "name": "5) Orléans Nantes",
+            "alphanumName": "OrleansNantes",
+            "file": "05 - Orléans Nantes.txt"
+        },
+        {
+            "name": "6) Pithiviers Cholet",
+            "alphanumName": "PithiviersCholet",
+            "file": "06 - Pithiviers Cholet.txt"
+        },
+        {
+            "name": "7) Angouleme Royan",
+            "alphanumName": "AngoulemeRoyan",
+            "file": "07 - Angouleme Royan.txt"
+        },
+        {
+            "name": "8) Montpellier Collioure",
+            "alphanumName": "MontpellierPerpignan",
+            "file": "08 - Montpellier Collioure.txt"
+        },
+        {
+            "name": "9) Valence Niort",
+            "alphanumName": "ValenceNiort",
+            "file": "09 - Valence Niort.txt"
+        }
+    ]
+}

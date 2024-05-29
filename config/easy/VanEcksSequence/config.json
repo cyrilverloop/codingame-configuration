@@ -1,0 +1,38 @@
+{
+    "path": "easy/VanEcksSequence",
+    "name": "Van Eck’s sequence",
+    "alphanumName": "vanEcksSequence",
+    "link": "https://www.codingame.com/ide/puzzle/van-ecks-sequence",
+    "testConfigurations": [
+        {
+            "name": "Not Seen",
+            "alphanumName": "notSeen",
+            "file": "01 - not seen.txt"
+        },
+        {
+            "name": "Seen Before",
+            "alphanumName": "seenBefore",
+            "file": "02 - seen before.txt"
+        },
+        {
+            "name": "A little long",
+            "alphanumName": "aLittleLong",
+            "file": "03 - a little long.txt"
+        },
+        {
+            "name": "Longer",
+            "alphanumName": "Longer",
+            "file": "04 - longer.txt"
+        },
+        {
+            "name": "A little stress",
+            "alphanumName": "aLittleStress",
+            "file": "05 - a little stress.txt"
+        },
+        {
+            "name": "Stress Check",
+            "alphanumName": "stressCheck",
+            "file": "06 - stress check.txt"
+        }
+    ]
+}

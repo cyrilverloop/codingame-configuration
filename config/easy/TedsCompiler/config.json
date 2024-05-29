@@ -1,0 +1,33 @@
+{
+    "path": "easy/TedsCompiler",
+    "name": "Ted’s compiler",
+    "alphanumName": "tedsCompiler",
+    "link": "https://www.codingame.com/ide/puzzle/teds-compiler",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Short string",
+            "alphanumName": "shortString",
+            "file": "02 - short string.txt"
+        },
+        {
+            "name": "Not good",
+            "alphanumName": "notGood",
+            "file": "03 - not good.txt"
+        },
+        {
+            "name": "Well formatted",
+            "alphanumName": "wellFormatted",
+            "file": "04 - well formatted.txt"
+        },
+        {
+            "name": "Long string",
+            "alphanumName": "longString",
+            "file": "05 - long string.txt"
+        }
+    ]
+}

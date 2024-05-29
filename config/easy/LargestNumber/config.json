@@ -1,0 +1,33 @@
+{
+    "path": "easy/LargestNumber",
+    "name": "Largest Number",
+    "alphanumName": "largestNumber",
+    "link": "https://www.codingame.com/ide/puzzle/largest-number",
+    "testConfigurations": [
+        {
+            "name": "No change required",
+            "alphanumName": "noChangeRequired",
+            "file": "01 - no change required.txt"
+        },
+        {
+            "name": "Remove 1 digit",
+            "alphanumName": "remove1Digit",
+            "file": "02 - remove 1 digit.txt"
+        },
+        {
+            "name": "Remove 2 digits",
+            "alphanumName": "remove2Digits",
+            "file": "03 - remove 2 digits.txt"
+        },
+        {
+            "name": "No solution",
+            "alphanumName": "noSolution",
+            "file": "04 - no solution.txt"
+        },
+        {
+            "name": "Final test",
+            "alphanumName": "finalTest",
+            "file": "05 - final test.txt"
+        }
+    ]
+}

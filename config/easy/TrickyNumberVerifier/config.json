@@ -1,0 +1,38 @@
+{
+    "path": "easy/TrickyNumberVerifier",
+    "name": "Tricky Number Verifier",
+    "alphanumName": "trickyNumberVerifier",
+    "link": "https://www.codingame.com/ide/puzzle/tricky-number-verifier",
+    "testConfigurations": [
+        {
+            "name": "Valid Numbers",
+            "alphanumName": "validNumbers",
+            "file": "01 - valid numbers.txt"
+        },
+        {
+            "name": "Syntax Errors",
+            "alphanumName": "syntaxErrors",
+            "file": "02 - syntax errors.txt"
+        },
+        {
+            "name": "Invalid Dates",
+            "alphanumName": "invalidDates",
+            "file": "03 - invalid dates.txt"
+        },
+        {
+            "name": "29th February",
+            "alphanumName": "twentyNinthFebruary",
+            "file": "04 - 29th february.txt"
+        },
+        {
+            "name": "10 Consecutive Numbers",
+            "alphanumName": "tenConsecutiveNumbers",
+            "file": "05 - 10 consecutive numbers.txt"
+        },
+        {
+            "name": "Rejected Identifier",
+            "alphanumName": "rejectedIdentifier",
+            "file": "06 - rejected identifier.txt"
+        }
+    ]
+}

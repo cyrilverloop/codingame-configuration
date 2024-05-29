@@ -1,0 +1,68 @@
+{
+    "path": "easy/TheRiverII",
+    "name": "The River II.",
+    "alphanumName": "theRiverII",
+    "link": "https://www.codingame.com/ide/puzzle/the-river-ii-",
+    "testConfigurations": [
+        {
+            "name": "Test 20",
+            "alphanumName": "test20",
+            "file": "01 - test 20.txt"
+        },
+        {
+            "name": "The Lucky 13",
+            "alphanumName": "theLucky13",
+            "file": "02 - the lucky 13.txt"
+        },
+        {
+            "name": "yyy",
+            "alphanumName": "yyy",
+            "file": "03 - yyy.txt"
+        },
+        {
+            "name": "zzzz",
+            "alphanumName": "zzzz",
+            "file": "04 - zzzz.txt"
+        },
+        {
+            "name": "Yes, please",
+            "alphanumName": "yesPlease",
+            "file": "05 - yes, please.txt"
+        },
+        {
+            "name": "4aaaa",
+            "alphanumName": "fouraaaa",
+            "file": "06 - 4aaaa.txt"
+        },
+        {
+            "name": "BIG",
+            "alphanumName": "BIG",
+            "file": "07 - BIG.txt"
+        },
+        {
+            "name": "Maybe yes this time",
+            "alphanumName": "maybeYesThisTime",
+            "file": "08 - maybe yes this time.txt"
+        },
+        {
+            "name": "Random #1",
+            "alphanumName": "random1",
+            "file": "09 - random #1.txt"
+        },
+        {
+            "name": "Random #2",
+            "alphanumName": "random2",
+            "file": "10 - random #2.txt"
+        },
+        {
+            "name": "Random Large",
+            "alphanumName": "randomLarge",
+            "file": "11 - random large.txt"
+        },
+        {
+            "name": "Random Small",
+            "alphanumName": "randomSmall",
+            "file": "12 - random small.txt"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "path": "easy/IPv6Shortener",
+    "name": "IPv6 Shortener",
+    "alphanumName": "IPv6Shortener",
+    "link": "https://www.codingame.com/ide/puzzle/ipv6-shortener",
+    "testConfigurations": [
+        {
+            "name": "Simple Address",
+            "alphanumName": "simpleAddress",
+            "file": "01 - simple address.txt"
+        },
+        {
+            "name": "Loopback Address",
+            "alphanumName": "loopbackAddress",
+            "file": "02 - loopback address.txt"
+        },
+        {
+            "name": "Multiple Zero Blocks",
+            "alphanumName": "multipleZeroBlocks",
+            "file": "03 - multiple zero blocks.txt"
+        },
+        {
+            "name": "No Zero Blocks",
+            "alphanumName": "noZeroBlocks",
+            "file": "04 - no zero blocks.txt"
+        },
+        {
+            "name": "One Zero Block",
+            "alphanumName": "oneZeroBlock",
+            "file": "05 - one zero block.txt"
+        },
+        {
+            "name": "No Full Zero Blocks",
+            "alphanumName": "noFullZeroBlocks",
+            "file": "06 - no full zero blocks.txt"
+        },
+        {
+            "name": "Zero Blocks of Same Length",
+            "alphanumName": "zeroBlocksOfSameLength",
+            "file": "07 - zero blocks of same length.txt"
+        },
+        {
+            "name": "Zero Block at the End",
+            "alphanumName": "zeroBlocksAtTheEnd",
+            "file": "08 - zero block at the end.txt"
+        }
+    ]
+}

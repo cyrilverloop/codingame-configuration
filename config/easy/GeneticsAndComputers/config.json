@@ -1,0 +1,28 @@
+{
+    "path": "easy/GeneticsAndComputers",
+    "name": "Genetics and Computers",
+    "alphanumName": "geneticsAndComputers",
+    "link": "https://www.codingame.com/ide/puzzle/genetics-and-computers",
+    "testConfigurations": [
+        {
+            "name": "Round Yellow ✖ Round Yellow",
+            "alphanumName": "roundYellowRoundYellow",
+            "file": "01 - round yellow ✖ round yellow.txt"
+        },
+        {
+            "name": "Round Yellow ✖ Round Green",
+            "alphanumName": "roundYellowRoundGreen",
+            "file": "02 - round yellow ✖ round green.txt"
+        },
+        {
+            "name": "Wrinkled Yellow ✖ Round Green",
+            "alphanumName": "wrinkledYellowRoundGreen",
+            "file": "03 - wrinkled yellow ✖ round green.txt"
+        },
+        {
+            "name": "Tall Yellow ✖ Tall Green",
+            "alphanumName": "tallYellowTallGreen",
+            "file": "04 - tall yellow ✖ tall green.txt"
+        }
+    ]
+}

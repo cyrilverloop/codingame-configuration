@@ -1,0 +1,38 @@
+{
+    "path": "easy/FlipTheSign",
+    "name": "Flip The Sign",
+    "alphanumName": "flipTheSign",
+    "link": "https://www.codingame.com/ide/puzzle/flip-the-sign",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "example2",
+            "file": "02 - example 2.txt"
+        },
+        {
+            "name": "Test 3",
+            "alphanumName": "test3",
+            "file": "03 - test 3.txt"
+        },
+        {
+            "name": "Test 4",
+            "alphanumName": "test4",
+            "file": "04 - test 4.txt"
+        },
+        {
+            "name": "Test 5",
+            "alphanumName": "test5",
+            "file": "05 - test 5.txt"
+        },
+        {
+            "name": "Test 6",
+            "alphanumName": "test6",
+            "file": "06 - test 6.txt"
+        }
+    ]
+}

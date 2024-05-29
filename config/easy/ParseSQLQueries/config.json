@@ -1,0 +1,33 @@
+{
+    "path": "easy/ParseSQLQueries",
+    "name": "Parse SQL Queries",
+    "alphanumName": "parseSQLQueries",
+    "link": "https://www.codingame.com/ide/puzzle/parse-sql-queries",
+    "testConfigurations": [
+        {
+            "name": "Select All",
+            "alphanumName": "selectAll",
+            "file": "01 - select all.txt"
+        },
+        {
+            "name": "Select From Where",
+            "alphanumName": "selectFromWhere",
+            "file": "02 - select from where.txt"
+        },
+        {
+            "name": "ORDER BY DESC",
+            "alphanumName": "ORDERBYDESC",
+            "file": "03 - ORDER BY DESC.txt"
+        },
+        {
+            "name": "Slightly bigger table",
+            "alphanumName": "slightlyBiggerTable",
+            "file": "04 - slightly bigger table.txt"
+        },
+        {
+            "name": "Titanic Table",
+            "alphanumName": "titanicTable",
+            "file": "05 - titanic table.txt"
+        }
+    ]
+}

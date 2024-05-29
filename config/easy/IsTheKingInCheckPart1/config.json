@@ -1,0 +1,33 @@
+{
+    "path": "easy/IsTheKingInCheckPart1",
+    "name": "Is the King in Check? (Part 1)",
+    "alphanumName": "isTheKingInCheckPart1",
+    "link": "https://www.codingame.com/ide/puzzle/is-the-king-in-check-part-1",
+    "testConfigurations": [
+        {
+            "name": "R vs K",
+            "alphanumName": "RvsK",
+            "file": "01 - R vs K.txt"
+        },
+        {
+            "name": "B vs K",
+            "alphanumName": "BvsK",
+            "file": "02 - B vs K.txt"
+        },
+        {
+            "name": "Q vs K",
+            "alphanumName": "QvsK",
+            "file": "03 - Q vs K.txt"
+        },
+        {
+            "name": "N vs K",
+            "alphanumName": "NvsK",
+            "file": "04 - N vs K.txt"
+        },
+        {
+            "name": "Test 5",
+            "alphanumName": "test5",
+            "file": "05 - test 5.txt"
+        }
+    ]
+}

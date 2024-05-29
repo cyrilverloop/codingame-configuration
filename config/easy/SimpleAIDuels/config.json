@@ -1,0 +1,43 @@
+{
+    "path": "easy/SimpleAIDuels",
+    "name": "Simple AI duels",
+    "alphanumName": "simpleAIDuels",
+    "link": "https://www.codingame.com/ide/puzzle/simple-ai-duels",
+    "testConfigurations": [
+        {
+            "name": "Nice guys",
+            "alphanumName": "niceGuys",
+            "file": "01 - nice guys.txt"
+        },
+        {
+            "name": "No more Mr nice guy",
+            "alphanumName": "noMoreMrNiceGuy",
+            "file": "02 - no more mr nice guy.txt"
+        },
+        {
+            "name": "Two jokers",
+            "alphanumName": "twoJokers",
+            "file": "03 - two jokers.txt"
+        },
+        {
+            "name": "Tit for tat",
+            "alphanumName": "titForTat",
+            "file": "04 - tit for tat.txt"
+        },
+        {
+            "name": "Nice guy but don’t fool me",
+            "alphanumName": "niceGuyButDontFoolMe",
+            "file": "05 - nice guy but don’t fool me.txt"
+        },
+        {
+            "name": "Short memory nice guy",
+            "alphanumName": "shortMemoryNiceGuy",
+            "file": "06 - short memory nice guy.txt"
+        },
+        {
+            "name": "Machiavel",
+            "alphanumName": "machiavel",
+            "file": "07 - machiavel.txt"
+        }
+    ]
+}

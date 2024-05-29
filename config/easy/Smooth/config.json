@@ -1,0 +1,28 @@
+{
+    "path": "easy/Smooth",
+    "name": "Smooth!",
+    "alphanumName": "smooth",
+    "link": "https://www.codingame.com/ide/puzzle/smooth",
+    "testConfigurations": [
+        {
+            "name": "Small Bulk",
+            "alphanumName": "smallBulk",
+            "file": "01 - small bulk.txt"
+        },
+        {
+            "name": "Easy Victories",
+            "alphanumName": "easyVictories",
+            "file": "02 - easy victories.txt"
+        },
+        {
+            "name": "Easy Defeats",
+            "alphanumName": "easyDefeats",
+            "file": "03 - easy defeats.txt"
+        },
+        {
+            "name": "Bigger",
+            "alphanumName": "bigger",
+            "file": "04 - bigger.txt"
+        }
+    ]
+}

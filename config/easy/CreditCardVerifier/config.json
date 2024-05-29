@@ -1,0 +1,28 @@
+{
+    "path": "easy/CreditCardVerifier",
+    "name": "Credit Card Verifier (Luhn’s algorithm)",
+    "alphanumName": "creditCardVerifier",
+    "link": "https://www.codingame.com/ide/puzzle/credit-card-verifier-luhns-algorithm",
+    "testConfigurations": [
+        {
+            "name": "Tests",
+            "alphanumName": "tests",
+            "file": "01 - tests.txt"
+        },
+        {
+            "name": "MasterCard",
+            "alphanumName": "MasterCard",
+            "file": "02 - MasterCard.txt"
+        },
+        {
+            "name": "Discover",
+            "alphanumName": "Discover",
+            "file": "03 - Discover.txt"
+        },
+        {
+            "name": "VISA",
+            "alphanumName": "VISA",
+            "file": "04 - VISA.txt"
+        }
+    ]
+}

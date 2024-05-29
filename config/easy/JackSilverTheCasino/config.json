@@ -1,0 +1,28 @@
+{
+    "path": "easy/JackSilverTheCasino",
+    "name": "Jack Silver: The Casino",
+    "alphanumName": "jackSilverTheCasino",
+    "link": "https://www.codingame.com/ide/puzzle/jack-silver-the-casino",
+    "testConfigurations": [
+        {
+            "name": "Target #1",
+            "alphanumName": "target1",
+            "file": "01 - target 1.txt"
+        },
+        {
+            "name": "Target #3",
+            "alphanumName": "target3",
+            "file": "02 - target 3.txt"
+        },
+        {
+            "name": "Target #5",
+            "alphanumName": "target5",
+            "file": "03 - target 5.txt"
+        },
+        {
+            "name": "0 is not EVEN",
+            "alphanumName": "zeroIsNotEVEN",
+            "file": "04 - 0 is not EVEN.txt"
+        }
+    ]
+}

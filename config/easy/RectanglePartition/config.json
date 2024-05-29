@@ -1,0 +1,53 @@
+{
+    "path": "easy/RectanglePartition",
+    "name": "Rectangle Partition",
+    "alphanumName": "rectanglePartition",
+    "link": "https://www.codingame.com/ide/puzzle/rectangle-partition",
+    "testConfigurations": [
+        {
+            "name": "Sample",
+            "alphanumName": "sample",
+            "file": "01 - sample.txt"
+        },
+        {
+            "name": "Squarish",
+            "alphanumName": "squarish",
+            "file": "02 - squarish.txt"
+        },
+        {
+            "name": "Bigger 1",
+            "alphanumName": "bigger1",
+            "file": "03 - bigger 1.txt"
+        },
+        {
+            "name": "Bigger 2",
+            "alphanumName": "bigger2",
+            "file": "04 - bigger 2.txt"
+        },
+        {
+            "name": "Lo-density 1",
+            "alphanumName": "loDensity1",
+            "file": "05 - lo-density 1.txt"
+        },
+        {
+            "name": "Lo-density 2",
+            "alphanumName": "loDensity2",
+            "file": "06 - lo-density 2.txt"
+        },
+        {
+            "name": "Hi-density 1",
+            "alphanumName": "hiDensity1",
+            "file": "07 - hi-density 1.txt"
+        },
+        {
+            "name": "Hi-density 2",
+            "alphanumName": "hiDensity2",
+            "file": "08 - hi-density 2.txt"
+        },
+        {
+            "name": "Imbalance",
+            "alphanumName": "imbalance",
+            "file": "09 - imbalance.txt"
+        }
+    ]
+}

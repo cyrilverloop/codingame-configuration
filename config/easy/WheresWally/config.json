@@ -1,0 +1,28 @@
+{
+    "path": "easy/WheresWally",
+    "name": "Where’s Wally",
+    "alphanumName": "wheresWally",
+    "link": "https://www.codingame.com/ide/puzzle/wheres-wally",
+    "testConfigurations": [
+        {
+            "name": "Alone (Exemple)",
+            "alphanumName": "aloneExemple",
+            "file": "01 - alone (exemple).txt"
+        },
+        {
+            "name": "Hidden in the crowd",
+            "alphanumName": "hiddenInTheCrowd",
+            "file": "02 - hidden in the crowd.txt"
+        },
+        {
+            "name": "Hard",
+            "alphanumName": "hard",
+            "file": "03 - hard.txt"
+        },
+        {
+            "name": "Very Hard",
+            "alphanumName": "veryHard",
+            "file": "04 - very hard.txt"
+        }
+    ]
+}

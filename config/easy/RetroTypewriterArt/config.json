@@ -1,0 +1,58 @@
+{
+    "path": "easy/RetroTypewriterArt",
+    "name": "Retro Typewriter Art",
+    "alphanumName": "retroTypewriterArt",
+    "link": "https://www.codingame.com/ide/puzzle/retro-typewriter-art",
+    "testConfigurations": [
+        {
+            "name": "Simple cat",
+            "alphanumName": "simpleCat",
+            "file": "01 - simple cat.txt"
+        },
+        {
+            "name": "Spider",
+            "alphanumName": "spider",
+            "file": "02 - spider.txt"
+        },
+        {
+            "name": "Hen night",
+            "alphanumName": "henNight",
+            "file": "03 - hen night.txt"
+        },
+        {
+            "name": "Winnie has head room",
+            "alphanumName": "winnieHasHeadRoom",
+            "file": "04 - winnie has head room.txt"
+        },
+        {
+            "name": "A foundation of 8’s",
+            "alphanumName": "aFoundationOf8s",
+            "file": "05 - a foundation of 8’s.txt"
+        },
+        {
+            "name": "Minimalist",
+            "alphanumName": "minimalist",
+            "file": "06 - minimalist.txt"
+        },
+        {
+            "name": "Impossible triangle",
+            "alphanumName": "impossibleTriangle",
+            "file": "07 - impossible triangle.txt"
+        },
+        {
+            "name": "Alien",
+            "alphanumName": "alien",
+            "file": "08 - alien.txt"
+        },
+        {
+            "name": "Tree",
+            "alphanumName": "tree",
+            "file": "09 - tree.txt"
+        },
+        {
+            "name": "Flamingo Fran",
+            "alphanumName": "flamingoFran",
+            "file": "10 - flamingo fran.txt"
+        }
+    ]
+}

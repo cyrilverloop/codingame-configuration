@@ -1,0 +1,38 @@
+{
+    "path": "easy/SecondDegreePolynomialSimpleAnalysis",
+    "name": "2nd degree polynomial - simple analysis",
+    "alphanumName": "secondDegreePolynomialSimpleAnalysis",
+    "link": "https://www.codingame.com/ide/puzzle/2nd-degree-polynomial---simple-analysis",
+    "testConfigurations": [
+        {
+            "name": "Centered parabol, 1 intersection",
+            "alphanumName": "centeredParabol1Intersection",
+            "file": "01 - centered parabol, 1 intersection.txt"
+        },
+        {
+            "name": "Horizontal line, 1 intersection to be rounded",
+            "alphanumName": "horizontalLine1IntersectionToBeRounded",
+            "file": "02 - horizontal line, 1 intersection to be rounded.txt"
+        },
+        {
+            "name": "Straight line, 2 intersections",
+            "alphanumName": "straightLine2Intersections",
+            "file": "03 - straight line, 2 intersections.txt"
+        },
+        {
+            "name": "Centered parabol, 3 intersections",
+            "alphanumName": "centeredParabol3Intersections",
+            "file": "04 - centered parabol, 3 intersections.txt"
+        },
+        {
+            "name": "Parabol on the right, 2 intersections",
+            "alphanumName": "parabolOnTheRight2Intersections",
+            "file": "05 - parabol on the right, 2 intersections.txt"
+        },
+        {
+            "name": "Special case",
+            "alphanumName": "specialCase",
+            "file": "06 - special case.txt"
+        }
+    ]
+}

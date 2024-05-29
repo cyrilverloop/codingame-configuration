@@ -1,0 +1,28 @@
+{
+    "path": "easy/SubstitutionEncoding",
+    "name": "Substitution Encoding",
+    "alphanumName": "substitutionEncoding",
+    "link": "https://www.codingame.com/ide/puzzle/substitution-encoding",
+    "testConfigurations": [
+        {
+            "name": "ABC",
+            "alphanumName": "ABC",
+            "file": "01 - ABC.txt"
+        },
+        {
+            "name": "Alphabet",
+            "alphanumName": "alphabet",
+            "file": "02 - alphabet.txt"
+        },
+        {
+            "name": "Reverse Alphabet",
+            "alphanumName": "reverseAlphabet",
+            "file": "03 - reverse alphabet.txt"
+        },
+        {
+            "name": "Serious Encode",
+            "alphanumName": "seriousEncode",
+            "file": "04 - serious encode.txt"
+        }
+    ]
+}

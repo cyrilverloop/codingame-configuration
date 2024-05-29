@@ -1,0 +1,48 @@
+{
+    "path": "easy/FireControl",
+    "name": "FireControl",
+    "alphanumName": "fireControl",
+    "link": "https://www.codingame.com/ide/puzzle/firecontrol",
+    "testConfigurations": [
+        {
+            "name": "Side-Fire",
+            "alphanumName": "sideFire",
+            "file": "01 - side-fire.txt"
+        },
+        {
+            "name": "Who cut those?",
+            "alphanumName": "whoCutThose",
+            "file": "02 - who cut those.txt"
+        },
+        {
+            "name": "Should i plant some trees?",
+            "alphanumName": "shouldIPlantSomeTrees",
+            "file": "03 - should I plant some trees.txt"
+        },
+        {
+            "name": "Random Centre",
+            "alphanumName": "randomCentre",
+            "file": "04 - random centre.txt"
+        },
+        {
+            "name": "Trees???",
+            "alphanumName": "trees",
+            "file": "05 - trees.txt"
+        },
+        {
+            "name": "Just RUN",
+            "alphanumName": "JustRUN",
+            "file": "06 - Just RUN.txt"
+        },
+        {
+            "name": "Who plant THIS???",
+            "alphanumName": "whoPlantTHIS",
+            "file": "07 - who plant THIS.txt"
+        },
+        {
+            "name": "False alarm",
+            "alphanumName": "falseAlarm",
+            "file": "08 - false alarm.txt"
+        }
+    ]
+}

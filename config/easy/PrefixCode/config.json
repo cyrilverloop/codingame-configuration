@@ -1,0 +1,68 @@
+{
+    "path": "easy/PrefixCode",
+    "name": "Prefix code",
+    "alphanumName": "prefixCode",
+    "link": "https://www.codingame.com/ide/puzzle/prefix-code",
+    "testConfigurations": [
+        {
+            "name": "abracadabra",
+            "alphanumName": "abracadabra",
+            "file": "01 - abracadabra.txt"
+        },
+        {
+            "name": "Hello World !",
+            "alphanumName": "helloWorld",
+            "file": "02 - hello world !.txt"
+        },
+        {
+            "name": "Extra bit at the end",
+            "alphanumName": "extraBitAtTheEnd",
+            "file": "03 - extra bit at the end.txt"
+        },
+        {
+            "name": "Missing first character",
+            "alphanumName": "missingFirstCharacter",
+            "file": "04 - missing first character.txt"
+        },
+        {
+            "name": "Inception",
+            "alphanumName": "inception",
+            "file": "05 - inception.txt"
+        },
+        {
+            "name": "Poor table",
+            "alphanumName": "poorTable",
+            "file": "06 - poor table.txt"
+        },
+        {
+            "name": "No table !",
+            "alphanumName": "noTable",
+            "file": "07 - no table !.txt"
+        },
+        {
+            "name": "Lonely character",
+            "alphanumName": "lonelyCharacter",
+            "file": "08 - lonely character.txt"
+        },
+        {
+            "name": "ASCII art",
+            "alphanumName": "ASCIIArt",
+            "file": "09 - ASCII art.txt"
+        },
+        {
+            "name": "Lorem ipsum",
+            "alphanumName": "loremIpsum",
+            "file": "10 - lorem ipsum.txt"
+        },
+        {
+            "name": "Parallel or not ?",
+            "alphanumName": "parallelOrNot",
+            "file": "11 - parallel or not.txt"
+        },
+        {
+            "name": "Lonely character v2",
+            "alphanumName": "lonelyCharacterV2",
+            "file": "12 - lonely character v2.txt"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "path": "easy/HorseRacingHyperduals",
+    "name": "Horse-racing Hyperduals",
+    "alphanumName": "horseRacingHyperduals",
+    "link": "https://www.codingame.com/ide/puzzle/horse-racing-hyperduals",
+    "testConfigurations": [
+        {
+            "name": "Velocity-centric race",
+            "alphanumName": "velocityCentricRace",
+            "file": "01 - velocity-centric race.txt"
+        },
+        {
+            "name": "Elegance-centric race",
+            "alphanumName": "eleganceCentricRace",
+            "file": "02 - elegance-centric race.txt"
+        },
+        {
+            "name": "Balanced horses",
+            "alphanumName": "balancedHorses",
+            "file": "03 - balanced horses.txt"
+        },
+        {
+            "name": "Linear horses",
+            "alphanumName": "linearHorses",
+            "file": "04 - linear horses.txt"
+        },
+        {
+            "name": "Affine horses",
+            "alphanumName": "affineHorses",
+            "file": "05 - affine horses.txt"
+        },
+        {
+            "name": "Bimodal horses",
+            "alphanumName": "bimodalHorses",
+            "file": "06 - bimodal horses.txt"
+        },
+        {
+            "name": "2D horses",
+            "alphanumName": "twoDHorses",
+            "file": "07 - 2D horses.txt"
+        },
+        {
+            "name": "A fistful of horses",
+            "alphanumName": "aFistfulOfHorses",
+            "file": "08 - a fistful of horses.txt"
+        },
+        {
+            "name": "For a few horse more",
+            "alphanumName": "forAFewHorseMore",
+            "file": "09 - for a few horse more.txt"
+        },
+        {
+            "name": "All your horse are belong to us",
+            "alphanumName": "allYourHorseAreBelongToUs",
+            "file": "10 - all your horse are belong to us.txt"
+        },
+        {
+            "name": "Many horses",
+            "alphanumName": "manyHorses",
+            "file": "11 - many horses.txt"
+        },
+        {
+            "name": "Mmmaaannn, That Sucks!",
+            "alphanumName": "mmmaaannnThatSucks",
+            "file": "12 - mmmaaannn, that sucks!.txt"
+        },
+        {
+            "name": "Don’t overflow your stack",
+            "alphanumName": "dontOverflowYourStack",
+            "file": "13 - don’t overflow your stack.txt"
+        }
+    ]
+}

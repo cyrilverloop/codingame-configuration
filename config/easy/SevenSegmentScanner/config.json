@@ -1,0 +1,33 @@
+{
+    "path": "easy/SevenSegmentScanner",
+    "name": "7-segment scanner",
+    "alphanumName": "sevenSegmentScanner",
+    "link": "https://www.codingame.com/ide/puzzle/7-segment-scanner",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Zeroes",
+            "alphanumName": "zeroes",
+            "file": "02 - zeroes.txt"
+        },
+        {
+            "name": "Short number",
+            "alphanumName": "shortNumber",
+            "file": "03 - short number.txt"
+        },
+        {
+            "name": "Long number",
+            "alphanumName": "longNumber",
+            "file": "04 - long number.txt"
+        },
+        {
+            "name": "Super long number",
+            "alphanumName": "superLongNumber",
+            "file": "05 - super long number.txt"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "path": "easy/Asteroids",
+    "name": "Asteroids",
+    "alphanumName": "asteroids",
+    "link": "https://www.codingame.com/ide/puzzle/asteroids",
+    "testConfigurations": [
+        {
+            "name": "Horizontal motion",
+            "alphanumName": "horizontalMotion",
+            "file": "01 - horizontal motion.txt"
+        },
+        {
+            "name": "Vertical motion",
+            "alphanumName": "verticalMotion",
+            "file": "02 - vertical motion.txt"
+        },
+        {
+            "name": "Combined motion",
+            "alphanumName": "combinedMotion",
+            "file": "03 - combined motion.txt"
+        },
+        {
+            "name": "Negative motion",
+            "alphanumName": "negativeMotion",
+            "file": "04 - negative motion.txt"
+        },
+        {
+            "name": "Greater delta",
+            "alphanumName": "greaterDelta",
+            "file": "05 - greater delta.txt"
+        },
+        {
+            "name": "Multiple asteroids",
+            "alphanumName": "multipleAsteroids",
+            "file": "06 - multiple asteroids.txt"
+        },
+        {
+            "name": "Depth",
+            "alphanumName": "depth",
+            "file": "07 - depth.txt"
+        },
+        {
+            "name": "No motion",
+            "alphanumName": "noMotion",
+            "file": "08 - no motion.txt"
+        },
+        {
+            "name": "Out of bounds",
+            "alphanumName": "outOfBounds",
+            "file": "09 - out of bounds.txt"
+        },
+        {
+            "name": "Armageddon",
+            "alphanumName": "armageddon",
+            "file": "10 - armageddon.txt"
+        }
+    ]
+}

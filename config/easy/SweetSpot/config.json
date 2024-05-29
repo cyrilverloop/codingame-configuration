@@ -1,0 +1,48 @@
+{
+    "path": "easy/SweetSpot",
+    "name": "Sweet spot",
+    "alphanumName": "sweetSpot",
+    "link": "https://www.codingame.com/ide/puzzle/sweet-spot",
+    "testConfigurations": [
+        {
+            "name": "First attempt with A-bomb",
+            "alphanumName": "firstAttemptWithABomb",
+            "file": "01 - first attempt with a-bomb.txt"
+        },
+        {
+            "name": "First attempt with H-bomb",
+            "alphanumName": "firstAttemptWithHBomb",
+            "file": "02 - first attempt with h-bomb.txt"
+        },
+        {
+            "name": "Real case : A/H-bomb",
+            "alphanumName": "realCaseAHBomb",
+            "file": "03 - real case A H-bomb.txt"
+        },
+        {
+            "name": "First attempt with B-bomb",
+            "alphanumName": "firstAttemptWithBBomb",
+            "file": "04 - first attempt with b-bomb.txt"
+        },
+        {
+            "name": "Small map",
+            "alphanumName": "smallMap",
+            "file": "05 - small map.txt"
+        },
+        {
+            "name": "Real case : all bombs",
+            "alphanumName": "realCaseAllBombs",
+            "file": "06 - real case all bombs.txt"
+        },
+        {
+            "name": "Damaged map",
+            "alphanumName": "damagedMap",
+            "file": "07 - damaged map.txt"
+        },
+        {
+            "name": "No explosions",
+            "alphanumName": "noExplosions",
+            "file": "08 - no explosions.txt"
+        }
+    ]
+}

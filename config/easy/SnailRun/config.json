@@ -1,0 +1,48 @@
+{
+    "path": "easy/SnailRun",
+    "name": "Snail Run",
+    "alphanumName": "snailRun",
+    "link": "https://www.codingame.com/ide/puzzle/snail-run",
+    "testConfigurations": [
+        {
+            "name": "Simple Run",
+            "alphanumName": "simpleRun",
+            "file": "01 - simple run.txt"
+        },
+        {
+            "name": "Run in progress",
+            "alphanumName": "runInProgress",
+            "file": "02 - run in progress.txt"
+        },
+        {
+            "name": "only one arrives",
+            "alphanumName": "onlyOneArrives",
+            "file": "03 - only one arrives.txt"
+        },
+        {
+            "name": "In a mess",
+            "alphanumName": "inAMess",
+            "file": "04 - in a mess.txt"
+        },
+        {
+            "name": "Conversely",
+            "alphanumName": "conversely",
+            "file": "05 - conversely.txt"
+        },
+        {
+            "name": "difficult 1",
+            "alphanumName": "difficult1",
+            "file": "06 - difficult 1.txt"
+        },
+        {
+            "name": "difficult 2",
+            "alphanumName": "difficult2",
+            "file": "07 - difficult 2.txt"
+        },
+        {
+            "name": "difficult 3",
+            "alphanumName": "difficult3",
+            "file": "08 - difficult 3.txt"
+        }
+    ]
+}

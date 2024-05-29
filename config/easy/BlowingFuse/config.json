@@ -1,0 +1,38 @@
+{
+    "path": "easy/BlowingFuse",
+    "name": "Blowing Fuse",
+    "alphanumName": "blowingFuse",
+    "link": "https://www.codingame.com/ide/puzzle/blowing-fuse",
+    "testConfigurations": [
+        {
+            "name": "Blown",
+            "alphanumName": "blown",
+            "file": "01 - blown.txt"
+        },
+        {
+            "name": "Not blown",
+            "alphanumName": "notBlown",
+            "file": "02 - not blown.txt"
+        },
+        {
+            "name": "Single device",
+            "alphanumName": "singleDevice",
+            "file": "03 - single device.txt"
+        },
+        {
+            "name": "More devices",
+            "alphanumName": "moreDevices",
+            "file": "04 - more devices.txt"
+        },
+        {
+            "name": "More clicks, more devices",
+            "alphanumName": "moreClicksMoreDevice",
+            "file": "05 - more clicks, more devices.txt"
+        },
+        {
+            "name": "Power hungry",
+            "alphanumName": "powerHungry",
+            "file": "06 - power hungry.txt"
+        }
+    ]
+}

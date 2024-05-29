@@ -1,0 +1,38 @@
+{
+    "path": "easy/DungeonsAndMaps",
+    "name": "Dungeons and Maps",
+    "alphanumName": "dungeonsAndMaps",
+    "link": "https://www.codingame.com/ide/puzzle/dungeons-and-maps",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Trap",
+            "alphanumName": "trap",
+            "file": "02 - trap.txt"
+        },
+        {
+            "name": "2 maps",
+            "alphanumName": "twoMaps",
+            "file": "03 - 2 maps.txt"
+        },
+        {
+            "name": "Many maps",
+            "alphanumName": "manyMaps",
+            "file": "04 - many maps.txt"
+        },
+        {
+            "name": "Di",
+            "alphanumName": "di",
+            "file": "05 - di.txt"
+        },
+        {
+            "name": "Epic quest",
+            "alphanumName": "epicQuest",
+            "file": "06 - epic quest.txt"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "path": "easy/HowTimeFlies",
+    "name": "How time flies",
+    "alphanumName": "howTimeFlies",
+    "link": "https://www.codingame.com/ide/puzzle/how-time-flies",
+    "testConfigurations": [
+        {
+            "name": "Full years",
+            "alphanumName": "fullYears",
+            "file": "01 - full years.txt"
+        },
+        {
+            "name": "Full months",
+            "alphanumName": "fullMonths",
+            "file": "02 - full months.txt"
+        },
+        {
+            "name": "Years and months",
+            "alphanumName": "yearsAndMonths",
+            "file": "03 - years and months.txt"
+        },
+        {
+            "name": "Days only",
+            "alphanumName": "daysOnly",
+            "file": "04 - days only.txt"
+        },
+        {
+            "name": "Same date",
+            "alphanumName": "sameDate",
+            "file": "05 - same date.txt"
+        },
+        {
+            "name": "Complex",
+            "alphanumName": "complex",
+            "file": "06 - complex.txt"
+        },
+        {
+            "name": "One month",
+            "alphanumName": "oneMonth",
+            "file": "07 - one month.txt"
+        },
+        {
+            "name": "One year",
+            "alphanumName": "oneYear",
+            "file": "08 - one year.txt"
+        },
+        {
+            "name": "Leap year",
+            "alphanumName": "leapYear",
+            "file": "09 - leap year.txt"
+        }
+    ]
+}

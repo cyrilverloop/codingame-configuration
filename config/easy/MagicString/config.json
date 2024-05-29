@@ -1,0 +1,58 @@
+{
+    "path": "easy/MagicString",
+    "name": "Magic String",
+    "alphanumName": "magicString",
+    "link": "https://www.codingame.com/ide/puzzle/magic-string",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Louis",
+            "alphanumName": "louis",
+            "file": "02 - louis.txt"
+        },
+        {
+            "name": "1-10",
+            "alphanumName": "one10",
+            "file": "03 - 1-10.txt"
+        },
+        {
+            "name": "Metals",
+            "alphanumName": "metals",
+            "file": "04 - metals.txt"
+        },
+        {
+            "name": "Quick test 1",
+            "alphanumName": "quickTest1",
+            "file": "05 - quick test 1.txt"
+        },
+        {
+            "name": "Quick test 2",
+            "alphanumName": "quickTest2",
+            "file": "06 - quick test 2.txt"
+        },
+        {
+            "name": "Quick test 3",
+            "alphanumName": "quickTest3",
+            "file": "07 - quick test 3.txt"
+        },
+        {
+            "name": "Quick test 4",
+            "alphanumName": "quickTest4",
+            "file": "08 - quick test 4.txt"
+        },
+        {
+            "name": "Quick test 5",
+            "alphanumName": "quickTest5",
+            "file": "09 - quick test 5.txt"
+        },
+        {
+            "name": "Tricky",
+            "alphanumName": "tricky",
+            "file": "10 - tricky.txt"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "path": "easy/MorelletsRandomLines",
+    "name": "Morellet’s random lines",
+    "alphanumName": "morelletsRandomLines",
+    "link": "https://www.codingame.com/ide/puzzle/morellets-random-lines",
+    "testConfigurations": [
+        {
+            "name": "One line",
+            "alphanumName": "oneLine",
+            "file": "01 - one line.txt"
+        },
+        {
+            "name": "Two lines",
+            "alphanumName": "twoLines",
+            "file": "02 - two lines.txt"
+        },
+        {
+            "name": "On a line",
+            "alphanumName": "onALine",
+            "file": "03 - on a line.txt"
+        },
+        {
+            "name": "Many lines",
+            "alphanumName": "manyLines",
+            "file": "04 - many lines.txt"
+        },
+        {
+            "name": "Same line",
+            "alphanumName": "sameLine",
+            "file": "05 - same line.txt"
+        },
+        {
+            "name": "Lots of lines",
+            "alphanumName": "lotsOfLines",
+            "file": "06 - lots of lines.txt"
+        },
+        {
+            "name": "Lots of lines 2",
+            "alphanumName": "lotsOfLines2",
+            "file": "07 - lots of lines 2.txt"
+        },
+        {
+            "name": "Mind the sign",
+            "alphanumName": "mindTheSign",
+            "file": "08 - mind the sign.txt"
+        }
+    ]
+}

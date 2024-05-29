@@ -1,0 +1,33 @@
+{
+    "path": "easy/StallTilt",
+    "name": "Stall tilt",
+    "alphanumName": "stallTilt",
+    "link": "https://www.codingame.com/ide/puzzle/stall-tilt",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Stalling",
+            "alphanumName": "stalling",
+            "file": "02 - stalling.txt"
+        },
+        {
+            "name": "Real case",
+            "alphanumName": "realCase",
+            "file": "03 - real case.txt"
+        },
+        {
+            "name": "Just a little one",
+            "alphanumName": "justALittleOne",
+            "file": "04 - just a little one.txt"
+        },
+        {
+            "name": "Duel",
+            "alphanumName": "duel",
+            "file": "05 - duel.txt"
+        }
+    ]
+}

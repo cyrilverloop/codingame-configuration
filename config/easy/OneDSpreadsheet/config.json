@@ -1,0 +1,73 @@
+{
+    "path": "easy/OneDSpreadsheet",
+    "name": "1D Spreadsheet",
+    "alphanumName": "1DSpreadsheet",
+    "link": "https://www.codingame.com/ide/puzzle/1d-spreadsheet",
+    "testConfigurations": [
+        {
+            "name": "Simple dependency",
+            "alphanumName": "simpleDependency",
+            "file": "01 - simple dependency.txt"
+        },
+        {
+            "name": "Double dependency",
+            "alphanumName": "doubleDependency",
+            "file": "02 - double dependency.txt"
+        },
+        {
+            "name": "Subtraction",
+            "alphanumName": "subtraction",
+            "file": "03 - subtraction.txt"
+        },
+        {
+            "name": "Multiplication",
+            "alphanumName": "multiplication",
+            "file": "04 - multiplication.txt"
+        },
+        {
+            "name": "No dependencies",
+            "alphanumName": "noDependencies",
+            "file": "05 - no dependencies.txt"
+        },
+        {
+            "name": "Coefficients",
+            "alphanumName": "coefficients",
+            "file": "06 - coefficients.txt"
+        },
+        {
+            "name": "Fibonacci",
+            "alphanumName": "fibonacci",
+            "file": "07 - fibonacci.txt"
+        },
+        {
+            "name": "Backward dependency",
+            "alphanumName": "backwardDependency",
+            "file": "08 - backward dependency.txt"
+        },
+        {
+            "name": "Diamond dependency",
+            "alphanumName": "diamondDependency",
+            "file": "09 - diamond dependency.txt"
+        },
+        {
+            "name": "Accounting is easy",
+            "alphanumName": "accountingIsEasy",
+            "file": "10 - accounting is easy.txt"
+        },
+        {
+            "name": "Accounting is hard 1",
+            "alphanumName": "accountingIsHard1",
+            "file": "11 - accounting is hard 1.txt"
+        },
+        {
+            "name": "Accounting is hard 2",
+            "alphanumName": "accountingIsHard2",
+            "file": "12 - accounting is hard 2.txt"
+        },
+        {
+            "name": "Deep Birecursion",
+            "alphanumName": "deepBirecursion",
+            "file": "13 - deep birecursion.txt"
+        }
+    ]
+}

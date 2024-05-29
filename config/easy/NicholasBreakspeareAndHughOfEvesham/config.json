@@ -1,0 +1,43 @@
+{
+    "path": "easy/NicholasBreakspeareAndHughOfEvesham",
+    "name": "Nicholas Breakspeare and Hugh of Evesham",
+    "alphanumName": "nicholasBreakspeareAndHughOfEvesham",
+    "link": "https://www.codingame.com/ide/puzzle/nicholas-breakspeare-and-hugh-of-evesham",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "The basics",
+            "alphanumName": "theBasics",
+            "file": "02 - the basics.txt"
+        },
+        {
+            "name": "The teens",
+            "alphanumName": "theTeens",
+            "file": "03 - the teens.txt"
+        },
+        {
+            "name": "Some powers of 10",
+            "alphanumName": "somePowersOf10",
+            "file": "04 - some powers of 10.txt"
+        },
+        {
+            "name": "Some powers of 2",
+            "alphanumName": "somePowersOf2",
+            "file": "05 - some powers of 2.txt"
+        },
+        {
+            "name": "Extrema",
+            "alphanumName": "extrema",
+            "file": "06 - extrema.txt"
+        },
+        {
+            "name": "Utter randomness",
+            "alphanumName": "utterRandomness",
+            "file": "07 - utter randomness.txt"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "path": "easy/SudokuValidator",
+    "name": "Sudoku Validator",
+    "alphanumName": "sudokuValidator",
+    "link": "https://www.codingame.com/ide/puzzle/sudoku-validator",
+    "testConfigurations": [
+        {
+            "name": "Basic grid",
+            "alphanumName": "basicGrid",
+            "file": "01 - basic grid.txt"
+        },
+        {
+            "name": "Another correct grid",
+            "alphanumName": "anotherCorrectGrid",
+            "file": "02 - another correct grid.txt"
+        },
+        {
+            "name": "Row error",
+            "alphanumName": "rowError",
+            "file": "03 - row error.txt"
+        },
+        {
+            "name": "Column error",
+            "alphanumName": "columnError",
+            "file": "04 - column error.txt"
+        },
+        {
+            "name": "Subgrid error",
+            "alphanumName": "subgridError",
+            "file": "05 - subgrid error.txt"
+        },
+        {
+            "name": "Rubbish error",
+            "alphanumName": "rubbishError",
+            "file": "06 - rubbish error.txt"
+        },
+        {
+            "name": "When summing is not enough",
+            "alphanumName": "whenSummingIsNotEnough",
+            "file": "07 - when summing is not enough.txt"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "path": "easy/TheBrokenEditor",
+    "name": "The broken editor",
+    "alphanumName": "theBrokenEditor",
+    "link": "https://www.codingame.com/ide/puzzle/the-broken-editor",
+    "testConfigurations": [
+        {
+            "name": "No mistakes",
+            "alphanumName": "noMistakes",
+            "file": "01 - no mistakes.txt"
+        },
+        {
+            "name": "Single mistake",
+            "alphanumName": "singleMistake",
+            "file": "02 - single mistake.txt"
+        },
+        {
+            "name": "Out of bounds",
+            "alphanumName": "outOfBounds",
+            "file": "03 - out of bounds.txt"
+        },
+        {
+            "name": "Out of bounds 2",
+            "alphanumName": "outOfBounds2",
+            "file": "04 - out of bounds 2.txt"
+        },
+        {
+            "name": "Backspace 1",
+            "alphanumName": "backspace1",
+            "file": "05 - backspace 1.txt"
+        },
+        {
+            "name": "Backspace 2",
+            "alphanumName": "backspace2",
+            "file": "06 - backspace 2.txt"
+        },
+        {
+            "name": "007",
+            "alphanumName": "zero07",
+            "file": "07 - 007.txt"
+        }
+    ]
+}

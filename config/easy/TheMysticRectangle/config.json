@@ -1,0 +1,68 @@
+{
+    "path": "easy/TheMysticRectangle",
+    "name": "The Mystic Rectangle",
+    "alphanumName": "theMysticRectangle",
+    "link": "https://www.codingame.com/ide/puzzle/the-mystic-rectangle",
+    "testConfigurations": [
+        {
+            "name": "Example in Description",
+            "alphanumName": "exampleInDescription",
+            "file": "01 - example in description.txt"
+        },
+        {
+            "name": "Horizontal",
+            "alphanumName": "horizontal",
+            "file": "02 - horizontal.txt"
+        },
+        {
+            "name": "Vertical",
+            "alphanumName": "vertical",
+            "file": "03 - vertical.txt"
+        },
+        {
+            "name": "Diagonal",
+            "alphanumName": "diagonal",
+            "file": "04 - diagonal.txt"
+        },
+        {
+            "name": "Precision",
+            "alphanumName": "precision",
+            "file": "05 - precision.txt"
+        },
+        {
+            "name": "Askew Long",
+            "alphanumName": "askewLong",
+            "file": "06 - askew long.txt"
+        },
+        {
+            "name": "Askew Tall",
+            "alphanumName": "askewTall",
+            "file": "07 - askew tall.txt"
+        },
+        {
+            "name": "East West Wrapper",
+            "alphanumName": "eastWestWrapper",
+            "file": "08 - east west wrapper.txt"
+        },
+        {
+            "name": "Double Wrapped",
+            "alphanumName": "doubleWrapped",
+            "file": "09 - double wrapped.txt"
+        },
+        {
+            "name": "Travel on Boundary",
+            "alphanumName": "travelOnBoundary",
+            "file": "10 - travel on boundary.txt"
+        },
+        {
+            "name": "Polar Opposites",
+            "alphanumName": "polarOpposites",
+            "file": "11 - polar opposites.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "random",
+            "file": "12 - random.txt"
+        }
+    ]
+}

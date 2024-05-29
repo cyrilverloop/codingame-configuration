@@ -1,0 +1,43 @@
+{
+    "path": "easy/MovesInMaze",
+    "name": "Moves in maze",
+    "alphanumName": "movesInMaze",
+    "link": "https://www.codingame.com/ide/puzzle/moves-in-maze",
+    "testConfigurations": [
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "01 - easy.txt"
+        },
+        {
+            "name": "Loop",
+            "alphanumName": "loop",
+            "file": "02 - loop.txt"
+        },
+        {
+            "name": "Through borders",
+            "alphanumName": "throughBorders",
+            "file": "03 - through borders.txt"
+        },
+        {
+            "name": "Space",
+            "alphanumName": "space",
+            "file": "04 - space.txt"
+        },
+        {
+            "name": "Unreachable",
+            "alphanumName": "unreachable",
+            "file": "05 - unreachable.txt"
+        },
+        {
+            "name": "Everything",
+            "alphanumName": "everything",
+            "file": "06 - everything.txt"
+        },
+        {
+            "name": "Blocked",
+            "alphanumName": "blocked",
+            "file": "07 - blocked.txt"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "path": "easy/ContainerTerminal",
+    "name": "Container Terminal",
+    "alphanumName": "containerTerminal",
+    "link": "https://www.codingame.com/ide/puzzle/container-terminal",
+    "testConfigurations": [
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "01 - easy.txt"
+        },
+        {
+            "name": "15",
+            "alphanumName": "fifteen",
+            "file": "02 - 15.txt"
+        },
+        {
+            "name": "30",
+            "alphanumName": "thirty",
+            "file": "03 - 30.txt"
+        },
+        {
+            "name": "60",
+            "alphanumName": "sixty",
+            "file": "04 - 60.txt"
+        },
+        {
+            "name": "Long queue",
+            "alphanumName": "longQueue",
+            "file": "05 - long queue.txt"
+        }
+    ]
+}

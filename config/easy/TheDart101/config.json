@@ -1,0 +1,58 @@
+{
+    "path": "easy/TheDart101",
+    "name": "The Dart 101",
+    "alphanumName": "theDart101",
+    "link": "https://www.codingame.com/ide/puzzle/the-dart-101",
+    "testConfigurations": [
+        {
+            "name": "2 players",
+            "alphanumName": "twoPlayers",
+            "file": "01 - 2 players.txt"
+        },
+        {
+            "name": "1 winner & 1 loser",
+            "alphanumName": "oneWinnerAnd1Loser",
+            "file": "02 - 1 winner & 1 loser.txt"
+        },
+        {
+            "name": "One missed",
+            "alphanumName": "oneMissed",
+            "file": "03 - one missed.txt"
+        },
+        {
+            "name": "Two missed",
+            "alphanumName": "twoMissed",
+            "file": "04 - two missed.txt"
+        },
+        {
+            "name": "Two missed consecutively",
+            "alphanumName": "twoMissedConsecutively",
+            "file": "05 - two missed consecutively.txt"
+        },
+        {
+            "name": "Three missed consecutively",
+            "alphanumName": "threeMissedConsecutively",
+            "file": "06 - three missed consecutively.txt"
+        },
+        {
+            "name": "Over the score",
+            "alphanumName": "overTheScore",
+            "file": "07 - over the score.txt"
+        },
+        {
+            "name": "2 players and lot of shoots",
+            "alphanumName": "twoPlayersAndLotOfShoots",
+            "file": "08 - 2 players and lot of shoots.txt"
+        },
+        {
+            "name": "4 players",
+            "alphanumName": "fourPlayers",
+            "file": "09 - 4 players.txt"
+        },
+        {
+            "name": "8 players",
+            "alphanumName": "eightPlayers",
+            "file": "10 - 8 players.txt"
+        }
+    ]
+}

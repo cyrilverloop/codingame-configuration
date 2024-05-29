@@ -1,0 +1,48 @@
+{
+    "path": "easy/CountAsICount",
+    "name": "Count as I count",
+    "alphanumName": "countAsICount",
+    "link": "https://www.codingame.com/ide/puzzle/count-as-i-count",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "To continue",
+            "alphanumName": "toContinue",
+            "file": "02 - to continue.txt"
+        },
+        {
+            "name": "Only one",
+            "alphanumName": "onlyOne",
+            "file": "03 - only one.txt"
+        },
+        {
+            "name": "Near Victory",
+            "alphanumName": "nearVictory",
+            "file": "04 - near victory.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "impossible",
+            "file": "05 - impossible.txt"
+        },
+        {
+            "name": "Strike !!!",
+            "alphanumName": "strike",
+            "file": "06 - strike !!!.txt"
+        },
+        {
+            "name": "A lot",
+            "alphanumName": "aLot",
+            "file": "07 - a lot.txt"
+        },
+        {
+            "name": "A lot bis",
+            "alphanumName": "aLotBis",
+            "file": "08 - a lot bis.txt"
+        }
+    ]
+}

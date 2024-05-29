@@ -1,0 +1,28 @@
+{
+    "path": "easy/ReverseMinesweeper",
+    "name": "Reverse Minesweeper",
+    "alphanumName": "reverseMinesweeper",
+    "link": "https://www.codingame.com/ide/puzzle/reverse-minesweeper",
+    "testConfigurations": [
+        {
+            "name": "One mine",
+            "alphanumName": "oneMine",
+            "file": "01 - one mine.txt"
+        },
+        {
+            "name": "Many mines",
+            "alphanumName": "manyMines",
+            "file": "02 - many mines.txt"
+        },
+        {
+            "name": "Lot of mines",
+            "alphanumName": "lotOfMines",
+            "file": "03 - lot of mines.txt"
+        },
+        {
+            "name": "No mine",
+            "alphanumName": "noMine",
+            "file": "04 - no mine.txt"
+        }
+    ]
+}

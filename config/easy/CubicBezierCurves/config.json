@@ -1,0 +1,38 @@
+{
+    "path": "easy/CubicBezierCurves",
+    "name": "Cubic Bézier curves",
+    "alphanumName": "cubicBezierCurves",
+    "link": "https://www.codingame.com/ide/puzzle/cubic-bezier-curves",
+    "testConfigurations": [
+        {
+            "name": "Simple with low resolution",
+            "alphanumName": "simpleWithLowResolution",
+            "file": "01 - simple with low resolution.txt"
+        },
+        {
+            "name": "Inverted control points",
+            "alphanumName": "invertedControlPoints",
+            "file": "02 - inverted control points.txt"
+        },
+        {
+            "name": "Close loop",
+            "alphanumName": "closeLoop",
+            "file": "03 - close loop.txt"
+        },
+        {
+            "name": "Only extremes",
+            "alphanumName": "onlyExtremes",
+            "file": "04 - only extremes.txt"
+        },
+        {
+            "name": "High resolution",
+            "alphanumName": "highResolution",
+            "file": "05 - high resolution.txt"
+        },
+        {
+            "name": "High resolution 2",
+            "alphanumName": "highResolution2",
+            "file": "06 - high resolution 2.txt"
+        }
+    ]
+}

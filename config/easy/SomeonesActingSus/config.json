@@ -1,0 +1,28 @@
+{
+    "path": "easy/SomeonesActingSus",
+    "name": "Someone’s Acting Sus....",
+    "alphanumName": "someonesActingSus",
+    "link": "https://www.codingame.com/ide/puzzle/someones-acting-sus----",
+    "testConfigurations": [
+        {
+            "name": "basic sus inspection",
+            "alphanumName": "basicSusInspection",
+            "file": "01 - basic sus inspection.txt"
+        },
+        {
+            "name": "Can you handle number signs?",
+            "alphanumName": "canYouHandleNumberSigns",
+            "file": "02 - can you handle number signs.txt"
+        },
+        {
+            "name": "Your hacks kinda broke :)",
+            "alphanumName": "yourHacksKindaBroke",
+            "file": "03 - your hacks kinda broke.txt"
+        },
+        {
+            "name": "The Big Data Test",
+            "alphanumName": "theBigDataTest",
+            "file": "04 - the big data test.txt"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "path": "easy/MountainMapConvergence",
+    "name": "Mountain Map Convergence",
+    "alphanumName": "mountainMapConvergence",
+    "link": "https://www.codingame.com/ide/puzzle/mountain-map-convergence",
+    "testConfigurations": [
+        {
+            "name": "Familiar",
+            "alphanumName": "familiar",
+            "file": "01 - familiar.txt"
+        },
+        {
+            "name": "Wait i was correct on the last one",
+            "alphanumName": "waitIWasCorrectOnTheLastOne",
+            "file": "02 - wait i was correct on the last one.txt"
+        },
+        {
+            "name": "Twin Peaks",
+            "alphanumName": "twinPeaks",
+            "file": "03 - twin peaks.txt"
+        },
+        {
+            "name": "Negatives",
+            "alphanumName": "negatives",
+            "file": "04 - negatives.txt"
+        },
+        {
+            "name": "Tricky Negatives",
+            "alphanumName": "trickyNegatives",
+            "file": "05 - tricky negatives.txt"
+        },
+        {
+            "name": "More Tricky Negatives",
+            "alphanumName": "moreTrickyNegatives",
+            "file": "06 - more tricky negatives.txt"
+        },
+        {
+            "name": "Crazy Mountains",
+            "alphanumName": "crazyMountains",
+            "file": "07 - crazy mountains.txt"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "path": "easy/WhatsSoComplexAboutMandelbrot",
+    "name": "What’s so complex about Mandelbrot?",
+    "alphanumName": "whatsSoComplexAboutMandelbrot",
+    "link": "https://www.codingame.com/ide/puzzle/whats-so-complex-about-mandelbrot",
+    "testConfigurations": [
+        {
+            "name": "Real out",
+            "alphanumName": "realOut",
+            "file": "01 - real out.txt"
+        },
+        {
+            "name": "Imaginary out",
+            "alphanumName": "imaginaryOut",
+            "file": "02 - imaginary out.txt"
+        },
+        {
+            "name": "Real in",
+            "alphanumName": "realIn",
+            "file": "03 - real in.txt"
+        },
+        {
+            "name": "Imaginary in",
+            "alphanumName": "imaginaryIn",
+            "file": "04 - imaginary in.txt"
+        },
+        {
+            "name": "Complex out",
+            "alphanumName": "complexOut",
+            "file": "05 - complex out.txt"
+        },
+        {
+            "name": "Complex in",
+            "alphanumName": "complexIn",
+            "file": "06 - complex in.txt"
+        },
+        {
+            "name": "Check your absolute value",
+            "alphanumName": "checkYourAbsoluteValue",
+            "file": "07 - check your absolute value.txt"
+        }
+    ]
+}

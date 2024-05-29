@@ -1,0 +1,28 @@
+{
+    "path": "easy/NGRBasicRadar",
+    "name": "NGR - Basic Radar",
+    "alphanumName": "NGRBasicRadar",
+    "link": "https://www.codingame.com/ide/puzzle/1--ngr---basic-radar",
+    "testConfigurations": [
+        {
+            "name": "Low Density, 1 Ticket",
+            "alphanumName": "lowDensity1Ticket",
+            "file": "01 - low density, 1 ticket.txt"
+        },
+        {
+            "name": "Low Density, Many Ticket",
+            "alphanumName": "lowDensityManyTicket",
+            "file": "02 - low density, many ticket.txt"
+        },
+        {
+            "name": "Medium Density",
+            "alphanumName": "mediumDensity",
+            "file": "03 - medium density.txt"
+        },
+        {
+            "name": "Test 4",
+            "alphanumName": "test4",
+            "file": "04 - test 4.txt"
+        }
+    ]
+}

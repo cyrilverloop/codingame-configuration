@@ -1,0 +1,33 @@
+{
+    "path": "easy/CosmicLove",
+    "name": "Cosmic Love",
+    "alphanumName": "cosmicLove",
+    "link": "https://www.codingame.com/ide/puzzle/cosmic-love",
+    "testConfigurations": [
+        {
+            "name": "One haven",
+            "alphanumName": "oneHaven",
+            "file": "01 - one haven.txt"
+        },
+        {
+            "name": "Happy Alice",
+            "alphanumName": "happyAlice",
+            "file": "02 - happy Alice.txt"
+        },
+        {
+            "name": "Hungry Alice",
+            "alphanumName": "hungryAlice",
+            "file": "03 - hungry Alice.txt"
+        },
+        {
+            "name": "So Many Options",
+            "alphanumName": "soManyOptions",
+            "file": "04 - so many options.txt"
+        },
+        {
+            "name": "The Event Horizon",
+            "alphanumName": "theEventHorizon",
+            "file": "05 - the event horizon.txt"
+        }
+    ]
+}

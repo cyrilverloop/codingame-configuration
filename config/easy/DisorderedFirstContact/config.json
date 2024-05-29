@@ -1,0 +1,33 @@
+{
+    "path": "easy/DisorderedFirstContact",
+    "name": "Disordered First Contact",
+    "alphanumName": "disorderedFirstContact",
+    "link": "https://www.codingame.com/ide/puzzle/disordered-first-contact",
+    "testConfigurations": [
+        {
+            "name": "Simple decoding",
+            "alphanumName": "simpleDecoding",
+            "file": "01 - simple decoding"
+        },
+        {
+            "name": "Simple encoding",
+            "alphanumName": "simpleEncoding",
+            "file": "02 - simple encoding.txt"
+        },
+        {
+            "name": "Multiple decoding",
+            "alphanumName": "multipleDecoding",
+            "file": "03 - multiple decoding.txt"
+        },
+        {
+            "name": "Multiple encoding",
+            "alphanumName": "multipleEncoding",
+            "file": "04 - multiple encoding.txt"
+        },
+        {
+            "name": "Long string",
+            "alphanumName": "longString",
+            "file": "05 - long string.txt"
+        }
+    ]
+}

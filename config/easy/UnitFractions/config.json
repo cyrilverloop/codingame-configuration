@@ -1,0 +1,43 @@
+{
+    "path": "easy/UnitFractions",
+    "name": "Unit Fractions",
+    "alphanumName": "unitFractions",
+    "link": "https://www.codingame.com/ide/puzzle/unit-fractions",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "12",
+            "alphanumName": "twelve",
+            "file": "02 - 12.txt"
+        },
+        {
+            "name": "17",
+            "alphanumName": "seventeen",
+            "file": "03 - 17.txt"
+        },
+        {
+            "name": "100",
+            "alphanumName": "aHundred",
+            "file": "04 - 100.txt"
+        },
+        {
+            "name": "9999",
+            "alphanumName": "nine999",
+            "file": "05 - 9999.txt"
+        },
+        {
+            "name": "71339",
+            "alphanumName": "seven1339",
+            "file": "06 - 71339.txt"
+        },
+        {
+            "name": "104027",
+            "alphanumName": "one04027",
+            "file": "07 - 104027.txt"
+        }
+    ]
+}

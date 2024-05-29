@@ -1,0 +1,43 @@
+{
+    "path": "easy/BinaryImage",
+    "name": "Binary image",
+    "alphanumName": "binaryImage",
+    "link": "https://www.codingame.com/ide/puzzle/binary-image",
+    "testConfigurations": [
+        {
+            "name": "Vertical stripes",
+            "alphanumName": "verticalStripes",
+            "file": "01 - vertical stripes.txt"
+        },
+        {
+            "name": "Starting by 0",
+            "alphanumName": "startingBy0",
+            "file": "02 - starting by 0.txt"
+        },
+        {
+            "name": "Chess board",
+            "alphanumName": "chessBoard",
+            "file": "03 - chess board.txt"
+        },
+        {
+            "name": "Horizontal stripes",
+            "alphanumName": "horizontalStripes",
+            "file": "04 - horizontal stripes.txt"
+        },
+        {
+            "name": "Codingame",
+            "alphanumName": "codingame",
+            "file": "05 - codingame.txt"
+        },
+        {
+            "name": "Invalid",
+            "alphanumName": "invalid",
+            "file": "06 - invalid.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "random",
+            "file": "07 - random.txt"
+        }
+    ]
+}

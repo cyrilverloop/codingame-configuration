@@ -1,0 +1,33 @@
+{
+    "path": "easy/TheMichelangeloCode",
+    "name": "The Michelangelo Code",
+    "alphanumName": "theMichelangeloCode",
+    "link": "https://www.codingame.com/ide/puzzle/the-michelangelo-code",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "Where to begin",
+            "alphanumName": "whereToBegin",
+            "file": "02 - where to begin.txt"
+        },
+        {
+            "name": "Be punctual",
+            "alphanumName": "bePunctual",
+            "file": "03 - be punctual.txt"
+        },
+        {
+            "name": "Tempus fugit",
+            "alphanumName": "tempusFugit",
+            "file": "04 - tempus fugit.txt"
+        },
+        {
+            "name": "I Have No Mouth",
+            "alphanumName": "iHaveNoMouth",
+            "file": "05 - i have no mouth.txt"
+        }
+    ]
+}

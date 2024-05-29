@@ -1,0 +1,33 @@
+{
+    "path": "easy/DeadMensShot",
+    "name": "Dead men’s shot",
+    "alphanumName": "deadMensShot",
+    "link": "https://www.codingame.com/ide/puzzle/dead-mens-shot",
+    "testConfigurations": [
+        {
+            "name": "Square",
+            "alphanumName": "square",
+            "file": "01 - square.txt"
+        },
+        {
+            "name": "Triangle",
+            "alphanumName": "triangle",
+            "file": "02 - triangle.txt"
+        },
+        {
+            "name": "Five corners",
+            "alphanumName": "fiveCorners",
+            "file": "03 - five corners.txt"
+        },
+        {
+            "name": "Six sides",
+            "alphanumName": "sixSides",
+            "file": "04 - six sides.txt"
+        },
+        {
+            "name": "Ten sides",
+            "alphanumName": "tenSides",
+            "file": "05 - ten sides.txt"
+        }
+    ]
+}

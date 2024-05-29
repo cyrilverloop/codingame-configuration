@@ -1,0 +1,28 @@
+{
+    "path": "easy/RooksMovements",
+    "name": "Rooks Movements",
+    "alphanumName": "rooksMovements",
+    "link": "https://www.codingame.com/ide/puzzle/rooks-movements",
+    "testConfigurations": [
+        {
+            "name": "MOVING FREELY",
+            "alphanumName": "movingFreely",
+            "file": "01 - MOVING FREELY.txt"
+        },
+        {
+            "name": "CLOSE TO THE EDGE",
+            "alphanumName": "closeToTheEdge",
+            "file": "02 - CLOSE TO THE EDGE.txt"
+        },
+        {
+            "name": "ONLY ALLIES",
+            "alphanumName": "onlyAllies",
+            "file": "03 - ONLY ALLIES.txt"
+        },
+        {
+            "name": "FOR FRODOOO",
+            "alphanumName": "forFrodooo",
+            "file": "04 - FOR FRODOOO.txt"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "path": "easy/NoMorePythonsPlease",
+    "name": "No More Pythons, Please!",
+    "alphanumName": "noMorePythonsPlease",
+    "link": "https://www.codingame.com/ide/puzzle/no-more-pythons-please",
+    "testConfigurations": [
+        {
+            "name": "Easy (One Snake)",
+            "alphanumName": "easyOneSnake",
+            "file": "01 - easy (one snake).txt"
+        },
+        {
+            "name": "Medium 1 (3 Snakes, One Pattern)",
+            "alphanumName": "medium13SnakesOnePattern",
+            "file": "02 - medium 1 (3 snakes, one pattern).txt"
+        },
+        {
+            "name": "Medium 2 (More than 1 large snake)",
+            "alphanumName": "medium2MoreThan1LargeSnake",
+            "file": "03 - medium 2 (more than 1 large snake).txt"
+        },
+        {
+            "name": "Hard (One VERY large snake)",
+            "alphanumName": "hardOneVERYLargeSnake",
+            "file": "04 - hard (one VERY large snake).txt"
+        },
+        {
+            "name": "Snake Madness (for Geeks)",
+            "alphanumName": "snakeMadnessForGeeks",
+            "file": "05 - snake madness (for geeks).txt"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "path": "easy/NumberDerivation",
+    "name": "Number derivation",
+    "alphanumName": "numberDerivation",
+    "link": "https://www.codingame.com/ide/puzzle/number-derivation",
+    "testConfigurations": [
+        {
+            "name": "Prime number",
+            "alphanumName": "primeNumber",
+            "file": "01 - prime number.txt"
+        },
+        {
+            "name": "Power of prime",
+            "alphanumName": "powerOfPrime",
+            "file": "02 - power of prime.txt"
+        },
+        {
+            "name": "Product of primes",
+            "alphanumName": "productOfPrimes",
+            "file": "03 - product of primes.txt"
+        },
+        {
+            "name": "Integer",
+            "alphanumName": "integer",
+            "file": "04 - integer.txt"
+        },
+        {
+            "name": "n’=n",
+            "alphanumName": "nn",
+            "file": "05 - n’=n.txt"
+        }
+    ]
+}

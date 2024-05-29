@@ -1,0 +1,28 @@
+{
+    "path": "easy/MarkovTextGeneration",
+    "name": "Markov Text Generation",
+    "alphanumName": "markovTextGeneration",
+    "link": "https://www.codingame.com/ide/puzzle/markov-text-generation",
+    "testConfigurations": [
+        {
+            "name": "Fish Example depth 2",
+            "alphanumName": "fishExampleDepth2",
+            "file": "01 - fish example depth 2.txt"
+        },
+        {
+            "name": "Fish Example depth 1",
+            "alphanumName": "fishExampleDepth1",
+            "file": "02 - fish example depth 1.txt"
+        },
+        {
+            "name": "Width 2",
+            "alphanumName": "width2",
+            "file": "03 - width 2.txt"
+        },
+        {
+            "name": "Width 3",
+            "alphanumName": "width3",
+            "file": "04 - width 3.txt"
+        }
+    ]
+}

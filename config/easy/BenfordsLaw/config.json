@@ -1,0 +1,38 @@
+{
+    "path": "easy/BenfordsLaw",
+    "name": "Benford’s law",
+    "alphanumName": "benfordsLaw",
+    "link": "https://www.codingame.com/ide/puzzle/benfords-law",
+    "testConfigurations": [
+        {
+            "name": "Regular account",
+            "alphanumName": "regularAccount",
+            "file": "01 - regular account.txt"
+        },
+        {
+            "name": "Fake account (lot’s of numbers starting with 1)",
+            "alphanumName": "fakeAccount",
+            "file": "02 - fake account (lot’s of numbers starting with 1).txt"
+        },
+        {
+            "name": "Fake account (equidistributed)",
+            "alphanumName": "fakeAccountEquidistributed",
+            "file": "03 - fake account (equidistributed).txt"
+        },
+        {
+            "name": "«Adjusted» account",
+            "alphanumName": "adjustedAccount",
+            "file": "04 - «adjusted» account.txt"
+        },
+        {
+            "name": "Regular, less transactions",
+            "alphanumName": "regularLessTransactions",
+            "file": "05 - regular less transactions.txt"
+        },
+        {
+            "name": "Fake account (equidistributed)",
+            "alphanumName": "fakeAccountEquidistributed2",
+            "file": "06 - fake account (equidistributed).txt"
+        }
+    ]
+}

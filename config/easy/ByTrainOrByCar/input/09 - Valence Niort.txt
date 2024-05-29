@@ -1,0 +1,20 @@
+Valence Niort
+18
+Valence Lamastre 42
+Lamastre Lafarre 23.6
+Lafarre Tence 32.5
+Tence Beaux 27.7
+Beaux Tiranges 24
+Tiranges Apinac 9.4
+Apinac Marols 19.9
+Marols Bard 25.3
+Bard Lerigneux 5
+Lerigneux Champdieu 15
+Champdieu Pralong 4.6
+Pralong Trelins 9.6
+Trelins Palogneux 12
+Palogneux Vichy 77.7
+Vichy Moulins 56.8
+Moulins Angouleme 316
+Lissac Loudes 8.1
+Angouleme Niort 121

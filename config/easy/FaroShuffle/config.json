@@ -1,0 +1,28 @@
+{
+    "path": "easy/FaroShuffle",
+    "name": "Faro shuffle",
+    "alphanumName": "faroShuffle",
+    "link": "https://www.codingame.com/ide/puzzle/faro-shuffle",
+    "testConfigurations": [
+        {
+            "name": "Aces",
+            "alphanumName": "aces",
+            "file": "01 - aces.txt"
+        },
+        {
+            "name": "Odd number of cards",
+            "alphanumName": "oddNumberOfCards",
+            "file": "02 - odd number of cards.txt"
+        },
+        {
+            "name": "Multiple shuffles",
+            "alphanumName": "multipleShuffles",
+            "file": "03 - multiple shuffles.txt"
+        },
+        {
+            "name": "Fresh deck",
+            "alphanumName": "freshDeck",
+            "file": "04 - fresh deck.txt"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "path": "easy/SimpleAutoScaling",
+    "name": "Simple auto-scaling",
+    "alphanumName": "simpleAutoScaling",
+    "link": "https://www.codingame.com/ide/puzzle/simple-auto-scaling",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Slow Start",
+            "alphanumName": "slowStart",
+            "file": "02 - slow start.txt"
+        },
+        {
+            "name": "Medium",
+            "alphanumName": "medium",
+            "file": "03 - medium.txt"
+        },
+        {
+            "name": "Lot of services",
+            "alphanumName": "lotOfServices",
+            "file": "04 - lot of services.txt"
+        },
+        {
+            "name": "One service",
+            "alphanumName": "oneService",
+            "file": "05 - one service.txt"
+        }
+    ]
+}

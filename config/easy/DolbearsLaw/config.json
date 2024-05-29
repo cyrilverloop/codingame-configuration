@@ -1,0 +1,38 @@
+{
+    "path": "easy/DolbearsLaw",
+    "name": "Dolbear’s Law",
+    "alphanumName": "dolbearsLaw",
+    "link": "https://www.codingame.com/ide/puzzle/dolbears-law",
+    "testConfigurations": [
+        {
+            "name": "The random is in the spring",
+            "alphanumName": "theRandomIsInTheSpring",
+            "file": "01 - the random is in the spring.txt"
+        },
+        {
+            "name": "Winter is coming",
+            "alphanumName": "winterIsComing",
+            "file": "02 - winter is coming.txt"
+        },
+        {
+            "name": "Jiminy beats the measure",
+            "alphanumName": "jiminyBeatsTheMeasure",
+            "file": "03 - jiminy beats the measure.txt"
+        },
+        {
+            "name": "Jiminy nearly died of cold...",
+            "alphanumName": "jiminyNearlyDiedOfCold",
+            "file": "04 - jiminy nearly died of cold.txt"
+        },
+        {
+            "name": "An hour in summer",
+            "alphanumName": "anHourInSummer",
+            "file": "05 - an hour in summer.txt"
+        },
+        {
+            "name": "30 minutes of heat wave",
+            "alphanumName": "thirtyMinutesOfHeatWave",
+            "file": "06 - 30 minutes of heat wave.txt"
+        }
+    ]
+}
