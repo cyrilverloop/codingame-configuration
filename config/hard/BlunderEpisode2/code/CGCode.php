@@ -1,8 +1,8 @@
 <?php
-fscanf($stdin, "%d", $N);
+fscanf(STDIN, "%d", $N);
 for ($i = 0; $i < $N; $i++)
 {
-    $room = stream_get_line($stdin, 256 + 1, "\n");
+    $room = stream_get_line(STDIN, 256 + 1, "\n");
 }
 
 // Write an answer using echo(). DON'T FORGET THE TRAILING \n

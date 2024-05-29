@@ -1,9 +1,9 @@
 <?php
-fscanf($stdin, "%d", $N);
-fscanf($stdin, "%d", $C);
+fscanf(STDIN, "%d", $N);
+fscanf(STDIN, "%d", $C);
 for ($i = 0; $i < $N; $i++)
 {
-    fscanf($stdin, "%d", $B);
+    fscanf(STDIN, "%d", $B);
 }
 
 // Write an answer using echo(). DON'T FORGET THE TRAILING \n

@@ -1,9 +1,9 @@
 <?php
-fscanf($stdin, "%s", $LON);
-fscanf($stdin, "%s", $LAT);
-fscanf($stdin, "%d", $N);
+fscanf(STDIN, "%s", $LON);
+fscanf(STDIN, "%s", $LAT);
+fscanf(STDIN, "%d", $N);
 for ($i = 0; $i < $N; $i++) {
-    $DEFIB = stream_get_line($stdin, 256 + 1, "\n");
+    $DEFIB = stream_get_line(STDIN, 256 + 1, "\n");
 }
 
 // Write an answer using echo(). DON'T FORGET THE TRAILING \n

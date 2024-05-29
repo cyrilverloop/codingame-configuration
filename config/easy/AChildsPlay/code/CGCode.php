@@ -1,9 +1,9 @@
 <?php
-fscanf($stdin, "%d %d", $w, $h);
-fscanf($stdin, "%d", $n);
+fscanf(STDIN, "%d %d", $w, $h);
+fscanf(STDIN, "%d", $n);
 for ($i = 0; $i < $h; $i++)
 {
-    $line = stream_get_line($stdin, 500 + 1, "\n");
+    $line = stream_get_line(STDIN, 500 + 1, "\n");
 }
 
 // Write an answer using echo(). DON'T FORGET THE TRAILING \n

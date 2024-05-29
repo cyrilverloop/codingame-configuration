@@ -1,15 +1,15 @@
 <?php
-fscanf($stdin, "%s", $startPoint);
-fscanf($stdin, "%s", $endPoint);
-fscanf($stdin, "%d", $N);
+fscanf(STDIN, "%s", $startPoint);
+fscanf(STDIN, "%s", $endPoint);
+fscanf(STDIN, "%d", $N);
 for ($i = 0; $i < $N; $i++)
 {
-    $stopName = stream_get_line($stdin, 256 + 1, "\n");
+    $stopName = stream_get_line(STDIN, 256 + 1, "\n");
 }
-fscanf($stdin, "%d", $M);
+fscanf(STDIN, "%d", $M);
 for ($i = 0; $i < $M; $i++)
 {
-    $route = stream_get_line($stdin, 256 + 1, "\n");
+    $route = stream_get_line(STDIN, 256 + 1, "\n");
 }
 
 // Write an answer using echo(). DON'T FORGET THE TRAILING \n

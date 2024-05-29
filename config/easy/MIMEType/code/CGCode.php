@@ -1,15 +1,15 @@
 <?php
 // $N: Number of elements which make up the association table.
-fscanf($stdin, "%d", $N);
+fscanf(STDIN, "%d", $N);
 // $Q: Number Q of file names to be analyzed.
-fscanf($stdin, "%d", $Q);
+fscanf(STDIN, "%d", $Q);
 for ($i = 0; $i < $N; $i++) {
     // $EXT: file extension
     // $MT: MIME type.
-    fscanf($stdin, "%s %s", $EXT, $MT);
+    fscanf(STDIN, "%s %s", $EXT, $MT);
 }
 for ($i = 0; $i < $Q; $i++) {
-    $FNAME = stream_get_line($stdin, 256 + 1, "\n");// One file name per line.
+    $FNAME = stream_get_line(STDIN, 256 + 1, "\n");// One file name per line.
 }
 
 // Write an answer using echo(). DON'T FORGET THE TRAILING \n

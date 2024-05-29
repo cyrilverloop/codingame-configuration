@@ -1,7 +1,7 @@
 <?php
-fscanf($stdin, "%d %d", $M, $N);
-fscanf($stdin, "%d", $t);
-$inputs = explode(" ", fgets($stdin));
+fscanf(STDIN, "%d %d", $M, $N);
+fscanf(STDIN, "%d", $t);
+$inputs = explode(" ", fgets(STDIN));
 for ($i = 0; $i < $t; $i++)
 {
     $choices = intval($inputs[$i]);

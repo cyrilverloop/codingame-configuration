@@ -1,8 +1,8 @@
 <?php
-fscanf($stdin, "%d", $N);
+fscanf(STDIN, "%d", $N);
 for ($i = 0; $i < $N; $i++)
 {
-    fscanf($stdin, "%d %d", $X, $Y);
+    fscanf(STDIN, "%d %d", $X, $Y);
 }
 
 // Write an answer using echo(). DON'T FORGET THE TRAILING \n

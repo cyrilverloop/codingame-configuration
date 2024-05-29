@@ -1,8 +1,8 @@
 <?php
-fscanf($stdin, "%d", $N);
+fscanf(STDIN, "%d", $N);
 for ($i = 0; $i < $N; $i++)
 {
-    $cgxLine = stream_get_line($stdin, 1000 + 1, "\n");
+    $cgxLine = stream_get_line(STDIN, 1000 + 1, "\n");
 }
 
 // Write an answer using echo(). DON'T FORGET THE TRAILING \n
