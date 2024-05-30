@@ -1,7 +1,7 @@
 {
     "path": "easy/TenPinBowlingScores",
     "name": "10 pin Bowling Scores",
-    "alphanumName": "10PinBowlingScores",
+    "alphanumName": "tenPinBowlingScores",
     "link": "https://www.codingame.com/ide/puzzle/10-pin-bowling-scores",
     "testConfigurations": [
         {

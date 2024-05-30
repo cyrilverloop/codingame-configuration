@@ -6,12 +6,12 @@
     "testConfigurations": [
         {
             "name": "2 Answers and 1 Missing",
-            "alphanumName": "2AnswersAnd1Missing",
+            "alphanumName": "twoAnswersAnd1Missing",
             "file": "01 - 2 answers and 1 missing.txt"
         },
         {
             "name": "5 Answers and 3 Missing",
-            "alphanumName": "5AnswersAnd3Missing",
+            "alphanumName": "fiveAnswersAnd3Missing",
             "file": "02 - 5 answers and 3 missing.txt"
         },
         {
@@ -21,7 +21,7 @@
         },
         {
             "name": "6 Answers, 6 Missing",
-            "alphanumName": "6Answers6Missing",
+            "alphanumName": "sixAnswers6Missing",
             "file": "04 - 6 answers, 6 missing.txt"
         },
         {

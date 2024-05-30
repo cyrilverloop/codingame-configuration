@@ -6,7 +6,7 @@
     "testConfigurations": [
         {
             "name": "1 player",
-            "alphanumName": "1Player",
+            "alphanumName": "onePlayer",
             "file": "01 - 1 player.txt"
         },
         {
