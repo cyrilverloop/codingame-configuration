@@ -1,0 +1,33 @@
+{
+    "path": "medium/Gravity",
+    "name": "Gravity",
+    "alphanumName": "gravity",
+    "link": "https://www.codingame.com/ide/puzzle/gravity",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "One fall",
+            "alphanumName": "oneFall",
+            "file": "02 - one fall.txt"
+        },
+        {
+            "name": "Single",
+            "alphanumName": "single",
+            "file": "03 - single.txt"
+        },
+        {
+            "name": "CodinGame",
+            "alphanumName": "CodinGame",
+            "file": "04 - CodinGame.txt"
+        },
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "05 - simple.txt"
+        }
+    ]
+}

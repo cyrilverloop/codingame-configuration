@@ -1,0 +1,58 @@
+{
+    "path": "medium/SeamCarving",
+    "name": "Seam Carving",
+    "alphanumName": "seamCarving",
+    "link": "https://www.codingame.com/ide/puzzle/seam-carving",
+    "testConfigurations": [
+        {
+            "name": "Height 8 & Width -1",
+            "alphanumName": "height8AndWidthMinus1",
+            "file": "01 - height 8 & width -1.txt"
+        },
+        {
+            "name": "Height 11 & Width -1",
+            "alphanumName": "height11AndWidthMinus1",
+            "file": "02 - height 11 & width -1.txt"
+        },
+        {
+            "name": "Height 16 & Width -2",
+            "alphanumName": "height16AndWidthMinus2",
+            "file": "03 - height 16 & width -2.txt"
+        },
+        {
+            "name": "Height 19 & Width -3",
+            "alphanumName": "height19AndWidthMinus3",
+            "file": "04 - height 19 & width -3.txt"
+        },
+        {
+            "name": "Height 35 & Width -10",
+            "alphanumName": "height35AndWidthMinus10",
+            "file": "05 - height 35 & width -10.txt"
+        },
+        {
+            "name": "Height 37 & Width -15",
+            "alphanumName": "height37AndWidthMinus15",
+            "file": "06 - height 37 & width -15.txt"
+        },
+        {
+            "name": "Height 60 & Width -20",
+            "alphanumName": "height60AndWidthMinus20",
+            "file": "07 - height 60 & width -20.txt"
+        },
+        {
+            "name": "Height 27 & Width -25",
+            "alphanumName": "height27AndWidthMinus25",
+            "file": "08 - height 27 & width -25.txt"
+        },
+        {
+            "name": "Height 38 & Width -25",
+            "alphanumName": "height38AndWidthMinus25",
+            "file": "09 - height 38 & width -25.txt"
+        },
+        {
+            "name": "Height 35 & Width -30",
+            "alphanumName": "height35AndWidthMinus30",
+            "file": "10 - height 35 & width -30.txt"
+        }
+    ]
+}

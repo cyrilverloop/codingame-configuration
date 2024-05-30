@@ -1,0 +1,58 @@
+{
+    "path": "medium/RoadTrip",
+    "name": "Road Trip",
+    "alphanumName": "roadTrip",
+    "link": "https://www.codingame.com/ide/puzzle/road-trip",
+    "testConfigurations": [
+        {
+            "name": "Few real friends",
+            "alphanumName": "fewRealFriends",
+            "file": "01 - few real friends.txt"
+        },
+        {
+            "name": "Only fake friends",
+            "alphanumName": "onlyFakeFriends",
+            "file": "02 - only fake friends.txt"
+        },
+        {
+            "name": "Useless fake friends",
+            "alphanumName": "uselessFakeFriends",
+            "file": "03 - useless fake friends.txt"
+        },
+        {
+            "name": "Necessary fake friends",
+            "alphanumName": "necessaryFakeFriends",
+            "file": "04 - necessary fake friends.txt"
+        },
+        {
+            "name": "Forever alone",
+            "alphanumName": "foreverAlone",
+            "file": "05 - forever alone.txt"
+        },
+        {
+            "name": "No base cost",
+            "alphanumName": "noBaseCost",
+            "file": "06 - no base cost.txt"
+        },
+        {
+            "name": "Only base cost",
+            "alphanumName": "onlyBaseCost",
+            "file": "07 - only base cost.txt"
+        },
+        {
+            "name": "Free trip!",
+            "alphanumName": "freeTrip",
+            "file": "08 - free trip!.txt"
+        },
+        {
+            "name": "Many real friends",
+            "alphanumName": "manyRealFriends",
+            "file": "09 - many real friends.txt"
+        },
+        {
+            "name": "Many friends",
+            "alphanumName": "manyFriends",
+            "file": "10 - many friends.txt"
+        }
+    ]
+}

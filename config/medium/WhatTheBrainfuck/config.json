@@ -1,0 +1,48 @@
+{
+    "path": "medium/WhatTheBrainfuck",
+    "name": "What the Brainfuck !",
+    "alphanumName": "whatTheBrainfuck",
+    "link": "https://www.codingame.com/ide/puzzle/what-the-brainfuck",
+    "testConfigurations": [
+        {
+            "name": "A simple start",
+            "alphanumName": "aSimpleStart",
+            "file": "01 - a simple start.txt"
+        },
+        {
+            "name": "Hello World!",
+            "alphanumName": "helloWorld",
+            "file": "02 - hello world!.txt"
+        },
+        {
+            "name": "Inputs multiplication",
+            "alphanumName": "inputsMultiplication",
+            "file": "03 - inputs multiplication.txt"
+        },
+        {
+            "name": "Noisy code",
+            "alphanumName": "noisyCode",
+            "file": "04 - noisy code.txt"
+        },
+        {
+            "name": "Pointer out of bounds",
+            "alphanumName": "pointerOutOfBounds",
+            "file": "05 - pointer out of bounds.txt"
+        },
+        {
+            "name": "Incorrect value",
+            "alphanumName": "incorrectValue",
+            "file": "06 - incorrect value.txt"
+        },
+        {
+            "name": "Syntax error",
+            "alphanumName": "syntaxError",
+            "file": "07 - syntax error.txt"
+        },
+        {
+            "name": "Multiple errors",
+            "alphanumName": "multipleErrors",
+            "file": "08 - multiple errors.txt"
+        }
+    ]
+}

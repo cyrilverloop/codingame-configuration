@@ -1,0 +1,33 @@
+{
+    "path": "medium/BitCountToLimit",
+    "name": "Bit count to limit",
+    "alphanumName": "bitCountToLimit",
+    "link": "https://www.codingame.com/ide/puzzle/bit-count-to-limit",
+    "testConfigurations": [
+        {
+            "name": "Simple one",
+            "alphanumName": "simpleOne",
+            "file": "01 - simple one.txt"
+        },
+        {
+            "name": "A bit more",
+            "alphanumName": "aBitMore",
+            "file": "02 - a bit more.txt"
+        },
+        {
+            "name": "And > 100 ?",
+            "alphanumName": "andGreaterThan100",
+            "file": "03 - and greater than 100.txt"
+        },
+        {
+            "name": "Million ?",
+            "alphanumName": "million",
+            "file": "04 - million.txt"
+        },
+        {
+            "name": "Did you get the trick ?",
+            "alphanumName": "didYouGetTheTrick",
+            "file": "05 - did you get the trick.txt"
+        }
+    ]
+}

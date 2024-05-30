@@ -1,0 +1,53 @@
+{
+    "path": "medium/BracketsEnhancedEdition",
+    "name": "Brackets, Enhanced Edition",
+    "alphanumName": "bracketsEnhancedEdition",
+    "link": "https://www.codingame.com/ide/puzzle/brackets-enhanced-edition",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Extreme",
+            "alphanumName": "extreme",
+            "file": "02 - extreme.txt"
+        },
+        {
+            "name": "Unextreme at little cost",
+            "alphanumName": "unextremeAtLittleCost",
+            "file": "03 - unextreme at little cost.txt"
+        },
+        {
+            "name": "Complex expressions",
+            "alphanumName": "complexExpressions",
+            "file": "04 - complex expressions.txt"
+        },
+        {
+            "name": "What’s your bias?",
+            "alphanumName": "whatsYourBias",
+            "file": "05 - what’s your bias.txt"
+        },
+        {
+            "name": "More complex expressions",
+            "alphanumName": "moreComplexExpressions",
+            "file": "06 - more complex expressions.txt"
+        },
+        {
+            "name": "Ramp up",
+            "alphanumName": "rampUp",
+            "file": "07 - ramp up.txt"
+        },
+        {
+            "name": "Very complex salvageable",
+            "alphanumName": "veryComplexSalvageable",
+            "file": "08 - Very complex salvageable.txt"
+        },
+        {
+            "name": "Very complex unsalvageable",
+            "alphanumName": "veryComplexUnsalvageable",
+            "file": "09 - Very complex unsalvageable.txt"
+        }
+    ]
+}

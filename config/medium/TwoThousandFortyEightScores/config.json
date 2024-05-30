@@ -1,0 +1,43 @@
+{
+    "path": "medium/TwoThousandFortyEightScores",
+    "name": "2048 scores",
+    "alphanumName": "twoThousandFortyEightScores",
+    "link": "https://www.codingame.com/ide/puzzle/2048-scores",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Small Game",
+            "alphanumName": "smallGame",
+            "file": "02 - small game.txt"
+        },
+        {
+            "name": "Long Game",
+            "alphanumName": "longGame",
+            "file": "03 - long game.txt"
+        },
+        {
+            "name": "Big Numbers",
+            "alphanumName": "bigNumbers",
+            "file": "04 - big numbers.txt"
+        },
+        {
+            "name": "Game Over",
+            "alphanumName": "gameOver",
+            "file": "05 - game over.txt"
+        },
+        {
+            "name": "Beyond 2048",
+            "alphanumName": "beyond2048",
+            "file": "06 - beyond 2048.txt"
+        },
+        {
+            "name": "No Hard Coding!",
+            "alphanumName": "noHardCoding",
+            "file": "07 - no hard coding!.txt"
+        }
+    ]
+}

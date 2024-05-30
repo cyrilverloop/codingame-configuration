@@ -1,0 +1,33 @@
+{
+    "path": "medium/VoteCounting",
+    "name": "Vote counting",
+    "alphanumName": "voteCounting",
+    "link": "https://www.codingame.com/ide/puzzle/vote-counting",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Invalid voter",
+            "alphanumName": "invalidVoter",
+            "file": "02 - invalid voter.txt"
+        },
+        {
+            "name": "Too many votes",
+            "alphanumName": "tooManyVotes",
+            "file": "03 - too many votes.txt"
+        },
+        {
+            "name": "Maybe vote",
+            "alphanumName": "maybeVote",
+            "file": "04 - maybe vote.txt"
+        },
+        {
+            "name": "Complex",
+            "alphanumName": "complex",
+            "file": "05 - complex.txt"
+        }
+    ]
+}

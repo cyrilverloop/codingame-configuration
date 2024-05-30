@@ -1,0 +1,53 @@
+{
+    "path": "medium/ConstrainedLatinSquares",
+    "name": "Constrained Latin Squares",
+    "alphanumName": "constrainedLatinSquares",
+    "link": "https://www.codingame.com/ide/puzzle/constrained-latin-squares",
+    "testConfigurations": [
+        {
+            "name": "3x3 Easy",
+            "alphanumName": "threex3Easy",
+            "file": "01 - 3x3 easy.txt"
+        },
+        {
+            "name": "4x4 Unconstrained",
+            "alphanumName": "fourx4Unconstrained",
+            "file": "02 - 4x4 unconstrained.txt"
+        },
+        {
+            "name": "5x5 Wrong grid",
+            "alphanumName": "fivex5WrongGrid",
+            "file": "03 - 5x5 wrong grid.txt"
+        },
+        {
+            "name": "5x5 Fundamental",
+            "alphanumName": "fivex5Fundamental",
+            "file": "04 - 5x5 fundamental.txt"
+        },
+        {
+            "name": "6x6",
+            "alphanumName": "sixx6",
+            "file": "05 - 6x6.txt"
+        },
+        {
+            "name": "7x7",
+            "alphanumName": "sevenx7",
+            "file": "06 - 7x7.txt"
+        },
+        {
+            "name": "8x8",
+            "alphanumName": "eightx8",
+            "file": "07 - 8x8.txt"
+        },
+        {
+            "name": "9x9",
+            "alphanumName": "ninex9",
+            "file": "08 - 9x9.txt"
+        },
+        {
+            "name": "9x9 Hard",
+            "alphanumName": "ninex9Hard",
+            "file": "09 - 9x9 hard.txt"
+        }
+    ]
+}

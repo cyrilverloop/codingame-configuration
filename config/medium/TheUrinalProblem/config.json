@@ -1,0 +1,28 @@
+{
+    "path": "medium/TheUrinalProblem",
+    "name": "The Urinal Problem",
+    "alphanumName": "theUrinalProblem",
+    "link": "https://www.codingame.com/ide/puzzle/the-urinal-problem",
+    "testConfigurations": [
+        {
+            "name": "Small Bathroom",
+            "alphanumName": "smallBathroom",
+            "file": "01 - small bathroom.txt"
+        },
+        {
+            "name": "School Bathroom",
+            "alphanumName": "schoolBathroom",
+            "file": "02 - school bathroom.txt"
+        },
+        {
+            "name": "Sporting Event",
+            "alphanumName": "sportingEvent",
+            "file": "03 - sporting event.txt"
+        },
+        {
+            "name": "Mostly Empty",
+            "alphanumName": "mostlyEmpty",
+            "file": "04 - mostly empty.txt"
+        }
+    ]
+}

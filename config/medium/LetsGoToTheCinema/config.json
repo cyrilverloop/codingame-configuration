@@ -1,0 +1,58 @@
+{
+    "path": "medium/LetsGoToTheCinema",
+    "name": "Let’s Go To The Cinema!",
+    "alphanumName": "letsGoToTheCinema",
+    "link": "https://www.codingame.com/ide/puzzle/lets-go-to-the-cinema",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Family comes to living room to watch TV",
+            "alphanumName": "familyComesToLivingRoomToWatchTV",
+            "file": "02 - family comes to living room to watch tv.txt"
+        },
+        {
+            "name": "Family TV, but cat is sitting on edge of sofa",
+            "alphanumName": "familyTVButCatIsSittingOnEdgeOfSofa",
+            "file": "03 - family TV, but cat is sitting on edge of sofa.txt"
+        },
+        {
+            "name": "Family TV, but 2 cats are sitting on middle of sofa",
+            "alphanumName": "familyTVBut2CatsAreSittingOnMiddleOfSofa",
+            "file": "04 - family TV, but 2 cats are sitting on middle of sofa.txt"
+        },
+        {
+            "name": "There Ain’t No Problem!",
+            "alphanumName": "thereAintNoProblem",
+            "file": "05 - there ain’t no problem!.txt"
+        },
+        {
+            "name": "We ain’t need no seat numbering!",
+            "alphanumName": "weAintNeedNoSeatNumbering",
+            "file": "06 - we ain’t need no seat numbering!.txt"
+        },
+        {
+            "name": "Small cinema",
+            "alphanumName": "smallCinema",
+            "file": "07 - small cinema.txt"
+        },
+        {
+            "name": "Bigger cinema",
+            "alphanumName": "biggerCinema",
+            "file": "08 - bigger cinema.txt"
+        },
+        {
+            "name": "Chain Reaction",
+            "alphanumName": "chainReaction",
+            "file": "09 - chain reaction.txt"
+        },
+        {
+            "name": "Blind Date",
+            "alphanumName": "blindDate",
+            "file": "10 - blind date.txt"
+        }
+    ]
+}

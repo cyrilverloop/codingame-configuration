@@ -1,0 +1,28 @@
+{
+    "path": "medium/FrogExchange",
+    "name": "Frog Exchange",
+    "alphanumName": "frogExchange",
+    "link": "https://www.codingame.com/ide/puzzle/frog-exchange",
+    "testConfigurations": [
+        {
+            "name": "n=3 m starts left",
+            "alphanumName": "n3MStartsLeft",
+            "file": "01 - n=3 m starts left.txt"
+        },
+        {
+            "name": "n=5 m starts left",
+            "alphanumName": "n5MStartsLeft",
+            "file": "02 - n=5 m starts left.txt"
+        },
+        {
+            "name": "n=11 m starts left",
+            "alphanumName": "n11MStartsLeft",
+            "file": "03 - n=11 m starts left.txt"
+        },
+        {
+            "name": "No frog one stone",
+            "alphanumName": "noFrogOneStone",
+            "file": "04 - no frog one stone.txt"
+        }
+    ]
+}

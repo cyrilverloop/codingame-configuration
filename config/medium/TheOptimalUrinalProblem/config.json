@@ -1,0 +1,48 @@
+{
+    "path": "medium/TheOptimalUrinalProblem",
+    "name": "The Optimal Urinal Problem",
+    "alphanumName": "theOptimalUrinalProblem",
+    "link": "https://www.codingame.com/ide/puzzle/the-optimal-urinal-problem",
+    "testConfigurations": [
+        {
+            "name": "Tiny Toilet",
+            "alphanumName": "tinyToilet",
+            "file": "01 - tiny toilet.txt"
+        },
+        {
+            "name": "Small Toilet",
+            "alphanumName": "smallToilet",
+            "file": "02 - small toilet.txt"
+        },
+        {
+            "name": "Medium-sized Toilet",
+            "alphanumName": "mediumSizedToilet",
+            "file": "03 - medium-sized toilet.txt"
+        },
+        {
+            "name": "It’s not always the first",
+            "alphanumName": "itsNotAlwaystheFirst",
+            "file": "04 - It is not always the first.txt"
+        },
+        {
+            "name": "Huge Toilet",
+            "alphanumName": "hugeToilet",
+            "file": "05 - huge toilet.txt"
+        },
+        {
+            "name": "Toilet Island",
+            "alphanumName": "toiletIsland",
+            "file": "06 - toilet island.txt"
+        },
+        {
+            "name": "Toilet World",
+            "alphanumName": "toiletWorld",
+            "file": "07 - toilet world.txt"
+        },
+        {
+            "name": "Toilet Universe",
+            "alphanumName": "toiletUniverse",
+            "file": "08 - toilet universe.txt"
+        }
+    ]
+}

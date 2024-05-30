@@ -1,0 +1,38 @@
+{
+    "path": "medium/RodCuttingProblem",
+    "name": "Rod cutting problem",
+    "alphanumName": "rodCuttingProblem",
+    "link": "https://www.codingame.com/ide/puzzle/rod-cutting-problem",
+    "testConfigurations": [
+        {
+            "name": "Example test",
+            "alphanumName": "exampleTest",
+            "file": "01 - example test.txt"
+        },
+        {
+            "name": "Same pieces but longer rod",
+            "alphanumName": "samePiecesButLongerRod",
+            "file": "02 - same pieces but longer rod.txt"
+        },
+        {
+            "name": "More pieces",
+            "alphanumName": "morePieces",
+            "file": "03 - more pieces.txt"
+        },
+        {
+            "name": "Big pieces",
+            "alphanumName": "bigPieces",
+            "file": "04 - big pieces.txt"
+        },
+        {
+            "name": "Many pieces",
+            "alphanumName": "manyPieces",
+            "file": "05 - many pieces.txt"
+        },
+        {
+            "name": "Huge rod",
+            "alphanumName": "hugeRod",
+            "file": "06 - huge rod.txt"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "path": "medium/BinarySearchTreeTraversal",
+    "name": "Binary Search Tree Traversal",
+    "alphanumName": "binarySearchTreeTraversal",
+    "link": "https://www.codingame.com/ide/puzzle/binary-search-tree-traversal",
+    "testConfigurations": [
+        {
+            "name": "example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "positive values only",
+            "alphanumName": "positiveValuesOnly",
+            "file": "02 - positive values only.txt"
+        },
+        {
+            "name": "small random values",
+            "alphanumName": "smallRandomValues",
+            "file": "03 - small random values.txt"
+        },
+        {
+            "name": "large random values",
+            "alphanumName": "largeRandomValues",
+            "file": "04 - large random values.txt"
+        },
+        {
+            "name": "more random values",
+            "alphanumName": "moreRandomValues",
+            "file": "05 - more random values.txt"
+        },
+        {
+            "name": "ordered values",
+            "alphanumName": "orderedValues",
+            "file": "06 - ordered values.txt"
+        }
+    ]
+}

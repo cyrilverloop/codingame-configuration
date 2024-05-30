@@ -1,0 +1,53 @@
+{
+    "path": "medium/TheStonemason",
+    "name": "The Stonemason",
+    "alphanumName": "theStonemason",
+    "link": "https://www.codingame.com/ide/puzzle/the-stonemason",
+    "testConfigurations": [
+        {
+            "name": "One",
+            "alphanumName": "one",
+            "file": "01 - one.txt"
+        },
+        {
+            "name": "Three",
+            "alphanumName": "three",
+            "file": "02 - three.txt"
+        },
+        {
+            "name": "Five",
+            "alphanumName": "five",
+            "file": "03 - five.txt"
+        },
+        {
+            "name": "Seven",
+            "alphanumName": "seven",
+            "file": "04 - seven.txt"
+        },
+        {
+            "name": "Nine",
+            "alphanumName": "nine",
+            "file": "05 - nine.txt"
+        },
+        {
+            "name": "Eleven",
+            "alphanumName": "eleven",
+            "file": "06 - eleven.txt"
+        },
+        {
+            "name": "Thirteen",
+            "alphanumName": "thirteen",
+            "file": "07 - thirteen.txt"
+        },
+        {
+            "name": "Fifteen",
+            "alphanumName": "fifteen",
+            "file": "08 - fifteen.txt"
+        },
+        {
+            "name": "Hey hey",
+            "alphanumName": "heyHey",
+            "file": "09 - hey hey.txt"
+        }
+    ]
+}

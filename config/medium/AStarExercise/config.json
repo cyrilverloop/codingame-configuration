@@ -1,0 +1,38 @@
+{
+    "path": "medium/AStarExercise",
+    "name": "A-star exercise",
+    "alphanumName": "aStarExercise",
+    "link": "https://www.codingame.com/ide/puzzle/a-star-exercise",
+    "testConfigurations": [
+        {
+            "name": "3-node Graph",
+            "alphanumName": "threeNodeGraph",
+            "file": "01 - 3-node graph.txt"
+        },
+        {
+            "name": "Small Graph A",
+            "alphanumName": "smallGraphA",
+            "file": "02 - small graph A.txt"
+        },
+        {
+            "name": "Small Graph A’",
+            "alphanumName": "smallGraphAPrime",
+            "file": "03 - small graph A-prime.txt"
+        },
+        {
+            "name": "Slightly Larger Graph",
+            "alphanumName": "slightlyLargerGraph",
+            "file": "04 - slightly larger graph.txt"
+        },
+        {
+            "name": "From Arad To Bucharest",
+            "alphanumName": "fromAradToBucharest",
+            "file": "05 - from Arad to Bucharest.txt"
+        },
+        {
+            "name": "Equal f-value",
+            "alphanumName": "equalFValue",
+            "file": "06 - equal f-value.txt"
+        }
+    ]
+}

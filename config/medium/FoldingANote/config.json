@@ -1,0 +1,33 @@
+{
+    "path": "medium/FoldingANote",
+    "name": "Folding a Note",
+    "alphanumName": "foldingANote",
+    "link": "https://www.codingame.com/ide/puzzle/folding-a-note",
+    "testConfigurations": [
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "01 - easy.txt"
+        },
+        {
+            "name": "LOL",
+            "alphanumName": "LOL",
+            "file": "02 - LOL.txt"
+        },
+        {
+            "name": "Brooo...",
+            "alphanumName": "brooo...",
+            "file": "03 - brooo....txt"
+        },
+        {
+            "name": "Piggy",
+            "alphanumName": "piggy",
+            "file": "04 - piggy.txt"
+        },
+        {
+            "name": "I really like detention.",
+            "alphanumName": "iReallyLikeDetention",
+            "file": "05 - i really like detention..txt"
+        }
+    ]
+}

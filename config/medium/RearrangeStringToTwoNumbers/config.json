@@ -1,0 +1,98 @@
+{
+    "path": "medium/RearrangeStringToTwoNumbers",
+    "name": "Rearrange string to two numbers",
+    "alphanumName": "rearrangeStringToTwoNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/rearrange-string-to-two-numbers",
+    "testConfigurations": [
+        {
+            "name": "Two digits",
+            "alphanumName": "twoDigits",
+            "file": "01 - two digits.txt"
+        },
+        {
+            "name": "Too many digits",
+            "alphanumName": "tooManyDigits",
+            "file": "02 - too many digits.txt"
+        },
+        {
+            "name": "Maximum B",
+            "alphanumName": "maximumB",
+            "file": "03 - maximum B.txt"
+        },
+        {
+            "name": "Too many 0’s",
+            "alphanumName": "tooMany0s",
+            "file": "04 - too many 0’s.txt"
+        },
+        {
+            "name": "Maximum B with 0",
+            "alphanumName": "maximumBWith0",
+            "file": "05 - maximum B with 0.txt"
+        },
+        {
+            "name": "Small A maximum B",
+            "alphanumName": "smallAMaximumB",
+            "file": "06 - small A maximum B.txt"
+        },
+        {
+            "name": "Small A big B",
+            "alphanumName": "smallABigB",
+            "file": "07 - small A big B.txt"
+        },
+        {
+            "name": "Too many 0’s",
+            "alphanumName": "tooMany0s2",
+            "file": "08 - too many 0’s - 2.txt"
+        },
+        {
+            "name": "Too few digits",
+            "alphanumName": "tooFewDigits",
+            "file": "09 - too few digits.txt"
+        },
+        {
+            "name": "Too many digits",
+            "alphanumName": "tooManyDigits2",
+            "file": "10 - too many digits.txt"
+        },
+        {
+            "name": "Zero",
+            "alphanumName": "zero",
+            "file": "11 - zero.txt"
+        },
+        {
+            "name": "Maximum",
+            "alphanumName": "maximum",
+            "file": "12 - maximum.txt"
+        },
+        {
+            "name": "Big with 0’s",
+            "alphanumName": "bigWith0s",
+            "file": "13 - big with 0’s.txt"
+        },
+        {
+            "name": "Big",
+            "alphanumName": "big",
+            "file": "14 - big.txt"
+        },
+        {
+            "name": "Internal zeros",
+            "alphanumName": "internalZeros",
+            "file": "15 - internal zeros.txt"
+        },
+        {
+            "name": "Small A big B",
+            "alphanumName": "smallABigB2",
+            "file": "16 - small A big B - 2.txt"
+        },
+        {
+            "name": "Small A big B",
+            "alphanumName": "smallABigB3",
+            "file": "17 - small A big B - 3.txt"
+        },
+        {
+            "name": "Two digits",
+            "alphanumName": "twoDigits2",
+            "file": "18 - two digits - 2.txt"
+        }
+    ]
+}

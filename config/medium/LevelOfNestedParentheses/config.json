@@ -1,0 +1,33 @@
+{
+    "path": "medium/LevelOfNestedParentheses",
+    "name": "Level of nested parentheses",
+    "alphanumName": "levelOfNestedParentheses",
+    "link": "https://www.codingame.com/ide/puzzle/level-of-nested-parentheses",
+    "testConfigurations": [
+        {
+            "name": "Only one level",
+            "alphanumName": "onlyOneLevel",
+            "file": "01 - only one level.txt"
+        },
+        {
+            "name": "Two levels",
+            "alphanumName": "twoLevels",
+            "file": "02 - two levels.txt"
+        },
+        {
+            "name": "Two levels, unbalanced",
+            "alphanumName": "twoLevelsUnbalanced",
+            "file": "03 - two levels, unbalanced.txt"
+        },
+        {
+            "name": "Lisp",
+            "alphanumName": "lisp",
+            "file": "04 - lisp.txt"
+        },
+        {
+            "name": "No parenthesis",
+            "alphanumName": "noParenthesis",
+            "file": "05 - no parenthesis.txt"
+        }
+    ]
+}

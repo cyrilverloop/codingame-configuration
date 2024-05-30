@@ -1,0 +1,58 @@
+{
+    "path": "medium/Surakarta",
+    "name": "Surakarta",
+    "alphanumName": "surakarta",
+    "link": "https://www.codingame.com/ide/puzzle/surakarta",
+    "testConfigurations": [
+        {
+            "name": "around the world",
+            "alphanumName": "aroundTheWorld",
+            "file": "01 - around the world.txt"
+        },
+        {
+            "name": "Multiple ways",
+            "alphanumName": "multipleWays",
+            "file": "02 - multiple ways.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "impossible",
+            "file": "03 - impossible.txt"
+        },
+        {
+            "name": "Pass on Yourself",
+            "alphanumName": "passOnYourself",
+            "file": "04 - pass on yourself.txt"
+        },
+        {
+            "name": "angles are not OK",
+            "alphanumName": "anglesAreNotOK",
+            "file": "05 - angles are not OK.txt"
+        },
+        {
+            "name": "We have a problem",
+            "alphanumName": "weHaveAProblem",
+            "file": "06 - we have a problem.txt"
+        },
+        {
+            "name": "It works",
+            "alphanumName": "itWorks",
+            "file": "07 - it works.txt"
+        },
+        {
+            "name": "Number test",
+            "alphanumName": "numberTest",
+            "file": "08 - number test.txt"
+        },
+        {
+            "name": "Crossway",
+            "alphanumName": "crossway",
+            "file": "09 - crossway.txt"
+        },
+        {
+            "name": "Real test",
+            "alphanumName": "realTest",
+            "file": "10 - real test.txt"
+        }
+    ]
+}

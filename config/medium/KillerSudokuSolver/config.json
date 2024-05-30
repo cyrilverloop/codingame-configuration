@@ -1,0 +1,28 @@
+{
+    "path": "medium/KillerSudokuSolver",
+    "name": "Killer Sudoku Solver",
+    "alphanumName": "killerSudokuSolver",
+    "link": "https://www.codingame.com/ide/puzzle/killer-sudoku-solver",
+    "testConfigurations": [
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "01 - easy.txt"
+        },
+        {
+            "name": "Medium",
+            "alphanumName": "medium",
+            "file": "02 - medium.txt"
+        },
+        {
+            "name": "Hard",
+            "alphanumName": "hard",
+            "file": "03 - hard.txt"
+        },
+        {
+            "name": "Expert",
+            "alphanumName": "expert",
+            "file": "04 - expert.txt"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "path": "medium/EqualizingArrays",
+    "name": "Equalizing arrays",
+    "alphanumName": "equalizingArrays",
+    "link": "https://www.codingame.com/ide/puzzle/equalizing-arrays",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "Binary",
+            "alphanumName": "binary",
+            "file": "02 - binary.txt"
+        },
+        {
+            "name": "One hill",
+            "alphanumName": "oneHill",
+            "file": "03 - one hill.txt"
+        },
+        {
+            "name": "Two hill",
+            "alphanumName": "twoHill",
+            "file": "04 - two hill.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "random",
+            "file": "05 - random.txt"
+        },
+        {
+            "name": "Opposite 1",
+            "alphanumName": "opposite1",
+            "file": "06 - opposite 1.txt"
+        },
+        {
+            "name": "Opposite 2",
+            "alphanumName": "opposite2",
+            "file": "07 - opposite 2.txt"
+        },
+        {
+            "name": "One hill large",
+            "alphanumName": "oneHillLarge",
+            "file": "08 - one hill large.txt"
+        },
+        {
+            "name": "Two hill large",
+            "alphanumName": "twoHillLarge",
+            "file": "09 - two hill large.txt"
+        },
+        {
+            "name": "Blocks",
+            "alphanumName": "blocks",
+            "file": "10 - blocks.txt"
+        },
+        {
+            "name": "Zero",
+            "alphanumName": "zero",
+            "file": "11 - zero.txt"
+        }
+    ]
+}

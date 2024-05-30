@@ -1,0 +1,33 @@
+{
+    "path": "medium/TheVoucher",
+    "name": "the voucher",
+    "alphanumName": "theVoucher",
+    "link": "https://www.codingame.com/ide/puzzle/the-voucher",
+    "testConfigurations": [
+        {
+            "name": "1) Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "2) 3 copies of each",
+            "alphanumName": "3CopiesOfEach",
+            "file": "02 - 3 copies of each.txt"
+        },
+        {
+            "name": "3) many solutions",
+            "alphanumName": "manySolutions",
+            "file": "03 - many solutions.txt"
+        },
+        {
+            "name": "4) different products with same price",
+            "alphanumName": "differentProductsWithSamePrice",
+            "file": "04 - different products with same price.txt"
+        },
+        {
+            "name": "5) more money",
+            "alphanumName": "moreMoney",
+            "file": "05 - more money.txt"
+        }
+    ]
+}

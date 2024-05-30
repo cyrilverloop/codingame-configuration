@@ -1,0 +1,43 @@
+{
+    "path": "medium/MagicStones",
+    "name": "Magic stones",
+    "alphanumName": "magicStones",
+    "link": "https://www.codingame.com/ide/puzzle/magic-stones",
+    "testConfigurations": [
+        {
+            "name": "Axiom",
+            "alphanumName": "axiom",
+            "file": "01 - axiom.txt"
+        },
+        {
+            "name": "Add me up",
+            "alphanumName": "addMeUp",
+            "file": "02 - add me up.txt"
+        },
+        {
+            "name": "Too far",
+            "alphanumName": "tooFar",
+            "file": "03 - too far.txt"
+        },
+        {
+            "name": "Odd",
+            "alphanumName": "odd",
+            "file": "04 - odd.txt"
+        },
+        {
+            "name": "Powerless",
+            "alphanumName": "powerless",
+            "file": "05 - powerless.txt"
+        },
+        {
+            "name": "Complex",
+            "alphanumName": "complex",
+            "file": "06 - complex.txt"
+        },
+        {
+            "name": "Huge",
+            "alphanumName": "huge",
+            "file": "07 - huge.txt"
+        }
+    ]
+}

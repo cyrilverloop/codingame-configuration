@@ -1,0 +1,33 @@
+{
+    "path": "medium/FactorialVsExponential",
+    "name": "Factorial vs Exponential",
+    "alphanumName": "factorialVsExponential",
+    "link": "https://www.codingame.com/ide/puzzle/factorial-vs-exponential",
+    "testConfigurations": [
+        {
+            "name": "Few small integer values",
+            "alphanumName": "fewSmallIntegerValues",
+            "file": "01 - few small integer values.txt"
+        },
+        {
+            "name": "Few small float values",
+            "alphanumName": "fewSmallFloatValues",
+            "file": "02 - few small float values.txt"
+        },
+        {
+            "name": "More float values",
+            "alphanumName": "moreFloatValues",
+            "file": "03 - more float values.txt"
+        },
+        {
+            "name": "Bigger float values",
+            "alphanumName": "biggerFloatValues",
+            "file": "04 - bigger float values.txt"
+        },
+        {
+            "name": "Huge float values",
+            "alphanumName": "hugeFloatValues",
+            "file": "05 - huge float values.txt"
+        }
+    ]
+}

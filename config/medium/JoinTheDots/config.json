@@ -1,0 +1,43 @@
+{
+    "path": "medium/JoinTheDots",
+    "name": "Join the Dots",
+    "alphanumName": "joinTheDots",
+    "link": "https://www.codingame.com/ide/puzzle/join-the-dots",
+    "testConfigurations": [
+        {
+            "name": "Square of 4",
+            "alphanumName": "squareOf4",
+            "file": "01 - square of 4.txt"
+        },
+        {
+            "name": "Zig-zag",
+            "alphanumName": "zigZag",
+            "file": "02 - zig-zag.txt"
+        },
+        {
+            "name": "X marks the spot",
+            "alphanumName": "xMarksTheSpot",
+            "file": "03 - x marks the spot.txt"
+        },
+        {
+            "name": "Plus one",
+            "alphanumName": "plusOne",
+            "file": "04 - plus one.txt"
+        },
+        {
+            "name": "Inspire",
+            "alphanumName": "inspire",
+            "file": "05 - inspire.txt"
+        },
+        {
+            "name": "Unicorn-ish",
+            "alphanumName": "unicornish",
+            "file": "06 - unicorn-ish.txt"
+        },
+        {
+            "name": "Butterfly",
+            "alphanumName": "butterfly",
+            "file": "07 - butterfly.txt"
+        }
+    ]
+}

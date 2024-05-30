@@ -1,0 +1,43 @@
+{
+    "path": "medium/PaperLabyrinth",
+    "name": "Paper labyrinth",
+    "alphanumName": "paperLabyrinth",
+    "link": "https://www.codingame.com/ide/puzzle/paper-labyrinth",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "No one-way door, no loops",
+            "alphanumName": "noOneWayDoorNoLoops",
+            "file": "02 - no one-way door, no loops.txt"
+        },
+        {
+            "name": "One way door",
+            "alphanumName": "oneWayDoor",
+            "file": "03 - one way door.txt"
+        },
+        {
+            "name": "House of cards",
+            "alphanumName": "houseOfCards",
+            "file": "04 - house of cards.txt"
+        },
+        {
+            "name": "Test 5",
+            "alphanumName": "test5",
+            "file": "05 - test 5.txt"
+        },
+        {
+            "name": "Test 6",
+            "alphanumName": "test6",
+            "file": "06 - test 6.txt"
+        },
+        {
+            "name": "Test 7",
+            "alphanumName": "test7",
+            "file": "07 - test 7.txt"
+        }
+    ]
+}

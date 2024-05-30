@@ -1,0 +1,53 @@
+{
+    "path": "medium/RemainderFantasy",
+    "name": "Remainder Fantasy",
+    "alphanumName": "remainderFantasy",
+    "link": "https://www.codingame.com/ide/puzzle/remainder-fantasy",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "Warm Up",
+            "alphanumName": "warmUp",
+            "file": "02 - warm up.txt"
+        },
+        {
+            "name": "Harder",
+            "alphanumName": "harder",
+            "file": "03 - harder.txt"
+        },
+        {
+            "name": "Get serious",
+            "alphanumName": "getSerious",
+            "file": "04 - get serious.txt"
+        },
+        {
+            "name": "Brute-force not work",
+            "alphanumName": "bruteForceNotWork",
+            "file": "05 - brute-force not work.txt"
+        },
+        {
+            "name": "Many Conditions",
+            "alphanumName": "manyConditions",
+            "file": "06 - many conditions.txt"
+        },
+        {
+            "name": "A Few Big Conditions",
+            "alphanumName": "aFewBigConditions",
+            "file": "07 - a few big conditions.txt"
+        },
+        {
+            "name": "Tricky Small",
+            "alphanumName": "trickySmall",
+            "file": "08 - tricky small.txt"
+        },
+        {
+            "name": "Nasty Big",
+            "alphanumName": "nastyBig",
+            "file": "09 - nasty big.txt"
+        }
+    ]
+}

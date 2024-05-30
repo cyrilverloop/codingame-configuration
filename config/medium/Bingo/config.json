@@ -1,0 +1,28 @@
+{
+    "path": "medium/Bingo",
+    "name": "Bingo!",
+    "alphanumName": "bingo",
+    "link": "https://www.codingame.com/ide/puzzle/bingo",
+    "testConfigurations": [
+        {
+            "name": "1 player",
+            "alphanumName": "1Player",
+            "file": "01 - 1 player.txt"
+        },
+        {
+            "name": "5 players",
+            "alphanumName": "fivePlayers",
+            "file": "02 - 5 players.txt"
+        },
+        {
+            "name": "25 players",
+            "alphanumName": "twentyFivePlayers",
+            "file": "03 - 25 players.txt"
+        },
+        {
+            "name": "100 players",
+            "alphanumName": "aHundredPlayers",
+            "file": "04 - 100 players.txt"
+        }
+    ]
+}

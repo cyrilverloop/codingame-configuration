@@ -1,0 +1,58 @@
+{
+    "path": "medium/RemainingCard",
+    "name": "Remaining Card",
+    "alphanumName": "remainingCard",
+    "link": "https://www.codingame.com/ide/puzzle/remaining-card",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "02 - easy.txt"
+        },
+        {
+            "name": "A little more",
+            "alphanumName": "aLittleMore",
+            "file": "03 - a little more.txt"
+        },
+        {
+            "name": "A thick deck",
+            "alphanumName": "aThickDeck",
+            "file": "04 - a thick deck.txt"
+        },
+        {
+            "name": "Heavy deck",
+            "alphanumName": "heavyDeck",
+            "file": "05 - heavy deck.txt"
+        },
+        {
+            "name": "Getting serious",
+            "alphanumName": "gettingSerious",
+            "file": "06 - getting serious.txt"
+        },
+        {
+            "name": "Millions 1",
+            "alphanumName": "millions1",
+            "file": "07 - millions 1.txt"
+        },
+        {
+            "name": "Millions 2",
+            "alphanumName": "millions2",
+            "file": "08 - millions 2.txt"
+        },
+        {
+            "name": "Ultimate test",
+            "alphanumName": "ultimateTest",
+            "file": "09 - ultimate test.txt"
+        },
+        {
+            "name": "Boundary case",
+            "alphanumName": "boundaryCase",
+            "file": "10 - boundary case.txt"
+        }
+    ]
+}

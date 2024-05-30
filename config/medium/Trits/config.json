@@ -1,0 +1,53 @@
+{
+    "path": "medium/Trits",
+    "name": "Trits (Balanced Ternary Computing)",
+    "alphanumName": "tritsBalancedTernaryComputing",
+    "link": "https://www.codingame.com/ide/puzzle/trits-balanced-ternary-computing",
+    "testConfigurations": [
+        {
+            "name": "Addition",
+            "alphanumName": "addition",
+            "file": "01 - addition.txt"
+        },
+        {
+            "name": "Subtraction",
+            "alphanumName": "subtraction",
+            "file": "02 - subtraction.txt"
+        },
+        {
+            "name": "Multiplication",
+            "alphanumName": "multiplication",
+            "file": "03 - multiplication.txt"
+        },
+        {
+            "name": "Shift Up",
+            "alphanumName": "shiftUp",
+            "file": "04 - shift up.txt"
+        },
+        {
+            "name": "Shift Down",
+            "alphanumName": "shiftDown",
+            "file": "05 - shift down.txt"
+        },
+        {
+            "name": "Larger Addition",
+            "alphanumName": "largerAddition",
+            "file": "06 - larger addition.txt"
+        },
+        {
+            "name": "Too Much Shift Down",
+            "alphanumName": "tooMuchShiftDown",
+            "file": "07 - too much shift down.txt"
+        },
+        {
+            "name": "Larger Subtraction",
+            "alphanumName": "largerSubtraction",
+            "file": "08 - larger subtraction.txt"
+        },
+        {
+            "name": "Larger Shift Up",
+            "alphanumName": "largerShiftUp",
+            "file": "09 - larger shift up.txt"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "path": "medium/GoldbachsConjecture",
+    "name": "Goldbach’s Conjecture",
+    "alphanumName": "goldbachsConjecture",
+    "link": "https://www.codingame.com/ide/puzzle/goldbachs-conjecture",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Be careful",
+            "alphanumName": "beCareful",
+            "file": "02 - be careful.txt"
+        },
+        {
+            "name": "No more alone",
+            "alphanumName": "noMoreAlone",
+            "file": "03 - no more alone.txt"
+        },
+        {
+            "name": "Some hulks",
+            "alphanumName": "someHulks",
+            "file": "04 - some hulks.txt"
+        },
+        {
+            "name": "Commandments",
+            "alphanumName": "commandments",
+            "file": "05 - commandments.txt"
+        },
+        {
+            "name": "Dalmatians",
+            "alphanumName": "dalmatians",
+            "file": "06 - dalmatians.txt"
+        },
+        {
+            "name": "Tacite",
+            "alphanumName": "tacite",
+            "file": "07 - tacite.txt"
+        }
+    ]
+}

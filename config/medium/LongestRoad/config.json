@@ -1,0 +1,38 @@
+{
+    "path": "medium/LongestRoad",
+    "name": "Longest Road",
+    "alphanumName": "longestRoad",
+    "link": "https://www.codingame.com/ide/puzzle/longest-road",
+    "testConfigurations": [
+        {
+            "name": "One player, only roads",
+            "alphanumName": "onePlayerOnlyRoads",
+            "file": "01 - one player, only roads.txt"
+        },
+        {
+            "name": "One player",
+            "alphanumName": "onePlayer",
+            "file": "02 - one player.txt"
+        },
+        {
+            "name": "Not long enough",
+            "alphanumName": "notLongEnough",
+            "file": "03 - not long enough.txt"
+        },
+        {
+            "name": "Two players",
+            "alphanumName": "twoPlayers",
+            "file": "04 - two players.txt"
+        },
+        {
+            "name": "Four players and overlapping roads",
+            "alphanumName": "fourPlayersAndOverlappingRoads",
+            "file": "05 - four players and overlapping roads.txt"
+        },
+        {
+            "name": "Loops and branches",
+            "alphanumName": "loopsAndBranches",
+            "file": "06 - loops and branches.txt"
+        }
+    ]
+}

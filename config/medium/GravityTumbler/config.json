@@ -1,0 +1,38 @@
+{
+    "path": "medium/GravityTumbler",
+    "name": "Gravity Tumbler",
+    "alphanumName": "gravityTumbler",
+    "link": "https://www.codingame.com/ide/puzzle/gravity-tumbler",
+    "testConfigurations": [
+        {
+            "name": "Tumble",
+            "alphanumName": "tumble",
+            "file": "01 - tumble.txt"
+        },
+        {
+            "name": "Double",
+            "alphanumName": "double",
+            "file": "02 - double.txt"
+        },
+        {
+            "name": "Triple",
+            "alphanumName": "triple",
+            "file": "03 - triple.txt"
+        },
+        {
+            "name": "Whee!",
+            "alphanumName": "whee",
+            "file": "04 - whee!.txt"
+        },
+        {
+            "name": "CodinGame 1",
+            "alphanumName": "codinGame1",
+            "file": "05 - CodinGame 1.txt"
+        },
+        {
+            "name": "CodinGame 2",
+            "alphanumName": "codinGame2",
+            "file": "06 - CodinGame 2.txt"
+        }
+    ]
+}

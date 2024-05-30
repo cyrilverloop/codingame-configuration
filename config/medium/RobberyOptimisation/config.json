@@ -1,0 +1,78 @@
+{
+    "path": "medium/RobberyOptimisation",
+    "name": "Robbery optimisation",
+    "alphanumName": "robberyOptimisation",
+    "link": "https://www.codingame.com/ide/puzzle/robbery-optimisation",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "3 houses 1",
+            "alphanumName": "threeHouses1",
+            "file": "02 - 3 houses 1.txt"
+        },
+        {
+            "name": "3 houses 2",
+            "alphanumName": "threeHouses2",
+            "file": "03 - 3 houses 2.txt"
+        },
+        {
+            "name": "9 identical houses",
+            "alphanumName": "nineIdenticalHouses",
+            "file": "04 - 9 identical houses.txt"
+        },
+        {
+            "name": "1 house",
+            "alphanumName": "oneHouse",
+            "file": "05 - 1 house.txt"
+        },
+        {
+            "name": "Don’t just alternate houses",
+            "alphanumName": "dontJustAlternateHouses",
+            "file": "06 - don’t just alternate houses.txt"
+        },
+        {
+            "name": "20 houses",
+            "alphanumName": "twentyHouses",
+            "file": "07 - 20 houses.txt"
+        },
+        {
+            "name": "50 Houses",
+            "alphanumName": "fiftyHouses",
+            "file": "08 - 50 houses.txt"
+        },
+        {
+            "name": "8 Houses",
+            "alphanumName": "eightHouses",
+            "file": "09 - 8 houses.txt"
+        },
+        {
+            "name": "75 Houses",
+            "alphanumName": "seventyFiveHouses",
+            "file": "10 - 75 houses.txt"
+        },
+        {
+            "name": "100 Houses",
+            "alphanumName": "oneHundredHouses",
+            "file": "11 - 100 houses.txt"
+        },
+        {
+            "name": "Debug helper",
+            "alphanumName": "debugHelper",
+            "file": "12 - debug helper.txt"
+        },
+        {
+            "name": "Negative values",
+            "alphanumName": "negativeValues",
+            "file": "13 - negative values.txt"
+        },
+        {
+            "name": "Negative and Positive",
+            "alphanumName": "negativeAndPositive",
+            "file": "14 - negative and positive.txt"
+        }
+    ]
+}

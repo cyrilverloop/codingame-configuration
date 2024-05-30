@@ -1,0 +1,28 @@
+{
+    "path": "medium/Othello",
+    "name": "Othello",
+    "alphanumName": "othello",
+    "link": "https://www.codingame.com/ide/puzzle/othello",
+    "testConfigurations": [
+        {
+            "name": "Start",
+            "alphanumName": "start",
+            "file": "01 - start.txt"
+        },
+        {
+            "name": "Nope",
+            "alphanumName": "nope",
+            "file": "02 - nope.txt"
+        },
+        {
+            "name": "Null",
+            "alphanumName": "null",
+            "file": "03 - null.txt"
+        },
+        {
+            "name": "Real game",
+            "alphanumName": "realGame",
+            "file": "04 - real game.txt"
+        }
+    ]
+}

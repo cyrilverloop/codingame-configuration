@@ -1,0 +1,28 @@
+{
+    "path": "medium/ASCIIArtGlassStacking",
+    "name": "ASCII ART : Glass Stacking",
+    "alphanumName": "ASCIIArtGlassStacking",
+    "link": "https://www.codingame.com/ide/puzzle/ascii-art-glass-stacking",
+    "testConfigurations": [
+        {
+            "name": "4 glasses",
+            "alphanumName": "fourGlasses",
+            "file": "01 - 4 glasses.txt"
+        },
+        {
+            "name": "10 glasses",
+            "alphanumName": "tenGlasses",
+            "file": "02 - 10 glasses.txt"
+        },
+        {
+            "name": "25 glasses",
+            "alphanumName": "twentyFiveGlasses",
+            "file": "03 - 25 glasses.txt"
+        },
+        {
+            "name": "A single glass",
+            "alphanumName": "aSingleGlass",
+            "file": "04 - a single glass.txt"
+        }
+    ]
+}

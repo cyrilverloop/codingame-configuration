@@ -1,0 +1,33 @@
+{
+    "path": "medium/RiverCrossing",
+    "name": "River Crossing",
+    "alphanumName": "riverCrossing",
+    "link": "https://www.codingame.com/ide/puzzle/river-crossing",
+    "testConfigurations": [
+        {
+            "name": "The question is the solution",
+            "alphanumName": "theQuestionIsTheSolution",
+            "file": "01 - the question is the solution.txt"
+        },
+        {
+            "name": "The start is the solution",
+            "alphanumName": "theStartIsTheSolution",
+            "file": "02 - the start is the solution.txt"
+        },
+        {
+            "name": "From one side to the other",
+            "alphanumName": "fromOneSideToTheOther",
+            "file": "03 - from one side to the other.txt"
+        },
+        {
+            "name": "Mix it Up",
+            "alphanumName": "mixItUp",
+            "file": "04 - mix it up.txt"
+        },
+        {
+            "name": "Rescue One",
+            "alphanumName": "rescueOne",
+            "file": "05 - rescue one.txt"
+        }
+    ]
+}

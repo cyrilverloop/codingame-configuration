@@ -1,0 +1,28 @@
+{
+    "path": "medium/TheseRomansAreCrazy",
+    "name": "These Romans are crazy!",
+    "alphanumName": "theseRomansAreCrazy",
+    "link": "https://www.codingame.com/ide/puzzle/these-romans-are-crazy!",
+    "testConfigurations": [
+        {
+            "name": "6 + 7 = 13",
+            "alphanumName": "sixPlus7Equals13",
+            "file": "01 - 6 + 7 = 13.txt"
+        },
+        {
+            "name": "12 + 27 = 39",
+            "alphanumName": "twelvePlus27Equals39",
+            "file": "02 - 12 + 27 = 39.txt"
+        },
+        {
+            "name": "123 + 321 = 444",
+            "alphanumName": "one23Plus321Equals444",
+            "file": "03 - 123 + 321 = 444.txt"
+        },
+        {
+            "name": "2016 + 999 = 3015",
+            "alphanumName": "two016Plus999Equals3015",
+            "file": "04 - 2016 + 999 = 3015.txt"
+        }
+    ]
+}

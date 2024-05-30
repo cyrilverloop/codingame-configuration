@@ -1,0 +1,33 @@
+{
+    "path": "medium/GreenValleys",
+    "name": "Green Valleys",
+    "alphanumName": "greenValleys",
+    "link": "https://www.codingame.com/ide/puzzle/green-valleys",
+    "testConfigurations": [
+        {
+            "name": "One valley",
+            "alphanumName": "oneValley",
+            "file": "01 - one valley.txt"
+        },
+        {
+            "name": "Two valleys",
+            "alphanumName": "twoValleys",
+            "file": "02 - two valleys.txt"
+        },
+        {
+            "name": "Three valleys",
+            "alphanumName": "threeValleys",
+            "file": "03 - three valleys.txt"
+        },
+        {
+            "name": "No valley",
+            "alphanumName": "noValley",
+            "file": "04 - no valley.txt"
+        },
+        {
+            "name": "Alps and valleys",
+            "alphanumName": "alpsAndValleys",
+            "file": "05 - alps and valleys.txt"
+        }
+    ]
+}

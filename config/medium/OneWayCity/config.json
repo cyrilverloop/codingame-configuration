@@ -1,0 +1,38 @@
+{
+    "path": "medium/OneWayCity",
+    "name": "OneWay City",
+    "alphanumName": "oneWayCity",
+    "link": "https://www.codingame.com/ide/puzzle/oneway-city",
+    "testConfigurations": [
+        {
+            "name": "Small village",
+            "alphanumName": "smallVillage",
+            "file": "01 - small village.txt"
+        },
+        {
+            "name": "One way",
+            "alphanumName": "oneWay",
+            "file": "02 - one way.txt"
+        },
+        {
+            "name": "Small city",
+            "alphanumName": "smallCity",
+            "file": "03 - small city.txt"
+        },
+        {
+            "name": "20th century",
+            "alphanumName": "twentiethCentury",
+            "file": "04 - 20th century.txt"
+        },
+        {
+            "name": "Conurbation",
+            "alphanumName": "conurbation",
+            "file": "05 - conurbation.txt"
+        },
+        {
+            "name": "Megalopolis",
+            "alphanumName": "megalopolis",
+            "file": "06 - megalopolis.txt"
+        }
+    ]
+}

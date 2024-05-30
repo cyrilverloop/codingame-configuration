@@ -1,0 +1,28 @@
+{
+    "path": "medium/SudokuSolver",
+    "name": "Sudoku Solver",
+    "alphanumName": "sudokuSolver",
+    "link": "https://www.codingame.com/ide/puzzle/sudoku-solver",
+    "testConfigurations": [
+        {
+            "name": "Very Easy",
+            "alphanumName": "veryEasy",
+            "file": "01 - very easy.txt"
+        },
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "02 - easy.txt"
+        },
+        {
+            "name": "Intermediate/Hard",
+            "alphanumName": "intermediateHard",
+            "file": "03 - intermediate hard.txt"
+        },
+        {
+            "name": "World’s Hardest Sudoku",
+            "alphanumName": "worldsHardestSudoku",
+            "file": "04 - worlds hardest sudoku.txt"
+        }
+    ]
+}

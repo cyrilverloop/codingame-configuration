@@ -1,0 +1,38 @@
+{
+    "path": "medium/MazeWithTeleportersAndJumps",
+    "name": "Maze /w teleporters and jumps",
+    "alphanumName": "mazeWithTeleportersAndJumps",
+    "link": "https://www.codingame.com/ide/puzzle/maze-w-teleporters-and-jumps",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Jumps",
+            "alphanumName": "jumps",
+            "file": "02 - jumps.txt"
+        },
+        {
+            "name": "No way out",
+            "alphanumName": "noWayOut",
+            "file": "03 - no way out.txt"
+        },
+        {
+            "name": "Teleporter maze",
+            "alphanumName": "teleporterMaze",
+            "file": "04 - teleporter maze.txt"
+        },
+        {
+            "name": "Jumps and teleports",
+            "alphanumName": "jumpsAndTeleports",
+            "file": "05 - jumps and teleports.txt"
+        },
+        {
+            "name": "Don’t take it",
+            "alphanumName": "dontTakeIt",
+            "file": "06 - don’t take it.txt"
+        }
+    ]
+}

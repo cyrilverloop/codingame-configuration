@@ -1,0 +1,73 @@
+{
+    "path": "medium/KnightsJam",
+    "name": "Knights Jam",
+    "alphanumName": "knightsJam",
+    "link": "https://www.codingame.com/ide/puzzle/knights-jam",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Central problem #1",
+            "alphanumName": "centralProblem1",
+            "file": "02 - central problem #1.txt"
+        },
+        {
+            "name": "Central problem #2",
+            "alphanumName": "centralProblem2",
+            "file": "03 - central problem #2.txt"
+        },
+        {
+            "name": "Reachable #1",
+            "alphanumName": "reachable1",
+            "file": "04 - reachable #1.txt"
+        },
+        {
+            "name": "Unreachable #1",
+            "alphanumName": "unreachable1",
+            "file": "05 - unreachable #1.txt"
+        },
+        {
+            "name": "Reachable #2",
+            "alphanumName": "reachable2",
+            "file": "06 - reachable #2.txt"
+        },
+        {
+            "name": "Unreachable #2",
+            "alphanumName": "unreachable2",
+            "file": "07 - unreachable #2.txt"
+        },
+        {
+            "name": "Reachable #3",
+            "alphanumName": "reachable3",
+            "file": "08 - reachable #3.txt"
+        },
+        {
+            "name": "Unreachable #3",
+            "alphanumName": "unreachable3",
+            "file": "09 - unreachable #3.txt"
+        },
+        {
+            "name": "Reachable #4",
+            "alphanumName": "reachable4",
+            "file": "10 - reachable #4.txt"
+        },
+        {
+            "name": "Unreachable #4",
+            "alphanumName": "unreachable4",
+            "file": "11 - unreachable #4.txt"
+        },
+        {
+            "name": "Unreachable #5",
+            "alphanumName": "unreachable5",
+            "file": "12 - unreachable #5.txt"
+        },
+        {
+            "name": "Reachable #5",
+            "alphanumName": "reachable5",
+            "file": "13 - reachable #5.txt"
+        }
+    ]
+}

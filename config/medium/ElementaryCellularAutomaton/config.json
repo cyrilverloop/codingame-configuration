@@ -1,0 +1,33 @@
+{
+    "path": "medium/ElementaryCellularAutomaton",
+    "name": "Elementary cellular automaton",
+    "alphanumName": "elementaryCellularAutomaton",
+    "link": "https://www.codingame.com/ide/puzzle/elementary-cellular-automaton",
+    "testConfigurations": [
+        {
+            "name": "Pyramid",
+            "alphanumName": "pyramid",
+            "file": "01 - pyramid.txt"
+        },
+        {
+            "name": "Sierpiński triangle",
+            "alphanumName": "sierpinskiTriangle",
+            "file": "02 - sierpiński triangle.txt"
+        },
+        {
+            "name": "Rule 30: Conus Textile",
+            "alphanumName": "rule30ConusTextile",
+            "file": "03 - rule 30: conus textile.txt"
+        },
+        {
+            "name": "Sierpiński triangle, continued",
+            "alphanumName": "sierpinskiTriangleContinued",
+            "file": "04 - sierpiński triangle, continued.txt"
+        },
+        {
+            "name": "Rule 110, different start",
+            "alphanumName": "rule110DifferentStart",
+            "file": "05 - rule 110, different start.txt"
+        }
+    ]
+}

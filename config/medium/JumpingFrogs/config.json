@@ -1,0 +1,73 @@
+{
+    "path": "medium/JumpingFrogs",
+    "name": "Jumping Frogs",
+    "alphanumName": "jumpingFrogs",
+    "link": "https://www.codingame.com/ide/puzzle/jumping-frogs",
+    "testConfigurations": [
+        {
+            "name": "Simple Jump",
+            "alphanumName": "simpleJump",
+            "file": "01 - simple jump.txt"
+        },
+        {
+            "name": "Little Stretch",
+            "alphanumName": "littleStretch",
+            "file": "02 - little stretch.txt"
+        },
+        {
+            "name": "Long Jump",
+            "alphanumName": "longJump",
+            "file": "03 - long jump.txt"
+        },
+        {
+            "name": "Javelin Jump",
+            "alphanumName": "javelinJump",
+            "file": "04 - javelin jump.txt"
+        },
+        {
+            "name": "Teleport",
+            "alphanumName": "teleport",
+            "file": "05 - teleport.txt"
+        },
+        {
+            "name": "All i need is Jump",
+            "alphanumName": "allINeedIsJump",
+            "file": "06 - all i need is jump.txt"
+        },
+        {
+            "name": "Jump for the win",
+            "alphanumName": "jumpForTheWin",
+            "file": "07 - jump for the win.txt"
+        },
+        {
+            "name": "Jump is not enough",
+            "alphanumName": "jumpIsNotEnough",
+            "file": "08 - jump is not enough.txt"
+        },
+        {
+            "name": "Too many Jumps",
+            "alphanumName": "tooManyJumps",
+            "file": "09 - too many Jumps.txt"
+        },
+        {
+            "name": "Lot of jumps",
+            "alphanumName": "lotOfJumps",
+            "file": "10 - lot of jumps.txt"
+        },
+        {
+            "name": "Fly in the air",
+            "alphanumName": "flyInTheAir",
+            "file": "11 - fly in the air.txt"
+        },
+        {
+            "name": "Over the Mountain",
+            "alphanumName": "overTheMountain",
+            "file": "12 - over the mountain.txt"
+        },
+        {
+            "name": "Over the Sky",
+            "alphanumName": "overTheSky",
+            "file": "13 - over the sky.txt"
+        }
+    ]
+}

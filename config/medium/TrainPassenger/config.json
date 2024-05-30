@@ -1,0 +1,43 @@
+{
+    "path": "medium/TrainPassenger",
+    "name": "Train passenger",
+    "alphanumName": "trainPassenger",
+    "link": "https://www.codingame.com/ide/puzzle/train-passenger",
+    "testConfigurations": [
+        {
+            "name": "Simple A to B",
+            "alphanumName": "simpleAToB",
+            "file": "01 - simple A to B.txt"
+        },
+        {
+            "name": "More stations",
+            "alphanumName": "moreStations",
+            "file": "02 - more stations.txt"
+        },
+        {
+            "name": "Even more stations",
+            "alphanumName": "evenMoreStations",
+            "file": "03 - even more stations.txt"
+        },
+        {
+            "name": "Not in correct order",
+            "alphanumName": "notInCorrectOrder",
+            "file": "04 - not in correct order.txt"
+        },
+        {
+            "name": "Complex names",
+            "alphanumName": "complexNames",
+            "file": "05 - complex names.txt"
+        },
+        {
+            "name": "Complex stations links",
+            "alphanumName": "complexStationsLinks",
+            "file": "06 - complex stations links.txt"
+        },
+        {
+            "name": "Complete test",
+            "alphanumName": "completeTest",
+            "file": "07 - complete test.txt"
+        }
+    ]
+}

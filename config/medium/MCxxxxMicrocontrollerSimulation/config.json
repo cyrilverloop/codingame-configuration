@@ -1,0 +1,93 @@
+{
+    "path": "medium/MCxxxxMicrocontrollerSimulation",
+    "name": "MCxxxx microcontroller simulation",
+    "alphanumName": "MCxxxxMicrocontrollerSimulation",
+    "link": "https://www.codingame.com/ide/puzzle/mcxxxx-microcontroller-simulation",
+    "testConfigurations": [
+        {
+            "name": "Simple I/O",
+            "alphanumName": "simpleIO",
+            "file": "01 - simple IO.txt"
+        },
+        {
+            "name": "Double I/O",
+            "alphanumName": "doubleIO",
+            "file": "02 - double IO.txt"
+        },
+        {
+            "name": "Buffering with dat & acc",
+            "alphanumName": "bufferingWithDatAndAcc",
+            "file": "03 - buffering with dat & acc.txt"
+        },
+        {
+            "name": "First grade arithmetics",
+            "alphanumName": "firstGradeArithmetics",
+            "file": "04 - first grade arithmetics.txt"
+        },
+        {
+            "name": "Third grade arithmetics",
+            "alphanumName": "thirdGradeArithmetics",
+            "file": "05 - third grade arithmetics.txt"
+        },
+        {
+            "name": "NOT what you think",
+            "alphanumName": "NOTWhatYouThink",
+            "file": "06 - NOT what you think.txt"
+        },
+        {
+            "name": "Labels, jumps and unnecessary text",
+            "alphanumName": "labelsJumpsAndUnnecessaryText",
+            "file": "07 - labels, jumps and unnecessary text.txt"
+        },
+        {
+            "name": "One last time",
+            "alphanumName": "oneLastTime",
+            "file": "08 - one last time.txt"
+        },
+        {
+            "name": "What the heck ?",
+            "alphanumName": "whatTheHeck",
+            "file": "09 - what the heck.txt"
+        },
+        {
+            "name": "Overflow !!!",
+            "alphanumName": "overflow",
+            "file": "10 - overflow !!!.txt"
+        },
+        {
+            "name": "Conditional execution I",
+            "alphanumName": "conditionalExecutionI",
+            "file": "11 - conditional execution I.txt"
+        },
+        {
+            "name": "Conditional execution II",
+            "alphanumName": "conditionalExecutionII",
+            "file": "12 - conditional execution II.txt"
+        },
+        {
+            "name": "Conditional execution III",
+            "alphanumName": "conditionalExecutionIII",
+            "file": "13 - conditional execution III.txt"
+        },
+        {
+            "name": "Digit manipulation I",
+            "alphanumName": "digitManipulationI",
+            "file": "14 - digit manipulation I.txt"
+        },
+        {
+            "name": "Digit manipulation II",
+            "alphanumName": "digitManipulationII",
+            "file": "15 - digit manipulation II.txt"
+        },
+        {
+            "name": "Concrete example",
+            "alphanumName": "concreteExample",
+            "file": "16 - concrete example.txt"
+        },
+        {
+            "name": "JUMP JUMP JUMP !!!",
+            "alphanumName": "JUMPJUMPJUMP",
+            "file": "17 - JUMP JUMP JUMP !!!.txt"
+        }
+    ]
+}

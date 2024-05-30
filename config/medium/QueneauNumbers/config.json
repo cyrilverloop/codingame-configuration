@@ -1,0 +1,33 @@
+{
+    "path": "medium/QueneauNumbers",
+    "name": "Queneau Numbers",
+    "alphanumName": "queneauNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/queneau-numbers",
+    "testConfigurations": [
+        {
+            "name": "Terine",
+            "alphanumName": "terine",
+            "file": "01 - terine.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "impossible",
+            "file": "02 - impossible.txt"
+        },
+        {
+            "name": "Sextine",
+            "alphanumName": "sextine",
+            "file": "03 - sextine.txt"
+        },
+        {
+            "name": "So big yet so perfect",
+            "alphanumName": "soBigYetSoPerfect",
+            "file": "04 - so big yet so perfect.txt"
+        },
+        {
+            "name": "So big yet so ugly",
+            "alphanumName": "soBigYetSoUgly",
+            "file": "05 - so big yet so ugly.txt"
+        }
+    ]
+}

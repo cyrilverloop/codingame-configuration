@@ -1,0 +1,33 @@
+{
+    "path": "medium/Maze",
+    "name": "Maze",
+    "alphanumName": "maze",
+    "link": "https://www.codingame.com/ide/puzzle/maze",
+    "testConfigurations": [
+        {
+            "name": "Single exit",
+            "alphanumName": "singleExit",
+            "file": "01 - single exit.txt"
+        },
+        {
+            "name": "Multiple exits",
+            "alphanumName": "multipleExits",
+            "file": "02 - multiple exits.txt"
+        },
+        {
+            "name": "No way out",
+            "alphanumName": "noWayOut",
+            "file": "03 - no way out.txt"
+        },
+        {
+            "name": "Loops",
+            "alphanumName": "loops",
+            "file": "04 - loops.txt"
+        },
+        {
+            "name": "All together, 21x21",
+            "alphanumName": "allTogether21x21",
+            "file": "05 - all together, 21x21.txt"
+        }
+    ]
+}

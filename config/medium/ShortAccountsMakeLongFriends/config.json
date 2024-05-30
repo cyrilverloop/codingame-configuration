@@ -1,0 +1,38 @@
+{
+    "path": "medium/ShortAccountsMakeLongFriends",
+    "name": "Short accounts make long friends",
+    "alphanumName": "shortAccountsMakeLongFriends",
+    "link": "https://www.codingame.com/ide/puzzle/short-accounts-make-long-friends",
+    "testConfigurations": [
+        {
+            "name": "Very simple",
+            "alphanumName": "verySimple",
+            "file": "01 - very simple.txt"
+        },
+        {
+            "name": "Bad Bad Bad",
+            "alphanumName": "badBadBad",
+            "file": "02 - bad bad bad.txt"
+        },
+        {
+            "name": "425",
+            "alphanumName": "four25",
+            "file": "03 - 425.txt"
+        },
+        {
+            "name": "889",
+            "alphanumName": "eight89",
+            "file": "04 - 889.txt"
+        },
+        {
+            "name": "A division?",
+            "alphanumName": "aDivision",
+            "file": "05 - a division.txt"
+        },
+        {
+            "name": "Another Division",
+            "alphanumName": "anotherDivision",
+            "file": "06 - another division.txt"
+        }
+    ]
+}

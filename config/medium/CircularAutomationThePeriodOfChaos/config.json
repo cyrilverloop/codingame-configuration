@@ -1,0 +1,43 @@
+{
+    "path": "medium/CircularAutomationThePeriodOfChaos",
+    "name": "Circular automation, the period of chaos",
+    "alphanumName": "circularAutomationThePeriodOfChaos",
+    "link": "https://www.codingame.com/ide/puzzle/circular-automation-the-period-of-chaos",
+    "testConfigurations": [
+        {
+            "name": "Simple example",
+            "alphanumName": "simpleExample",
+            "file": "01 - simple example.txt"
+        },
+        {
+            "name": "Blinker",
+            "alphanumName": "blinker",
+            "file": "02 - blinker.txt"
+        },
+        {
+            "name": "Rule 250 Mix",
+            "alphanumName": "rule250Mix",
+            "file": "03 - rule 250 mix.txt"
+        },
+        {
+            "name": "126 = Fractal",
+            "alphanumName": "aHundredAndTwentySixFractal",
+            "file": "04 - 126 = fractal.txt"
+        },
+        {
+            "name": "So Long",
+            "alphanumName": "soLong",
+            "file": "05 - so long.txt"
+        },
+        {
+            "name": "Rule 110",
+            "alphanumName": "rule110",
+            "file": "06 - rule 110.txt"
+        },
+        {
+            "name": "Where is the motif",
+            "alphanumName": "whereIsTheMotif",
+            "file": "07 - where is the motif.txt"
+        }
+    ]
+}

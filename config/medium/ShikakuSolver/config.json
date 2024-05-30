@@ -1,0 +1,33 @@
+{
+    "path": "medium/ShikakuSolver",
+    "name": "Shikaku Solver",
+    "alphanumName": "shikakuSolver",
+    "link": "https://www.codingame.com/ide/puzzle/shikaku-solver",
+    "testConfigurations": [
+        {
+            "name": "10x10, One Solution",
+            "alphanumName": "tenBy10OneSolution",
+            "file": "01 - 10x10, one solution.txt"
+        },
+        {
+            "name": "15x20, More Solutions",
+            "alphanumName": "fifteenBy20MoreSolutions",
+            "file": "02 - 15x20, more solutions.txt"
+        },
+        {
+            "name": "20x20",
+            "alphanumName": "twentyBy20",
+            "file": "03 - 20x20.txt"
+        },
+        {
+            "name": "25x20",
+            "alphanumName": "twentyFiveBy20",
+            "file": "04 - 25x20.txt"
+        },
+        {
+            "name": "30x30",
+            "alphanumName": "thirtyBy30",
+            "file": "05 - 30x30.txt"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "path": "medium/HexagonalMaze",
+    "name": "Hexagonal Maze",
+    "alphanumName": "hexagonalMaze",
+    "link": "https://www.codingame.com/ide/puzzle/hexagonal-maze",
+    "testConfigurations": [
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "01 - easy.txt"
+        },
+        {
+            "name": "Loop",
+            "alphanumName": "loop",
+            "file": "02 - loop.txt"
+        },
+        {
+            "name": "Through borders",
+            "alphanumName": "throughBorders",
+            "file": "03 - through borders.txt"
+        },
+        {
+            "name": "Corner ...",
+            "alphanumName": "corner",
+            "file": "04 - corner ....txt"
+        },
+        {
+            "name": "... or not",
+            "alphanumName": "orNot",
+            "file": "05 - ... or not.txt"
+        },
+        {
+            "name": "Everything",
+            "alphanumName": "everything",
+            "file": "06 - everything.txt"
+        },
+        {
+            "name": "Real hexagon",
+            "alphanumName": "realHexagon",
+            "file": "07 - real hexagon.txt"
+        },
+        {
+            "name": "Nothing to change",
+            "alphanumName": "nothingToChange",
+            "file": "08 - nothing to change.txt"
+        }
+    ]
+}

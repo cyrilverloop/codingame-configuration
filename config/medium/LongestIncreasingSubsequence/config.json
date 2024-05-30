@@ -1,0 +1,33 @@
+{
+    "path": "medium/LongestIncreasingSubsequence",
+    "name": "Longest increasing Subsequence",
+    "alphanumName": "longestIncreasingSubsequence",
+    "link": "https://www.codingame.com/ide/puzzle/longest-increasing-subsequence",
+    "testConfigurations": [
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "Still Simple",
+            "alphanumName": "stillSimple",
+            "file": "02 - still simple.txt"
+        },
+        {
+            "name": "Medium",
+            "alphanumName": "medium",
+            "file": "03 - medium.txt"
+        },
+        {
+            "name": "Getting Harder",
+            "alphanumName": "gettingHarder",
+            "file": "04 - getting harder.txt"
+        },
+        {
+            "name": "Lots of Numbers!",
+            "alphanumName": "lotsOfNumbers",
+            "file": "05 - lots of numbers!.txt"
+        }
+    ]
+}

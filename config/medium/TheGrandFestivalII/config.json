@@ -1,0 +1,33 @@
+{
+    "path": "medium/TheGrandFestivalII",
+    "name": "The Grand Festival - II",
+    "alphanumName": "theGrandFestivalII",
+    "link": "https://www.codingame.com/ide/puzzle/the-grand-festival---ii",
+    "testConfigurations": [
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "01 - easy.txt"
+        },
+        {
+            "name": "2 weeks",
+            "alphanumName": "twoWeeks",
+            "file": "02 - 2 weeks.txt"
+        },
+        {
+            "name": "No rest",
+            "alphanumName": "noRest",
+            "file": "03 - no rest.txt"
+        },
+        {
+            "name": "Fatigued",
+            "alphanumName": "fatigued",
+            "file": "04 - fatigued.txt"
+        },
+        {
+            "name": "1 year",
+            "alphanumName": "oneYear",
+            "file": "05 - 1 year.txt"
+        }
+    ]
+}

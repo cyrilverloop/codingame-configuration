@@ -1,0 +1,73 @@
+{
+    "path": "medium/HorseHyperracingHyperduals",
+    "name": "Horse-hyperracing Hyperduals",
+    "alphanumName": "horseHyperracingHyperduals",
+    "link": "https://www.codingame.com/ide/puzzle/horse-hyperracing-hyperduals",
+    "testConfigurations": [
+        {
+            "name": "Check your LCG",
+            "alphanumName": "checkYourLCG",
+            "file": "01 - check your LCG.txt"
+        },
+        {
+            "name": "2D horses",
+            "alphanumName": "twoDHorses",
+            "file": "02 - 2D horses.txt"
+        },
+        {
+            "name": "A fistful of horses",
+            "alphanumName": "aFistfulOfHorses",
+            "file": "03 - a fistful of horses.txt"
+        },
+        {
+            "name": "For a few horse more",
+            "alphanumName": "forAFewHorseMore",
+            "file": "04 - for a few horse more.txt"
+        },
+        {
+            "name": "All your horse are belong to us",
+            "alphanumName": "allYourHorseAreBelongToUs",
+            "file": "05 - all your horse are belong to us.txt"
+        },
+        {
+            "name": "Many horses",
+            "alphanumName": "manyHorses",
+            "file": "06 - many horses.txt"
+        },
+        {
+            "name": "More horse",
+            "alphanumName": "moreHorse",
+            "file": "07 - more horse.txt"
+        },
+        {
+            "name": "Horse OVER 9000!",
+            "alphanumName": "horseOVER9000",
+            "file": "08 - horse OVER 9000!.txt"
+        },
+        {
+            "name": "Horse overflow",
+            "alphanumName": "horseOverflow",
+            "file": "09 - horse overflow.txt"
+        },
+        {
+            "name": "Can’t Leave Racers Sitting horizontally",
+            "alphanumName": "cantLeaveRacersSittingHorizontally",
+            "file": "10 - can’t leave racers sitting horizontally.txt"
+        },
+        {
+            "name": "Can’t Leave Racers Sitting vertically either",
+            "alphanumName": "cantLeaveRacersSittingVerticallyEither",
+            "file": "11 - can’t leave racers sitting vertically either.txt"
+        },
+        {
+            "name": "Peak Zexion",
+            "alphanumName": "peakZexion",
+            "file": "12 - peak zexion.txt"
+        },
+        {
+            "name": "Roll JBM",
+            "alphanumName": "rollJBM",
+            "file": "13 - roll JBM.txt"
+        }
+    ]
+}

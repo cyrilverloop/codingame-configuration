@@ -1,0 +1,63 @@
+{
+    "path": "medium/GravityCentrifugeTuning",
+    "name": "Gravity Centrifuge Tuning",
+    "alphanumName": "gravityCentrifugeTuning",
+    "link": "https://www.codingame.com/ide/puzzle/gravity-centrifuge-tuning",
+    "testConfigurations": [
+        {
+            "name": "Tumble",
+            "alphanumName": "tumble",
+            "file": "01 - tumble.txt"
+        },
+        {
+            "name": "Double Tumble",
+            "alphanumName": "doubleTumble",
+            "file": "02 - double tumble.txt"
+        },
+        {
+            "name": "Triple Tumble",
+            "alphanumName": "tripleTumble",
+            "file": "03 - triple tumble.txt"
+        },
+        {
+            "name": "Octal, remember?",
+            "alphanumName": "octalRemember",
+            "file": "04 - octal, remember.txt"
+        },
+        {
+            "name": "Dead Beef!",
+            "alphanumName": "deadBeef",
+            "file": "05 - dead beef!.txt"
+        },
+        {
+            "name": "Wait, what?",
+            "alphanumName": "waitWhat",
+            "file": "06 - wait, what.txt"
+        },
+        {
+            "name": "Ramp it Up! 1",
+            "alphanumName": "rampItUp1",
+            "file": "07 - ramp it up! 1.txt"
+        },
+        {
+            "name": "Ramp it Up! 2",
+            "alphanumName": "rampItUp2",
+            "file": "08 - ramp it up! 2.txt"
+        },
+        {
+            "name": "Ramp it Up! 3",
+            "alphanumName": "rampItUp3",
+            "file": "09 - ramp it up! 3.txt"
+        },
+        {
+            "name": "Binary Overflow",
+            "alphanumName": "binaryOverflow",
+            "file": "10 - binary overflow.txt"
+        },
+        {
+            "name": "Zeckendorf would be proud of you!",
+            "alphanumName": "ZeckendorfWouldBeProudOfYou",
+            "file": "11 - Zeckendorf would be proud of you!.txt"
+        }
+    ]
+}

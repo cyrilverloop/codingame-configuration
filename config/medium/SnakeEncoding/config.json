@@ -1,0 +1,28 @@
+{
+    "path": "medium/SnakeEncoding",
+    "name": "Snake encoding",
+    "alphanumName": "snakeEncoding",
+    "link": "https://www.codingame.com/ide/puzzle/snake-encoding",
+    "testConfigurations": [
+        {
+            "name": "Easy Peasy",
+            "alphanumName": "easyPeasy",
+            "file": "01 - easy peasy.txt"
+        },
+        {
+            "name": "More rows",
+            "alphanumName": "moreRows",
+            "file": "02 - more rows.txt"
+        },
+        {
+            "name": "More loops",
+            "alphanumName": "moreLoops",
+            "file": "03 - more loops.txt"
+        },
+        {
+            "name": "Let’s try everything",
+            "alphanumName": "letsTryEverything",
+            "file": "04 - let’s try everything.txt"
+        }
+    ]
+}

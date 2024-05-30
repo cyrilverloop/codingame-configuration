@@ -1,0 +1,43 @@
+{
+    "path": "medium/NumberOfLettersInANumberBinary",
+    "name": "Number of letters in a number - Binary",
+    "alphanumName": "numberOfLettersInANumberBinary",
+    "link": "https://www.codingame.com/ide/puzzle/number-of-letters-in-a-number---binary",
+    "testConfigurations": [
+        {
+            "name": "One past the Example",
+            "alphanumName": "onePastTheExample",
+            "file": "01 - one past the example.txt"
+        },
+        {
+            "name": "Bigger Start",
+            "alphanumName": "biggerStart",
+            "file": "02 - bigger start.txt"
+        },
+        {
+            "name": "Bigger n",
+            "alphanumName": "biggerN",
+            "file": "03 - bigger n.txt"
+        },
+        {
+            "name": "A pattern emerges",
+            "alphanumName": "aPatternEmerges",
+            "file": "04 - a pattern emerges.txt"
+        },
+        {
+            "name": "Another pattern?",
+            "alphanumName": "anotherPattern",
+            "file": "05 - another pattern.txt"
+        },
+        {
+            "name": "Big Numbers",
+            "alphanumName": "bigNumbers",
+            "file": "06 - big numbers.txt"
+        },
+        {
+            "name": "Bigger Numbers",
+            "alphanumName": "biggerNumbers",
+            "file": "07 - bigger numbers.txt"
+        }
+    ]
+}

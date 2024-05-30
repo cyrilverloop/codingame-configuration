@@ -1,0 +1,33 @@
+{
+    "path": "medium/PorcupineFever",
+    "name": "Porcupine Fever",
+    "alphanumName": "porcupineFever",
+    "link": "https://www.codingame.com/ide/puzzle/porcupine-fever",
+    "testConfigurations": [
+        {
+            "name": "One sick cage",
+            "alphanumName": "oneSickCage",
+            "file": "01 - one sick cage.txt"
+        },
+        {
+            "name": "No porcupines",
+            "alphanumName": "noPorcupines",
+            "file": "02 - no porcupines.txt"
+        },
+        {
+            "name": "One cage goes extinct",
+            "alphanumName": "oneCageGoesExtinct",
+            "file": "03 - one cage goes extinct.txt"
+        },
+        {
+            "name": "Dead Farm",
+            "alphanumName": "deadFarm",
+            "file": "04 - dead farm.txt"
+        },
+        {
+            "name": "Bigger Farm",
+            "alphanumName": "biggerFarm",
+            "file": "05 - bigger farm.txt"
+        }
+    ]
+}

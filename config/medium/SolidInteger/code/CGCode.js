@@ -1,0 +1,6 @@
+const n = readline();
+
+// Write an answer using console.log()
+// To debug: console.error('Debug messages...');
+
+console.log('nth_solid');

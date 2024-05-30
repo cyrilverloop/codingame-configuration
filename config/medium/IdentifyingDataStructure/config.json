@@ -1,0 +1,28 @@
+{
+    "path": "medium/IdentifyingDataStructure",
+    "name": "Identifying data structure",
+    "alphanumName": "identifyingDataStructure",
+    "link": "https://www.codingame.com/ide/puzzle/identifying-data-structure",
+    "testConfigurations": [
+        {
+            "name": "Basic",
+            "alphanumName": "basic",
+            "file": "01 - basic.txt"
+        },
+        {
+            "name": "More",
+            "alphanumName": "more",
+            "file": "02 - more.txt"
+        },
+        {
+            "name": "Much More",
+            "alphanumName": "muchMore",
+            "file": "03 - much more.txt"
+        },
+        {
+            "name": "Long Ops",
+            "alphanumName": "longOps",
+            "file": "04 - long ops.txt"
+        }
+    ]
+}

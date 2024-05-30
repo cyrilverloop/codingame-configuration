@@ -1,0 +1,28 @@
+{
+    "path": "medium/SuguruSolver",
+    "name": "Suguru Solver",
+    "alphanumName": "suguruSolver",
+    "link": "https://www.codingame.com/ide/puzzle/suguru-solver",
+    "testConfigurations": [
+        {
+            "name": "4x5",
+            "alphanumName": "fourx5",
+            "file": "01 - 4x5.txt"
+        },
+        {
+            "name": "8x8",
+            "alphanumName": "eightx8",
+            "file": "02 - 8x8.txt"
+        },
+        {
+            "name": "15x10",
+            "alphanumName": "fifteenx10",
+            "file": "03 - 15x10.txt"
+        },
+        {
+            "name": "20x20",
+            "alphanumName": "twentyx20",
+            "file": "04 - 20x20.txt"
+        }
+    ]
+}

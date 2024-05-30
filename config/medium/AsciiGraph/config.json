@@ -1,0 +1,38 @@
+{
+    "path": "medium/AsciiGraph",
+    "name": "Ascii Graph",
+    "alphanumName": "asciiGraph",
+    "link": "https://www.codingame.com/ide/puzzle/ascii-graph",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "No points",
+            "alphanumName": "noPoints",
+            "file": "02 - no points.txt"
+        },
+        {
+            "name": "Negative values",
+            "alphanumName": "negativeValues",
+            "file": "03 - negative values.txt"
+        },
+        {
+            "name": "Two points",
+            "alphanumName": "twoPoints",
+            "file": "04 - two points.txt"
+        },
+        {
+            "name": "Many points",
+            "alphanumName": "manyPoints",
+            "file": "05 - many points.txt"
+        },
+        {
+            "name": "Point at origin",
+            "alphanumName": "pointAtOrigin",
+            "file": "06 - point at origin.txt"
+        }
+    ]
+}

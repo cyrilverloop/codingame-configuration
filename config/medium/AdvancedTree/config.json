@@ -1,0 +1,98 @@
+{
+    "path": "medium/AdvancedTree",
+    "name": "Advanced Tree",
+    "alphanumName": "advancedTree",
+    "link": "https://www.codingame.com/ide/puzzle/advanced-tree",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "In a directory Test",
+            "alphanumName": "inADirectoryTest",
+            "file": "02 - in a directory test.txt"
+        },
+        {
+            "name": "Also in a directory Test",
+            "alphanumName": "alsoInADirectoryTest",
+            "file": "03 - also in a directory test.txt"
+        },
+        {
+            "name": "Gap End of Tree Handling Test",
+            "alphanumName": "gapEndOfTreeHandlingTest",
+            "file": "04 - gap end of tree handling test.txt"
+        },
+        {
+            "name": "Hidden Directories w/o -a Test",
+            "alphanumName": "hiddenDirectoriesWOATest",
+            "file": "05 - hidden directories wo -a test.txt"
+        },
+        {
+            "name": "Dots in Filenames Test",
+            "alphanumName": "dotsInFilenamesTest",
+            "file": "06 - dots in filenames test.txt"
+        },
+        {
+            "name": "Limit Flag Test",
+            "alphanumName": "limitFlagTest",
+            "file": "07 - limit flag test.txt"
+        },
+        {
+            "name": "Hidden Files w/o -a Test",
+            "alphanumName": "hiddenFilesWOATest",
+            "file": "08 - hidden files wo -a test.txt"
+        },
+        {
+            "name": "Hidden Files with -a Test",
+            "alphanumName": "hiddenFilesWithATest",
+            "file": "09 - hidden files with -a test.txt"
+        },
+        {
+            "name": "Directory Flag Test",
+            "alphanumName": "directoryFlagTest",
+            "file": "10 - directory flag test.txt"
+        },
+        {
+            "name": "Multiple Flags Test",
+            "alphanumName": "multipleFlagsTest",
+            "file": "11 - multiple flags test.txt"
+        },
+        {
+            "name": "All Flags Test",
+            "alphanumName": "allFlagsTest",
+            "file": "12 - all flags test.txt"
+        },
+        {
+            "name": "Error Handling 1 Test",
+            "alphanumName": "errorHandling1Test",
+            "file": "13 - error handling 1 test.txt"
+        },
+        {
+            "name": "Error Handling 2 Test",
+            "alphanumName": "errorHandling2Test",
+            "file": "14 - error handling 2 test.txt"
+        },
+        {
+            "name": "Error Handling 3 Test",
+            "alphanumName": "errorHandling3Test",
+            "file": "15 - error handling 3 test.txt"
+        },
+        {
+            "name": "Wrong Flag Test",
+            "alphanumName": "wrongFlagTest",
+            "file": "16 - wrong flag test.txt"
+        },
+        {
+            "name": "Big Test 1",
+            "alphanumName": "bigTest1",
+            "file": "17 - big test 1.txt"
+        },
+        {
+            "name": "Not Starting in .",
+            "alphanumName": "notStartingIn",
+            "file": "18 - not starting in..txt"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "path": "medium/BracketsUltimateEdition",
+    "name": "Brackets, Ultimate Edition",
+    "alphanumName": "bracketsUltimateEdition",
+    "link": "https://www.codingame.com/ide/puzzle/brackets-ultimate-edition",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Extreme",
+            "alphanumName": "extreme",
+            "file": "02 - extreme.txt"
+        },
+        {
+            "name": "Unextreme at little cost",
+            "alphanumName": "unextremeAtLittleCost",
+            "file": "03 - unextreme at little cost.txt"
+        },
+        {
+            "name": "Complex expressions",
+            "alphanumName": "complexExpressions",
+            "file": "04 - complex expressions.txt"
+        },
+        {
+            "name": "What’s your bias?",
+            "alphanumName": "whatsYourBias",
+            "file": "05 - what’s your bias.txt"
+        }
+    ]
+}

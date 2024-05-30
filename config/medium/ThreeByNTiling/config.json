@@ -1,0 +1,63 @@
+{
+    "path": "medium/ThreeByNTiling",
+    "name": "3×N tiling",
+    "alphanumName": "threeByNTiling",
+    "link": "https://www.codingame.com/ide/puzzle/3n-tiling",
+    "testConfigurations": [
+        {
+            "name": "1×N Possible",
+            "alphanumName": "oneByNPossible",
+            "file": "01 - 1×N possible.txt"
+        },
+        {
+            "name": "1×N Impossible",
+            "alphanumName": "oneByNImpossible",
+            "file": "02 - 1×N impossible.txt"
+        },
+        {
+            "name": "1×N Mixed",
+            "alphanumName": "oneByNMixed",
+            "file": "03 - 1×N mixed.txt"
+        },
+        {
+            "name": "2×N Simple",
+            "alphanumName": "twoByNSimple",
+            "file": "04 - 2×N simple.txt"
+        },
+        {
+            "name": "2×N Intermediate",
+            "alphanumName": "twoByNIntermediate",
+            "file": "05 - 2×N intermediate.txt"
+        },
+        {
+            "name": "2×N Advanced",
+            "alphanumName": "twoByNAdvanced",
+            "file": "06 - 2×N advanced.txt"
+        },
+        {
+            "name": "3×N Simple",
+            "alphanumName": "threeByNSimple",
+            "file": "07 - 3×N simple.txt"
+        },
+        {
+            "name": "3×N Intermediate",
+            "alphanumName": "threeByNIntermediate",
+            "file": "08 - 3×N intermediate.txt"
+        },
+        {
+            "name": "3×N Advanced",
+            "alphanumName": "threeByNAdvanced",
+            "file": "09 - 3×N advanced.txt"
+        },
+        {
+            "name": "Mixed",
+            "alphanumName": "mixed",
+            "file": "10 - mixed.txt"
+        },
+        {
+            "name": "You might want to check these",
+            "alphanumName": "youMightWantToCheckThese",
+            "file": "11 - you might want to check these.txt"
+        }
+    ]
+}

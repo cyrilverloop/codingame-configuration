@@ -1,0 +1,33 @@
+{
+    "path": "medium/TheLostChildEpisode1",
+    "name": "The lost child.Episode-1",
+    "alphanumName": "theLostChildEpisode1",
+    "link": "https://www.codingame.com/ide/puzzle/the-lost-child-episode-1",
+    "testConfigurations": [
+        {
+            "name": "Lost in playground",
+            "alphanumName": "lostInPlayground",
+            "file": "01 - lost in playground.txt"
+        },
+        {
+            "name": "Lost in paris",
+            "alphanumName": "lostInParis",
+            "file": "02 - lost in paris.txt"
+        },
+        {
+            "name": "Lost in jungle",
+            "alphanumName": "lostInJungle",
+            "file": "03 - lost in jungle.txt"
+        },
+        {
+            "name": "Lost in Maze Runner",
+            "alphanumName": "lostInMazeRunner",
+            "file": "04 - lost in maze runner.txt"
+        },
+        {
+            "name": "Lost in Space",
+            "alphanumName": "lostInSpace",
+            "file": "05 - lost in space.txt"
+        }
+    ]
+}

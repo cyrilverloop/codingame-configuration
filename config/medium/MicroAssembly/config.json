@@ -1,0 +1,48 @@
+{
+    "path": "medium/MicroAssembly",
+    "name": "Micro Assembly",
+    "alphanumName": "microAssembly",
+    "link": "https://www.codingame.com/ide/puzzle/micro-assembly",
+    "testConfigurations": [
+        {
+            "name": "MOV test",
+            "alphanumName": "MOVTest",
+            "file": "01 - MOV test.txt"
+        },
+        {
+            "name": "ADD test",
+            "alphanumName": "ADDTest",
+            "file": "02 - ADD test.txt"
+        },
+        {
+            "name": "SUB test",
+            "alphanumName": "SUBTest",
+            "file": "03 - SUB test.txt"
+        },
+        {
+            "name": "JNE test",
+            "alphanumName": "JNETest",
+            "file": "04 - JNE test.txt"
+        },
+        {
+            "name": "Handling negative values",
+            "alphanumName": "handlingNegativeValues",
+            "file": "05 - handling negative values.txt"
+        },
+        {
+            "name": "Calculating sum of 1..N",
+            "alphanumName": "calculatingSumOf1N",
+            "file": "06 - calculating sum of 1..N.txt"
+        },
+        {
+            "name": "Nested loops",
+            "alphanumName": "nestedLoops",
+            "file": "07 - nested loops.txt"
+        },
+        {
+            "name": "Multiplication and jump over instruction",
+            "alphanumName": "multiplicationAndJumpOverInstruction",
+            "file": "08 - multiplication and jump over instruction.txt"
+        }
+    ]
+}

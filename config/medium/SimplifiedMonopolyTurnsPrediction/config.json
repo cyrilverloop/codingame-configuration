@@ -1,0 +1,48 @@
+{
+    "path": "medium/SimplifiedMonopolyTurnsPrediction",
+    "name": "Simplified Monopoly™ Turns Prediction",
+    "alphanumName": "simplifiedMonopolyTurnsPrediction",
+    "link": "https://www.codingame.com/ide/puzzle/simplified-monopoly-turns-prediction",
+    "testConfigurations": [
+        {
+            "name": "Start from Go",
+            "alphanumName": "startFromGo",
+            "file": "01 - start from Go.txt"
+        },
+        {
+            "name": "Not start from Go",
+            "alphanumName": "notStartFromGo",
+            "file": "02 - not start from Go.txt"
+        },
+        {
+            "name": "Around the board",
+            "alphanumName": "aroundTheBoard",
+            "file": "03 - around the board.txt"
+        },
+        {
+            "name": "Lucky doubles",
+            "alphanumName": "luckyDoubles",
+            "file": "04 - lucky doubles.txt"
+        },
+        {
+            "name": "Go to jail",
+            "alphanumName": "goToJail",
+            "file": "05 - go to jail.txt"
+        },
+        {
+            "name": "Early release",
+            "alphanumName": "earlyRelease",
+            "file": "06 - early release.txt"
+        },
+        {
+            "name": "Friends forever",
+            "alphanumName": "friendsForever",
+            "file": "07 - friends forever.txt"
+        },
+        {
+            "name": "Big run",
+            "alphanumName": "bigRun",
+            "file": "08 - big run.txt"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "path": "medium/Crossword",
+    "name": "Crossword",
+    "alphanumName": "crossword",
+    "link": "https://www.codingame.com/ide/puzzle/crossword",
+    "testConfigurations": [
+        {
+            "name": "Byte-sized philosophy",
+            "alphanumName": "byteSizedPhilosophy",
+            "file": "01 - byte-sized philosophy.txt"
+        },
+        {
+            "name": "Color mix",
+            "alphanumName": "colorMix",
+            "file": "02 - color mix.txt"
+        },
+        {
+            "name": "Crime scene",
+            "alphanumName": "crimeScene",
+            "file": "03 - crime scene.txt"
+        },
+        {
+            "name": "Fruit salad",
+            "alphanumName": "fruitSalad",
+            "file": "04 - fruit salad.txt"
+        },
+        {
+            "name": "French writers 17th century",
+            "alphanumName": "frenchWriters17thCentury",
+            "file": "05 - french writers 17th century.txt"
+        },
+        {
+            "name": "Marvel Series",
+            "alphanumName": "marvelSeries",
+            "file": "06 - marvel series.txt"
+        },
+        {
+            "name": "French Coding Game Menu",
+            "alphanumName": "frenchCodingGameMenu",
+            "file": "07 - french coding game menu.txt"
+        },
+        {
+            "name": "No Way !",
+            "alphanumName": "noWay",
+            "file": "08 - no way !.txt"
+        },
+        {
+            "name": "Crash Test",
+            "alphanumName": "crashTest",
+            "file": "09 - crash test.txt"
+        },
+        {
+            "name": "Base case test",
+            "alphanumName": "baseCaseTest",
+            "file": "10 - base case test.txt"
+        },
+        {
+            "name": "Proximity test",
+            "alphanumName": "proximityTest",
+            "file": "11 - proximity test.txt"
+        },
+        {
+            "name": "No match test",
+            "alphanumName": "noMatchTest",
+            "file": "12 - no match test.txt"
+        },
+        {
+            "name": "Multiple solutions test",
+            "alphanumName": "multipleSolutionsTest",
+            "file": "13 - multiple solutions test.txt"
+        }
+    ]
+}

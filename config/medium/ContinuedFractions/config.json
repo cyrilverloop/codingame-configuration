@@ -1,0 +1,73 @@
+{
+    "path": "medium/ContinuedFractions",
+    "name": "Continued Fractions",
+    "alphanumName": "continuedFractions",
+    "link": "https://www.codingame.com/ide/puzzle/continued-fractions",
+    "testConfigurations": [
+        {
+            "name": "F -> CF",
+            "alphanumName": "FCF",
+            "file": "01 - F to CF.txt"
+        },
+        {
+            "name": "CF -> F",
+            "alphanumName": "CFF",
+            "file": "02 - CF to F.txt"
+        },
+        {
+            "name": "Small Fraction",
+            "alphanumName": "smallFraction",
+            "file": "03 - small fraction.txt"
+        },
+        {
+            "name": "Small CF",
+            "alphanumName": "smallCF",
+            "file": "04 - small CF.txt"
+        },
+        {
+            "name": "Medium Fraction",
+            "alphanumName": "mediumFraction",
+            "file": "05 - medium fraction.txt"
+        },
+        {
+            "name": "Medium CF",
+            "alphanumName": "mediumCF",
+            "file": "06 - medium CF.txt"
+        },
+        {
+            "name": "Large Fraction",
+            "alphanumName": "largeFraction",
+            "file": "07 - large fraction.txt"
+        },
+        {
+            "name": "Large CF",
+            "alphanumName": "largeCF",
+            "file": "08 - large CF.txt"
+        },
+        {
+            "name": "F -> Long CF",
+            "alphanumName": "FLongCF",
+            "file": "09 - F to long CF.txt"
+        },
+        {
+            "name": "Long CF -> F",
+            "alphanumName": "longCFF",
+            "file": "10 - Long CF to F.txt"
+        },
+        {
+            "name": "Negative Fraction",
+            "alphanumName": "negativeFraction",
+            "file": "11 - negative fraction.txt"
+        },
+        {
+            "name": "Negative CF",
+            "alphanumName": "negativeCF",
+            "file": "12 - negative CF.txt"
+        },
+        {
+            "name": "All Together Now",
+            "alphanumName": "allTogetherNow",
+            "file": "13 - all together now.txt"
+        }
+    ]
+}

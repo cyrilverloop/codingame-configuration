@@ -1,0 +1,43 @@
+{
+    "path": "medium/ThreeDPrinter",
+    "name": "3D printer",
+    "alphanumName": "threeDPrinter",
+    "link": "https://www.codingame.com/ide/puzzle/3d-printer",
+    "testConfigurations": [
+        {
+            "name": "example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "weird shape",
+            "alphanumName": "weirdShape",
+            "file": "02 - weird shape.txt"
+        },
+        {
+            "name": "WHAT THE...",
+            "alphanumName": "WHATTHE",
+            "file": "03 - WHAT THE....txt"
+        },
+        {
+            "name": "Hole",
+            "alphanumName": "hole",
+            "file": "04 - hole.txt"
+        },
+        {
+            "name": "Cube with a hole",
+            "alphanumName": "cubeWithAHole",
+            "file": "05 - cube with a hole.txt"
+        },
+        {
+            "name": "A mug???",
+            "alphanumName": "AMug",
+            "file": "06 - a mug.txt"
+        },
+        {
+            "name": "A chair",
+            "alphanumName": "AChair",
+            "file": "07 - a chair.txt"
+        }
+    ]
+}

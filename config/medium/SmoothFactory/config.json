@@ -1,0 +1,28 @@
+{
+    "path": "medium/SmoothFactory",
+    "name": "Smooth Factory",
+    "alphanumName": "smoothFactory",
+    "link": "https://www.codingame.com/ide/puzzle/smooth-factory",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Reading Comprehension",
+            "alphanumName": "readingComprehension",
+            "file": "02 - reading comprehension.txt"
+        },
+        {
+            "name": "Medium Figures",
+            "alphanumName": "mediumFigures",
+            "file": "03 - medium figures.txt"
+        },
+        {
+            "name": "Large Figures",
+            "alphanumName": "largeFigures",
+            "file": "04 - large figures.txt"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "path": "medium/ACoinGuessingGame",
+    "name": "A Coin Guessing Game",
+    "alphanumName": "aCoinGuessingGame",
+    "link": "https://www.codingame.com/ide/puzzle/a-coin-guessing-game",
+    "testConfigurations": [
+        {
+            "name": "2 coins",
+            "alphanumName": "twoCoins",
+            "file": "01 - 2 coins.txt"
+        },
+        {
+            "name": "3 coins",
+            "alphanumName": "threeCoins",
+            "file": "02 - 3 coins.txt"
+        },
+        {
+            "name": "4 coins",
+            "alphanumName": "fourCoins",
+            "file": "03 - 4 coins.txt"
+        },
+        {
+            "name": "5 coins",
+            "alphanumName": "fiveCoins",
+            "file": "04 - 5 coins.txt"
+        },
+        {
+            "name": "10 coins",
+            "alphanumName": "tenCoins",
+            "file": "05 - 10 coins.txt"
+        },
+        {
+            "name": "25 coins",
+            "alphanumName": "twentyFiveCoins",
+            "file": "06 - 25 coins.txt"
+        },
+        {
+            "name": "50 coins",
+            "alphanumName": "fiftyCoins",
+            "file": "07 - 50 coins.txt"
+        },
+        {
+            "name": "100 coins",
+            "alphanumName": "aHundredCoins",
+            "file": "08 - 100 coins.txt"
+        },
+        {
+            "name": "150 coins",
+            "alphanumName": "aHundredAndFiftyCoins",
+            "file": "09 - 150 coins.txt"
+        }
+    ]
+}

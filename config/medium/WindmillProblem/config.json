@@ -1,0 +1,43 @@
+{
+    "path": "medium/WindmillProblem",
+    "name": "Windmill problem",
+    "alphanumName": "windmillProblem",
+    "link": "https://www.codingame.com/ide/puzzle/windmill-problem",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Parallelogram",
+            "alphanumName": "parallelogram",
+            "file": "02 - parallelogram.txt"
+        },
+        {
+            "name": "10 Random Points",
+            "alphanumName": "tenRandomPoints",
+            "file": "03 - 10 random points.txt"
+        },
+        {
+            "name": "Large",
+            "alphanumName": "large",
+            "file": "04 - large.txt"
+        },
+        {
+            "name": "Infinite Loop",
+            "alphanumName": "infiniteLoop",
+            "file": "05 - infinite loop.txt"
+        },
+        {
+            "name": "Smarter approach required",
+            "alphanumName": "smarterApproachRequired",
+            "file": "06 - smarter approach required.txt"
+        },
+        {
+            "name": "Convex Hull",
+            "alphanumName": "convexHull",
+            "file": "07 - convex hull.txt"
+        }
+    ]
+}

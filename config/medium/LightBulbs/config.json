@@ -1,0 +1,53 @@
+{
+    "path": "medium/LightBulbs",
+    "name": "Light Bulbs",
+    "alphanumName": "lightBulbs",
+    "link": "https://www.codingame.com/ide/puzzle/light-bulbs",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "N=5",
+            "alphanumName": "N5",
+            "file": "02 - N=5.txt"
+        },
+        {
+            "name": "N=6",
+            "alphanumName": "N6",
+            "file": "03 - N=6.txt"
+        },
+        {
+            "name": "N=8",
+            "alphanumName": "N8",
+            "file": "04 - N=8.txt"
+        },
+        {
+            "name": "N=11",
+            "alphanumName": "N11",
+            "file": "05 - N=11.txt"
+        },
+        {
+            "name": "N=16",
+            "alphanumName": "N16",
+            "file": "06 - N=16.txt"
+        },
+        {
+            "name": "N=19",
+            "alphanumName": "N19",
+            "file": "07 - N=19.txt"
+        },
+        {
+            "name": "N=22",
+            "alphanumName": "N22",
+            "file": "08 - N=22.txt"
+        },
+        {
+            "name": "N=25",
+            "alphanumName": "N25",
+            "file": "09 - N=25.txt"
+        }
+    ]
+}

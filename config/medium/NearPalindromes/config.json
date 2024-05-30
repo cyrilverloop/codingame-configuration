@@ -1,0 +1,33 @@
+{
+    "path": "medium/NearPalindromes",
+    "name": "Near-Palindromes",
+    "alphanumName": "nearPalindromes",
+    "link": "https://www.codingame.com/ide/puzzle/near-palindromes",
+    "testConfigurations": [
+        {
+            "name": "Near-Palindrome",
+            "alphanumName": "nearPalindrome",
+            "file": "01 - near-palindrome.txt"
+        },
+        {
+            "name": "Non-Near-Palindrome",
+            "alphanumName": "nonNearPalindrome",
+            "file": "02 - non-near-palindrome.txt"
+        },
+        {
+            "name": "Multiple Words",
+            "alphanumName": "multipleWords",
+            "file": "03 - multiple words.txt"
+        },
+        {
+            "name": "Big Word",
+            "alphanumName": "bigWord",
+            "file": "04 - big word.txt"
+        },
+        {
+            "name": "River?",
+            "alphanumName": "river?",
+            "file": "05 - river.txt"
+        }
+    ]
+}

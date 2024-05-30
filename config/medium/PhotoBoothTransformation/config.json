@@ -1,0 +1,43 @@
+{
+    "path": "medium/PhotoBoothTransformation",
+    "name": "Photo Booth Transformation",
+    "alphanumName": "photoBoothTransformation",
+    "link": "https://www.codingame.com/ide/puzzle/photo-booth-transformation",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Size <= 10",
+            "alphanumName": "sizeLTOE10",
+            "file": "02 - size LTOE 10.txt"
+        },
+        {
+            "name": "Size <= 20",
+            "alphanumName": "sizeLTOE20",
+            "file": "03 - size LTOE 20.txt"
+        },
+        {
+            "name": "Size <= 100",
+            "alphanumName": "sizeLTOE100",
+            "file": "04 - size LTOE 100.txt"
+        },
+        {
+            "name": "Size <= 500",
+            "alphanumName": "sizeLTOE500",
+            "file": "05 - size LTOE 500.txt"
+        },
+        {
+            "name": "Size <= 1000",
+            "alphanumName": "sizeLTOE1000",
+            "file": "06 - size LTOE 1000.txt"
+        },
+        {
+            "name": "Size <= 2000",
+            "alphanumName": "sizeLTOE2000",
+            "file": "07 - size LTOE 2000.txt"
+        }
+    ]
+}

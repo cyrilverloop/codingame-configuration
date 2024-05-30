@@ -1,0 +1,33 @@
+{
+    "path": "medium/ReversedLookAndSay",
+    "name": "Reversed Look-and-say",
+    "alphanumName": "reversedLookAndSay",
+    "link": "https://www.codingame.com/ide/puzzle/reversed-look-and-say",
+    "testConfigurations": [
+        {
+            "name": "Test 1. An easy one",
+            "alphanumName": "anEasyOne",
+            "file": "01 - an easy one.txt"
+        },
+        {
+            "name": "Test 2. Not so easy",
+            "alphanumName": "notSoEasy",
+            "file": "02 - not so easy.txt"
+        },
+        {
+            "name": "Test 3. Give it a try",
+            "alphanumName": "giveItATry",
+            "file": "03 - give it a try.txt"
+        },
+        {
+            "name": "Test 4. To infinity and beyond!",
+            "alphanumName": "toInfinityAndBeyond",
+            "file": "04 - to infinity and beyond!.txt"
+        },
+        {
+            "name": "Test 5. Not a big deal",
+            "alphanumName": "notABigDeal",
+            "file": "05 - not a big deal.txt"
+        }
+    ]
+}

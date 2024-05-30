@@ -1,0 +1,33 @@
+{
+    "path": "medium/DynamicSorting",
+    "name": "Dynamic sorting",
+    "alphanumName": "dynamicSorting",
+    "link": "https://www.codingame.com/ide/puzzle/dynamic-sorting",
+    "testConfigurations": [
+        {
+            "name": "Simple name sorting",
+            "alphanumName": "simpleNameSorting",
+            "file": "01 - simple name sorting.txt"
+        },
+        {
+            "name": "ThenBy",
+            "alphanumName": "thenBy",
+            "file": "02 - thenBy.txt"
+        },
+        {
+            "name": "Large dataset",
+            "alphanumName": "largeDataset",
+            "file": "03 - large dataset.txt"
+        },
+        {
+            "name": "3 sorting parameters",
+            "alphanumName": "threeSortingParameters",
+            "file": "04 - 3 sorting parameters.txt"
+        },
+        {
+            "name": "4 sorting parameters",
+            "alphanumName": "fourSortingParameters",
+            "file": "05 - 4 sorting parameters.txt"
+        }
+    ]
+}

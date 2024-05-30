@@ -1,0 +1,48 @@
+{
+    "path": "medium/ThePolishDictionary",
+    "name": "The Polish Dictionary",
+    "alphanumName": "thePolishDictionary",
+    "link": "https://www.codingame.com/ide/puzzle/the-polish-dictionary",
+    "testConfigurations": [
+        {
+            "name": "Simple Test",
+            "alphanumName": "simpleTest",
+            "file": "01 - simple test.txt"
+        },
+        {
+            "name": "No Parentheses Needed",
+            "alphanumName": "noParenthesesNeeded",
+            "file": "02 - no parentheses needed.txt"
+        },
+        {
+            "name": "Simple Parentheses",
+            "alphanumName": "simpleParentheses",
+            "file": "03 - simple parentheses.txt"
+        },
+        {
+            "name": "Multiple Layers",
+            "alphanumName": "multipleLayers",
+            "file": "04 - multiple layers.txt"
+        },
+        {
+            "name": "Parentheses Inisde Other Parentheses",
+            "alphanumName": "parenthesesInisdeOtherParentheses",
+            "file": "05 - parentheses inisde other parentheses.txt"
+        },
+        {
+            "name": "Variables",
+            "alphanumName": "variables",
+            "file": "06 - variables.txt"
+        },
+        {
+            "name": "Tree divisions",
+            "alphanumName": "treeDivisions",
+            "file": "07 - tree divisions.txt"
+        },
+        {
+            "name": "Big Test",
+            "alphanumName": "bigTest",
+            "file": "08 - big test.txt"
+        }
+    ]
+}

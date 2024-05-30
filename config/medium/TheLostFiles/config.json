@@ -1,0 +1,28 @@
+{
+    "path": "medium/TheLostFiles",
+    "name": "The lost files",
+    "alphanumName": "theLostFiles",
+    "link": "https://www.codingame.com/ide/puzzle/the-lost-files",
+    "testConfigurations": [
+        {
+            "name": "Small example",
+            "alphanumName": "smallExample",
+            "file": "01 - small example.txt"
+        },
+        {
+            "name": "Single continent with big tiles",
+            "alphanumName": "singleContinentWithBigTiles",
+            "file": "02 - single continent with big tiles.txt"
+        },
+        {
+            "name": "Many islands",
+            "alphanumName": "manyIslands",
+            "file": "03 - many islands.txt"
+        },
+        {
+            "name": "Complex map",
+            "alphanumName": "complexMap",
+            "file": "04 - complex map.txt"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "path": "medium/Minesweeper",
+    "name": "Minesweeper",
+    "alphanumName": "minesweeper",
+    "link": "https://www.codingame.com/ide/puzzle/minesweeper",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Hidden mines",
+            "alphanumName": "hiddenMines",
+            "file": "02 - hidden mines.txt"
+        },
+        {
+            "name": "One line",
+            "alphanumName": "oneLine",
+            "file": "03 - one line.txt"
+        },
+        {
+            "name": "Two blocks",
+            "alphanumName": "twoBlocks",
+            "file": "04 - two blocks.txt"
+        },
+        {
+            "name": "Final test",
+            "alphanumName": "finalTest",
+            "file": "05 - final test.txt"
+        }
+    ]
+}

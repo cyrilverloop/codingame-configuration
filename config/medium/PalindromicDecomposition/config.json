@@ -1,0 +1,63 @@
+{
+    "path": "medium/PalindromicDecomposition",
+    "name": "Palindromic Decomposition",
+    "alphanumName": "palindromicDecomposition",
+    "link": "https://www.codingame.com/ide/puzzle/palindromic-decomposition",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Small a",
+            "alphanumName": "smallA",
+            "file": "02 - small a.txt"
+        },
+        {
+            "name": "Small aab",
+            "alphanumName": "smallAab",
+            "file": "03 - small aab.txt"
+        },
+        {
+            "name": "Large a",
+            "alphanumName": "largeA",
+            "file": "04 - large a.txt"
+        },
+        {
+            "name": "Large aba",
+            "alphanumName": "largeAba",
+            "file": "05 - large aba.txt"
+        },
+        {
+            "name": "Large ababa",
+            "alphanumName": "largeAbaba",
+            "file": "06 - large ababa.txt"
+        },
+        {
+            "name": "Large aabaa",
+            "alphanumName": "largeAabaa",
+            "file": "07 - large aabaa.txt"
+        },
+        {
+            "name": "Large ab",
+            "alphanumName": "largeAb",
+            "file": "08 - large ab.txt"
+        },
+        {
+            "name": "Large aab",
+            "alphanumName": "largeAab",
+            "file": "09 - large aab.txt"
+        },
+        {
+            "name": "Large abba",
+            "alphanumName": "largeAbba",
+            "file": "10 - large abba.txt"
+        },
+        {
+            "name": "All letters",
+            "alphanumName": "allLetters",
+            "file": "11 - all letters.txt"
+        }
+    ]
+}

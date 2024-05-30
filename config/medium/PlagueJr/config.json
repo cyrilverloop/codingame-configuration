@@ -1,0 +1,33 @@
+{
+    "path": "medium/PlagueJr",
+    "name": "Plague, Jr",
+    "alphanumName": "plagueJr",
+    "link": "https://www.codingame.com/ide/puzzle/plague-jr",
+    "testConfigurations": [
+        {
+            "name": "The Example",
+            "alphanumName": "theExample",
+            "file": "01 - the example.txt"
+        },
+        {
+            "name": "Easy Case",
+            "alphanumName": "easyCase",
+            "file": "02 - easy case.txt"
+        },
+        {
+            "name": "Advanced Case",
+            "alphanumName": "advancedCase",
+            "file": "03 - advanced case.txt"
+        },
+        {
+            "name": "Donut Case",
+            "alphanumName": "donutCase",
+            "file": "04 - donut case.txt"
+        },
+        {
+            "name": "Spokey Case",
+            "alphanumName": "spokeyCase",
+            "file": "05 - spokey case.txt"
+        }
+    ]
+}

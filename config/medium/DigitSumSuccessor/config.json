@@ -1,0 +1,63 @@
+{
+    "path": "medium/DigitSumSuccessor",
+    "name": "Digit sum successor",
+    "alphanumName": "digitSumSuccessor",
+    "link": "https://www.codingame.com/ide/puzzle/digit-sum-successor",
+    "testConfigurations": [
+        {
+            "name": "Two",
+            "alphanumName": "two",
+            "file": "01 - two.txt"
+        },
+        {
+            "name": "Simple test",
+            "alphanumName": "simpleTest",
+            "file": "02 - simple test.txt"
+        },
+        {
+            "name": "Trailing zeros",
+            "alphanumName": "trailingZeros",
+            "file": "03 - trailing zeros.txt"
+        },
+        {
+            "name": "Trailing zeros and nines",
+            "alphanumName": "trailingZerosAndNines",
+            "file": "04 - trailing zeros and nines.txt"
+        },
+        {
+            "name": "Need more length",
+            "alphanumName": "needMoreLength",
+            "file": "05 - need more length.txt"
+        },
+        {
+            "name": "Random test",
+            "alphanumName": "randomTest",
+            "file": "06 - random test.txt"
+        },
+        {
+            "name": "Only nines",
+            "alphanumName": "onlyNines",
+            "file": "07 - only nines.txt"
+        },
+        {
+            "name": "Zeros and nines",
+            "alphanumName": "zerosAndNines",
+            "file": "08 - zeros and nines.txt"
+        },
+        {
+            "name": "Zeros and nines 2",
+            "alphanumName": "zerosAndNines2",
+            "file": "09 - zeros and nines 2.txt"
+        },
+        {
+            "name": "Zeros and nines 3",
+            "alphanumName": "zerosAndNines3",
+            "file": "10 - zeros and nines 3.txt"
+        },
+        {
+            "name": "Zeros and nines 4",
+            "alphanumName": "zerosAndNines4",
+            "file": "11 - zeros and nines 4.txt"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "path": "medium/BijectiveNumeration",
+    "name": "Bijective Numeration",
+    "alphanumName": "bijectiveNumeration",
+    "link": "https://www.codingame.com/ide/puzzle/bijective-numeration",
+    "testConfigurations": [
+        {
+            "name": "Simple Parsing",
+            "alphanumName": "simpleParsing",
+            "file": "01 - simple parsing.txt"
+        },
+        {
+            "name": "Parsing",
+            "alphanumName": "parsing",
+            "file": "02 - parsing.txt"
+        },
+        {
+            "name": "More Parsing",
+            "alphanumName": "moreParsing",
+            "file": "03 - more parsing.txt"
+        },
+        {
+            "name": "Simple Generation",
+            "alphanumName": "simpleGeneration",
+            "file": "04 - simple generation.txt"
+        },
+        {
+            "name": "Generation",
+            "alphanumName": "generation",
+            "file": "05 - generation.txt"
+        },
+        {
+            "name": "More Generation",
+            "alphanumName": "moreGeneration",
+            "file": "06 - more generation.txt"
+        },
+        {
+            "name": "Mixed Test",
+            "alphanumName": "mixedTest",
+            "file": "07 - mixed test.txt"
+        },
+        {
+            "name": "Bigger Test",
+            "alphanumName": "biggerTest",
+            "file": "08 - bigger test.txt"
+        },
+        {
+            "name": "Huge Test",
+            "alphanumName": "hugeTest",
+            "file": "09 - huge test.txt"
+        }
+    ]
+}

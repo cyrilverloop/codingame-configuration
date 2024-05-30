@@ -1,0 +1,28 @@
+{
+    "path": "medium/DuckHunt",
+    "name": "Duck Hunt",
+    "alphanumName": "duckHunt",
+    "link": "https://www.codingame.com/ide/puzzle/duck-hunt",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Foursome",
+            "alphanumName": "foursome",
+            "file": "02 - foursome.txt"
+        },
+        {
+            "name": "The Race",
+            "alphanumName": "theRace",
+            "file": "03 - the race.txt"
+        },
+        {
+            "name": "Can’t shoot all",
+            "alphanumName": "cantShootAll",
+            "file": "04 - can’t shoot all.txt"
+        }
+    ]
+}

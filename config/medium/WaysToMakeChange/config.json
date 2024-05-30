@@ -1,0 +1,38 @@
+{
+    "path": "medium/WaysToMakeChange",
+    "name": "Ways to make change",
+    "alphanumName": "waysToMakeChange",
+    "link": "https://www.codingame.com/ide/puzzle/ways-to-make-change",
+    "testConfigurations": [
+        {
+            "name": "Small change",
+            "alphanumName": "smallChange",
+            "file": "01 - small change.txt"
+        },
+        {
+            "name": "Bigger change",
+            "alphanumName": "biggerChange",
+            "file": "02 - bigger change.txt"
+        },
+        {
+            "name": "That won’t be easy !",
+            "alphanumName": "thatWontBeEasy",
+            "file": "03 - that won’t be easy !.txt"
+        },
+        {
+            "name": "Bank notes only please",
+            "alphanumName": "bankNotesOnlyPlease",
+            "file": "04 - bank notes only please.txt"
+        },
+        {
+            "name": "How am I supposed to do ?!",
+            "alphanumName": "howAmISupposedToDo",
+            "file": "05 - how am i supposed to do !.txt"
+        },
+        {
+            "name": "Pushing a bit...",
+            "alphanumName": "pushingABit",
+            "file": "06 - pushing a bit....txt"
+        }
+    ]
+}

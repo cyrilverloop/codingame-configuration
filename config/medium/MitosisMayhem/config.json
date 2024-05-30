@@ -1,0 +1,73 @@
+{
+    "path": "medium/MitosisMayhem",
+    "name": "Mitosis Mayhem",
+    "alphanumName": "mitosisMayhem",
+    "link": "https://www.codingame.com/ide/puzzle/mitosis-mayhem",
+    "testConfigurations": [
+        {
+            "name": "All full",
+            "alphanumName": "allFull",
+            "file": "01 - all full.txt"
+        },
+        {
+            "name": "Missing a few",
+            "alphanumName": "missingAFew",
+            "file": "02 - missing a few.txt"
+        },
+        {
+            "name": "Multiple",
+            "alphanumName": "multiple",
+            "file": "03 - multiple.txt"
+        },
+        {
+            "name": "Overflow!",
+            "alphanumName": "overflow",
+            "file": "04 - overflow!.txt"
+        },
+        {
+            "name": "Overflow! 2",
+            "alphanumName": "overflow2",
+            "file": "05 - overflow! 2.txt"
+        },
+        {
+            "name": "Stop!",
+            "alphanumName": "stop",
+            "file": "06 - stop!.txt"
+        },
+        {
+            "name": "Conflict!",
+            "alphanumName": "conflict",
+            "file": "07 - conflict!.txt"
+        },
+        {
+            "name": "Overpowered",
+            "alphanumName": "overpowered",
+            "file": "08 - overpowered.txt"
+        },
+        {
+            "name": "Uneven conflict",
+            "alphanumName": "unevenConflict",
+            "file": "09 - uneven conflict.txt"
+        },
+        {
+            "name": "Consumption",
+            "alphanumName": "consumption",
+            "file": "10 - consumption.txt"
+        },
+        {
+            "name": "Bigger Fish",
+            "alphanumName": "biggerFish",
+            "file": "11 - bigger fish.txt"
+        },
+        {
+            "name": "Skip the little ones",
+            "alphanumName": "skipTheLittleOnes",
+            "file": "12 - skip the little ones.txt"
+        },
+        {
+            "name": "Imperfect Conflict",
+            "alphanumName": "imperfectConflict",
+            "file": "13 - imperfect conflict.txt"
+        }
+    ]
+}

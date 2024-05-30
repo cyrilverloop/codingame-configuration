@@ -1,0 +1,88 @@
+{
+    "path": "medium/SourceCodeAnalyser",
+    "name": "Source Code Analyser",
+    "alphanumName": "sourceCodeAnalyser",
+    "link": "https://www.codingame.com/ide/puzzle/source-code-analyser",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Test 2: one liner",
+            "alphanumName": "test2OneLiner",
+            "file": "02 - test 2 one liner.txt"
+        },
+        {
+            "name": "Test 3: simple test with multiple lines, also with _ and numbers in identifiers",
+            "alphanumName": "test3SimpleTestWithMultipleLinesAlsoWith_AndNumbersInIdentifiers",
+            "file": "03 - test 3 simple test with multiple lines, also with _ and numbers in identifiers.txt"
+        },
+        {
+            "name": "Test 4: reserved keyword is not a function call",
+            "alphanumName": "test4ReservedKeywordIsNotAFunctionCall",
+            "file": "04 - test 4 reserved keyword is not a function call.txt"
+        },
+        {
+            "name": "Test 5: single line comment",
+            "alphanumName": "test5SingleLineComment",
+            "file": "05 - test 5 single line comment.txt"
+        },
+        {
+            "name": "Test 6: multi-line comment",
+            "alphanumName": "test6MultiLineComment",
+            "file": "06 - test 6 multi-line comment.txt"
+        },
+        {
+            "name": "Test 7: within a comment",
+            "alphanumName": "test7WithinAComment",
+            "file": "07 - test 7 within a comment.txt"
+        },
+        {
+            "name": "Test 8: string literals",
+            "alphanumName": "test8StringLiterals",
+            "file": "08 - test 8 string literals.txt"
+        },
+        {
+            "name": "Test 9: mixing quotes",
+            "alphanumName": "test9MixingQuotes",
+            "file": "09 - test 9 mixing quotes.txt"
+        },
+        {
+            "name": "Test 10: reserved keywords",
+            "alphanumName": "test10ReservedKeywords",
+            "file": "10 - test 10 reserved keywords.txt"
+        },
+        {
+            "name": "Test 11: user defined function",
+            "alphanumName": "test11UserDefinedFunction",
+            "file": "11 - test 11 user defined function.txt"
+        },
+        {
+            "name": "Test 12: no function call",
+            "alphanumName": "test12NoFunctionCall",
+            "file": "12 - test 12 no function call.txt"
+        },
+        {
+            "name": "Test 13: case sensitive names",
+            "alphanumName": "test13CaseSensitiveNames",
+            "file": "13 - test 13 case sensitive names.txt"
+        },
+        {
+            "name": "Test 14: function name from variable",
+            "alphanumName": "test14FunctionNameFromVariable",
+            "file": "14 - test 14 function name from variable.txt"
+        },
+        {
+            "name": "Test 15: multiple whitespaces",
+            "alphanumName": "test15MultipleWhitespaces",
+            "file": "15 - test 15 multiple whitespaces.txt"
+        },
+        {
+            "name": "Test 16: real life example",
+            "alphanumName": "test16RealLifeExample",
+            "file": "16 - test 16 real life example.txt"
+        }
+    ]
+}

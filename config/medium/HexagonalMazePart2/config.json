@@ -1,0 +1,68 @@
+{
+    "path": "medium/HexagonalMazePart2",
+    "name": "Hexagonal Maze - part2",
+    "alphanumName": "hexagonalMazePart2",
+    "link": "https://www.codingame.com/ide/puzzle/hexagonal-maze---part2",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Need the key",
+            "alphanumName": "needTheKey",
+            "file": "02 - need the key.txt"
+        },
+        {
+            "name": "Choose shortest",
+            "alphanumName": "chooseShortest",
+            "file": "03 - choose shortest.txt"
+        },
+        {
+            "name": "Shortest with sliding",
+            "alphanumName": "shortestWithSliding",
+            "file": "04 - shortest with sliding.txt"
+        },
+        {
+            "name": "Sliding junction",
+            "alphanumName": "slidingJunction",
+            "file": "05 - sliding junction.txt"
+        },
+        {
+            "name": "Sliding until wall",
+            "alphanumName": "slidingUntilWall",
+            "file": "06 - sliding until wall.txt"
+        },
+        {
+            "name": "Sliding or not sliding, that is the junction",
+            "alphanumName": "slidingOrNotSlidingThatIsTheJunction",
+            "file": "07 - sliding or not sliding, that is the junction.txt"
+        },
+        {
+            "name": "Crazy doors",
+            "alphanumName": "crazyDoors",
+            "file": "08 - crazy doors.txt"
+        },
+        {
+            "name": "Visited or not ?",
+            "alphanumName": "visitedOrNot",
+            "file": "09 - visited or not.txt"
+        },
+        {
+            "name": "Skating rink",
+            "alphanumName": "skatingRink",
+            "file": "10 - skating rink.txt"
+        },
+        {
+            "name": "Skating rink with keys",
+            "alphanumName": "skatingRinkWithKeys",
+            "file": "11 - skating rink with keys.txt"
+        },
+        {
+            "name": "Bonus test",
+            "alphanumName": "bonusTest",
+            "file": "12 - bonus test.txt"
+        }
+    ]
+}

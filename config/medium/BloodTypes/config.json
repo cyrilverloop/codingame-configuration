@@ -1,0 +1,28 @@
+{
+    "path": "medium/BloodTypes",
+    "name": "Blood Types",
+    "alphanumName": "bloodTypes",
+    "link": "https://www.codingame.com/ide/puzzle/blood-types",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Child blood types",
+            "alphanumName": "childBloodTypes",
+            "file": "02 - child blood types.txt"
+        },
+        {
+            "name": "Parents blood types",
+            "alphanumName": "parentsBloodTypes",
+            "file": "03 - parents blood types.txt"
+        },
+        {
+            "name": "All combins",
+            "alphanumName": "allCombins",
+            "file": "04 - all combins.txt"
+        }
+    ]
+}

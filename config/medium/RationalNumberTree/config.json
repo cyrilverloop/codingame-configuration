@@ -1,0 +1,38 @@
+{
+    "path": "medium/RationalNumberTree",
+    "name": "Rational Number Tree",
+    "alphanumName": "rationalNumberTree",
+    "link": "https://www.codingame.com/ide/puzzle/rational-number-tree",
+    "testConfigurations": [
+        {
+            "name": "Examples",
+            "alphanumName": "examples",
+            "file": "01 - examples.txt"
+        },
+        {
+            "name": "Near the root 1",
+            "alphanumName": "nearTheRoot1",
+            "file": "02 - near the root 1.txt"
+        },
+        {
+            "name": "Near the root 2",
+            "alphanumName": "nearTheRoot2",
+            "file": "03 - near the root 2.txt"
+        },
+        {
+            "name": "Longer and Bigger",
+            "alphanumName": "longerAndBigger",
+            "file": "04 - longer and bigger.txt"
+        },
+        {
+            "name": "Big Big numbers",
+            "alphanumName": "bigBigNumbers",
+            "file": "05 - big big numbers.txt"
+        },
+        {
+            "name": "Long Long path",
+            "alphanumName": "longLongPath",
+            "file": "06 - long long path.txt"
+        }
+    ]
+}

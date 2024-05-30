@@ -1,0 +1,53 @@
+{
+    "path": "medium/BarcodeScanner",
+    "name": "Barcode scanner",
+    "alphanumName": "barcodeScanner",
+    "link": "https://www.codingame.com/ide/puzzle/barcode-scanner",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Ukraine",
+            "alphanumName": "ukraine",
+            "file": "02 - ukraine.txt"
+        },
+        {
+            "name": "Great Britain (Reversed)",
+            "alphanumName": "greatBritainReversed",
+            "file": "03 - great britain (reversed).txt"
+        },
+        {
+            "name": "Germany",
+            "alphanumName": "germany",
+            "file": "04 - germany.txt"
+        },
+        {
+            "name": "Wrong checksum",
+            "alphanumName": "wrongChecksum",
+            "file": "05 - wrong checksum.txt"
+        },
+        {
+            "name": "Broken guard(s)",
+            "alphanumName": "brokenGuards",
+            "file": "06 - broken guard(s).txt"
+        },
+        {
+            "name": "Broken parity",
+            "alphanumName": "brokenParity",
+            "file": "07 - broken parity.txt"
+        },
+        {
+            "name": "Other error (Reversed)",
+            "alphanumName": "otherErrorReversed",
+            "file": "08 - other error (reversed).txt"
+        },
+        {
+            "name": "Book (Reversed)",
+            "alphanumName": "bookReversed",
+            "file": "09 - book (reversed).txt"
+        }
+    ]
+}

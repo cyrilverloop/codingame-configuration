@@ -1,0 +1,33 @@
+{
+    "path": "medium/FindTheMissingPlusSignsInAddition",
+    "name": "Find the missing plus signs in addition",
+    "alphanumName": "findTheMissingPlusSignsInAddition",
+    "link": "https://www.codingame.com/ide/puzzle/find-the-missing-plus-signs-in-addition",
+    "testConfigurations": [
+        {
+            "name": "Example with unique solution",
+            "alphanumName": "exampleWithUniqueSolution",
+            "file": "01 - example with unique solution.txt"
+        },
+        {
+            "name": "No solution there",
+            "alphanumName": "noSolutionThere",
+            "file": "02 - no solution there.txt"
+        },
+        {
+            "name": "More than one solution",
+            "alphanumName": "moreThanOneSolution",
+            "file": "03 - more than one solution.txt"
+        },
+        {
+            "name": "Ten terms",
+            "alphanumName": "tenTerms",
+            "file": "04 - ten terms.txt"
+        },
+        {
+            "name": "59 digits in O",
+            "alphanumName": "fiftyNineDigitsInO",
+            "file": "05 - 59 digits in O.txt"
+        }
+    ]
+}

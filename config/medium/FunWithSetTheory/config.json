@@ -1,0 +1,83 @@
+{
+    "path": "medium/FunWithSetTheory",
+    "name": "Fun with Set theory",
+    "alphanumName": "funWithSetTheory",
+    "link": "https://www.codingame.com/ide/puzzle/fun-with-set-theory",
+    "testConfigurations": [
+        {
+            "name": "With Braces",
+            "alphanumName": "withBraces",
+            "file": "01 - with braces.txt"
+        },
+        {
+            "name": "With Brackets",
+            "alphanumName": "withBrackets",
+            "file": "02 - with brackets.txt"
+        },
+        {
+            "name": "Simple Union",
+            "alphanumName": "simpleUnion",
+            "file": "03 - simple union.txt"
+        },
+        {
+            "name": "Multiple Unions",
+            "alphanumName": "multipleUnions",
+            "file": "04 - multiple unions.txt"
+        },
+        {
+            "name": "Simple Intersection",
+            "alphanumName": "simpleIntersection",
+            "file": "05 - simple intersection.txt"
+        },
+        {
+            "name": "Multiple Intersections",
+            "alphanumName": "multipleIntersections",
+            "file": "06 - multiple intersections.txt"
+        },
+        {
+            "name": "Simple Difference",
+            "alphanumName": "simpleDifference",
+            "file": "07 - simple difference.txt"
+        },
+        {
+            "name": "Multiple Differences",
+            "alphanumName": "multipleDifferences",
+            "file": "08 - multiple differences.txt"
+        },
+        {
+            "name": "Braces and Brackets",
+            "alphanumName": "bracesAndBrackets",
+            "file": "09 - braces and brackets.txt"
+        },
+        {
+            "name": "Empty Set",
+            "alphanumName": "emptySet",
+            "file": "10 - empty set.txt"
+        },
+        {
+            "name": "Negative Numbers",
+            "alphanumName": "negativeNumbers",
+            "file": "11 - negative numbers.txt"
+        },
+        {
+            "name": "Orientation of Brackets",
+            "alphanumName": "orientationOfBrackets",
+            "file": "12 - orientation of brackets.txt"
+        },
+        {
+            "name": "Simple Parentheses",
+            "alphanumName": "simpleParentheses",
+            "file": "13 - simple parentheses.txt"
+        },
+        {
+            "name": "Nested Parentheses",
+            "alphanumName": "nestedParentheses",
+            "file": "14 - nested parentheses.txt"
+        },
+        {
+            "name": "Everything!",
+            "alphanumName": "everything",
+            "file": "15 - everything!.txt"
+        }
+    ]
+}

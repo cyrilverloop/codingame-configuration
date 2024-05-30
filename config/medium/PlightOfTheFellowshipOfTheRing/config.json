@@ -1,0 +1,33 @@
+{
+    "path": "medium/PlightOfTheFellowshipOfTheRing",
+    "name": "Plight Of The Fellowship Of The Ring",
+    "alphanumName": "plightOfTheFellowshipOfTheRing",
+    "link": "https://www.codingame.com/ide/puzzle/plight-of-the-fellowship-of-the-ring",
+    "testConfigurations": [
+        {
+            "name": "One Orc",
+            "alphanumName": "oneOrc",
+            "file": "01 - one orc.txt"
+        },
+        {
+            "name": "Multiple Orcs",
+            "alphanumName": "multipleOrcs",
+            "file": "02 - multiple orcs.txt"
+        },
+        {
+            "name": "Many choices",
+            "alphanumName": "manyChoices",
+            "file": "03 - many choices.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "impossible",
+            "file": "04 - impossible.txt"
+        },
+        {
+            "name": "No orcs!",
+            "alphanumName": "noOrcs",
+            "file": "05 - no orcs!.txt"
+        }
+    ]
+}

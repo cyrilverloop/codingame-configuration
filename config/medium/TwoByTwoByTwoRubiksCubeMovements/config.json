@@ -1,0 +1,28 @@
+{
+    "path": "medium/TwoByTwoByTwoRubiksCubeMovements",
+    "name": "2×2×2 Rubik’s cube movements",
+    "alphanumName": "twoByTwoByTwoRubiksCubeMovements",
+    "link": "https://www.codingame.com/ide/puzzle/222-rubiks-cube-movements",
+    "testConfigurations": [
+        {
+            "name": "Simple move",
+            "alphanumName": "simpleMove",
+            "file": "01 - simple move.txt"
+        },
+        {
+            "name": "Reverse move",
+            "alphanumName": "reverseMove",
+            "file": "02 - reverse move.txt"
+        },
+        {
+            "name": "Square move",
+            "alphanumName": "squareMove",
+            "file": "03 - square move.txt"
+        },
+        {
+            "name": "Classical algorithms",
+            "alphanumName": "classicalAlgorithms",
+            "file": "04 - classical algorithms.txt"
+        }
+    ]
+}

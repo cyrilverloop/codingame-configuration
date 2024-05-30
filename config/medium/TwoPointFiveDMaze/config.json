@@ -1,0 +1,28 @@
+{
+    "path": "medium/TwoPointFiveDMaze",
+    "name": "2.5D maze",
+    "alphanumName": "twoPointFiveDMaze",
+    "link": "https://www.codingame.com/ide/puzzle/2-5d-maze",
+    "testConfigurations": [
+        {
+            "name": "Simple maze",
+            "alphanumName": "simpleMaze",
+            "file": "01 - simple maze.txt"
+        },
+        {
+            "name": "With slopes",
+            "alphanumName": "withSlopes",
+            "file": "02 - with slopes.txt"
+        },
+        {
+            "name": "With bridges",
+            "alphanumName": "withBridges",
+            "file": "03 - with bridges.txt"
+        },
+        {
+            "name": "Big maze",
+            "alphanumName": "bigMaze",
+            "file": "04 - big maze.txt"
+        }
+    ]
+}

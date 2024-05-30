@@ -1,0 +1,43 @@
+{
+    "path": "medium/BullsAndCows",
+    "name": "Bulls and Cows",
+    "alphanumName": "bullsAndCows",
+    "link": "https://www.codingame.com/ide/puzzle/bulls-and-cows",
+    "testConfigurations": [
+        {
+            "name": "All bulls",
+            "alphanumName": "allBulls",
+            "file": "01 - all bulls.txt"
+        },
+        {
+            "name": "Pair of cows",
+            "alphanumName": "pairOfCows",
+            "file": "02 - pair of cows.txt"
+        },
+        {
+            "name": "Two pair of bulls",
+            "alphanumName": "twoPairOfBulls",
+            "file": "03 - two pair of bulls.txt"
+        },
+        {
+            "name": "Nothing but cows",
+            "alphanumName": "nothingButCows",
+            "file": "04 - nothing but cows.txt"
+        },
+        {
+            "name": "Lone bulls",
+            "alphanumName": "loneBulls",
+            "file": "05 - lone bulls.txt"
+        },
+        {
+            "name": "One for all",
+            "alphanumName": "oneForAll",
+            "file": "06 - one for all.txt"
+        },
+        {
+            "name": "Bad guesser",
+            "alphanumName": "badGuesser",
+            "file": "07 - bad guesser.txt"
+        }
+    ]
+}

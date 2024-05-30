@@ -1,0 +1,63 @@
+{
+    "path": "medium/GravityCentrifuge",
+    "name": "Gravity Centrifuge",
+    "alphanumName": "gravityCentrifuge",
+    "link": "https://www.codingame.com/ide/puzzle/gravity-centrifuge",
+    "testConfigurations": [
+        {
+            "name": "Tumble",
+            "alphanumName": "tumble",
+            "file": "01 - tumble.txt"
+        },
+        {
+            "name": "Double Tumble",
+            "alphanumName": "doubleTumble",
+            "file": "02 - double tumble.txt"
+        },
+        {
+            "name": "Triple Tumble",
+            "alphanumName": "tripleTumble",
+            "file": "03 - triple tumble.txt"
+        },
+        {
+            "name": "Octal, remember?",
+            "alphanumName": "octalRemember",
+            "file": "04 - octal, remember.txt"
+        },
+        {
+            "name": "Dead Beef!",
+            "alphanumName": "deadBeef",
+            "file": "05 - dead beef!.txt"
+        },
+        {
+            "name": "Wait, what?",
+            "alphanumName": "waitWhat",
+            "file": "06 - wait, what.txt"
+        },
+        {
+            "name": "Leonardo would be proud of you!",
+            "alphanumName": "leonardoWouldBeProudOfYou",
+            "file": "07 - leonardo would be proud of you!.txt"
+        },
+        {
+            "name": "Randomize This! 1",
+            "alphanumName": "randomizeThis1",
+            "file": "08 - randomize this! 1.txt"
+        },
+        {
+            "name": "Randomize This! 2",
+            "alphanumName": "randomizeThis2",
+            "file": "09 - randomize this! 2.txt"
+        },
+        {
+            "name": "Randomize This! 3",
+            "alphanumName": "randomizeThis3",
+            "file": "10 - randomize this! 3.txt"
+        },
+        {
+            "name": "Binary Overflow",
+            "alphanumName": "binaryOverflow",
+            "file": "11 - binary overflow.txt"
+        }
+    ]
+}

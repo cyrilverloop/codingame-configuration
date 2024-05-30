@@ -1,0 +1,38 @@
+{
+    "path": "medium/FindTheReplacement",
+    "name": "Find the replacement",
+    "alphanumName": "findTheReplacement",
+    "link": "https://www.codingame.com/ide/puzzle/find-the-replacement",
+    "testConfigurations": [
+        {
+            "name": "Easy replacement",
+            "alphanumName": "easyReplacement",
+            "file": "01 - easy replacement.txt"
+        },
+        {
+            "name": "No replacement",
+            "alphanumName": "noReplacement",
+            "file": "02 - no replacement.txt"
+        },
+        {
+            "name": "CAN’T (hard)",
+            "alphanumName": "CANTHard",
+            "file": "03 - CAN’T (hard).txt"
+        },
+        {
+            "name": "Symbols",
+            "alphanumName": "symbols",
+            "file": "04 - symbols.txt"
+        },
+        {
+            "name": "Random, all different",
+            "alphanumName": "randomAllDifferent",
+            "file": "05 - random, all different.txt"
+        },
+        {
+            "name": "Symbols reversed",
+            "alphanumName": "symbolsReversed",
+            "file": "06 - symbols reversed.txt"
+        }
+    ]
+}

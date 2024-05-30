@@ -1,0 +1,33 @@
+{
+    "path": "medium/BulgarianSolitaire",
+    "name": "Bulgarian solitaire",
+    "alphanumName": "bulgarianSolitaire",
+    "link": "https://www.codingame.com/ide/puzzle/bulgarian-solitaire",
+    "testConfigurations": [
+        {
+            "name": "1 pile",
+            "alphanumName": "onePile",
+            "file": "01 - 1 pile.txt"
+        },
+        {
+            "name": "3 piles",
+            "alphanumName": "threePiles",
+            "file": "02 - 3 piles.txt"
+        },
+        {
+            "name": "Large piles",
+            "alphanumName": "largePiles",
+            "file": "03 - large piles.txt"
+        },
+        {
+            "name": "Empty piles",
+            "alphanumName": "emptyPiles",
+            "file": "04 - empty piles.txt"
+        },
+        {
+            "name": "Many piles",
+            "alphanumName": "manyPiles",
+            "file": "05 - many piles.txt"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "path": "medium/LunarLockout",
+    "name": "Lunar Lockout",
+    "alphanumName": "lunarLockout",
+    "link": "https://www.codingame.com/ide/puzzle/lunar-lockout",
+    "testConfigurations": [
+        {
+            "name": "One move",
+            "alphanumName": "oneMove",
+            "file": "01 - one move.txt"
+        },
+        {
+            "name": "A little more movement",
+            "alphanumName": "aLittleMoreMovement",
+            "file": "02 - a little more movement.txt"
+        },
+        {
+            "name": "A few more moves",
+            "alphanumName": "aFewMoreMoves",
+            "file": "03 - a few more moves.txt"
+        },
+        {
+            "name": "Many more movements",
+            "alphanumName": "manyMoreMovements",
+            "file": "04 - many more movements.txt"
+        },
+        {
+            "name": "The maximum of movements",
+            "alphanumName": "theMaximumOfMovements",
+            "file": "05 - the maximum of movements.txt"
+        },
+        {
+            "name": "Example of the statement",
+            "alphanumName": "exampleOfTheStatement",
+            "file": "06 - example of the statement.txt"
+        }
+    ]
+}

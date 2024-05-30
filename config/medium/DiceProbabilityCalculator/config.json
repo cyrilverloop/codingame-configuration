@@ -1,0 +1,43 @@
+{
+    "path": "medium/DiceProbabilityCalculator",
+    "name": "Dice probability calculator",
+    "alphanumName": "diceProbabilityCalculator",
+    "link": "https://www.codingame.com/ide/puzzle/dice-probability-calculator",
+    "testConfigurations": [
+        {
+            "name": "A die and two additions",
+            "alphanumName": "aDieAndTwoAdditions",
+            "file": "01 - a die and two additions.txt"
+        },
+        {
+            "name": "Simple Comparison",
+            "alphanumName": "simplecomparison",
+            "file": "02 - simple comparison.txt"
+        },
+        {
+            "name": "Addition of two dice",
+            "alphanumName": "additionOfTwoDice",
+            "file": "03 - addition of two dice.txt"
+        },
+        {
+            "name": "Comparaison with sum of dice",
+            "alphanumName": "comparaisonWithSumOfDice",
+            "file": "04 - comparaison with sum of dice.txt"
+        },
+        {
+            "name": "Subtraction of dice",
+            "alphanumName": "subtractionOfDice",
+            "file": "05 - subtraction of dice.txt"
+        },
+        {
+            "name": "Multiplication of dice",
+            "alphanumName": "multiplicationOfDice",
+            "file": "06 - multiplication of dice.txt"
+        },
+        {
+            "name": "FIX IT !",
+            "alphanumName": "FIXIT",
+            "file": "07 - FIX IT !.txt"
+        }
+    ]
+}

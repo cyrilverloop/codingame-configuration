@@ -1,0 +1,28 @@
+{
+    "path": "medium/KaprekarsRoutine",
+    "name": "Kaprekar’s routine",
+    "alphanumName": "kaprekarsRoutine",
+    "link": "https://www.codingame.com/ide/puzzle/kaprekars-routine",
+    "testConfigurations": [
+        {
+            "name": "length 1 cycle",
+            "alphanumName": "length1Cycle",
+            "file": "01 - length 1 cycle.txt"
+        },
+        {
+            "name": "dont forget padding",
+            "alphanumName": "dontForgetPadding",
+            "file": "02 - dont forget padding.txt"
+        },
+        {
+            "name": "number of the beast",
+            "alphanumName": "numberOfTheBeast",
+            "file": "03 - number of the beast.txt"
+        },
+        {
+            "name": "big",
+            "alphanumName": "big",
+            "file": "04 - big.txt"
+        }
+    ]
+}

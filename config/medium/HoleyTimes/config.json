@@ -1,0 +1,48 @@
+{
+    "path": "medium/HoleyTimes",
+    "name": "Holey Times",
+    "alphanumName": "holeyTimes",
+    "link": "https://www.codingame.com/ide/puzzle/holey-times",
+    "testConfigurations": [
+        {
+            "name": "One missing digit in the operand",
+            "alphanumName": "oneMissingDigitInTheOperand",
+            "file": "01 - one missing digit in the operand.txt"
+        },
+        {
+            "name": "Missing digits in the operands",
+            "alphanumName": "missingDigitsInTheOperands",
+            "file": "02 - missing digits in the operands.txt"
+        },
+        {
+            "name": "Missing digits in the partial results",
+            "alphanumName": "missingDigitsInThePartialResults",
+            "file": "03 - missing digits in the partial results.txt"
+        },
+        {
+            "name": "Missing digits in the result",
+            "alphanumName": "missingDigitsInTheResult",
+            "file": "04 - missing digits in the result.txt"
+        },
+        {
+            "name": "Missing digits everywhere",
+            "alphanumName": "missingDigitsEverywhere",
+            "file": "05 - missing digits everywhere.txt"
+        },
+        {
+            "name": "No leading zeros",
+            "alphanumName": "noLeadingZeros",
+            "file": "06 - no leading zeros.txt"
+        },
+        {
+            "name": "Mind the hole",
+            "alphanumName": "mindTheHole",
+            "file": "07 - mind the hole.txt"
+        },
+        {
+            "name": "The tough one",
+            "alphanumName": "theToughOne",
+            "file": "08 - the tough one.txt"
+        }
+    ]
+}

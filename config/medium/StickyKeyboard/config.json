@@ -1,0 +1,43 @@
+{
+    "path": "medium/StickyKeyboard",
+    "name": "Sticky Keyboard",
+    "alphanumName": "stickyKeyboard",
+    "link": "https://www.codingame.com/ide/puzzle/sticky-keyboard",
+    "testConfigurations": [
+        {
+            "name": "If it aint broke",
+            "alphanumName": "ifItAintBroke",
+            "file": "01 - if it aint broke.txt"
+        },
+        {
+            "name": "One repeat letterr",
+            "alphanumName": "oneRepeatLetterr",
+            "file": "02 - one repeat letterr.txt"
+        },
+        {
+            "name": "Repeat earlier",
+            "alphanumName": "repeatEarlier",
+            "file": "03 - repeat earlier.txt"
+        },
+        {
+            "name": "Dropped letters",
+            "alphanumName": "droppedLetters",
+            "file": "04 - dropped letters.txt"
+        },
+        {
+            "name": "So much stickiness",
+            "alphanumName": "soMuchStickiness",
+            "file": "05 - so much stickiness.txt"
+        },
+        {
+            "name": "Zorbishian Alien Language",
+            "alphanumName": "zorbishianAlienLanguage",
+            "file": "06 - zorbishian alien language.txt"
+        },
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "07 - example.txt"
+        }
+    ]
+}

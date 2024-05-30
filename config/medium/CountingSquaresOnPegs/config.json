@@ -1,0 +1,43 @@
+{
+    "path": "medium/CountingSquaresOnPegs",
+    "name": "Counting Squares on Pegs",
+    "alphanumName": "countingSquaresOnPegs",
+    "link": "https://www.codingame.com/ide/puzzle/counting-squares-on-pegs",
+    "testConfigurations": [
+        {
+            "name": "5 points",
+            "alphanumName": "fivePoints",
+            "file": "01 - 5 points.txt"
+        },
+        {
+            "name": "50 points",
+            "alphanumName": "fiftyPoints",
+            "file": "02 - 50 points.txt"
+        },
+        {
+            "name": "100 points",
+            "alphanumName": "oneHundredPoints",
+            "file": "03 - 100 points.txt"
+        },
+        {
+            "name": "500 points",
+            "alphanumName": "fiveHundredPoints",
+            "file": "04 - 500 points.txt"
+        },
+        {
+            "name": "1000 points",
+            "alphanumName": "oneThousandPoints",
+            "file": "05 - 1000 points.txt"
+        },
+        {
+            "name": "1500 points",
+            "alphanumName": "oneThousandAndFiveHundredPoints",
+            "file": "06 - 1500 points.txt"
+        },
+        {
+            "name": "1750 points",
+            "alphanumName": "oneThousandSevenHundredAndFiftyPoints",
+            "file": "07 - 1750 points.txt"
+        }
+    ]
+}

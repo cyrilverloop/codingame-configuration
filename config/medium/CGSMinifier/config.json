@@ -1,0 +1,33 @@
+{
+    "path": "medium/CGSMinifier",
+    "name": "CGS minifier",
+    "alphanumName": "CGSMinifier",
+    "link": "https://www.codingame.com/ide/puzzle/cgs-minifier",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "1",
+            "alphanumName": "one",
+            "file": "02 - 1.txt"
+        },
+        {
+            "name": "2",
+            "alphanumName": "two",
+            "file": "03 - 2.txt"
+        },
+        {
+            "name": "3",
+            "alphanumName": "three",
+            "file": "04 - 3.txt"
+        },
+        {
+            "name": "4",
+            "alphanumName": "four",
+            "file": "05 - 4.txt"
+        }
+    ]
+}

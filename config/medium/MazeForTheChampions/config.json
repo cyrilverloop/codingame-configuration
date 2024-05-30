@@ -1,0 +1,48 @@
+{
+    "path": "medium/MazeForTheChampions",
+    "name": "Maze for the Champions",
+    "alphanumName": "mazeForTheChampions",
+    "link": "https://www.codingame.com/ide/puzzle/maze-for-the-champions",
+    "testConfigurations": [
+        {
+            "name": "1: easy for Warrior",
+            "alphanumName": "easyForWarrior",
+            "file": "01 - easy for warrior.txt"
+        },
+        {
+            "name": "2: Easy for Elf",
+            "alphanumName": "easyForElf",
+            "file": "02 - easy for elf.txt"
+        },
+        {
+            "name": "3: Easy for Mage",
+            "alphanumName": "easyForMage",
+            "file": "03 - easy for mage.txt"
+        },
+        {
+            "name": "4: Easy for Dwarf",
+            "alphanumName": "easyForDwarf",
+            "file": "04 - easy for dwarf.txt"
+        },
+        {
+            "name": "5: Complex for Warrior",
+            "alphanumName": "complexForWarrior",
+            "file": "05 - complex for warrior.txt"
+        },
+        {
+            "name": "6: Complex for Elf",
+            "alphanumName": "complexForElf",
+            "file": "06 - complex for elf.txt"
+        },
+        {
+            "name": "7: Complex for Mage",
+            "alphanumName": "complexForMage",
+            "file": "07 - complex for mage.txt"
+        },
+        {
+            "name": "8: Complex for Dwarf",
+            "alphanumName": "complexForDwarf",
+            "file": "08 - complex for dwarf.txt"
+        }
+    ]
+}

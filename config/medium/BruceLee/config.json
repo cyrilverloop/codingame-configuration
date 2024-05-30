@@ -1,0 +1,63 @@
+{
+    "path": "medium/BruceLee",
+    "name": "Bruce Lee",
+    "alphanumName": "bruceLee",
+    "link": "https://www.codingame.com/ide/puzzle/bruce-lee",
+    "testConfigurations": [
+        {
+            "name": "A",
+            "alphanumName": "A",
+            "file": "01 - A.txt"
+        },
+        {
+            "name": "AA",
+            "alphanumName": "AA",
+            "file": "02 - AA.txt"
+        },
+        {
+            "name": "Bruce Lee",
+            "alphanumName": "bruceLee",
+            "file": "03 - bruce lee.txt"
+        },
+        {
+            "name": "Epic message",
+            "alphanumName": "epicMessage",
+            "file": "04 - epic message.txt"
+        },
+        {
+            "name": "This seems wrong...",
+            "alphanumName": "thisSeemsWrong",
+            "file": "05 - this seems wrong....txt"
+        },
+        {
+            "name": "Large text",
+            "alphanumName": "largeText",
+            "file": "06 - large text.txt"
+        },
+        {
+            "name": "%*#0",
+            "alphanumName": "pas0",
+            "file": "07 - %#0.txt"
+        },
+        {
+            "name": "This shouldn’t work",
+            "alphanumName": "thisShouldntWork",
+            "file": "08 - this shouldn’t work.txt"
+        },
+        {
+            "name": "invalid input",
+            "alphanumName": "invalidInput",
+            "file": "09 - invalid input.txt"
+        },
+        {
+            "name": "invalid input",
+            "alphanumName": "invalidInput2",
+            "file": "10 - invalid input.txt"
+        },
+        {
+            "name": "invalid input",
+            "alphanumName": "invalidInput3",
+            "file": "11 - invalid input.txt"
+        }
+    ]
+}

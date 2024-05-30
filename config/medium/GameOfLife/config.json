@@ -1,0 +1,43 @@
+{
+    "path": "medium/GameOfLife",
+    "name": "Game of life",
+    "alphanumName": "gameOfLife",
+    "link": "https://www.codingame.com/ide/puzzle/game-of-life",
+    "testConfigurations": [
+        {
+            "name": "3x3",
+            "alphanumName": "threex3",
+            "file": "01 - 3x3.txt"
+        },
+        {
+            "name": "3x3",
+            "alphanumName": "threex3_2",
+            "file": "02 - 3x3.txt"
+        },
+        {
+            "name": "26x5",
+            "alphanumName": "twentySixx5",
+            "file": "03 - 26x5.txt"
+        },
+        {
+            "name": "1x100",
+            "alphanumName": "onex100",
+            "file": "04 - 1x100.txt"
+        },
+        {
+            "name": "100x1",
+            "alphanumName": "oneHundredx1",
+            "file": "05 - 100x1.txt"
+        },
+        {
+            "name": "30x30",
+            "alphanumName": "thirtyx30",
+            "file": "06 - 30x30.txt"
+        },
+        {
+            "name": "1x1",
+            "alphanumName": "onex1",
+            "file": "07 - 1x1.txt"
+        }
+    ]
+}

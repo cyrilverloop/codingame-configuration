@@ -1,0 +1,113 @@
+{
+    "path": "medium/CardsCastle",
+    "name": "Cards castle",
+    "alphanumName": "cardsCastle",
+    "link": "https://www.codingame.com/ide/puzzle/cards-castle",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Little castle",
+            "alphanumName": "littleCastle",
+            "file": "02 - little castle.txt"
+        },
+        {
+            "name": "Little fallen castle",
+            "alphanumName": "littleFallenCastle",
+            "file": "03 - little fallen castle.txt"
+        },
+        {
+            "name": "Fortress",
+            "alphanumName": "fortress",
+            "file": "04 - fortress.txt"
+        },
+        {
+            "name": "Fallen fortress",
+            "alphanumName": "fallenFortress",
+            "file": "05 - fallen fortress.txt"
+        },
+        {
+            "name": "Cards are missing ?",
+            "alphanumName": "cardsAreMissing",
+            "file": "06 - cards are missing.txt"
+        },
+        {
+            "name": "A lot of cards are missing ?!",
+            "alphanumName": "aLotOfCardsAreMissing",
+            "file": "07 - a lot of cards are missing !.txt"
+        },
+        {
+            "name": "Unstable single card",
+            "alphanumName": "unstableSingleCard",
+            "file": "08 - unstable single card.txt"
+        },
+        {
+            "name": "Flying cards",
+            "alphanumName": "flyingCards",
+            "file": "09 - flying cards.txt"
+        },
+        {
+            "name": "Reversed cards",
+            "alphanumName": "reversedCards",
+            "file": "10 - reversed cards.txt"
+        },
+        {
+            "name": "Few floors",
+            "alphanumName": "fewFloors",
+            "file": "11 - few floors.txt"
+        },
+        {
+            "name": "On the gap",
+            "alphanumName": "onTheGap",
+            "file": "12 - on the gap.txt"
+        },
+        {
+            "name": "Starting on",
+            "alphanumName": "startingOn",
+            "file": "13 - starting on.txt"
+        },
+        {
+            "name": "Shifted",
+            "alphanumName": "shifted",
+            "file": "14 - shifted.txt"
+        },
+        {
+            "name": "Flying castle cards",
+            "alphanumName": "flyingCastleCards",
+            "file": "15 - flying castle cards.txt"
+        },
+        {
+            "name": "Same card side by side",
+            "alphanumName": "sameCardSideBySide",
+            "file": "16 - same card side by side.txt"
+        },
+        {
+            "name": "Same flying card side by side",
+            "alphanumName": "sameFlyingCardSideBySide",
+            "file": "17 - same flying card side by side.txt"
+        },
+        {
+            "name": "Flying reversed card side by side",
+            "alphanumName": "flyingReversedCardSideBySide",
+            "file": "18 - flying reversed card side by side.txt"
+        },
+        {
+            "name": "The shifted unique one",
+            "alphanumName": "theShiftedUniqueOne",
+            "file": "19 - the shifted unique one.txt"
+        },
+        {
+            "name": "Lost cards",
+            "alphanumName": "lostCards",
+            "file": "20 - lost cards.txt"
+        },
+        {
+            "name": "Complex",
+            "alphanumName": "complex",
+            "file": "21 - complex.txt"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "path": "medium/HiddenWord",
+    "name": "Hidden word",
+    "alphanumName": "hiddenWord",
+    "link": "https://www.codingame.com/ide/puzzle/hidden-word",
+    "testConfigurations": [
+        {
+            "name": "Horizontal words",
+            "alphanumName": "horizontalWords",
+            "file": "01 - horizontal words.txt"
+        },
+        {
+            "name": "Vertical words",
+            "alphanumName": "verticalWords",
+            "file": "02 - vertical words.txt"
+        },
+        {
+            "name": "All directions (small)",
+            "alphanumName": "allDirectionsSmall",
+            "file": "03 - all directions (small).txt"
+        },
+        {
+            "name": "All directions (big)",
+            "alphanumName": "allDirectionsBig",
+            "file": "04 - all directions (big).txt"
+        }
+    ]
+}

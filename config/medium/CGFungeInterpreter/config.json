@@ -1,0 +1,38 @@
+{
+    "path": "medium/CGFungeInterpreter",
+    "name": "CGFunge interpreter",
+    "alphanumName": "CGFungeInterpreter",
+    "link": "https://www.codingame.com/ide/puzzle/cgfunge-interpreter",
+    "testConfigurations": [
+        {
+            "name": "Just math",
+            "alphanumName": "justMath",
+            "file": "01 - just math.txt"
+        },
+        {
+            "name": "Simple text",
+            "alphanumName": "simpleText",
+            "file": "02 - simple text.txt"
+        },
+        {
+            "name": "Go all ways",
+            "alphanumName": "goAllWays",
+            "file": "03 - go all ways.txt"
+        },
+        {
+            "name": "Very hello world",
+            "alphanumName": "veryHelloWorld",
+            "file": "04 - very hello world.txt"
+        },
+        {
+            "name": "Sing me a song",
+            "alphanumName": "singMeASong",
+            "file": "05 - sing me a song.txt"
+        },
+        {
+            "name": "Skip & short lines",
+            "alphanumName": "skipAndShortLines",
+            "file": "06 - skip & short lines.txt"
+        }
+    ]
+}

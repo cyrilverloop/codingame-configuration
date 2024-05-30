@@ -1,0 +1,28 @@
+{
+    "path": "medium/QuaternionMultiplication",
+    "name": "Quaternion Multiplication",
+    "alphanumName": "quaternionMultiplication",
+    "link": "https://www.codingame.com/ide/puzzle/quaternion-multiplication",
+    "testConfigurations": [
+        {
+            "name": "Small",
+            "alphanumName": "small",
+            "file": "01 - small.txt"
+        },
+        {
+            "name": "Medium",
+            "alphanumName": "medium",
+            "file": "02 - medium.txt"
+        },
+        {
+            "name": "Large",
+            "alphanumName": "large",
+            "file": "03 - large.txt"
+        },
+        {
+            "name": "Giant",
+            "alphanumName": "giant",
+            "file": "04 - giant.txt"
+        }
+    ]
+}

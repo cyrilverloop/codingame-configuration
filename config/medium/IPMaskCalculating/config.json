@@ -1,0 +1,48 @@
+{
+    "path": "medium/IPMaskCalculating",
+    "name": "IP mask calculating",
+    "alphanumName": "IPMaskCalculating",
+    "link": "https://www.codingame.com/ide/puzzle/ip-mask-calculating",
+    "testConfigurations": [
+        {
+            "name": "Your ip at home",
+            "alphanumName": "yourIpAtHome",
+            "file": "01 - your ip at home.txt"
+        },
+        {
+            "name": "Your ip at school",
+            "alphanumName": "yourIpAtSchool",
+            "file": "02 - your ip at school.txt"
+        },
+        {
+            "name": "Not a real network mask",
+            "alphanumName": "notARealNetworkMask",
+            "file": "03 - not a real network mask.txt"
+        },
+        {
+            "name": "Little mask (not a real network mask too)",
+            "alphanumName": "littleMaskNotARealNetworkMaskToo",
+            "file": "04 - little mask (not a real network mask too).txt"
+        },
+        {
+            "name": "255.255.240.0",
+            "alphanumName": "two552552400",
+            "file": "05 - 255.255.240.0.txt"
+        },
+        {
+            "name": "254.0.0.0",
+            "alphanumName": "two54000",
+            "file": "06 - 254.0.0.0.txt"
+        },
+        {
+            "name": "A strange IP",
+            "alphanumName": "aStrangeIP",
+            "file": "07 - a strange IP.txt"
+        },
+        {
+            "name": "42",
+            "alphanumName": "fortyTwo",
+            "file": "08 - 42.txt"
+        }
+    ]
+}

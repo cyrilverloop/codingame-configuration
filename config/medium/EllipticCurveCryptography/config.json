@@ -1,0 +1,33 @@
+{
+    "path": "medium/EllipticCurveCryptography",
+    "name": "Elliptic curve cryptography",
+    "alphanumName": "ellipticCurveCryptography",
+    "link": "https://www.codingame.com/ide/puzzle/elliptic-curve-cryptography",
+    "testConfigurations": [
+        {
+            "name": "Small Unique",
+            "alphanumName": "smallUnique",
+            "file": "01 - small unique.txt"
+        },
+        {
+            "name": "Small Multiple",
+            "alphanumName": "smallMultiple",
+            "file": "02 - small multiple.txt"
+        },
+        {
+            "name": "Medium Multiple",
+            "alphanumName": "mediumMultiple",
+            "file": "03 - Medium multiple.txt"
+        },
+        {
+            "name": "Long Unique",
+            "alphanumName": "longUnique",
+            "file": "04 - long unique.txt"
+        },
+        {
+            "name": "Long Multiple",
+            "alphanumName": "longMultiple",
+            "file": "05 - long multiple.txt"
+        }
+    ]
+}

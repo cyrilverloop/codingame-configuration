@@ -1,0 +1,48 @@
+{
+    "path": "medium/SandpileAddition",
+    "name": "Sandpile addition",
+    "alphanumName": "sandpileAddition",
+    "link": "https://www.codingame.com/ide/puzzle/sandpile-addition",
+    "testConfigurations": [
+        {
+            "name": "One simple addition",
+            "alphanumName": "oneSimpleAddition",
+            "file": "01 - one simple addition.txt"
+        },
+        {
+            "name": "One more simple case",
+            "alphanumName": "oneMoreSimpleCase",
+            "file": "02 - one more simple case.txt"
+        },
+        {
+            "name": "A lot of redistribution",
+            "alphanumName": "aLotOfRedistribution",
+            "file": "03 - a lot of redistribution.txt"
+        },
+        {
+            "name": "Pretty packed",
+            "alphanumName": "prettyPacked",
+            "file": "04 - pretty packed.txt"
+        },
+        {
+            "name": "Two full sandpiles",
+            "alphanumName": "twoFullSandpiles",
+            "file": "05 - two full sandpiles.txt"
+        },
+        {
+            "name": "Bigger grid",
+            "alphanumName": "biggerGrid",
+            "file": "06 - bigger grid.txt"
+        },
+        {
+            "name": "Even bigger",
+            "alphanumName": "evenBigger",
+            "file": "07 - even bigger.txt"
+        },
+        {
+            "name": "Asymmetric",
+            "alphanumName": "asymmetric",
+            "file": "08 - asymmetric.txt"
+        }
+    ]
+}

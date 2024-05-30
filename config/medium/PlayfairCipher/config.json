@@ -1,0 +1,48 @@
+{
+    "path": "medium/PlayfairCipher",
+    "name": "Playfair Cipher",
+    "alphanumName": "playfairCipher",
+    "link": "https://www.codingame.com/ide/puzzle/playfair-cipher",
+    "testConfigurations": [
+        {
+            "name": "Row",
+            "alphanumName": "row",
+            "file": "01 - row.txt"
+        },
+        {
+            "name": "Column",
+            "alphanumName": "column",
+            "file": "02 - column.txt"
+        },
+        {
+            "name": "Row and Column",
+            "alphanumName": "rowAndColumn",
+            "file": "03 - row and column.txt"
+        },
+        {
+            "name": "Invalid characters",
+            "alphanumName": "invalidCharacters",
+            "file": "04 - invalid characters.txt"
+        },
+        {
+            "name": "Decryption",
+            "alphanumName": "decryption",
+            "file": "05 - decryption.txt"
+        },
+        {
+            "name": "DUD",
+            "alphanumName": "DUD",
+            "file": "06 - DUD.txt"
+        },
+        {
+            "name": "Some Messages",
+            "alphanumName": "someMessages",
+            "file": "07 - some messages.txt"
+        },
+        {
+            "name": "More Messages",
+            "alphanumName": "moreMessages",
+            "file": "08 - more messages.txt"
+        }
+    ]
+}

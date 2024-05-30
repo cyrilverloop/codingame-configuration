@@ -1,0 +1,43 @@
+{
+    "path": "medium/LockedInGear",
+    "name": "Locked in gear",
+    "alphanumName": "lockedInGear",
+    "link": "https://www.codingame.com/ide/puzzle/locked-in-gear",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "The missing link",
+            "alphanumName": "theMissingLink",
+            "file": "02 - the missing link.txt"
+        },
+        {
+            "name": "A dead end",
+            "alphanumName": "aDeadEnd",
+            "file": "03 - a dead end.txt"
+        },
+        {
+            "name": "Jammed",
+            "alphanumName": "jammed",
+            "file": "04 - jammed.txt"
+        },
+        {
+            "name": "This problem is beyond me",
+            "alphanumName": "thisProblemIsBeyondMe",
+            "file": "05 - this problem is beyond me.txt"
+        },
+        {
+            "name": "Lots of gears",
+            "alphanumName": "lotsOfGears",
+            "file": "06 - lots of gears.txt"
+        },
+        {
+            "name": "An entire different problem altogether",
+            "alphanumName": "anEntireDifferentProblemAltogether",
+            "file": "07 - an entire different problem altogether.txt"
+        }
+    ]
+}

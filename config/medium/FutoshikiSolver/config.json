@@ -1,0 +1,63 @@
+{
+    "path": "medium/FutoshikiSolver",
+    "name": "Futoshiki Solver",
+    "alphanumName": "futoshikiSolver",
+    "link": "https://www.codingame.com/ide/puzzle/futoshiki-solver",
+    "testConfigurations": [
+        {
+            "name": "No comparisons",
+            "alphanumName": "noComparisons",
+            "file": "01 - no comparisons.txt"
+        },
+        {
+            "name": "Comparisons only horizontal",
+            "alphanumName": "comparisonsOnlyHorizontal",
+            "file": "02 - comparisons only horizontal.txt"
+        },
+        {
+            "name": "Comparisons only vertical",
+            "alphanumName": "comparisonsOnlyVertical",
+            "file": "03 - comparisons only vertical.txt"
+        },
+        {
+            "name": "5x5",
+            "alphanumName": "fivex5",
+            "file": "04 - 5x5.txt"
+        },
+        {
+            "name": "7x7",
+            "alphanumName": "sevenx7",
+            "file": "05 - 7x7.txt"
+        },
+        {
+            "name": "More 5x5",
+            "alphanumName": "more5x5",
+            "file": "06 - more 5x5.txt"
+        },
+        {
+            "name": "4x4",
+            "alphanumName": "fourx4",
+            "file": "07 - 4x4.txt"
+        },
+        {
+            "name": "6x6",
+            "alphanumName": "sixx6",
+            "file": "08 - 6x6.txt"
+        },
+        {
+            "name": "More 6x6",
+            "alphanumName": "more6x6",
+            "file": "09 - more 6x6.txt"
+        },
+        {
+            "name": "3x3",
+            "alphanumName": "threex3",
+            "file": "10 - 3x3.txt"
+        },
+        {
+            "name": "1x1",
+            "alphanumName": "onex1",
+            "file": "11 - 1x1.txt"
+        }
+    ]
+}

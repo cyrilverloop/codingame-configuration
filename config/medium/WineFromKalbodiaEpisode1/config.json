@@ -1,0 +1,48 @@
+{
+    "path": "medium/WineFromKalbodiaEpisode1",
+    "name": "Wine from Kalbodia - Episode 1",
+    "alphanumName": "wineFromKalbodiaEpisode1",
+    "link": "https://www.codingame.com/ide/puzzle/wine-from-kalbodia---episode-1",
+    "testConfigurations": [
+        {
+            "name": "Trivial Solution",
+            "alphanumName": "trivialSolution",
+            "file": "01 - trivial solution.txt"
+        },
+        {
+            "name": "Differing Lengths",
+            "alphanumName": "differingLengths",
+            "file": "02 - differing lengths.txt"
+        },
+        {
+            "name": "Bulk Orders",
+            "alphanumName": "bulkOrders",
+            "file": "03 - bulk orders.txt"
+        },
+        {
+            "name": "Similar Languages",
+            "alphanumName": "similarLanguages",
+            "file": "04 - similar languages.txt"
+        },
+        {
+            "name": "Small Alphabets",
+            "alphanumName": "smallAlphabets",
+            "file": "05 - small alphabets.txt"
+        },
+        {
+            "name": "What’s the likelihood?",
+            "alphanumName": "whatsTheLikelihood",
+            "file": "06 - What’s the likelihood.txt"
+        },
+        {
+            "name": "Wall of Text",
+            "alphanumName": "wallOfText",
+            "file": "07 - wall of text.txt"
+        },
+        {
+            "name": "Completely Random",
+            "alphanumName": "completelyRandom",
+            "file": "08 - completely random.txt"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "path": "medium/RegularPolygons",
+    "name": "Regular polygons",
+    "alphanumName": "regularPolygons",
+    "link": "https://www.codingame.com/ide/puzzle/regular-polygons",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Shortest range",
+            "alphanumName": "shortestRange",
+            "file": "02 - shortest range.txt"
+        },
+        {
+            "name": "Short range",
+            "alphanumName": "shortRange",
+            "file": "03 - short range.txt"
+        },
+        {
+            "name": "Medium range",
+            "alphanumName": "mediumRange",
+            "file": "04 - medium range.txt"
+        },
+        {
+            "name": "Long range",
+            "alphanumName": "longRange",
+            "file": "05 - long range.txt"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "path": "medium/BustSpeedingVehicles",
+    "name": "Bust speeding vehicles",
+    "alphanumName": "bustSpeedingVehicles",
+    "link": "https://www.codingame.com/ide/puzzle/bust-speeding-vehicles",
+    "testConfigurations": [
+        {
+            "name": "Example Test",
+            "alphanumName": "exampleTest",
+            "file": "01 - example test.txt"
+        },
+        {
+            "name": "No excess speed",
+            "alphanumName": "noExcessSpeed",
+            "file": "02 - no excess speed.txt"
+        },
+        {
+            "name": "More than one car in excess speed",
+            "alphanumName": "moreThanOneCarInExcessSpeed",
+            "file": "03 - more than one car in excess speed.txt"
+        },
+        {
+            "name": "Speed limit",
+            "alphanumName": "speedLimit",
+            "file": "04 - speed limit.txt"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "path": "medium/LengthOfSyracuseConjectureSequence",
+    "name": "Length of Syracuse Conjecture Sequence",
+    "alphanumName": "lengthOfSyracuseConjectureSequence",
+    "link": "https://www.codingame.com/ide/puzzle/length-of-syracuse-conjecture-sequence",
+    "testConfigurations": [
+        {
+            "name": "Only one range",
+            "alphanumName": "onlyOneRange",
+            "file": "01 - only one range.txt"
+        },
+        {
+            "name": "Two ranges",
+            "alphanumName": "twoRanges",
+            "file": "02 - two ranges.txt"
+        },
+        {
+            "name": "Large range",
+            "alphanumName": "largeRange",
+            "file": "03 - large range.txt"
+        },
+        {
+            "name": "Large ranges",
+            "alphanumName": "largeRanges",
+            "file": "04 - large ranges.txt"
+        }
+    ]
+}

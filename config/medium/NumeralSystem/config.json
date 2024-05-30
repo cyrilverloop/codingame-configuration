@@ -1,0 +1,33 @@
+{
+    "path": "medium/NumeralSystem",
+    "name": "Numeral system",
+    "alphanumName": "numeralSystem",
+    "link": "https://www.codingame.com/ide/puzzle/numeral-system",
+    "testConfigurations": [
+        {
+            "name": "Easy",
+            "alphanumName": "easy",
+            "file": "01 - easy.txt"
+        },
+        {
+            "name": "Normal",
+            "alphanumName": "normal",
+            "file": "02 - normal.txt"
+        },
+        {
+            "name": "Corner case min",
+            "alphanumName": "cornerCaseMin",
+            "file": "03 - corner case min.txt"
+        },
+        {
+            "name": "Corner case max",
+            "alphanumName": "cornerCaseMax",
+            "file": "04 - corner case max.txt"
+        },
+        {
+            "name": "Minimum valid system",
+            "alphanumName": "minimumValidSystem",
+            "file": "05 - minimum valid system.txt"
+        }
+    ]
+}

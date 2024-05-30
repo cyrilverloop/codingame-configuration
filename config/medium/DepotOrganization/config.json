@@ -1,0 +1,33 @@
+{
+    "path": "medium/DepotOrganization",
+    "name": "Depot organization",
+    "alphanumName": "depotOrganization",
+    "link": "https://www.codingame.com/ide/puzzle/depot-organization",
+    "testConfigurations": [
+        {
+            "name": "Example case",
+            "alphanumName": "exampleCase",
+            "file": "01 - example case.txt"
+        },
+        {
+            "name": "Easy ring",
+            "alphanumName": "easyRing",
+            "file": "02 - easy ring.txt"
+        },
+        {
+            "name": "Assorted ring",
+            "alphanumName": "assortedRing",
+            "file": "03 - assorted ring.txt"
+        },
+        {
+            "name": "Random case",
+            "alphanumName": "randomCase",
+            "file": "04 - random case.txt"
+        },
+        {
+            "name": "Random case, very hard",
+            "alphanumName": "randomCaseVeryHard",
+            "file": "05 - random case, very hard.txt"
+        }
+    ]
+}

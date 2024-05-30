@@ -1,0 +1,53 @@
+{
+    "path": "medium/WeAreGoingInCircles",
+    "name": "We’re going in circles!",
+    "alphanumName": "weAreGoingInCircles",
+    "link": "https://www.codingame.com/ide/puzzle/were-going-in-circles",
+    "testConfigurations": [
+        {
+            "name": "A simple loop",
+            "alphanumName": "aSimpleLoop",
+            "file": "01 - a simple loop.txt"
+        },
+        {
+            "name": "Not a loop",
+            "alphanumName": "notALoop",
+            "file": "02 - not a loop.txt"
+        },
+        {
+            "name": "Still not a loop",
+            "alphanumName": "stillNotALoop",
+            "file": "03 - still not a loop.txt"
+        },
+        {
+            "name": "Overlapping loops",
+            "alphanumName": "overlappingLoops",
+            "file": "04 - overlapping loops.txt"
+        },
+        {
+            "name": "Mad face >.<",
+            "alphanumName": "madFace",
+            "file": "05 - mad face gt.lt.txt"
+        },
+        {
+            "name": "Wall of text",
+            "alphanumName": "wallOfText",
+            "file": "06 - wall of text.txt"
+        },
+        {
+            "name": "Multiple inputs",
+            "alphanumName": "multipleInputs",
+            "file": "07 - multiple inputs.txt"
+        },
+        {
+            "name": "Gobbledygook",
+            "alphanumName": "gobbledygook",
+            "file": "08 - gobbledygook.txt"
+        },
+        {
+            "name": "More goobledygook",
+            "alphanumName": "moreGoobledygook",
+            "file": "09 - more goobledygook.txt"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "path": "medium/TheGrandFestivalI",
+    "name": "The Grand Festival - I",
+    "alphanumName": "theGrandFestivalI",
+    "link": "https://www.codingame.com/ide/puzzle/the-grand-festival---i",
+    "testConfigurations": [
+        {
+            "name": "1 week",
+            "alphanumName": "oneWeek",
+            "file": "01 - 1 week.txt"
+        },
+        {
+            "name": "2 weeks",
+            "alphanumName": "twoWeeks",
+            "file": "02 - 2 weeks.txt"
+        },
+        {
+            "name": "No rest",
+            "alphanumName": "noRest",
+            "file": "03 - no rest.txt"
+        },
+        {
+            "name": "Fatigued",
+            "alphanumName": "fatigued",
+            "file": "04 - fatigued.txt"
+        },
+        {
+            "name": "Long tour",
+            "alphanumName": "longTour",
+            "file": "05 - long tour.txt"
+        },
+        {
+            "name": "Longer tour",
+            "alphanumName": "longerTour",
+            "file": "06 - longer tour.txt"
+        },
+        {
+            "name": "70 days!",
+            "alphanumName": "seventyDays",
+            "file": "07 - 70 days!.txt"
+        },
+        {
+            "name": "Centurion",
+            "alphanumName": "centurion",
+            "file": "08 - centurion.txt"
+        },
+        {
+            "name": "Year Long",
+            "alphanumName": "yearLong",
+            "file": "09 - year long.txt"
+        }
+    ]
+}

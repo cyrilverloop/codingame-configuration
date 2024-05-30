@@ -1,0 +1,58 @@
+{
+    "path": "medium/Dungeon3D",
+    "name": "Dungeon 3D",
+    "alphanumName": "dungeon3D",
+    "link": "https://www.codingame.com/ide/puzzle/dungeon-3d",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Small",
+            "alphanumName": "small",
+            "file": "02 - small.txt"
+        },
+        {
+            "name": "Direct Access",
+            "alphanumName": "directAccess",
+            "file": "03 - direct access.txt"
+        },
+        {
+            "name": "NO PATH",
+            "alphanumName": "noPath",
+            "file": "04 - NO PATH.txt"
+        },
+        {
+            "name": "10’s Cube",
+            "alphanumName": "tensCube",
+            "file": "05 - 10’s cube.txt"
+        },
+        {
+            "name": "13’s Cube",
+            "alphanumName": "thirteensCube",
+            "file": "06 - 13’s cube.txt"
+        },
+        {
+            "name": "Multi-path 1",
+            "alphanumName": "multiPath1",
+            "file": "07 - multi-path 1.txt"
+        },
+        {
+            "name": "Multi-path 2",
+            "alphanumName": "multiPath2",
+            "file": "08 - multi-path 2.txt"
+        },
+        {
+            "name": "Space",
+            "alphanumName": "space",
+            "file": "09 - space.txt"
+        },
+        {
+            "name": "Codingame",
+            "alphanumName": "codingame",
+            "file": "10 - codingame.txt"
+        }
+    ]
+}

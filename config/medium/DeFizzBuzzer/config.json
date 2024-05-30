@@ -1,0 +1,33 @@
+{
+    "path": "medium/DeFizzBuzzer",
+    "name": "De-FizzBuzzer",
+    "alphanumName": "deFizzBuzzer",
+    "link": "https://www.codingame.com/ide/puzzle/de-fizzbuzzer",
+    "testConfigurations": [
+        {
+            "name": "Plain number",
+            "alphanumName": "plainNumber",
+            "file": "01 - plain number.txt"
+        },
+        {
+            "name": "Two simple ones",
+            "alphanumName": "twoSimpleOnes",
+            "file": "02 - two simple ones.txt"
+        },
+        {
+            "name": "More words",
+            "alphanumName": "moreWords",
+            "file": "03 - more words.txt"
+        },
+        {
+            "name": "Error cases",
+            "alphanumName": "errorCases",
+            "file": "04 - error cases.txt"
+        },
+        {
+            "name": "Lots of cases",
+            "alphanumName": "lotsOfCases",
+            "file": "05 - lots of cases.txt"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "path": "medium/BoxOfCigars",
+    "name": "Box of Cigars",
+    "alphanumName": "boxOfCigars",
+    "link": "https://www.codingame.com/ide/puzzle/box-of-cigars",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "All valid",
+            "alphanumName": "allValid",
+            "file": "02 - all valid.txt"
+        },
+        {
+            "name": "Common difference = 1",
+            "alphanumName": "commonDifference1",
+            "file": "03 - common difference = 1.txt"
+        },
+        {
+            "name": "Big test",
+            "alphanumName": "bigTest",
+            "file": "04 - big test.txt"
+        },
+        {
+            "name": "50 Cigars",
+            "alphanumName": "fiftyCigars",
+            "file": "05 - 50 cigars.txt"
+        },
+        {
+            "name": "100 Cigars!",
+            "alphanumName": "100Cigars",
+            "file": "06 - 100 cigars!.txt"
+        },
+        {
+            "name": "Millionare",
+            "alphanumName": "millionare",
+            "file": "07 - millionare.txt"
+        }
+    ]
+}

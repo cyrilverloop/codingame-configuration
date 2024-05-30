@@ -1,0 +1,33 @@
+{
+    "path": "medium/CountOfPrimesInANumberGrid",
+    "name": "Count of Primes in a number grid",
+    "alphanumName": "countOfPrimesInANumberGrid",
+    "link": "https://www.codingame.com/ide/puzzle/count-of-primes-in-a-number-grid",
+    "testConfigurations": [
+        {
+            "name": "Test 1",
+            "alphanumName": "test1",
+            "file": "01 - test 1.txt"
+        },
+        {
+            "name": "Much ado about nothing",
+            "alphanumName": "muchAdoAboutNothing",
+            "file": "02 - much ado about nothing.txt"
+        },
+        {
+            "name": "Gordon Lee puzzle",
+            "alphanumName": "gordonLeePuzzle",
+            "file": "03 - gordon lee puzzle.txt"
+        },
+        {
+            "name": "Large",
+            "alphanumName": "large",
+            "file": "04 - large.txt"
+        },
+        {
+            "name": "Asymmetric",
+            "alphanumName": "asymmetric",
+            "file": "05 - asymmetric.txt"
+        }
+    ]
+}

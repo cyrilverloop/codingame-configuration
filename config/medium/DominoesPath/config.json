@@ -1,0 +1,38 @@
+{
+    "path": "medium/DominoesPath",
+    "name": "Dominoes Path",
+    "alphanumName": "dominoesPath",
+    "link": "https://www.codingame.com/ide/puzzle/dominoes-path",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "No path (easy)",
+            "alphanumName": "noPathEasy",
+            "file": "02 - no path (easy).txt"
+        },
+        {
+            "name": "Longer path in order",
+            "alphanumName": "longerPathInOrder",
+            "file": "03 - longer path in order.txt"
+        },
+        {
+            "name": "Broken path",
+            "alphanumName": "brokenPath",
+            "file": "04 - broken path.txt"
+        },
+        {
+            "name": "Long path scrambled",
+            "alphanumName": "longPathScrambled",
+            "file": "05 - long path scrambled.txt"
+        },
+        {
+            "name": "Long invalid sequence",
+            "alphanumName": "longInvalidSequence",
+            "file": "06 - long invalid sequence.txt"
+        }
+    ]
+}

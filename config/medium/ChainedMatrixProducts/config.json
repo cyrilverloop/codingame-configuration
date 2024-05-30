@@ -1,0 +1,28 @@
+{
+    "path": "medium/ChainedMatrixProducts",
+    "name": "Chained Matrix Products",
+    "alphanumName": "chainedMatrixProducts",
+    "link": "https://www.codingame.com/ide/puzzle/chained-matrix-products",
+    "testConfigurations": [
+        {
+            "name": "N = 3",
+            "alphanumName": "N3",
+            "file": "01 - N = 3.txt"
+        },
+        {
+            "name": "N = 6",
+            "alphanumName": "N6",
+            "file": "02 - N = 6.txt"
+        },
+        {
+            "name": "N = 20",
+            "alphanumName": "N20",
+            "file": "03 - N = 20.txt"
+        },
+        {
+            "name": "N = 100",
+            "alphanumName": "N100",
+            "file": "04 - N = 100.txt"
+        }
+    ]
+}

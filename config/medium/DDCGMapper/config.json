@@ -1,0 +1,28 @@
+{
+    "path": "medium/DDCGMapper",
+    "name": "DDCG Mapper",
+    "alphanumName": "DDCGMapper",
+    "link": "https://www.codingame.com/ide/puzzle/ddcg-mapper",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "1",
+            "alphanumName": "one",
+            "file": "02 - 1.txt"
+        },
+        {
+            "name": "2",
+            "alphanumName": "two",
+            "file": "03 - 2.txt"
+        },
+        {
+            "name": "3",
+            "alphanumName": "three",
+            "file": "04 - 3.txt"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "path": "medium/One0One0One",
+    "name": "one0101",
+    "alphanumName": "one0One0One",
+    "link": "https://www.codingame.com/ide/puzzle/10101",
+    "testConfigurations": [
+        {
+            "name": "Tiny",
+            "alphanumName": "tiny",
+            "file": "01 - tiny.txt"
+        },
+        {
+            "name": "Stretch",
+            "alphanumName": "stretch",
+            "file": "02 - stretch.txt"
+        },
+        {
+            "name": "You lose",
+            "alphanumName": "youLose",
+            "file": "03 - you lose.txt"
+        },
+        {
+            "name": "Big",
+            "alphanumName": "big",
+            "file": "04 - big.txt"
+        }
+    ]
+}

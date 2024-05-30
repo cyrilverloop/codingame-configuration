@@ -1,0 +1,58 @@
+{
+    "path": "medium/RockPaperScissorsWar",
+    "name": "Rock-Paper-Scissors War",
+    "alphanumName": "rockPaperScissorsWar",
+    "link": "https://www.codingame.com/ide/puzzle/rock-paper-scissors-war",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Win and lose",
+            "alphanumName": "winAndLose",
+            "file": "02 - win and lose.txt"
+        },
+        {
+            "name": "Propagation",
+            "alphanumName": "propagation",
+            "file": "03 - propagation.txt"
+        },
+        {
+            "name": "One fights a hundred",
+            "alphanumName": "oneFightsAHundred",
+            "file": "04 - one fights a hundred.txt"
+        },
+        {
+            "name": "Linear 1",
+            "alphanumName": "linear1",
+            "file": "05 - linear 1.txt"
+        },
+        {
+            "name": "Linear 2",
+            "alphanumName": "linear2",
+            "file": "06 - linear 2.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "random",
+            "file": "07 - random.txt"
+        },
+        {
+            "name": "Diamonds",
+            "alphanumName": "diamonds",
+            "file": "08 - diamonds.txt"
+        },
+        {
+            "name": "United Kingdom",
+            "alphanumName": "unitedKingdom",
+            "file": "09 - united kingdom.txt"
+        },
+        {
+            "name": "United States",
+            "alphanumName": "unitedStates",
+            "file": "10 - united states.txt"
+        }
+    ]
+}

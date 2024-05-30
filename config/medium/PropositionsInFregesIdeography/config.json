@@ -1,0 +1,58 @@
+{
+    "path": "medium/PropositionsInFregesIdeography",
+    "name": "Propositions in Frege’s ideography",
+    "alphanumName": "propositionsInFregesIdeography",
+    "link": "https://www.codingame.com/ide/puzzle/propositions-in-freges-ideography",
+    "testConfigurations": [
+        {
+            "name": "A implies A",
+            "alphanumName": "AImpliesA",
+            "file": "01 - A implies A.txt"
+        },
+        {
+            "name": "Formula 31 (fifth axiom)",
+            "alphanumName": "formula31FifthAxiom",
+            "file": "02 - formula 31 (fifth axiom).txt"
+        },
+        {
+            "name": "A implies B",
+            "alphanumName": "AImpliesB",
+            "file": "03 - A implies B.txt"
+        },
+        {
+            "name": "A nor B",
+            "alphanumName": "ANorB",
+            "file": "04 - A nor B.txt"
+        },
+        {
+            "name": "Formula 1 (first axiom)",
+            "alphanumName": "formula1FirstAxiom",
+            "file": "05 - formula 1 (first axiom).txt"
+        },
+        {
+            "name": "Formula 2 (second axiom)",
+            "alphanumName": "formula2SecondAxiom",
+            "file": "06 - formula 2 (second axiom).txt"
+        },
+        {
+            "name": "Formula 8 (third axiom)",
+            "alphanumName": "formula8ThirdAxiom",
+            "file": "07 - formula 8 (third axiom).txt"
+        },
+        {
+            "name": "Formula 28 (fourth axiom)",
+            "alphanumName": "formula28FourthAxiom",
+            "file": "08 - formula 28 (fourth axiom).txt"
+        },
+        {
+            "name": "(C and B) implies A is not a tautology",
+            "alphanumName": "CAndBImpliesAIsNotATautology",
+            "file": "09 - (C and B) implies A is not a tautology.txt"
+        },
+        {
+            "name": "[(C and B) implies A] implies [(C implies B) implies A] is not a tautology",
+            "alphanumName": "CAndBImpliesAImpliesCImpliesBImpliesAIsNotATautology",
+            "file": "10 - [(C and B) implies A] implies [(C implies B) implies A] is not a tautology.txt"
+        }
+    ]
+}

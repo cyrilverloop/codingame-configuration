@@ -1,0 +1,48 @@
+{
+    "path": "medium/TargetFiring",
+    "name": "Target Firing",
+    "alphanumName": "targetFiring",
+    "link": "https://www.codingame.com/ide/puzzle/target-firing",
+    "testConfigurations": [
+        {
+            "name": "Strongest First",
+            "alphanumName": "strongestFirst",
+            "file": "01 - strongest first.txt"
+        },
+        {
+            "name": "Tankiest Last",
+            "alphanumName": "tankiestLast",
+            "file": "02 - tankiest last.txt"
+        },
+        {
+            "name": "Strongest AND Tankiest?",
+            "alphanumName": "strongestANDTankiest",
+            "file": "03 - strongest and tankiest.txt"
+        },
+        {
+            "name": "Boss and Mooks",
+            "alphanumName": "bossAndMooks",
+            "file": "04 - boss and mooks.txt"
+        },
+        {
+            "name": "The Swarm",
+            "alphanumName": "theSwarm",
+            "file": "05 - the swarm.txt"
+        },
+        {
+            "name": "Not the Shiny Paint!",
+            "alphanumName": "notTheShinyPaint",
+            "file": "06 - not the shiny paint!.txt"
+        },
+        {
+            "name": "Close Call",
+            "alphanumName": "closeCall",
+            "file": "07 - close call.txt"
+        },
+        {
+            "name": "Tickle Wars",
+            "alphanumName": "tickleWars",
+            "file": "08 - tickle wars.txt"
+        }
+    ]
+}

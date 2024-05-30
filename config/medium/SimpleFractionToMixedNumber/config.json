@@ -1,0 +1,48 @@
+{
+    "path": "medium/SimpleFractionToMixedNumber",
+    "name": "Simple fraction to mixed number",
+    "alphanumName": "simpleFractionToMixedNumber",
+    "link": "https://www.codingame.com/ide/puzzle/simple-fraction-to-mixed-number",
+    "testConfigurations": [
+        {
+            "name": "Both integer and fractional parts",
+            "alphanumName": "bothIntegerAndFractionalParts",
+            "file": "01 - both integer and fractional parts.txt"
+        },
+        {
+            "name": "Integer part only",
+            "alphanumName": "integerPartOnly",
+            "file": "02 - integer part only.txt"
+        },
+        {
+            "name": "Fractional part only",
+            "alphanumName": "fractionalPartOnly",
+            "file": "03 - fractional part only.txt"
+        },
+        {
+            "name": "Zero",
+            "alphanumName": "zero",
+            "file": "04 - zero.txt"
+        },
+        {
+            "name": "Division by zero",
+            "alphanumName": "divisionByZero",
+            "file": "05 - division by zero.txt"
+        },
+        {
+            "name": "Sign handling",
+            "alphanumName": "signHandling",
+            "file": "06 - sign handling.txt"
+        },
+        {
+            "name": "Some more sign handling",
+            "alphanumName": "someMoreSignHandling",
+            "file": "07 - some more sign handling.txt"
+        },
+        {
+            "name": "Several random cases",
+            "alphanumName": "severalRandomCases",
+            "file": "08 - several random cases.txt"
+        }
+    ]
+}

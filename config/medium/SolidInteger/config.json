@@ -1,0 +1,53 @@
+{
+    "path": "medium/SolidInteger",
+    "name": "Solid Integer",
+    "alphanumName": "solidInteger",
+    "link": "https://www.codingame.com/ide/puzzle/solid-integer",
+    "testConfigurations": [
+        {
+            "name": "Starting Small",
+            "alphanumName": "startingSmall",
+            "file": "01 - starting small.txt"
+        },
+        {
+            "name": "Medium Test",
+            "alphanumName": "mediumTest",
+            "file": "02 - medium test.txt"
+        },
+        {
+            "name": "100k",
+            "alphanumName": "oneHundredk",
+            "file": "03 - 100k.txt"
+        },
+        {
+            "name": "Smart Solution",
+            "alphanumName": "smartSolution",
+            "file": "04 - smart solution.txt"
+        },
+        {
+            "name": "Output might overflow",
+            "alphanumName": "outputMightOverflow",
+            "file": "05 - output might overflow.txt"
+        },
+        {
+            "name": "Single digit",
+            "alphanumName": "singleDigit",
+            "file": "06 - single digit.txt"
+        },
+        {
+            "name": "Another small",
+            "alphanumName": "anotherSmall",
+            "file": "07 - another small.txt"
+        },
+        {
+            "name": "Another medium",
+            "alphanumName": "anotherMedium",
+            "file": "08 - another medium.txt"
+        },
+        {
+            "name": "Another large",
+            "alphanumName": "anotherLarge",
+            "file": "09 - another large.txt"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "path": "medium/IfThenElse",
+    "name": "if then else",
+    "alphanumName": "ifThenElse",
+    "link": "https://www.codingame.com/ide/puzzle/if-then-else",
+    "testConfigurations": [
+        {
+            "name": "Multiple conditions",
+            "alphanumName": "multipleConditions",
+            "file": "01 - multiple conditions.txt"
+        },
+        {
+            "name": "Nested conditions",
+            "alphanumName": "nestedConditions",
+            "file": "02 - nested conditions.txt"
+        },
+        {
+            "name": "Smallest program",
+            "alphanumName": "smallestProgram",
+            "file": "03 - smallest program.txt"
+        },
+        {
+            "name": "Optional statements",
+            "alphanumName": "optionalStatements",
+            "file": "04 - optional statements.txt"
+        },
+        {
+            "name": "More conditions",
+            "alphanumName": "moreConditions",
+            "file": "05 - more conditions.txt"
+        },
+        {
+            "name": "Deeper nests",
+            "alphanumName": "deeperNests",
+            "file": "06 - deeper nests.txt"
+        },
+        {
+            "name": "Conditions overflow",
+            "alphanumName": "conditionsOverflow",
+            "file": "07 - conditions overflow.txt"
+        }
+    ]
+}

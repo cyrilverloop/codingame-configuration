@@ -1,0 +1,38 @@
+{
+    "path": "medium/HackingAtRobberCity",
+    "name": "Hacking at RobberCity",
+    "alphanumName": "hackingAtRobberCity",
+    "link": "https://www.codingame.com/ide/puzzle/hacking-at-robbercity",
+    "testConfigurations": [
+        {
+            "name": "Greetings",
+            "alphanumName": "greetings",
+            "file": "01 - greetings.txt"
+        },
+        {
+            "name": "Are you sure about that ?",
+            "alphanumName": "areYouSureAboutThat",
+            "file": "02 - are you sure about that.txt"
+        },
+        {
+            "name": "Hey ! I’m listening",
+            "alphanumName": "heyImListening",
+            "file": "03 - hey ! i’m listening.txt"
+        },
+        {
+            "name": "Not a chance !",
+            "alphanumName": "notAChance",
+            "file": "04 - not a chance !.txt"
+        },
+        {
+            "name": "Who laughs last laughs longest",
+            "alphanumName": "whoLaughsLastLaughsLongest",
+            "file": "05 - who laughs last laughs longest.txt"
+        },
+        {
+            "name": "THIS is really stupid",
+            "alphanumName": "THISIsReallyStupid",
+            "file": "06 - THIS is really stupid.txt"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "path": "medium/MaximumSubSequence",
+    "name": "Maximum sub-sequence",
+    "alphanumName": "maximumSubSequence",
+    "link": "https://www.codingame.com/ide/puzzle/maximum-sub-sequence",
+    "testConfigurations": [
+        {
+            "name": "simple",
+            "alphanumName": "simple",
+            "file": "01 - simple.txt"
+        },
+        {
+            "name": "bigger Ik",
+            "alphanumName": "biggerIk",
+            "file": "02 - bigger Ik.txt"
+        },
+        {
+            "name": "two choices",
+            "alphanumName": "twoChoices",
+            "file": "03 - two choices.txt"
+        },
+        {
+            "name": "even bigger Ik",
+            "alphanumName": "evenBiggerIk",
+            "file": "04 - even bigger Ik.txt"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "path": "medium/ConnectTheHyperDots",
+    "name": "Connect the Hyper-Dots",
+    "alphanumName": "connectTheHyperDots",
+    "link": "https://www.codingame.com/ide/puzzle/connect-the-hyper-dots",
+    "testConfigurations": [
+        {
+            "name": "2D",
+            "alphanumName": "twoD",
+            "file": "01 - 2D.txt"
+        },
+        {
+            "name": "3D",
+            "alphanumName": "threeD",
+            "file": "02 - 3D.txt"
+        },
+        {
+            "name": "4D",
+            "alphanumName": "fourD",
+            "file": "03 - 4D.txt"
+        },
+        {
+            "name": "Duplicate Labels",
+            "alphanumName": "duplicateLabels",
+            "file": "04 - duplicate labels.txt"
+        },
+        {
+            "name": "Duplicate Points",
+            "alphanumName": "duplicatePoints",
+            "file": "05 - duplicate points.txt"
+        },
+        {
+            "name": "Punctuation",
+            "alphanumName": "punctuation",
+            "file": "06 - punctuation.txt"
+        },
+        {
+            "name": "Spacing",
+            "alphanumName": "spacing",
+            "file": "07 - spacing.txt"
+        },
+        {
+            "name": "Quotes",
+            "alphanumName": "quotes",
+            "file": "08 - quotes.txt"
+        },
+        {
+            "name": "Hyphenation",
+            "alphanumName": "hyphenation",
+            "file": "09 - hyphenation.txt"
+        },
+        {
+            "name": "Unordered Orthants",
+            "alphanumName": "unorderedOrthants",
+            "file": "10 - unordered orthants.txt"
+        },
+        {
+            "name": "5D",
+            "alphanumName": "fiveD",
+            "file": "11 - 5D.txt"
+        },
+        {
+            "name": "8D",
+            "alphanumName": "eightD",
+            "file": "12 - 8D.txt"
+        }
+    ]
+}

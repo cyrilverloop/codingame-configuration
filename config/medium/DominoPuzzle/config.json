@@ -1,0 +1,38 @@
+{
+    "path": "medium/DominoPuzzle",
+    "name": "Domino Puzzle",
+    "alphanumName": "dominoPuzzle",
+    "link": "https://www.codingame.com/ide/puzzle/domino-puzzle",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Simple",
+            "alphanumName": "simple",
+            "file": "02 - simple.txt"
+        },
+        {
+            "name": "ClearOut",
+            "alphanumName": "clearOut",
+            "file": "03 - clearOut.txt"
+        },
+        {
+            "name": "Big Field",
+            "alphanumName": "bigField",
+            "file": "04 - big field.txt"
+        },
+        {
+            "name": "Huge Field",
+            "alphanumName": "hugeField",
+            "file": "05 - huge field.txt"
+        },
+        {
+            "name": "Circle",
+            "alphanumName": "circle",
+            "file": "06 - circle.txt"
+        }
+    ]
+}

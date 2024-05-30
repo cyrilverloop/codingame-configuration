@@ -1,0 +1,43 @@
+{
+    "path": "medium/MinimaxExercise",
+    "name": "Minimax exercise",
+    "alphanumName": "minimaxExercise",
+    "link": "https://www.codingame.com/ide/puzzle/minimax-exercise",
+    "testConfigurations": [
+        {
+            "name": "Depth 1 game",
+            "alphanumName": "depth1Game",
+            "file": "01 - depth 1 game.txt"
+        },
+        {
+            "name": "Depth 2, no cutoffs",
+            "alphanumName": "depth2NoCutoffs",
+            "file": "02 - depth 2, no cutoffs.txt"
+        },
+        {
+            "name": "Depth 2, cutoffs",
+            "alphanumName": "depth2Cutoffs",
+            "file": "03 - depth 2, cutoffs.txt"
+        },
+        {
+            "name": "Small game",
+            "alphanumName": "smallGame",
+            "file": "04 - small game.txt"
+        },
+        {
+            "name": "Slightly deeper game",
+            "alphanumName": "slightlyDeeperGame",
+            "file": "05 - slightly deeper game.txt"
+        },
+        {
+            "name": "Random game, deep but narrow",
+            "alphanumName": "randomGameDeepButNarrow",
+            "file": "06 - random game, deep but narrow.txt"
+        },
+        {
+            "name": "Another large random game",
+            "alphanumName": "anotherLargeRandomGame",
+            "file": "07 - another large random game.txt"
+        }
+    ]
+}

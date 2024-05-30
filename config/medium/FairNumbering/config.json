@@ -1,0 +1,43 @@
+{
+    "path": "medium/FairNumbering",
+    "name": "Fair Numbering",
+    "alphanumName": "fairNumbering",
+    "link": "https://www.codingame.com/ide/puzzle/fair-numbering",
+    "testConfigurations": [
+        {
+            "name": "Examples",
+            "alphanumName": "examples",
+            "file": "01 - examples.txt"
+        },
+        {
+            "name": "Typical cases",
+            "alphanumName": "typicalCases",
+            "file": "02 - typical cases.txt"
+        },
+        {
+            "name": "Wide range",
+            "alphanumName": "wideRange",
+            "file": "03 - wide range.txt"
+        },
+        {
+            "name": "Bigger numbers",
+            "alphanumName": "biggerNumbers",
+            "file": "04 - bigger numbers.txt"
+        },
+        {
+            "name": "Stress test 1",
+            "alphanumName": "stressTest1",
+            "file": "05 - stress test 1.txt"
+        },
+        {
+            "name": "Stress test 2",
+            "alphanumName": "stressTest2",
+            "file": "06 - stress test 2.txt"
+        },
+        {
+            "name": "Stress test 3",
+            "alphanumName": "stressTest3",
+            "file": "07 - stress test 3.txt"
+        }
+    ]
+}

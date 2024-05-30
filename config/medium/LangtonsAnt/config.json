@@ -1,0 +1,33 @@
+{
+    "path": "medium/LangtonsAnt",
+    "name": "Langton’s ant",
+    "alphanumName": "langtonsAnt",
+    "link": "https://www.codingame.com/ide/puzzle/langtons-ant",
+    "testConfigurations": [
+        {
+            "name": "Small uniform grid, few turns",
+            "alphanumName": "smallUniformGridFewTurns",
+            "file": "01 - small uniform grid, few turns.txt"
+        },
+        {
+            "name": "Uniform grid, lots of turns",
+            "alphanumName": "uniformGridLotsOfTurns",
+            "file": "02 - uniform grid, lots of turns.txt"
+        },
+        {
+            "name": "Random grid, huge number of turns",
+            "alphanumName": "randomGridHugeNumberOfTurns",
+            "file": "03 - random grid, huge number of turns.txt"
+        },
+        {
+            "name": "Checkerboard",
+            "alphanumName": "checkerboard",
+            "file": "04 - checkerboard.txt"
+        },
+        {
+            "name": "Attractor",
+            "alphanumName": "attractor",
+            "file": "05 - attractor.txt"
+        }
+    ]
+}

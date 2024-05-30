@@ -1,0 +1,48 @@
+{
+    "path": "medium/BouncingBarry",
+    "name": "Bouncing Barry",
+    "alphanumName": "bouncingBarry",
+    "link": "https://www.codingame.com/ide/puzzle/bouncing-barry",
+    "testConfigurations": [
+        {
+            "name": "Meandering",
+            "alphanumName": "meandering",
+            "file": "01 - meandering.txt"
+        },
+        {
+            "name": "Exploring",
+            "alphanumName": "exploring",
+            "file": "02 - exploring.txt"
+        },
+        {
+            "name": "Spiraling",
+            "alphanumName": "spiraling",
+            "file": "03 - spiraling.txt"
+        },
+        {
+            "name": "Crossing",
+            "alphanumName": "crossing",
+            "file": "04 - crossing.txt"
+        },
+        {
+            "name": "Bobbing and Weaving",
+            "alphanumName": "bobbingAndWeaving",
+            "file": "05 - bobbing and weaving.txt"
+        },
+        {
+            "name": "Tail-chasing",
+            "alphanumName": "tailChasing",
+            "file": "06 - tail-chasing.txt"
+        },
+        {
+            "name": "Sprinting",
+            "alphanumName": "sprinting",
+            "file": "07 - sprinting.txt"
+        },
+        {
+            "name": "Just Drunk...     -ing",
+            "alphanumName": "justDrunking",
+            "file": "08 - just drunk-ing.txt"
+        }
+    ]
+}

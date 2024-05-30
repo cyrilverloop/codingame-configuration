@@ -1,0 +1,83 @@
+{
+    "path": "medium/DerivativeTimePart1",
+    "name": "Derivative time !!! - part1",
+    "alphanumName": "derivativeTimePart1",
+    "link": "https://www.codingame.com/ide/puzzle/derivative-time---part1",
+    "testConfigurations": [
+        {
+            "name": "easy multiply",
+            "alphanumName": "easyMultiply",
+            "file": "01 - easy multiply.txt"
+        },
+        {
+            "name": "second derivative",
+            "alphanumName": "secondDerivative",
+            "file": "02 - second derivative.txt"
+        },
+        {
+            "name": "second derivative mix",
+            "alphanumName": "secondDerivativeMix",
+            "file": "03 - second derivative mix.txt"
+        },
+        {
+            "name": "power with number",
+            "alphanumName": "powerWithNumber",
+            "file": "04 - power with number.txt"
+        },
+        {
+            "name": "power with variable",
+            "alphanumName": "powerWithVariable",
+            "file": "05 - power with variable.txt"
+        },
+        {
+            "name": "3 variables",
+            "alphanumName": "threeVariables",
+            "file": "06 - 3 variables.txt"
+        },
+        {
+            "name": "fraction",
+            "alphanumName": "fraction",
+            "file": "07 - fraction.txt"
+        },
+        {
+            "name": "longer multiply",
+            "alphanumName": "longerMultiply",
+            "file": "08 - longer multiply.txt"
+        },
+        {
+            "name": "3rd derivative",
+            "alphanumName": "thirdDerivative",
+            "file": "09 - 3rd derivative.txt"
+        },
+        {
+            "name": "some Greek ;)",
+            "alphanumName": "someGreek",
+            "file": "10 - some Greek ;).txt"
+        },
+        {
+            "name": "maybe not xyz ;)",
+            "alphanumName": "maybeNotXYZ",
+            "file": "11 - maybe not xyz ;).txt"
+        },
+        {
+            "name": "some Vars ;)))",
+            "alphanumName": "someVars",
+            "file": "12 - some vars ;))).txt"
+        },
+        {
+            "name": "bigger constants",
+            "alphanumName": "biggerConstants",
+            "file": "13 - bigger constants.txt"
+        },
+        {
+            "name": "bigger power",
+            "alphanumName": "biggerPower",
+            "file": "14 - bigger power.txt"
+        },
+        {
+            "name": "cannot find",
+            "alphanumName": "cannotFind",
+            "file": "15 - cannot find.txt"
+        }
+    ]
+}

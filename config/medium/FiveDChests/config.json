@@ -1,0 +1,28 @@
+{
+    "path": "medium/FiveDChests",
+    "name": "5D Chests",
+    "alphanumName": "fiveDChests",
+    "link": "https://www.codingame.com/ide/puzzle/5d-chests",
+    "testConfigurations": [
+        {
+            "name": "N=5",
+            "alphanumName": "N5",
+            "file": "01 - N=5.txt"
+        },
+        {
+            "name": "N=10",
+            "alphanumName": "N10",
+            "file": "02 - N=10.txt"
+        },
+        {
+            "name": "N=15",
+            "alphanumName": "N15",
+            "file": "03 - N=15.txt"
+        },
+        {
+            "name": "N=20",
+            "alphanumName": "N20",
+            "file": "04 - N=20.txt"
+        }
+    ]
+}

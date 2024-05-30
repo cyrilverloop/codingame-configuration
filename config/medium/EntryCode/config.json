@@ -1,0 +1,33 @@
+{
+    "path": "medium/EntryCode",
+    "name": "Entry code",
+    "alphanumName": "entryCode",
+    "link": "https://www.codingame.com/ide/puzzle/entry-code",
+    "testConfigurations": [
+        {
+            "name": "Small 1",
+            "alphanumName": "small1",
+            "file": "01 - small 1.txt"
+        },
+        {
+            "name": "Small 2",
+            "alphanumName": "small2",
+            "file": "02 - small 2.txt"
+        },
+        {
+            "name": "High number of digits",
+            "alphanumName": "highNumberOfDigits",
+            "file": "03 - high number of digits.txt"
+        },
+        {
+            "name": "High number of characters",
+            "alphanumName": "highNumberOfCharacters",
+            "file": "04 - high number of characters.txt"
+        },
+        {
+            "name": "Last test",
+            "alphanumName": "lastTest",
+            "file": "05 - last test.txt"
+        }
+    ]
+}

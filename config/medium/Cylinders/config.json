@@ -1,0 +1,28 @@
+{
+    "path": "medium/Cylinders",
+    "name": "Cylinders",
+    "alphanumName": "cylinders",
+    "link": "https://www.codingame.com/ide/puzzle/cylinders",
+    "testConfigurations": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Caves to fill in",
+            "alphanumName": "cavesToFillIn",
+            "file": "02 - caves to fill in.txt"
+        },
+        {
+            "name": "Harsh",
+            "alphanumName": "harsh",
+            "file": "03 - harsh.txt"
+        },
+        {
+            "name": "Optimize your code",
+            "alphanumName": "optimizeYourCode",
+            "file": "04 - optimize your code.txt"
+        }
+    ]
+}
