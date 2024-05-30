@@ -3,7 +3,7 @@
     "name": "Smooth Factory",
     "alphanumName": "smoothFactory",
     "link": "https://www.codingame.com/ide/puzzle/smooth-factory",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

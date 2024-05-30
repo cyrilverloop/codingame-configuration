@@ -3,7 +3,7 @@
     "name": "3D printer",
     "alphanumName": "threeDPrinter",
     "link": "https://www.codingame.com/ide/puzzle/3d-printer",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "example",
             "alphanumName": "example",

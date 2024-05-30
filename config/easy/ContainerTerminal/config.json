@@ -3,7 +3,7 @@
     "name": "Container Terminal",
     "alphanumName": "containerTerminal",
     "link": "https://www.codingame.com/ide/puzzle/container-terminal",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Easy",
             "alphanumName": "easy",

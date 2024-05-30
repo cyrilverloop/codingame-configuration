@@ -3,7 +3,7 @@
     "name": "Bruce Lee",
     "alphanumName": "bruceLee",
     "link": "https://www.codingame.com/ide/puzzle/bruce-lee",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "A",
             "alphanumName": "A",

@@ -3,7 +3,7 @@
     "name": "Hacking at RobberCity",
     "alphanumName": "hackingAtRobberCity",
     "link": "https://www.codingame.com/ide/puzzle/hacking-at-robbercity",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Greetings",
             "alphanumName": "greetings",

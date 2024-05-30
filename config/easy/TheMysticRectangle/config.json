@@ -3,7 +3,7 @@
     "name": "The Mystic Rectangle",
     "alphanumName": "theMysticRectangle",
     "link": "https://www.codingame.com/ide/puzzle/the-mystic-rectangle",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example in Description",
             "alphanumName": "exampleInDescription",

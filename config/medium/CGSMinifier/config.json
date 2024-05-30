@@ -3,7 +3,7 @@
     "name": "CGS minifier",
     "alphanumName": "CGSMinifier",
     "link": "https://www.codingame.com/ide/puzzle/cgs-minifier",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

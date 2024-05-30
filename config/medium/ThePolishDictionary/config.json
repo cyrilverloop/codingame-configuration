@@ -3,7 +3,7 @@
     "name": "The Polish Dictionary",
     "alphanumName": "thePolishDictionary",
     "link": "https://www.codingame.com/ide/puzzle/the-polish-dictionary",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple Test",
             "alphanumName": "simpleTest",

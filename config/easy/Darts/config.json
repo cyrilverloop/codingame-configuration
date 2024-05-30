@@ -3,7 +3,7 @@
     "name": "Darts",
     "alphanumName": "darts",
     "link": "https://www.codingame.com/ide/puzzle/darts",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Hit and Miss Duos",
             "alphanumName": "hitAndMissDuos",

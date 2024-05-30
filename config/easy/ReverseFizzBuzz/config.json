@@ -3,7 +3,7 @@
     "name": "Reverse FizzBuzz",
     "alphanumName": "reverseFizzBuzz",
     "link": "https://www.codingame.com/ide/puzzle/reverse-fizzbuzz",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Sample",
             "alphanumName": "sample",

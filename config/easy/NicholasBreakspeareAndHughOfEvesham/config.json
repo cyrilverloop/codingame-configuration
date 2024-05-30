@@ -3,7 +3,7 @@
     "name": "Nicholas Breakspeare and Hugh of Evesham",
     "alphanumName": "nicholasBreakspeareAndHughOfEvesham",
     "link": "https://www.codingame.com/ide/puzzle/nicholas-breakspeare-and-hugh-of-evesham",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

@@ -3,7 +3,7 @@
     "name": "Bouncing Barry",
     "alphanumName": "bouncingBarry",
     "link": "https://www.codingame.com/ide/puzzle/bouncing-barry",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Meandering",
             "alphanumName": "meandering",

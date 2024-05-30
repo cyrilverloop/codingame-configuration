@@ -3,7 +3,7 @@
     "name": "The lost files",
     "alphanumName": "theLostFiles",
     "link": "https://www.codingame.com/ide/puzzle/the-lost-files",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small example",
             "alphanumName": "smallExample",

@@ -3,7 +3,7 @@
     "name": "Wine from Kalbodia - Episode 1",
     "alphanumName": "wineFromKalbodiaEpisode1",
     "link": "https://www.codingame.com/ide/puzzle/wine-from-kalbodia---episode-1",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Trivial Solution",
             "alphanumName": "trivialSolution",

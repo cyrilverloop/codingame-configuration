@@ -3,7 +3,7 @@
     "name": "Tree paths",
     "alphanumName": "treePaths",
     "link": "https://www.codingame.com/ide/puzzle/tree-paths",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

@@ -3,7 +3,7 @@
     "name": "Maze for the Champions",
     "alphanumName": "mazeForTheChampions",
     "link": "https://www.codingame.com/ide/puzzle/maze-for-the-champions",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "1: easy for Warrior",
             "alphanumName": "easyForWarrior",

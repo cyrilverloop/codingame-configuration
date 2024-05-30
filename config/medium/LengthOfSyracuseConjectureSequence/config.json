@@ -3,7 +3,7 @@
     "name": "Length of Syracuse Conjecture Sequence",
     "alphanumName": "lengthOfSyracuseConjectureSequence",
     "link": "https://www.codingame.com/ide/puzzle/length-of-syracuse-conjecture-sequence",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Only one range",
             "alphanumName": "onlyOneRange",

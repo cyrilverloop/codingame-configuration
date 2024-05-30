@@ -3,7 +3,7 @@
     "name": "Bank Robbers",
     "alphanumName": "bankRobbers",
     "link": "https://www.codingame.com/ide/puzzle/bank-robbers",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One robber, one easy vault",
             "alphanumName": "oneRobberOneEasyVault",

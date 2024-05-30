@@ -3,7 +3,7 @@
     "name": "Bijective Numeration",
     "alphanumName": "bijectiveNumeration",
     "link": "https://www.codingame.com/ide/puzzle/bijective-numeration",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple Parsing",
             "alphanumName": "simpleParsing",

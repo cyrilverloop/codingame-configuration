@@ -3,7 +3,7 @@
     "name": "Bulk Email Generator",
     "alphanumName": "bulkEmailGenerator",
     "link": "https://www.codingame.com/ide/puzzle/bulk-email-generator",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

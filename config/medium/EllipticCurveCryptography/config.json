@@ -3,7 +3,7 @@
     "name": "Elliptic curve cryptography",
     "alphanumName": "ellipticCurveCryptography",
     "link": "https://www.codingame.com/ide/puzzle/elliptic-curve-cryptography",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small Unique",
             "alphanumName": "smallUnique",

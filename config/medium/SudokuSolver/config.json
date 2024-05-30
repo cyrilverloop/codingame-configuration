@@ -3,7 +3,7 @@
     "name": "Sudoku Solver",
     "alphanumName": "sudokuSolver",
     "link": "https://www.codingame.com/ide/puzzle/sudoku-solver",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Very Easy",
             "alphanumName": "veryEasy",

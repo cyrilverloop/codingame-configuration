@@ -3,7 +3,7 @@
     "name": "Digit sum successor",
     "alphanumName": "digitSumSuccessor",
     "link": "https://www.codingame.com/ide/puzzle/digit-sum-successor",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Two",
             "alphanumName": "two",

@@ -3,7 +3,7 @@
     "name": "Drug Interactions",
     "alphanumName": "drugInteractions",
     "link": "https://www.codingame.com/ide/puzzle/drug-interactions",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

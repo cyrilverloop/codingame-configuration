@@ -3,7 +3,7 @@
     "name": "Gravity Centrifuge Tuning",
     "alphanumName": "gravityCentrifugeTuning",
     "link": "https://www.codingame.com/ide/puzzle/gravity-centrifuge-tuning",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Tumble",
             "alphanumName": "tumble",

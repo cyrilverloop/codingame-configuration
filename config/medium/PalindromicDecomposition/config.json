@@ -3,7 +3,7 @@
     "name": "Palindromic Decomposition",
     "alphanumName": "palindromicDecomposition",
     "link": "https://www.codingame.com/ide/puzzle/palindromic-decomposition",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

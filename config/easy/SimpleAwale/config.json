@@ -3,7 +3,7 @@
     "name": "Simple Awalé",
     "alphanumName": "simpleAwale",
     "link": "https://www.codingame.com/ide/puzzle/simple-awale",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

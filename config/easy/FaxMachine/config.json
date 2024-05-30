@@ -3,7 +3,7 @@
     "name": "Fax machine",
     "alphanumName": "faxMachine",
     "link": "https://www.codingame.com/ide/puzzle/fax-machine",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "The Example",
             "alphanumName": "theExample",

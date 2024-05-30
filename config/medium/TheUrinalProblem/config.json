@@ -3,7 +3,7 @@
     "name": "The Urinal Problem",
     "alphanumName": "theUrinalProblem",
     "link": "https://www.codingame.com/ide/puzzle/the-urinal-problem",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small Bathroom",
             "alphanumName": "smallBathroom",

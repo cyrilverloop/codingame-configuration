@@ -3,7 +3,7 @@
     "name": "Treasure hunt",
     "alphanumName": "treasureHunt",
     "link": "https://www.codingame.com/ide/puzzle/treasure-hunt",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small map",
             "alphanumName": "smallMap",

@@ -3,7 +3,7 @@
     "name": "Logic gates",
     "alphanumName": "logicGates",
     "link": "https://www.codingame.com/ide/puzzle/logic-gates",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "2 input signals, 3 gates",
             "alphanumName": "twoInputSignals3Gates",

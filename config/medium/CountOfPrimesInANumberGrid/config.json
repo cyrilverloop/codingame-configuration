@@ -3,7 +3,7 @@
     "name": "Count of Primes in a number grid",
     "alphanumName": "countOfPrimesInANumberGrid",
     "link": "https://www.codingame.com/ide/puzzle/count-of-primes-in-a-number-grid",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

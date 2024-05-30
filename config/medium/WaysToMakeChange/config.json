@@ -3,7 +3,7 @@
     "name": "Ways to make change",
     "alphanumName": "waysToMakeChange",
     "link": "https://www.codingame.com/ide/puzzle/ways-to-make-change",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small change",
             "alphanumName": "smallChange",

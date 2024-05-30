@@ -3,7 +3,7 @@
     "name": "Green Valleys",
     "alphanumName": "greenValleys",
     "link": "https://www.codingame.com/ide/puzzle/green-valleys",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One valley",
             "alphanumName": "oneValley",

@@ -3,7 +3,7 @@
     "name": "Gravity Centrifuge",
     "alphanumName": "gravityCentrifuge",
     "link": "https://www.codingame.com/ide/puzzle/gravity-centrifuge",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Tumble",
             "alphanumName": "tumble",

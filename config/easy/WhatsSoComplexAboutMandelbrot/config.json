@@ -3,7 +3,7 @@
     "name": "What’s so complex about Mandelbrot?",
     "alphanumName": "whatsSoComplexAboutMandelbrot",
     "link": "https://www.codingame.com/ide/puzzle/whats-so-complex-about-mandelbrot",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Real out",
             "alphanumName": "realOut",

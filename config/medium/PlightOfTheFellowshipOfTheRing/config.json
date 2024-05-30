@@ -3,7 +3,7 @@
     "name": "Plight Of The Fellowship Of The Ring",
     "alphanumName": "plightOfTheFellowshipOfTheRing",
     "link": "https://www.codingame.com/ide/puzzle/plight-of-the-fellowship-of-the-ring",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One Orc",
             "alphanumName": "oneOrc",

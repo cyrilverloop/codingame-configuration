@@ -3,7 +3,7 @@
     "name": "Simple auto-scaling",
     "alphanumName": "simpleAutoScaling",
     "link": "https://www.codingame.com/ide/puzzle/simple-auto-scaling",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

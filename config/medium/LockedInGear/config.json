@@ -3,7 +3,7 @@
     "name": "Locked in gear",
     "alphanumName": "lockedInGear",
     "link": "https://www.codingame.com/ide/puzzle/locked-in-gear",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

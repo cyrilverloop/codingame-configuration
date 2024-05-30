@@ -3,7 +3,7 @@
     "name": "Kaprekar’s routine",
     "alphanumName": "kaprekarsRoutine",
     "link": "https://www.codingame.com/ide/puzzle/kaprekars-routine",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "length 1 cycle",
             "alphanumName": "length1Cycle",

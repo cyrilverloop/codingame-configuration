@@ -3,7 +3,7 @@
     "name": "Retro Typewriter Art",
     "alphanumName": "retroTypewriterArt",
     "link": "https://www.codingame.com/ide/puzzle/retro-typewriter-art",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple cat",
             "alphanumName": "simpleCat",

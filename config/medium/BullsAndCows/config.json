@@ -3,7 +3,7 @@
     "name": "Bulls and Cows",
     "alphanumName": "bullsAndCows",
     "link": "https://www.codingame.com/ide/puzzle/bulls-and-cows",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "All bulls",
             "alphanumName": "allBulls",

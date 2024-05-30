@@ -3,7 +3,7 @@
     "name": "Rational Number Tree",
     "alphanumName": "rationalNumberTree",
     "link": "https://www.codingame.com/ide/puzzle/rational-number-tree",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Examples",
             "alphanumName": "examples",

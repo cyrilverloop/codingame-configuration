@@ -3,7 +3,7 @@
     "name": "No More Pythons, Please!",
     "alphanumName": "noMorePythonsPlease",
     "link": "https://www.codingame.com/ide/puzzle/no-more-pythons-please",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Easy (One Snake)",
             "alphanumName": "easyOneSnake",

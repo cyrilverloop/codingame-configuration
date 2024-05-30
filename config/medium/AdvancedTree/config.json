@@ -3,7 +3,7 @@
     "name": "Advanced Tree",
     "alphanumName": "advancedTree",
     "link": "https://www.codingame.com/ide/puzzle/advanced-tree",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

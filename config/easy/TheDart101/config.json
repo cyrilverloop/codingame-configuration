@@ -3,7 +3,7 @@
     "name": "The Dart 101",
     "alphanumName": "theDart101",
     "link": "https://www.codingame.com/ide/puzzle/the-dart-101",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "2 players",
             "alphanumName": "twoPlayers",

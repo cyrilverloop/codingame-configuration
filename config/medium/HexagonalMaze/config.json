@@ -3,7 +3,7 @@
     "name": "Hexagonal Maze",
     "alphanumName": "hexagonalMaze",
     "link": "https://www.codingame.com/ide/puzzle/hexagonal-maze",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Easy",
             "alphanumName": "easy",

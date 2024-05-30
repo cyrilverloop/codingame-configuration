@@ -3,7 +3,7 @@
     "name": "2nd degree polynomial - simple analysis",
     "alphanumName": "secondDegreePolynomialSimpleAnalysis",
     "link": "https://www.codingame.com/ide/puzzle/2nd-degree-polynomial---simple-analysis",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Centered parabol, 1 intersection",
             "alphanumName": "centeredParabol1Intersection",

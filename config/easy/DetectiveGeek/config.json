@@ -3,7 +3,7 @@
     "name": "Detective Geek",
     "alphanumName": "detectiveGeek",
     "link": "https://www.codingame.com/ide/puzzle/detective-geek",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

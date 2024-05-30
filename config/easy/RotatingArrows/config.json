@@ -3,7 +3,7 @@
     "name": "Rotating arrows",
     "alphanumName": "rotatingArrows",
     "link": "https://www.codingame.com/ide/puzzle/rotating-arrows",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

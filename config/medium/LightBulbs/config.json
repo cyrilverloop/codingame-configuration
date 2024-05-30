@@ -3,7 +3,7 @@
     "name": "Light Bulbs",
     "alphanumName": "lightBulbs",
     "link": "https://www.codingame.com/ide/puzzle/light-bulbs",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

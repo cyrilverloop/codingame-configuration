@@ -3,7 +3,7 @@
     "name": "Where’s Wally",
     "alphanumName": "wheresWally",
     "link": "https://www.codingame.com/ide/puzzle/wheres-wally",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Alone (Exemple)",
             "alphanumName": "aloneExemple",

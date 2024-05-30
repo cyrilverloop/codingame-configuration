@@ -3,7 +3,7 @@
     "name": "Derivative time !!! - part1",
     "alphanumName": "derivativeTimePart1",
     "link": "https://www.codingame.com/ide/puzzle/derivative-time---part1",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "easy multiply",
             "alphanumName": "easyMultiply",

@@ -3,7 +3,7 @@
     "name": "Kiss the girls",
     "alphanumName": "kissTheGirls",
     "link": "https://www.codingame.com/ide/puzzle/kiss-the-girls",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

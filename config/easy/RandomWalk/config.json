@@ -3,7 +3,7 @@
     "name": "Random Walk",
     "alphanumName": "randomWalk",
     "link": "https://www.codingame.com/ide/puzzle/random-walk",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

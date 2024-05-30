@@ -3,7 +3,7 @@
     "name": "Number of paths between 2 points",
     "alphanumName": "numberOfPathsBetween2Points",
     "link": "https://www.codingame.com/ide/puzzle/number-of-paths-between-2-points",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

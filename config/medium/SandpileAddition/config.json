@@ -3,7 +3,7 @@
     "name": "Sandpile addition",
     "alphanumName": "sandpileAddition",
     "link": "https://www.codingame.com/ide/puzzle/sandpile-addition",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One simple addition",
             "alphanumName": "oneSimpleAddition",

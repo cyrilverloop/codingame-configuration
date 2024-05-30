@@ -3,7 +3,7 @@
     "name": "Brackets, Ultimate Edition",
     "alphanumName": "bracketsUltimateEdition",
     "link": "https://www.codingame.com/ide/puzzle/brackets-ultimate-edition",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

@@ -3,7 +3,7 @@
     "name": "Self-driving car testing",
     "alphanumName": "selfDrivingCarTesting",
     "link": "https://www.codingame.com/ide/puzzle/self-driving-car-testing",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "A simple straight line",
             "alphanumName": "aSimpleStraightLine",

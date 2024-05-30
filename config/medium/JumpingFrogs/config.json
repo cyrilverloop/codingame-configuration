@@ -3,7 +3,7 @@
     "name": "Jumping Frogs",
     "alphanumName": "jumpingFrogs",
     "link": "https://www.codingame.com/ide/puzzle/jumping-frogs",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple Jump",
             "alphanumName": "simpleJump",

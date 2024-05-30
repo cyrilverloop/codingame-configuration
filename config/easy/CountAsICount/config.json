@@ -3,7 +3,7 @@
     "name": "Count as I count",
     "alphanumName": "countAsICount",
     "link": "https://www.codingame.com/ide/puzzle/count-as-i-count",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

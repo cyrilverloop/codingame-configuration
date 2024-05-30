@@ -3,7 +3,7 @@
     "name": "Number derivation",
     "alphanumName": "numberDerivation",
     "link": "https://www.codingame.com/ide/puzzle/number-derivation",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Prime number",
             "alphanumName": "primeNumber",

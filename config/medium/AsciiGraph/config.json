@@ -3,7 +3,7 @@
     "name": "Ascii Graph",
     "alphanumName": "asciiGraph",
     "link": "https://www.codingame.com/ide/puzzle/ascii-graph",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

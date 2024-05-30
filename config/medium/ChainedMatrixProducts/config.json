@@ -3,7 +3,7 @@
     "name": "Chained Matrix Products",
     "alphanumName": "chainedMatrixProducts",
     "link": "https://www.codingame.com/ide/puzzle/chained-matrix-products",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "N = 3",
             "alphanumName": "N3",

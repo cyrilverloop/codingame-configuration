@@ -3,7 +3,7 @@
     "name": "FireControl",
     "alphanumName": "fireControl",
     "link": "https://www.codingame.com/ide/puzzle/firecontrol",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Side-Fire",
             "alphanumName": "sideFire",

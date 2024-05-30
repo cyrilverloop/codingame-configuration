@@ -3,7 +3,7 @@
     "name": "Benford’s law",
     "alphanumName": "benfordsLaw",
     "link": "https://www.codingame.com/ide/puzzle/benfords-law",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Regular account",
             "alphanumName": "regularAccount",

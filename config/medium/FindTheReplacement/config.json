@@ -3,7 +3,7 @@
     "name": "Find the replacement",
     "alphanumName": "findTheReplacement",
     "link": "https://www.codingame.com/ide/puzzle/find-the-replacement",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Easy replacement",
             "alphanumName": "easyReplacement",

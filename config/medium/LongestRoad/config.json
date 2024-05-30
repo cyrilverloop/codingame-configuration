@@ -3,7 +3,7 @@
     "name": "Longest Road",
     "alphanumName": "longestRoad",
     "link": "https://www.codingame.com/ide/puzzle/longest-road",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One player, only roads",
             "alphanumName": "onePlayerOnlyRoads",

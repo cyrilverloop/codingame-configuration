@@ -3,7 +3,7 @@
     "name": "Dolbear’s Law",
     "alphanumName": "dolbearsLaw",
     "link": "https://www.codingame.com/ide/puzzle/dolbears-law",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "The random is in the spring",
             "alphanumName": "theRandomIsInTheSpring",

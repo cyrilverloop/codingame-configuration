@@ -3,7 +3,7 @@
     "name": "Unit Fractions",
     "alphanumName": "unitFractions",
     "link": "https://www.codingame.com/ide/puzzle/unit-fractions",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

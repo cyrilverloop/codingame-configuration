@@ -3,7 +3,7 @@
     "name": "Identifying data structure",
     "alphanumName": "identifyingDataStructure",
     "link": "https://www.codingame.com/ide/puzzle/identifying-data-structure",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Basic",
             "alphanumName": "basic",

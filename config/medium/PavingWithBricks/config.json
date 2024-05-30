@@ -3,7 +3,7 @@
     "name": "Paving with bricks",
     "alphanumName": "pavingWithBricks",
     "link": "https://www.codingame.com/ide/puzzle/paving-with-bricks",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

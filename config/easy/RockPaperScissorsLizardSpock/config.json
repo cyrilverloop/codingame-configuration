@@ -3,7 +3,7 @@
     "name": "Rock Paper Scissors Lizard Spock",
     "alphanumName": "rockPaperScissorsLizardSpock",
     "link": "https://www.codingame.com/ide/puzzle/rock-paper-scissors-lizard-spock",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1 - Same as example",
             "alphanumName": "test1SameAsExample",

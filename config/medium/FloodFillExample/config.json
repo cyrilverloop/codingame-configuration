@@ -3,7 +3,7 @@
     "name": "Flood fill Example",
     "alphanumName": "floodFillExample",
     "link": "https://www.codingame.com/ide/puzzle/flood-fill-example",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

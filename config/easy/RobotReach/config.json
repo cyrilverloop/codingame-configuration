@@ -3,7 +3,7 @@
     "name": "Robot Reach",
     "alphanumName": "robotReach",
     "link": "https://www.codingame.com/ide/puzzle/robot-reach",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple 3x3",
             "alphanumName": "simple3x3",

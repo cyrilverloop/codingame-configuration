@@ -3,7 +3,7 @@
     "name": "The River I.",
     "alphanumName": "theRiverI",
     "link": "https://www.codingame.com/ide/puzzle/the-river-i-",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "We will meet at 47",
             "alphanumName": "weWillMeetAt47",

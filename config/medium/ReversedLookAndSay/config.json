@@ -3,7 +3,7 @@
     "name": "Reversed Look-and-say",
     "alphanumName": "reversedLookAndSay",
     "link": "https://www.codingame.com/ide/puzzle/reversed-look-and-say",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1. An easy one",
             "alphanumName": "anEasyOne",

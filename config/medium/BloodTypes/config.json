@@ -3,7 +3,7 @@
     "name": "Blood Types",
     "alphanumName": "bloodTypes",
     "link": "https://www.codingame.com/ide/puzzle/blood-types",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

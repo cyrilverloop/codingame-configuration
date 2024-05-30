@@ -3,7 +3,7 @@
     "name": "Decode the message",
     "alphanumName": "decodeTheMessage",
     "link": "https://www.codingame.com/ide/puzzle/decode-the-message",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

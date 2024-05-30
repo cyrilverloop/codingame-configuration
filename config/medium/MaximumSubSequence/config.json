@@ -3,7 +3,7 @@
     "name": "Maximum sub-sequence",
     "alphanumName": "maximumSubSequence",
     "link": "https://www.codingame.com/ide/puzzle/maximum-sub-sequence",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "simple",
             "alphanumName": "simple",

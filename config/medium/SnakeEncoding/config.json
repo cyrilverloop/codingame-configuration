@@ -3,7 +3,7 @@
     "name": "Snake encoding",
     "alphanumName": "snakeEncoding",
     "link": "https://www.codingame.com/ide/puzzle/snake-encoding",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Easy Peasy",
             "alphanumName": "easyPeasy",

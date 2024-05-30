@@ -3,7 +3,7 @@
     "name": "Porcupine Fever",
     "alphanumName": "porcupineFever",
     "link": "https://www.codingame.com/ide/puzzle/porcupine-fever",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One sick cage",
             "alphanumName": "oneSickCage",

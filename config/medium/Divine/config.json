@@ -3,7 +3,7 @@
     "name": "Divine!",
     "alphanumName": "divine",
     "link": "https://www.codingame.com/ide/puzzle/divine",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

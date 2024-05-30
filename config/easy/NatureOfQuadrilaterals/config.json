@@ -3,7 +3,7 @@
     "name": "Nature of quadrilaterals",
     "alphanumName": "natureOfQuadrilaterals",
     "link": "https://www.codingame.com/ide/puzzle/nature-of-quadrilaterals",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Quadrilateral",
             "alphanumName": "quadrilateral",

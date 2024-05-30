@@ -3,7 +3,7 @@
     "name": "A-star exercise",
     "alphanumName": "aStarExercise",
     "link": "https://www.codingame.com/ide/puzzle/a-star-exercise",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "3-node Graph",
             "alphanumName": "threeNodeGraph",

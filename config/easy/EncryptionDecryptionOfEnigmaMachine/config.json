@@ -3,7 +3,7 @@
     "name": "Encryption/Decryption of Enigma machine",
     "alphanumName": "encryptionDecryptionOfEnigmaMachine",
     "link": "https://www.codingame.com/ide/puzzle/encryptiondecryption-of-enigma-machine",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Encode 3",
             "alphanumName": "encode3",

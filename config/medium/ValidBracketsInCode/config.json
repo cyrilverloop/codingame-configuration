@@ -3,7 +3,7 @@
     "name": "Valid brackets in code",
     "alphanumName": "validBracketsInCode",
     "link": "https://www.codingame.com/ide/puzzle/valid-brackets-in-code",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

@@ -3,7 +3,7 @@
     "name": "Zhiwei Sun Squares",
     "alphanumName": "ZhiweiSunSquares",
     "link": "https://www.codingame.com/ide/puzzle/zhiwei-sun-squares",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

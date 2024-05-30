@@ -3,7 +3,7 @@
     "name": "Depot organization",
     "alphanumName": "depotOrganization",
     "link": "https://www.codingame.com/ide/puzzle/depot-organization",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example case",
             "alphanumName": "exampleCase",

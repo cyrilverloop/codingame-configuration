@@ -3,7 +3,7 @@
     "name": "CGFunge interpreter",
     "alphanumName": "CGFungeInterpreter",
     "link": "https://www.codingame.com/ide/puzzle/cgfunge-interpreter",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Just math",
             "alphanumName": "justMath",

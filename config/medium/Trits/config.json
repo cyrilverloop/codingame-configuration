@@ -3,7 +3,7 @@
     "name": "Trits (Balanced Ternary Computing)",
     "alphanumName": "tritsBalancedTernaryComputing",
     "link": "https://www.codingame.com/ide/puzzle/trits-balanced-ternary-computing",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Addition",
             "alphanumName": "addition",

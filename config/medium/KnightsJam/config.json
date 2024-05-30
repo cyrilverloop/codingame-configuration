@@ -3,7 +3,7 @@
     "name": "Knights Jam",
     "alphanumName": "knightsJam",
     "link": "https://www.codingame.com/ide/puzzle/knights-jam",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

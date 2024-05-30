@@ -3,7 +3,7 @@
     "name": "The Grand Festival - II",
     "alphanumName": "theGrandFestivalII",
     "link": "https://www.codingame.com/ide/puzzle/the-grand-festival---ii",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Easy",
             "alphanumName": "easy",

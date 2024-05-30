@@ -3,7 +3,7 @@
     "name": "Box of Cigars",
     "alphanumName": "boxOfCigars",
     "link": "https://www.codingame.com/ide/puzzle/box-of-cigars",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

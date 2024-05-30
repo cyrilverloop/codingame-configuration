@@ -3,7 +3,7 @@
     "name": "Hooch Clash",
     "alphanumName": "hoochClash",
     "link": "https://www.codingame.com/ide/puzzle/hooch-clash",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "This is fun!",
             "alphanumName": "thisIsFun",

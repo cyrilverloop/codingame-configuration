@@ -3,7 +3,7 @@
     "name": "Van Eck’s sequence",
     "alphanumName": "vanEcksSequence",
     "link": "https://www.codingame.com/ide/puzzle/van-ecks-sequence",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Not Seen",
             "alphanumName": "notSeen",

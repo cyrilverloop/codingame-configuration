@@ -3,7 +3,7 @@
     "name": "the voucher",
     "alphanumName": "theVoucher",
     "link": "https://www.codingame.com/ide/puzzle/the-voucher",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "1) Example",
             "alphanumName": "example",

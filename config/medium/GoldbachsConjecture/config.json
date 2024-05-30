@@ -3,7 +3,7 @@
     "name": "Goldbach’s Conjecture",
     "alphanumName": "goldbachsConjecture",
     "link": "https://www.codingame.com/ide/puzzle/goldbachs-conjecture",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

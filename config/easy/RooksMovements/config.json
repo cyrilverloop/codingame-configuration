@@ -3,7 +3,7 @@
     "name": "Rooks Movements",
     "alphanumName": "rooksMovements",
     "link": "https://www.codingame.com/ide/puzzle/rooks-movements",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "MOVING FREELY",
             "alphanumName": "movingFreely",

@@ -3,7 +3,7 @@
     "name": "Credit Card Verifier (Luhn’s algorithm)",
     "alphanumName": "creditCardVerifier",
     "link": "https://www.codingame.com/ide/puzzle/credit-card-verifier-luhns-algorithm",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Tests",
             "alphanumName": "tests",

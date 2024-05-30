@@ -3,7 +3,7 @@
     "name": "Counting Squares on Pegs",
     "alphanumName": "countingSquaresOnPegs",
     "link": "https://www.codingame.com/ide/puzzle/counting-squares-on-pegs",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "5 points",
             "alphanumName": "fivePoints",

@@ -3,7 +3,7 @@
     "name": "Brackets, extreme edition.",
     "alphanumName": "bracketsExtremeEdition",
     "link": "https://www.codingame.com/ide/puzzle/brackets-extreme-edition",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

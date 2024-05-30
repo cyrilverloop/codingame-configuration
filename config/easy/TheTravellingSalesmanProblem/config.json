@@ -3,7 +3,7 @@
     "name": "The Travelling Salesman Problem",
     "alphanumName": "theTravellingSalesmanProblem",
     "link": "https://www.codingame.com/ide/puzzle/the-travelling-salesman-problem",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "5 Cities",
             "alphanumName": "fiveCities",

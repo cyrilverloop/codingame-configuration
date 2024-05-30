@@ -3,7 +3,7 @@
     "name": "Photo Booth Transformation",
     "alphanumName": "photoBoothTransformation",
     "link": "https://www.codingame.com/ide/puzzle/photo-booth-transformation",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

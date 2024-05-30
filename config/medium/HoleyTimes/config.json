@@ -3,7 +3,7 @@
     "name": "Holey Times",
     "alphanumName": "holeyTimes",
     "link": "https://www.codingame.com/ide/puzzle/holey-times",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One missing digit in the operand",
             "alphanumName": "oneMissingDigitInTheOperand",

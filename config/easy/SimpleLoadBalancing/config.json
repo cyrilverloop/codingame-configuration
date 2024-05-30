@@ -3,7 +3,7 @@
     "name": "Simple Load Balancing",
     "alphanumName": "simpleLoadBalancing",
     "link": "https://www.codingame.com/ide/puzzle/simple-load-balancing",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

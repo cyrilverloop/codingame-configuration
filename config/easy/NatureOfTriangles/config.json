@@ -3,7 +3,7 @@
     "name": "Nature of triangles",
     "alphanumName": "natureOfTriangles",
     "link": "https://www.codingame.com/ide/puzzle/nature-of-triangles",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Scalene triangles",
             "alphanumName": "scaleneTriangles",

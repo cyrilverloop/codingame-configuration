@@ -3,7 +3,7 @@
     "name": "Windmill problem",
     "alphanumName": "windmillProblem",
     "link": "https://www.codingame.com/ide/puzzle/windmill-problem",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

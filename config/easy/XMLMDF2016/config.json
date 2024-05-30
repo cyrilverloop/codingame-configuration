@@ -3,7 +3,7 @@
     "name": "XML MDF-2016",
     "alphanumName": "XMLMDF2016",
     "link": "https://www.codingame.com/ide/puzzle/xml-mdf-2016",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Only one",
             "alphanumName": "onlyOne",

@@ -3,7 +3,7 @@
     "name": "Playfair Cipher",
     "alphanumName": "playfairCipher",
     "link": "https://www.codingame.com/ide/puzzle/playfair-cipher",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Row",
             "alphanumName": "row",

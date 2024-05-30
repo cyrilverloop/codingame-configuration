@@ -3,7 +3,7 @@
     "name": "Walk on a Die",
     "alphanumName": "walkOnADie",
     "link": "https://www.codingame.com/ide/puzzle/walk-on-a-die",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

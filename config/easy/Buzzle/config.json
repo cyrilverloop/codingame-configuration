@@ -3,7 +3,7 @@
     "name": "Buzzle",
     "alphanumName": "buzzle",
     "link": "https://www.codingame.com/ide/puzzle/buzzle",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1 - Level 1+",
             "alphanumName": "test1Level1",

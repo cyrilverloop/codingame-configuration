@@ -3,7 +3,7 @@
     "name": "Survey Prediction",
     "alphanumName": "surveyPrediction",
     "link": "https://www.codingame.com/ide/puzzle/survey-prediction",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "2 Answers and 1 Missing",
             "alphanumName": "twoAnswersAnd1Missing",

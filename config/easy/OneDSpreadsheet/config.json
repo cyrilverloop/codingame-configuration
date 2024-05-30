@@ -3,7 +3,7 @@
     "name": "1D Spreadsheet",
     "alphanumName": "1DSpreadsheet",
     "link": "https://www.codingame.com/ide/puzzle/1d-spreadsheet",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple dependency",
             "alphanumName": "simpleDependency",

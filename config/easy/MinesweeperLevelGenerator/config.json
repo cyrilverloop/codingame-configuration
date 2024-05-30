@@ -3,7 +3,7 @@
     "name": "Minesweeper level generator",
     "alphanumName": "minesweeperLevelGenerator",
     "link": "https://www.codingame.com/ide/puzzle/minesweeper-level-generator",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple level",
             "alphanumName": "simpleLevel",

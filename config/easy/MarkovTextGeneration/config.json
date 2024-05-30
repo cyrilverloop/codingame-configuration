@@ -3,7 +3,7 @@
     "name": "Markov Text Generation",
     "alphanumName": "markovTextGeneration",
     "link": "https://www.codingame.com/ide/puzzle/markov-text-generation",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Fish Example depth 2",
             "alphanumName": "fishExampleDepth2",

@@ -3,7 +3,7 @@
     "name": "TicTacToe",
     "alphanumName": "ticTacToe",
     "link": "https://www.codingame.com/ide/puzzle/tictactoe",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "No opponent - line",
             "alphanumName": "noOpponentLine",

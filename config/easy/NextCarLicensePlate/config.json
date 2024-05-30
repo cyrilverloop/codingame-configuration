@@ -3,7 +3,7 @@
     "name": "Next car license plate ?",
     "alphanumName": "nextCarLicensePlate",
     "link": "https://www.codingame.com/ide/puzzle/next-car-license-plate",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "+5",
             "alphanumName": "plus5",

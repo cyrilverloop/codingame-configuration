@@ -3,7 +3,7 @@
     "name": "In Stereo",
     "alphanumName": "inStereo",
     "link": "https://www.codingame.com/ide/puzzle/in-stereo",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

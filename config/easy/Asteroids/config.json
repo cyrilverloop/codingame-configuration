@@ -3,7 +3,7 @@
     "name": "Asteroids",
     "alphanumName": "asteroids",
     "link": "https://www.codingame.com/ide/puzzle/asteroids",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Horizontal motion",
             "alphanumName": "horizontalMotion",

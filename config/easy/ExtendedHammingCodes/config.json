@@ -3,7 +3,7 @@
     "name": "Extended Hamming Codes",
     "alphanumName": "extendedHammingCodes",
     "link": "https://www.codingame.com/ide/puzzle/extended-hamming-codes",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Single bit flipped",
             "alphanumName": "singleBitFlipped",

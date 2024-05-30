@@ -3,7 +3,7 @@
     "name": "Simplified Monopoly™ Turns Prediction",
     "alphanumName": "simplifiedMonopolyTurnsPrediction",
     "link": "https://www.codingame.com/ide/puzzle/simplified-monopoly-turns-prediction",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Start from Go",
             "alphanumName": "startFromGo",

@@ -3,7 +3,7 @@
     "name": "Near-Palindromes",
     "alphanumName": "nearPalindromes",
     "link": "https://www.codingame.com/ide/puzzle/near-palindromes",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Near-Palindrome",
             "alphanumName": "nearPalindrome",

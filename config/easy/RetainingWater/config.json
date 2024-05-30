@@ -3,7 +3,7 @@
     "name": "Retaining Water",
     "alphanumName": "retainingWater",
     "link": "https://www.codingame.com/ide/puzzle/retaining-water",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

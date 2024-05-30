@@ -3,7 +3,7 @@
     "name": "Mountain Map Convergence",
     "alphanumName": "mountainMapConvergence",
     "link": "https://www.codingame.com/ide/puzzle/mountain-map-convergence",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Familiar",
             "alphanumName": "familiar",

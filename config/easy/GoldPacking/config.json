@@ -3,7 +3,7 @@
     "name": "Gold Packing",
     "alphanumName": "goldPacking",
     "link": "https://www.codingame.com/ide/puzzle/gold-packing",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Perfect Fit",
             "alphanumName": "perfectFit",

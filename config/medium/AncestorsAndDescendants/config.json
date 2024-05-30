@@ -3,7 +3,7 @@
     "name": "Ancestors & Descendants",
     "alphanumName": "ancestorsAndDescendants",
     "link": "https://www.codingame.com/ide/puzzle/ancestors-descendants",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

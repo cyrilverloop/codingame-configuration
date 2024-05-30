@@ -3,7 +3,7 @@
     "name": "Dead men’s shot",
     "alphanumName": "deadMensShot",
     "link": "https://www.codingame.com/ide/puzzle/dead-mens-shot",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Square",
             "alphanumName": "square",

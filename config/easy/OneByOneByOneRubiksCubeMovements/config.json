@@ -3,7 +3,7 @@
     "name": "1×1×1 Rubik’s cube movements",
     "alphanumName": "oneByOneByOneRubiksCubeMovements",
     "link": "https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One rotation",
             "alphanumName": "oneRotation",

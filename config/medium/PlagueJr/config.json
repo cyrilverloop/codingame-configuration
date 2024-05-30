@@ -3,7 +3,7 @@
     "name": "Plague, Jr",
     "alphanumName": "plagueJr",
     "link": "https://www.codingame.com/ide/puzzle/plague-jr",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "The Example",
             "alphanumName": "theExample",

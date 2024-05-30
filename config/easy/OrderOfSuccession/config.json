@@ -3,7 +3,7 @@
     "name": "orDer oF succeSsion",
     "alphanumName": "orderOfSuccession",
     "link": "https://www.codingame.com/ide/puzzle/order-of-succession",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "A simple tree",
             "alphanumName": "aSimpleTree",

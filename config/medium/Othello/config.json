@@ -3,7 +3,7 @@
     "name": "Othello",
     "alphanumName": "othello",
     "link": "https://www.codingame.com/ide/puzzle/othello",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Start",
             "alphanumName": "start",

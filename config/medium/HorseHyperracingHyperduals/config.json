@@ -3,7 +3,7 @@
     "name": "Horse-hyperracing Hyperduals",
     "alphanumName": "horseHyperracingHyperduals",
     "link": "https://www.codingame.com/ide/puzzle/horse-hyperracing-hyperduals",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Check your LCG",
             "alphanumName": "checkYourLCG",

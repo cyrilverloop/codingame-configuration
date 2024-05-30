@@ -3,7 +3,7 @@
     "name": "Battle Tower",
     "alphanumName": "battleTower",
     "link": "https://www.codingame.com/ide/puzzle/battle-tower",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

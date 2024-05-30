@@ -3,7 +3,7 @@
     "name": "Sudoku Validator",
     "alphanumName": "sudokuValidator",
     "link": "https://www.codingame.com/ide/puzzle/sudoku-validator",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Basic grid",
             "alphanumName": "basicGrid",

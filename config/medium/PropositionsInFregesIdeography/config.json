@@ -3,7 +3,7 @@
     "name": "Propositions in Frege’s ideography",
     "alphanumName": "propositionsInFregesIdeography",
     "link": "https://www.codingame.com/ide/puzzle/propositions-in-freges-ideography",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "A implies A",
             "alphanumName": "AImpliesA",

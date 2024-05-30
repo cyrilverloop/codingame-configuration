@@ -3,7 +3,7 @@
     "name": "Disordered First Contact",
     "alphanumName": "disorderedFirstContact",
     "link": "https://www.codingame.com/ide/puzzle/disordered-first-contact",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple decoding",
             "alphanumName": "simpleDecoding",

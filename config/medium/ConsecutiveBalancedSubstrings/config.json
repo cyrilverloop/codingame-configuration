@@ -3,7 +3,7 @@
     "name": "Consecutive Balanced Substrings",
     "alphanumName": "consecutiveBalancedSubstrings",
     "link": "https://www.codingame.com/ide/puzzle/consecutive-balanced-substrings",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

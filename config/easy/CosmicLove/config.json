@@ -3,7 +3,7 @@
     "name": "Cosmic Love",
     "alphanumName": "cosmicLove",
     "link": "https://www.codingame.com/ide/puzzle/cosmic-love",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One haven",
             "alphanumName": "oneHaven",

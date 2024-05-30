@@ -3,7 +3,7 @@
     "name": "Lumen",
     "alphanumName": "lumen",
     "link": "https://www.codingame.com/ide/puzzle/lumen",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "THEY only have one candle",
             "alphanumName": "theyOnlyHaveOneCandle",

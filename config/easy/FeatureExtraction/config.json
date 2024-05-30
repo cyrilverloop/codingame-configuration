@@ -3,7 +3,7 @@
     "name": "Feature Extraction",
     "alphanumName": "featureExtraction",
     "link": "https://www.codingame.com/ide/puzzle/feature-extraction",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

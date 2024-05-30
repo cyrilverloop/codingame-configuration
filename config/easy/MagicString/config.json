@@ -3,7 +3,7 @@
     "name": "Magic String",
     "alphanumName": "magicString",
     "link": "https://www.codingame.com/ide/puzzle/magic-string",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

@@ -3,7 +3,7 @@
     "name": "Probability for Dummies",
     "alphanumName": "probabilityForDummies",
     "link": "https://www.codingame.com/ide/puzzle/probability-for-dummies",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

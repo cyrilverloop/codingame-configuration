@@ -3,7 +3,7 @@
     "name": "Genetics and Computers",
     "alphanumName": "geneticsAndComputers",
     "link": "https://www.codingame.com/ide/puzzle/genetics-and-computers",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Round Yellow ✖ Round Yellow",
             "alphanumName": "roundYellowRoundYellow",

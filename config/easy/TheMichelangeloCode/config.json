@@ -3,7 +3,7 @@
     "name": "The Michelangelo Code",
     "alphanumName": "theMichelangeloCode",
     "link": "https://www.codingame.com/ide/puzzle/the-michelangelo-code",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

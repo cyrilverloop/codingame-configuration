@@ -3,7 +3,7 @@
     "name": "Master of Mayhem",
     "alphanumName": "masterOfMayhem",
     "link": "https://www.codingame.com/ide/puzzle/master-of-mayhem",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

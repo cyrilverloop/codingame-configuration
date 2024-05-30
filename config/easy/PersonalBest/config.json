@@ -3,7 +3,7 @@
     "name": "Personal Best",
     "alphanumName": "personalBest",
     "link": "https://www.codingame.com/ide/puzzle/personal-best",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Single Gymnast, Single Record",
             "alphanumName": "singleGymnastSingleRecord",

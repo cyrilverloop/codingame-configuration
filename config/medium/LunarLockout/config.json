@@ -3,7 +3,7 @@
     "name": "Lunar Lockout",
     "alphanumName": "lunarLockout",
     "link": "https://www.codingame.com/ide/puzzle/lunar-lockout",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One move",
             "alphanumName": "oneMove",

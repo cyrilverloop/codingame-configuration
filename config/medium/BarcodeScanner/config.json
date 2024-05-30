@@ -3,7 +3,7 @@
     "name": "Barcode scanner",
     "alphanumName": "barcodeScanner",
     "link": "https://www.codingame.com/ide/puzzle/barcode-scanner",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

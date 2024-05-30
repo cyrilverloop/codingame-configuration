@@ -3,7 +3,7 @@
     "name": "Micro Assembly",
     "alphanumName": "microAssembly",
     "link": "https://www.codingame.com/ide/puzzle/micro-assembly",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "MOV test",
             "alphanumName": "MOVTest",

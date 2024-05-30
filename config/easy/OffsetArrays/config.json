@@ -3,7 +3,7 @@
     "name": "Offset Arrays",
     "alphanumName": "offsetArrays",
     "link": "https://www.codingame.com/ide/puzzle/offset-arrays",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

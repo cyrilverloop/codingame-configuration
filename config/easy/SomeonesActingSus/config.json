@@ -3,7 +3,7 @@
     "name": "Someone’s Acting Sus....",
     "alphanumName": "someonesActingSus",
     "link": "https://www.codingame.com/ide/puzzle/someones-acting-sus----",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "basic sus inspection",
             "alphanumName": "basicSusInspection",

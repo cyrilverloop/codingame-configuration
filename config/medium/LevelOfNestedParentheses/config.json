@@ -3,7 +3,7 @@
     "name": "Level of nested parentheses",
     "alphanumName": "levelOfNestedParentheses",
     "link": "https://www.codingame.com/ide/puzzle/level-of-nested-parentheses",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Only one level",
             "alphanumName": "onlyOneLevel",

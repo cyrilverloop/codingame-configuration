@@ -3,7 +3,7 @@
     "name": "These Romans are crazy!",
     "alphanumName": "theseRomansAreCrazy",
     "link": "https://www.codingame.com/ide/puzzle/these-romans-are-crazy!",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "6 + 7 = 13",
             "alphanumName": "sixPlus7Equals13",

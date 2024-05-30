@@ -3,7 +3,7 @@
     "name": "Unique Prefixes",
     "alphanumName": "uniquePrefixes",
     "link": "https://www.codingame.com/ide/puzzle/unique-prefixes",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "1-length prefixes",
             "alphanumName": "oneLengthPrefixes",

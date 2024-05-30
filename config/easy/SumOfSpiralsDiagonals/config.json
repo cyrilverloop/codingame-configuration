@@ -3,7 +3,7 @@
     "name": "Sum of Spiral’s Diagonals",
     "alphanumName": "sumOfSpiralsDiagonals",
     "link": "https://www.codingame.com/ide/puzzle/sum-of-spirals-diagonals",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Odd Spiral",
             "alphanumName": "oddSpiral",

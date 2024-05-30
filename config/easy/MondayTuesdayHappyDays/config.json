@@ -3,7 +3,7 @@
     "name": "Monday Tuesday Happy Days",
     "alphanumName": "mondayTuesdayHappyDays",
     "link": "https://www.codingame.com/ide/puzzle/monday-tuesday-happy-days",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Tomorrow",
             "alphanumName": "tomorrow",

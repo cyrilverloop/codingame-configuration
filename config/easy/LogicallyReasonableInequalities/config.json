@@ -3,7 +3,7 @@
     "name": "Logically reasonable inequalities",
     "alphanumName": "logicallyReasonableInequalities",
     "link": "https://www.codingame.com/ide/puzzle/logically-reasonable-inequalities",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

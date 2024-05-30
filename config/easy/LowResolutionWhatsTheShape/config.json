@@ -3,7 +3,7 @@
     "name": "Low Resolution: What’s The Shape?",
     "alphanumName": "lowResolutionWhatsTheShape",
     "link": "https://www.codingame.com/ide/puzzle/low-resolution-whats-the-shape",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Rectangle",
             "alphanumName": "rectangle",

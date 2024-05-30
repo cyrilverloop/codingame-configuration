@@ -3,7 +3,7 @@
     "name": "Binary image",
     "alphanumName": "binaryImage",
     "link": "https://www.codingame.com/ide/puzzle/binary-image",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Vertical stripes",
             "alphanumName": "verticalStripes",

@@ -3,7 +3,7 @@
     "name": "Queneau Numbers",
     "alphanumName": "queneauNumbers",
     "link": "https://www.codingame.com/ide/puzzle/queneau-numbers",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Terine",
             "alphanumName": "terine",

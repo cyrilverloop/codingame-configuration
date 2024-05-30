@@ -3,7 +3,7 @@
     "name": "Longest increasing Subsequence",
     "alphanumName": "longestIncreasingSubsequence",
     "link": "https://www.codingame.com/ide/puzzle/longest-increasing-subsequence",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

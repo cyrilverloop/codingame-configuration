@@ -3,7 +3,7 @@
     "name": "Blowing Fuse",
     "alphanumName": "blowingFuse",
     "link": "https://www.codingame.com/ide/puzzle/blowing-fuse",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Blown",
             "alphanumName": "blown",

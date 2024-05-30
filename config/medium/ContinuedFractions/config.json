@@ -3,7 +3,7 @@
     "name": "Continued Fractions",
     "alphanumName": "continuedFractions",
     "link": "https://www.codingame.com/ide/puzzle/continued-fractions",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "F -> CF",
             "alphanumName": "FCF",

@@ -3,7 +3,7 @@
     "name": "Hello, World!",
     "alphanumName": "helloWorld",
     "link": "https://www.codingame.com/ide/puzzle/hello-world",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Dualism",
             "alphanumName": "dualism",

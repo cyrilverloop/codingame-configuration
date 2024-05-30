@@ -3,7 +3,7 @@
     "name": "IPv6 Shortener",
     "alphanumName": "IPv6Shortener",
     "link": "https://www.codingame.com/ide/puzzle/ipv6-shortener",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple Address",
             "alphanumName": "simpleAddress",

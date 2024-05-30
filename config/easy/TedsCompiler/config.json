@@ -3,7 +3,7 @@
     "name": "Ted’s compiler",
     "alphanumName": "tedsCompiler",
     "link": "https://www.codingame.com/ide/puzzle/teds-compiler",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

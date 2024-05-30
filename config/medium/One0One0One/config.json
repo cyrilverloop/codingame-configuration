@@ -3,7 +3,7 @@
     "name": "one0101",
     "alphanumName": "one0One0One",
     "link": "https://www.codingame.com/ide/puzzle/10101",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Tiny",
             "alphanumName": "tiny",

@@ -3,7 +3,7 @@
     "name": "Shadow Casting",
     "alphanumName": "shadowCasting",
     "link": "https://www.codingame.com/ide/puzzle/shadow-casting",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "X",
             "alphanumName": "X",

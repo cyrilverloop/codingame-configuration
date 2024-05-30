@@ -3,7 +3,7 @@
     "name": "Rearrange string to two numbers",
     "alphanumName": "rearrangeStringToTwoNumbers",
     "link": "https://www.codingame.com/ide/puzzle/rearrange-string-to-two-numbers",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Two digits",
             "alphanumName": "twoDigits",

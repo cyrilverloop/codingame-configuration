@@ -3,7 +3,7 @@
     "name": "Snail Run",
     "alphanumName": "snailRun",
     "link": "https://www.codingame.com/ide/puzzle/snail-run",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple Run",
             "alphanumName": "simpleRun",

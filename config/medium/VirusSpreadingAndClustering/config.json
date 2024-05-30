@@ -3,7 +3,7 @@
     "name": "Virus spreading and clustering",
     "alphanumName": "virusSpreadingAndClustering",
     "link": "https://www.codingame.com/ide/puzzle/virus-spreading-and-clustering",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "5 items and 2 relationships",
             "alphanumName": "fiveItemsAnd2Relationships",

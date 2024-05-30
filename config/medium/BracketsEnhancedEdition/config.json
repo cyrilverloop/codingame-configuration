@@ -3,7 +3,7 @@
     "name": "Brackets, Enhanced Edition",
     "alphanumName": "bracketsEnhancedEdition",
     "link": "https://www.codingame.com/ide/puzzle/brackets-enhanced-edition",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

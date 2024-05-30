@@ -3,7 +3,7 @@
     "name": "Text formatting",
     "alphanumName": "textFormatting",
     "link": "https://www.codingame.com/ide/puzzle/text-formatting",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One sentence without spaces",
             "alphanumName": "oneSentenceWithoutSpaces",

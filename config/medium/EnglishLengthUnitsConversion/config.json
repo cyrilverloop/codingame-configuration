@@ -3,7 +3,7 @@
     "name": "English length units conversion",
     "alphanumName": "englishLengthUnitsConversion",
     "link": "https://www.codingame.com/ide/puzzle/english-length-units-conversion",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Direct relations",
             "alphanumName": "directRelations",

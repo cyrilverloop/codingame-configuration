@@ -3,7 +3,7 @@
     "name": "Factorial vs Exponential",
     "alphanumName": "factorialVsExponential",
     "link": "https://www.codingame.com/ide/puzzle/factorial-vs-exponential",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Few small integer values",
             "alphanumName": "fewSmallIntegerValues",

@@ -3,7 +3,7 @@
     "name": "Faro shuffle",
     "alphanumName": "faroShuffle",
     "link": "https://www.codingame.com/ide/puzzle/faro-shuffle",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Aces",
             "alphanumName": "aces",

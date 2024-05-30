@@ -3,7 +3,7 @@
     "name": "The River II.",
     "alphanumName": "theRiverII",
     "link": "https://www.codingame.com/ide/puzzle/the-river-ii-",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 20",
             "alphanumName": "test20",

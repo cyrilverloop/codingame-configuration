@@ -3,7 +3,7 @@
     "name": "Cards castle",
     "alphanumName": "cardsCastle",
     "link": "https://www.codingame.com/ide/puzzle/cards-castle",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

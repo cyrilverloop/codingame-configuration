@@ -3,7 +3,7 @@
     "name": "Shikaku Solver",
     "alphanumName": "shikakuSolver",
     "link": "https://www.codingame.com/ide/puzzle/shikaku-solver",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "10x10, One Solution",
             "alphanumName": "tenBy10OneSolution",

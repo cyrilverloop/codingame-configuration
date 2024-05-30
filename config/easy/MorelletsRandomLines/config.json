@@ -3,7 +3,7 @@
     "name": "Morellet’s random lines",
     "alphanumName": "morelletsRandomLines",
     "link": "https://www.codingame.com/ide/puzzle/morellets-random-lines",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One line",
             "alphanumName": "oneLine",

@@ -3,7 +3,7 @@
     "name": "Simple fraction to mixed number",
     "alphanumName": "simpleFractionToMixedNumber",
     "link": "https://www.codingame.com/ide/puzzle/simple-fraction-to-mixed-number",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Both integer and fractional parts",
             "alphanumName": "bothIntegerAndFractionalParts",

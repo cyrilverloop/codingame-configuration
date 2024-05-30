@@ -3,7 +3,7 @@
     "name": "Hidden word",
     "alphanumName": "hiddenWord",
     "link": "https://www.codingame.com/ide/puzzle/hidden-word",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Horizontal words",
             "alphanumName": "horizontalWords",

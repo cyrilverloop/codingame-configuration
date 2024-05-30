@@ -3,7 +3,7 @@
     "name": "Are The Clumps Normal",
     "alphanumName": "areTheClumpsNormal",
     "link": "https://www.codingame.com/ide/puzzle/are-the-clumps-normal",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple Normal",
             "alphanumName": "simpleNormal",

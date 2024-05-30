@@ -3,7 +3,7 @@
     "name": "Let’s Go To The Cinema!",
     "alphanumName": "letsGoToTheCinema",
     "link": "https://www.codingame.com/ide/puzzle/lets-go-to-the-cinema",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

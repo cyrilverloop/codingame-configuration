@@ -3,7 +3,7 @@
     "name": "Gravity Tumbler",
     "alphanumName": "gravityTumbler",
     "link": "https://www.codingame.com/ide/puzzle/gravity-tumbler",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Tumble",
             "alphanumName": "tumble",

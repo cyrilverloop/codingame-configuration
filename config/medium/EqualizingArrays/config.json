@@ -3,7 +3,7 @@
     "name": "Equalizing arrays",
     "alphanumName": "equalizingArrays",
     "link": "https://www.codingame.com/ide/puzzle/equalizing-arrays",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

@@ -3,7 +3,7 @@
     "name": "Add’em Up",
     "alphanumName": "addEmUp",
     "link": "https://www.codingame.com/ide/puzzle/addem-up",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

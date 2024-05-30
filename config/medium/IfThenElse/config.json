@@ -3,7 +3,7 @@
     "name": "if then else",
     "alphanumName": "ifThenElse",
     "link": "https://www.codingame.com/ide/puzzle/if-then-else",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Multiple conditions",
             "alphanumName": "multipleConditions",

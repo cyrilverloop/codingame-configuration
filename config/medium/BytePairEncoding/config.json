@@ -3,7 +3,7 @@
     "name": "Byte pair encoding",
     "alphanumName": "bytePairEncoding",
     "link": "https://www.codingame.com/ide/puzzle/byte-pair-encoding",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

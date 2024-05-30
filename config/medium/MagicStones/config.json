@@ -3,7 +3,7 @@
     "name": "Magic stones",
     "alphanumName": "magicStones",
     "link": "https://www.codingame.com/ide/puzzle/magic-stones",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Axiom",
             "alphanumName": "axiom",

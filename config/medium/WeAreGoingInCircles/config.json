@@ -3,7 +3,7 @@
     "name": "We’re going in circles!",
     "alphanumName": "weAreGoingInCircles",
     "link": "https://www.codingame.com/ide/puzzle/were-going-in-circles",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "A simple loop",
             "alphanumName": "aSimpleLoop",

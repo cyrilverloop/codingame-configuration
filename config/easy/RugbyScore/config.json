@@ -3,7 +3,7 @@
     "name": "Rugby score",
     "alphanumName": "rugbyScore",
     "link": "https://www.codingame.com/ide/puzzle/rugby-score",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

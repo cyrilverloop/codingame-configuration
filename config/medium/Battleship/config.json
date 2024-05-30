@@ -3,7 +3,7 @@
     "name": "Battleship",
     "alphanumName": "battleship",
     "link": "https://www.codingame.com/ide/puzzle/battleship",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Ships too close",
             "alphanumName": "shipsTooClose",

@@ -3,7 +3,7 @@
     "name": "MCxxxx microcontroller simulation",
     "alphanumName": "MCxxxxMicrocontrollerSimulation",
     "link": "https://www.codingame.com/ide/puzzle/mcxxxx-microcontroller-simulation",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple I/O",
             "alphanumName": "simpleIO",

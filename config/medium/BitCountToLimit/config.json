@@ -3,7 +3,7 @@
     "name": "Bit count to limit",
     "alphanumName": "bitCountToLimit",
     "link": "https://www.codingame.com/ide/puzzle/bit-count-to-limit",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple one",
             "alphanumName": "simpleOne",

@@ -3,7 +3,7 @@
     "name": "Game of life",
     "alphanumName": "gameOfLife",
     "link": "https://www.codingame.com/ide/puzzle/game-of-life",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "3x3",
             "alphanumName": "threex3",

@@ -3,7 +3,7 @@
     "name": "Jack Silver: The Casino",
     "alphanumName": "jackSilverTheCasino",
     "link": "https://www.codingame.com/ide/puzzle/jack-silver-the-casino",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Target #1",
             "alphanumName": "target1",

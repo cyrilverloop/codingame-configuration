@@ -3,7 +3,7 @@
     "name": "How time flies",
     "alphanumName": "howTimeFlies",
     "link": "https://www.codingame.com/ide/puzzle/how-time-flies",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Full years",
             "alphanumName": "fullYears",

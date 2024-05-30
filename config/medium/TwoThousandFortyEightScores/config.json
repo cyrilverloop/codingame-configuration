@@ -3,7 +3,7 @@
     "name": "2048 scores",
     "alphanumName": "twoThousandFortyEightScores",
     "link": "https://www.codingame.com/ide/puzzle/2048-scores",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

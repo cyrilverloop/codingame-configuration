@@ -3,7 +3,7 @@
     "name": "Balanced ternary computer: encode",
     "alphanumName": "balancedTernaryComputerEncode",
     "link": "https://www.codingame.com/ide/puzzle/balanced-ternary-computer-encode",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Short",
             "alphanumName": "short",

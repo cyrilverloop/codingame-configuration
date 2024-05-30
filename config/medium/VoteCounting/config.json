@@ -3,7 +3,7 @@
     "name": "Vote counting",
     "alphanumName": "voteCounting",
     "link": "https://www.codingame.com/ide/puzzle/vote-counting",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

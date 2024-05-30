@@ -3,7 +3,7 @@
     "name": "Frog Exchange",
     "alphanumName": "frogExchange",
     "link": "https://www.codingame.com/ide/puzzle/frog-exchange",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "n=3 m starts left",
             "alphanumName": "n3MStartsLeft",

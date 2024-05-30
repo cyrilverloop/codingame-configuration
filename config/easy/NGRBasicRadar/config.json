@@ -3,7 +3,7 @@
     "name": "NGR - Basic Radar",
     "alphanumName": "NGRBasicRadar",
     "link": "https://www.codingame.com/ide/puzzle/1--ngr---basic-radar",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Low Density, 1 Ticket",
             "alphanumName": "lowDensity1Ticket",

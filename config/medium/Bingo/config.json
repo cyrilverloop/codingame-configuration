@@ -3,7 +3,7 @@
     "name": "Bingo!",
     "alphanumName": "bingo",
     "link": "https://www.codingame.com/ide/puzzle/bingo",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "1 player",
             "alphanumName": "onePlayer",

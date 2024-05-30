@@ -3,7 +3,7 @@
     "name": "2×2×2 Rubik’s cube movements",
     "alphanumName": "twoByTwoByTwoRubiksCubeMovements",
     "link": "https://www.codingame.com/ide/puzzle/222-rubiks-cube-movements",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple move",
             "alphanumName": "simpleMove",

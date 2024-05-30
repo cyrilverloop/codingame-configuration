@@ -3,7 +3,7 @@
     "name": "Merlin’s Magic Square",
     "alphanumName": "merlinsMagicSquare",
     "link": "https://www.codingame.com/ide/puzzle/merlins-magic-square",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

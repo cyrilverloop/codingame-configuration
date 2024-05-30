@@ -3,7 +3,7 @@
     "name": "Surakarta",
     "alphanumName": "surakarta",
     "link": "https://www.codingame.com/ide/puzzle/surakarta",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "around the world",
             "alphanumName": "aroundTheWorld",

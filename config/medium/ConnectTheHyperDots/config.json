@@ -3,7 +3,7 @@
     "name": "Connect the Hyper-Dots",
     "alphanumName": "connectTheHyperDots",
     "link": "https://www.codingame.com/ide/puzzle/connect-the-hyper-dots",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "2D",
             "alphanumName": "twoD",

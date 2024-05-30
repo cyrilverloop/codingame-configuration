@@ -3,7 +3,7 @@
     "name": "Cubic Bézier curves",
     "alphanumName": "cubicBezierCurves",
     "link": "https://www.codingame.com/ide/puzzle/cubic-bezier-curves",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple with low resolution",
             "alphanumName": "simpleWithLowResolution",

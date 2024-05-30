@@ -3,7 +3,7 @@
     "name": "De-FizzBuzzer",
     "alphanumName": "deFizzBuzzer",
     "link": "https://www.codingame.com/ide/puzzle/de-fizzbuzzer",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Plain number",
             "alphanumName": "plainNumber",

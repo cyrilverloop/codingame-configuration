@@ -3,7 +3,7 @@
     "name": "Duck Hunt",
     "alphanumName": "duckHunt",
     "link": "https://www.codingame.com/ide/puzzle/duck-hunt",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

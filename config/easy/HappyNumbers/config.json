@@ -3,7 +3,7 @@
     "name": "Happy Numbers",
     "alphanumName": "happyNumbers",
     "link": "https://www.codingame.com/ide/puzzle/happy-numbers",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

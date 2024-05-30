@@ -3,7 +3,7 @@
     "name": "PARK PILOT",
     "alphanumName": "parkPilot",
     "link": "https://www.codingame.com/ide/puzzle/park-pilot",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

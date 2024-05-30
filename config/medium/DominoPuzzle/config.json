@@ -3,7 +3,7 @@
     "name": "Domino Puzzle",
     "alphanumName": "dominoPuzzle",
     "link": "https://www.codingame.com/ide/puzzle/domino-puzzle",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

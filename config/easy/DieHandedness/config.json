@@ -3,7 +3,7 @@
     "name": "Die Handedness",
     "alphanumName": "dieHandedness",
     "link": "https://www.codingame.com/ide/puzzle/die-handedness",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

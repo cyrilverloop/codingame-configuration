@@ -3,7 +3,7 @@
     "name": "Minimal number of swaps",
     "alphanumName": "minimalNumberOfSwaps",
     "link": "https://www.codingame.com/ide/puzzle/minimal-number-of-swaps",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

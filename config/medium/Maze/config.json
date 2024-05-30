@@ -3,7 +3,7 @@
     "name": "Maze",
     "alphanumName": "maze",
     "link": "https://www.codingame.com/ide/puzzle/maze",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Single exit",
             "alphanumName": "singleExit",

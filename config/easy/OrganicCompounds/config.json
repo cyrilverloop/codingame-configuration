@@ -3,7 +3,7 @@
     "name": "Organic Compounds",
     "alphanumName": "organicCompounds",
     "link": "https://www.codingame.com/ide/puzzle/organic-compounds",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Saturated hydrocarbon (valid)",
             "alphanumName": "saturatedHydrocarbonValid",

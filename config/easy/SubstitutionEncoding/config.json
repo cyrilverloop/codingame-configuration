@@ -3,7 +3,7 @@
     "name": "Substitution Encoding",
     "alphanumName": "substitutionEncoding",
     "link": "https://www.codingame.com/ide/puzzle/substitution-encoding",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "ABC",
             "alphanumName": "ABC",

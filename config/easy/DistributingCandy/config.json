@@ -3,7 +3,7 @@
     "name": "Distributing Candy",
     "alphanumName": "distributingCandy",
     "link": "https://www.codingame.com/ide/puzzle/distributing-candy",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

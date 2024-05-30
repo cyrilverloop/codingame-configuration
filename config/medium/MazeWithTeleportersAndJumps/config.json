@@ -3,7 +3,7 @@
     "name": "Maze /w teleporters and jumps",
     "alphanumName": "mazeWithTeleportersAndJumps",
     "link": "https://www.codingame.com/ide/puzzle/maze-w-teleporters-and-jumps",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

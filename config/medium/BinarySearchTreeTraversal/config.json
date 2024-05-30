@@ -3,7 +3,7 @@
     "name": "Binary Search Tree Traversal",
     "alphanumName": "binarySearchTreeTraversal",
     "link": "https://www.codingame.com/ide/puzzle/binary-search-tree-traversal",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "example",
             "alphanumName": "example",

@@ -3,7 +3,7 @@
     "name": "May the Triforce be with you!",
     "alphanumName": "mayTheTriforceBeWithYou",
     "link": "https://www.codingame.com/ide/puzzle/may-the-triforce-be-with-you",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "N = 1",
             "alphanumName": "n1",

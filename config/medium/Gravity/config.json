@@ -3,7 +3,7 @@
     "name": "Gravity",
     "alphanumName": "gravity",
     "link": "https://www.codingame.com/ide/puzzle/gravity",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

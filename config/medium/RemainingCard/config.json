@@ -3,7 +3,7 @@
     "name": "Remaining Card",
     "alphanumName": "remainingCard",
     "link": "https://www.codingame.com/ide/puzzle/remaining-card",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

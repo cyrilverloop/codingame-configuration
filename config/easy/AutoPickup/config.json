@@ -3,7 +3,7 @@
     "name": "Auto pickup",
     "alphanumName": "autoPickup",
     "link": "https://www.codingame.com/ide/puzzle/auto-pickup",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "just a item drop",
             "alphanumName": "justAItemDrop",

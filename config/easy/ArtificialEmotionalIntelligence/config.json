@@ -3,7 +3,7 @@
     "name": "Artificial Emotional Intelligence",
     "alphanumName": "artificialEmotionalIntelligence",
     "link": "https://www.codingame.com/ide/puzzle/artificial-emotional-intelligence",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple case",
             "alphanumName": "simpleCase",

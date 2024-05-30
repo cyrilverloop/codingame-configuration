@@ -3,7 +3,7 @@
     "name": "Hidden Messages In Images",
     "alphanumName": "hiddenMessagesInImages",
     "link": "https://www.codingame.com/ide/puzzle/hidden-messages-in-images",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Hello World!",
             "alphanumName": "helloWorld",

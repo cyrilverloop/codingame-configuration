@@ -3,7 +3,7 @@
     "name": "Bulgarian solitaire",
     "alphanumName": "bulgarianSolitaire",
     "link": "https://www.codingame.com/ide/puzzle/bulgarian-solitaire",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "1 pile",
             "alphanumName": "onePile",

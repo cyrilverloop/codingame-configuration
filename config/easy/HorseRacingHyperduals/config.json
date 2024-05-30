@@ -3,7 +3,7 @@
     "name": "Horse-racing Hyperduals",
     "alphanumName": "horseRacingHyperduals",
     "link": "https://www.codingame.com/ide/puzzle/horse-racing-hyperduals",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Velocity-centric race",
             "alphanumName": "velocityCentricRace",

@@ -3,7 +3,7 @@
     "name": "What the Brainfuck !",
     "alphanumName": "whatTheBrainfuck",
     "link": "https://www.codingame.com/ide/puzzle/what-the-brainfuck",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "A simple start",
             "alphanumName": "aSimpleStart",

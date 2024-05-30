@@ -3,7 +3,7 @@
     "name": "Bust speeding vehicles",
     "alphanumName": "bustSpeedingVehicles",
     "link": "https://www.codingame.com/ide/puzzle/bust-speeding-vehicles",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example Test",
             "alphanumName": "exampleTest",

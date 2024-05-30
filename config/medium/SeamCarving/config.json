@@ -3,7 +3,7 @@
     "name": "Seam Carving",
     "alphanumName": "seamCarving",
     "link": "https://www.codingame.com/ide/puzzle/seam-carving",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Height 8 & Width -1",
             "alphanumName": "height8AndWidthMinus1",

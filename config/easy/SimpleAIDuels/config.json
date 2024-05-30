@@ -3,7 +3,7 @@
     "name": "Simple AI duels",
     "alphanumName": "simpleAIDuels",
     "link": "https://www.codingame.com/ide/puzzle/simple-ai-duels",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Nice guys",
             "alphanumName": "niceGuys",

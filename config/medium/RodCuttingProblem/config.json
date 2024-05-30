@@ -3,7 +3,7 @@
     "name": "Rod cutting problem",
     "alphanumName": "rodCuttingProblem",
     "link": "https://www.codingame.com/ide/puzzle/rod-cutting-problem",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example test",
             "alphanumName": "exampleTest",

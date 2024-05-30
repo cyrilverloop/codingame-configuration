@@ -3,7 +3,7 @@
     "name": "Mitosis Mayhem",
     "alphanumName": "mitosisMayhem",
     "link": "https://www.codingame.com/ide/puzzle/mitosis-mayhem",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "All full",
             "alphanumName": "allFull",

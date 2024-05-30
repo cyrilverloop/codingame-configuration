@@ -3,7 +3,7 @@
     "name": "Parse SQL Queries",
     "alphanumName": "parseSQLQueries",
     "link": "https://www.codingame.com/ide/puzzle/parse-sql-queries",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Select All",
             "alphanumName": "selectAll",

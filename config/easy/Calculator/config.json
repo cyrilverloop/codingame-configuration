@@ -3,7 +3,7 @@
     "name": "Calculator",
     "alphanumName": "calculator",
     "link": "https://www.codingame.com/ide/puzzle/calculator",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "A simple operation",
             "alphanumName": "aSimpleOperation",

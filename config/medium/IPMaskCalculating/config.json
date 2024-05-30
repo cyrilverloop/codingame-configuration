@@ -3,7 +3,7 @@
     "name": "IP mask calculating",
     "alphanumName": "IPMaskCalculating",
     "link": "https://www.codingame.com/ide/puzzle/ip-mask-calculating",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Your ip at home",
             "alphanumName": "yourIpAtHome",

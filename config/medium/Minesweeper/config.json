@@ -3,7 +3,7 @@
     "name": "Minesweeper",
     "alphanumName": "minesweeper",
     "link": "https://www.codingame.com/ide/puzzle/minesweeper",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

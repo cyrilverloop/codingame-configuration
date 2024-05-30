@@ -3,7 +3,7 @@
     "name": "All Operations are Equal!",
     "alphanumName": "allOperationsAreEqual",
     "link": "https://www.codingame.com/ide/puzzle/all-operations-are-equal",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

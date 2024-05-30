@@ -3,7 +3,7 @@
     "name": "Flip The Sign",
     "alphanumName": "flipTheSign",
     "link": "https://www.codingame.com/ide/puzzle/flip-the-sign",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

@@ -3,7 +3,7 @@
     "name": "Target Firing",
     "alphanumName": "targetFiring",
     "link": "https://www.codingame.com/ide/puzzle/target-firing",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Strongest First",
             "alphanumName": "strongestFirst",

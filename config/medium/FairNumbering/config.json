@@ -3,7 +3,7 @@
     "name": "Fair Numbering",
     "alphanumName": "fairNumbering",
     "link": "https://www.codingame.com/ide/puzzle/fair-numbering",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Examples",
             "alphanumName": "examples",

@@ -3,7 +3,7 @@
     "name": "Crossword",
     "alphanumName": "crossword",
     "link": "https://www.codingame.com/ide/puzzle/crossword",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Byte-sized philosophy",
             "alphanumName": "byteSizedPhilosophy",

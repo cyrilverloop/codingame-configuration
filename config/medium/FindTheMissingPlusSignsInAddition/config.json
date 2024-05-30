@@ -3,7 +3,7 @@
     "name": "Find the missing plus signs in addition",
     "alphanumName": "findTheMissingPlusSignsInAddition",
     "link": "https://www.codingame.com/ide/puzzle/find-the-missing-plus-signs-in-addition",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example with unique solution",
             "alphanumName": "exampleWithUniqueSolution",

@@ -3,7 +3,7 @@
     "name": "Join the Dots",
     "alphanumName": "joinTheDots",
     "link": "https://www.codingame.com/ide/puzzle/join-the-dots",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Square of 4",
             "alphanumName": "squareOf4",

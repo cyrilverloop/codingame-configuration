@@ -3,7 +3,7 @@
     "name": "Sticky Keyboard",
     "alphanumName": "stickyKeyboard",
     "link": "https://www.codingame.com/ide/puzzle/sticky-keyboard",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "If it aint broke",
             "alphanumName": "ifItAintBroke",

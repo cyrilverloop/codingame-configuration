@@ -3,7 +3,7 @@
     "name": "5D Chests",
     "alphanumName": "fiveDChests",
     "link": "https://www.codingame.com/ide/puzzle/5d-chests",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "N=5",
             "alphanumName": "N5",

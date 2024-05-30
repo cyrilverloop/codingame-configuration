@@ -3,7 +3,7 @@
     "name": "The Optimal Urinal Problem",
     "alphanumName": "theOptimalUrinalProblem",
     "link": "https://www.codingame.com/ide/puzzle/the-optimal-urinal-problem",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Tiny Toilet",
             "alphanumName": "tinyToilet",

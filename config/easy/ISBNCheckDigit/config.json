@@ -3,7 +3,7 @@
     "name": "ISBN Check digit",
     "alphanumName": "ISBNCheckDigit",
     "link": "https://www.codingame.com/ide/puzzle/isbn-check-digit",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

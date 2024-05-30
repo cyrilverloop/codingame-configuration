@@ -3,7 +3,7 @@
     "name": "Reverse Minesweeper",
     "alphanumName": "reverseMinesweeper",
     "link": "https://www.codingame.com/ide/puzzle/reverse-minesweeper",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One mine",
             "alphanumName": "oneMine",

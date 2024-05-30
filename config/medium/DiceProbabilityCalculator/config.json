@@ -3,7 +3,7 @@
     "name": "Dice probability calculator",
     "alphanumName": "diceProbabilityCalculator",
     "link": "https://www.codingame.com/ide/puzzle/dice-probability-calculator",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "A die and two additions",
             "alphanumName": "aDieAndTwoAdditions",

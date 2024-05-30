@@ -3,7 +3,7 @@
     "name": "1D Bush Fire",
     "alphanumName": "oneDBushFire",
     "link": "https://www.codingame.com/ide/puzzle/1d-bush-fire",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

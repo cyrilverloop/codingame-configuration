@@ -3,7 +3,7 @@
     "name": "Rectangular block spinner",
     "alphanumName": "rectangularBlockSpinner",
     "link": "https://www.codingame.com/ide/puzzle/rectangular-block-spinner",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Shine Bright like a Dimond",
             "alphanumName": "shineBrightLikeADimond",

@@ -3,7 +3,7 @@
     "name": "A Coin Guessing Game",
     "alphanumName": "aCoinGuessingGame",
     "link": "https://www.codingame.com/ide/puzzle/a-coin-guessing-game",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "2 coins",
             "alphanumName": "twoCoins",

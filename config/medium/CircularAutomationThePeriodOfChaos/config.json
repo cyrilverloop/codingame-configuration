@@ -3,7 +3,7 @@
     "name": "Circular automation, the period of chaos",
     "alphanumName": "circularAutomationThePeriodOfChaos",
     "link": "https://www.codingame.com/ide/puzzle/circular-automation-the-period-of-chaos",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple example",
             "alphanumName": "simpleExample",

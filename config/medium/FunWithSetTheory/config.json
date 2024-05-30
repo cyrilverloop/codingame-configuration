@@ -3,7 +3,7 @@
     "name": "Fun with Set theory",
     "alphanumName": "funWithSetTheory",
     "link": "https://www.codingame.com/ide/puzzle/fun-with-set-theory",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "With Braces",
             "alphanumName": "withBraces",

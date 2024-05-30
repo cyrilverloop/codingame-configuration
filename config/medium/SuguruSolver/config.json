@@ -3,7 +3,7 @@
     "name": "Suguru Solver",
     "alphanumName": "suguruSolver",
     "link": "https://www.codingame.com/ide/puzzle/suguru-solver",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "4x5",
             "alphanumName": "fourx5",

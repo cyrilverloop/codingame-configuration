@@ -3,7 +3,7 @@
     "name": "Object insertion",
     "alphanumName": "objectInsertion",
     "link": "https://www.codingame.com/ide/puzzle/object-insertion",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

@@ -3,7 +3,7 @@
     "name": "Smooth!",
     "alphanumName": "smooth",
     "link": "https://www.codingame.com/ide/puzzle/smooth",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small Bulk",
             "alphanumName": "smallBulk",

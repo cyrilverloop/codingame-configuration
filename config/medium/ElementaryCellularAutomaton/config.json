@@ -3,7 +3,7 @@
     "name": "Elementary cellular automaton",
     "alphanumName": "elementaryCellularAutomaton",
     "link": "https://www.codingame.com/ide/puzzle/elementary-cellular-automaton",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Pyramid",
             "alphanumName": "pyramid",

@@ -3,7 +3,7 @@
     "name": "Road Trip",
     "alphanumName": "roadTrip",
     "link": "https://www.codingame.com/ide/puzzle/road-trip",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Few real friends",
             "alphanumName": "fewRealFriends",

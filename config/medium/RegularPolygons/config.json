@@ -3,7 +3,7 @@
     "name": "Regular polygons",
     "alphanumName": "regularPolygons",
     "link": "https://www.codingame.com/ide/puzzle/regular-polygons",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

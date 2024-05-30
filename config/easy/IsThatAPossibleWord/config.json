@@ -3,7 +3,7 @@
     "name": "Is that a possible word?",
     "alphanumName": "isThatAPossibleWord",
     "link": "https://www.codingame.com/ide/puzzle/is-that-a-possible-word",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

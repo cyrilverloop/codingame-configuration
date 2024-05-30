@@ -3,7 +3,7 @@
     "name": "Caesar is the chief",
     "alphanumName": "caesarIsTheChief",
     "link": "https://www.codingame.com/ide/puzzle/caesar-is-the-chief",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

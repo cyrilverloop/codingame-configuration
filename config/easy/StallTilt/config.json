@@ -3,7 +3,7 @@
     "name": "Stall tilt",
     "alphanumName": "stallTilt",
     "link": "https://www.codingame.com/ide/puzzle/stall-tilt",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

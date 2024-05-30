@@ -3,7 +3,7 @@
     "name": "3×N tiling",
     "alphanumName": "threeByNTiling",
     "link": "https://www.codingame.com/ide/puzzle/3n-tiling",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "1×N Possible",
             "alphanumName": "oneByNPossible",

@@ -3,7 +3,7 @@
     "name": "Constrained Latin Squares",
     "alphanumName": "constrainedLatinSquares",
     "link": "https://www.codingame.com/ide/puzzle/constrained-latin-squares",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "3x3 Easy",
             "alphanumName": "threex3Easy",

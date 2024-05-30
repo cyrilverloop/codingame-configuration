@@ -3,7 +3,7 @@
     "name": "2-player game on a calculator",
     "alphanumName": "twoPlayerGameOnACalculator",
     "link": "https://www.codingame.com/ide/puzzle/2-player-game-on-a-calculator",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

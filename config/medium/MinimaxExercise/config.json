@@ -3,7 +3,7 @@
     "name": "Minimax exercise",
     "alphanumName": "minimaxExercise",
     "link": "https://www.codingame.com/ide/puzzle/minimax-exercise",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Depth 1 game",
             "alphanumName": "depth1Game",

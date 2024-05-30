@@ -3,7 +3,7 @@
     "name": "Train passenger",
     "alphanumName": "trainPassenger",
     "link": "https://www.codingame.com/ide/puzzle/train-passenger",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple A to B",
             "alphanumName": "simpleAToB",

@@ -3,7 +3,7 @@
     "name": "Texas Holdem",
     "alphanumName": "texasHoldem",
     "link": "https://www.codingame.com/ide/puzzle/texas-holdem",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1 - High Card",
             "alphanumName": "test1HighCard",

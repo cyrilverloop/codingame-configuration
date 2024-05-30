@@ -3,7 +3,7 @@
     "name": "L-triominoes",
     "alphanumName": "LTriominoes",
     "link": "https://www.codingame.com/ide/puzzle/l-triominoes",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1 : 2x2",
             "alphanumName": "test12x2",

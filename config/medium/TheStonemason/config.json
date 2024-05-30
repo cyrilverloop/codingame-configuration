@@ -3,7 +3,7 @@
     "name": "The Stonemason",
     "alphanumName": "theStonemason",
     "link": "https://www.codingame.com/ide/puzzle/the-stonemason",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One",
             "alphanumName": "one",

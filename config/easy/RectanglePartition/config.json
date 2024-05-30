@@ -3,7 +3,7 @@
     "name": "Rectangle Partition",
     "alphanumName": "rectanglePartition",
     "link": "https://www.codingame.com/ide/puzzle/rectangle-partition",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Sample",
             "alphanumName": "sample",

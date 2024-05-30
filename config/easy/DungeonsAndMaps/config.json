@@ -3,7 +3,7 @@
     "name": "Dungeons and Maps",
     "alphanumName": "dungeonsAndMaps",
     "link": "https://www.codingame.com/ide/puzzle/dungeons-and-maps",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

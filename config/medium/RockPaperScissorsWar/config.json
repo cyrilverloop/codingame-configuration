@@ -3,7 +3,7 @@
     "name": "Rock-Paper-Scissors War",
     "alphanumName": "rockPaperScissorsWar",
     "link": "https://www.codingame.com/ide/puzzle/rock-paper-scissors-war",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

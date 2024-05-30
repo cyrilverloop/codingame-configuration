@@ -3,7 +3,7 @@
     "name": "OneWay City",
     "alphanumName": "oneWayCity",
     "link": "https://www.codingame.com/ide/puzzle/oneway-city",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small village",
             "alphanumName": "smallVillage",

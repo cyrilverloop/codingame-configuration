@@ -3,7 +3,7 @@
     "name": "Quaternion Multiplication",
     "alphanumName": "quaternionMultiplication",
     "link": "https://www.codingame.com/ide/puzzle/quaternion-multiplication",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small",
             "alphanumName": "small",

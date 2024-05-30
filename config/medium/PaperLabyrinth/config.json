@@ -3,7 +3,7 @@
     "name": "Paper labyrinth",
     "alphanumName": "paperLabyrinth",
     "link": "https://www.codingame.com/ide/puzzle/paper-labyrinth",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

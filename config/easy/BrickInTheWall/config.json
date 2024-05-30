@@ -3,7 +3,7 @@
     "name": "Brick in the Wall",
     "alphanumName": "brickInTheWall",
     "link": "https://www.codingame.com/ide/puzzle/brick-in-the-wall",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Three bricks",
             "alphanumName": "threeBricks",

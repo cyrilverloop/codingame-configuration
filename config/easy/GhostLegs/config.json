@@ -3,7 +3,7 @@
     "name": "Ghost Legs",
     "alphanumName": "ghostLegs",
     "link": "https://www.codingame.com/ide/puzzle/ghost-legs",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple Sample",
             "alphanumName": "simpleSample",

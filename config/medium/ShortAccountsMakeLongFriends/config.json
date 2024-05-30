@@ -3,7 +3,7 @@
     "name": "Short accounts make long friends",
     "alphanumName": "shortAccountsMakeLongFriends",
     "link": "https://www.codingame.com/ide/puzzle/short-accounts-make-long-friends",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Very simple",
             "alphanumName": "verySimple",

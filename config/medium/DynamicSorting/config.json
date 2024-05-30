@@ -3,7 +3,7 @@
     "name": "Dynamic sorting",
     "alphanumName": "dynamicSorting",
     "link": "https://www.codingame.com/ide/puzzle/dynamic-sorting",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple name sorting",
             "alphanumName": "simpleNameSorting",

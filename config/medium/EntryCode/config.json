@@ -3,7 +3,7 @@
     "name": "Entry code",
     "alphanumName": "entryCode",
     "link": "https://www.codingame.com/ide/puzzle/entry-code",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small 1",
             "alphanumName": "small1",

@@ -3,7 +3,7 @@
     "name": "Robot Show",
     "alphanumName": "robotShow",
     "link": "https://www.codingame.com/ide/puzzle/robot-show",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

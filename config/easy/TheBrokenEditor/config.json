@@ -3,7 +3,7 @@
     "name": "The broken editor",
     "alphanumName": "theBrokenEditor",
     "link": "https://www.codingame.com/ide/puzzle/the-broken-editor",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "No mistakes",
             "alphanumName": "noMistakes",

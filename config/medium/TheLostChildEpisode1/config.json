@@ -3,7 +3,7 @@
     "name": "The lost child.Episode-1",
     "alphanumName": "theLostChildEpisode1",
     "link": "https://www.codingame.com/ide/puzzle/the-lost-child-episode-1",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Lost in playground",
             "alphanumName": "lostInPlayground",

@@ -3,7 +3,7 @@
     "name": "Moves in maze",
     "alphanumName": "movesInMaze",
     "link": "https://www.codingame.com/ide/puzzle/moves-in-maze",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Easy",
             "alphanumName": "easy",

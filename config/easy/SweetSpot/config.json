@@ -3,7 +3,7 @@
     "name": "Sweet spot",
     "alphanumName": "sweetSpot",
     "link": "https://www.codingame.com/ide/puzzle/sweet-spot",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "First attempt with A-bomb",
             "alphanumName": "firstAttemptWithABomb",

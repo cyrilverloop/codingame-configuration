@@ -3,7 +3,7 @@
     "name": "Goro Want Chocolate",
     "alphanumName": "goroWantChocolate",
     "link": "https://www.codingame.com/ide/puzzle/goro-want-chocolate",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

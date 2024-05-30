@@ -3,7 +3,7 @@
     "name": "Murder in the village!",
     "alphanumName": "murderInTheVillage",
     "link": "https://www.codingame.com/ide/puzzle/murder-in-the-village",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

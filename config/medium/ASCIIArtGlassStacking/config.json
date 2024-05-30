@@ -3,7 +3,7 @@
     "name": "ASCII ART : Glass Stacking",
     "alphanumName": "ASCIIArtGlassStacking",
     "link": "https://www.codingame.com/ide/puzzle/ascii-art-glass-stacking",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "4 glasses",
             "alphanumName": "fourGlasses",

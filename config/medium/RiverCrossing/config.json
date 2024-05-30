@@ -3,7 +3,7 @@
     "name": "River Crossing",
     "alphanumName": "riverCrossing",
     "link": "https://www.codingame.com/ide/puzzle/river-crossing",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "The question is the solution",
             "alphanumName": "theQuestionIsTheSolution",

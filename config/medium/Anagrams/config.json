@@ -3,7 +3,7 @@
     "name": "Anagrams",
     "alphanumName": "anagrams",
     "link": "https://www.codingame.com/ide/puzzle/anagrams",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

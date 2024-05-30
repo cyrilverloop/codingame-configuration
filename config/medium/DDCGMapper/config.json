@@ -3,7 +3,7 @@
     "name": "DDCG Mapper",
     "alphanumName": "DDCGMapper",
     "link": "https://www.codingame.com/ide/puzzle/ddcg-mapper",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

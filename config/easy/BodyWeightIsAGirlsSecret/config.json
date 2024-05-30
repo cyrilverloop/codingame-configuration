@@ -3,7 +3,7 @@
     "name": "Body weight is a girl’s secret",
     "alphanumName": "bodyWeightIsAGirlsSecret",
     "link": "https://www.codingame.com/ide/puzzle/body-weight-is-a-girls-secret",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "All different",
             "alphanumName": "allDifferent",

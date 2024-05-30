@@ -3,7 +3,7 @@
     "name": "Dominoes Path",
     "alphanumName": "dominoesPath",
     "link": "https://www.codingame.com/ide/puzzle/dominoes-path",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

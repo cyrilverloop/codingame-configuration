@@ -3,7 +3,7 @@
     "name": "By train or by car ?",
     "alphanumName": "byTrainOrByCar",
     "link": "https://www.codingame.com/ide/puzzle/by-train-or-by-car",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "1) Example",
             "alphanumName": "example",

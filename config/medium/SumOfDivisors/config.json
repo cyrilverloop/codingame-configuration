@@ -3,7 +3,7 @@
     "name": "Sum of divisors",
     "alphanumName": "sumOfDivisors",
     "link": "https://www.codingame.com/ide/puzzle/sum-of-divisors",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

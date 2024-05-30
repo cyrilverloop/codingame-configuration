@@ -3,7 +3,7 @@
     "name": "Mountain Map",
     "alphanumName": "mountainMap",
     "link": "https://www.codingame.com/ide/puzzle/mountain-map",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

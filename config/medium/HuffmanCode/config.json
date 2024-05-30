@@ -3,7 +3,7 @@
     "name": "Huffman Code",
     "alphanumName": "huffmanCode",
     "link": "https://www.codingame.com/ide/puzzle/huffman-code",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

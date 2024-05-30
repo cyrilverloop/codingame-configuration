@@ -3,7 +3,7 @@
     "name": "Number of letters in a number - Binary",
     "alphanumName": "numberOfLettersInANumberBinary",
     "link": "https://www.codingame.com/ide/puzzle/number-of-letters-in-a-number---binary",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "One past the Example",
             "alphanumName": "onePastTheExample",

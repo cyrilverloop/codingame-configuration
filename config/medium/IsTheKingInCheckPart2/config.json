@@ -3,7 +3,7 @@
     "name": "Is the King In Check? (Part 2)",
     "alphanumName": "isTheKingInCheckPart2",
     "link": "https://www.codingame.com/ide/puzzle/is-the-king-in-check-part-2",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

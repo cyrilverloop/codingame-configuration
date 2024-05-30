@@ -3,7 +3,7 @@
     "name": "Equivalent Resistance, Circuit Building",
     "alphanumName": "equivalentResistanceCircuitBuilding",
     "link": "https://www.codingame.com/ide/puzzle/equivalent-resistance-circuit-building",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Series",
             "alphanumName": "series",

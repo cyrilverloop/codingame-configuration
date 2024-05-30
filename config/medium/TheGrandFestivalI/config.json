@@ -3,7 +3,7 @@
     "name": "The Grand Festival - I",
     "alphanumName": "theGrandFestivalI",
     "link": "https://www.codingame.com/ide/puzzle/the-grand-festival---i",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "1 week",
             "alphanumName": "oneWeek",

@@ -3,7 +3,7 @@
     "name": "Next growing number",
     "alphanumName": "nextGrowingNumber",
     "link": "https://www.codingame.com/ide/puzzle/next-growing-number",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

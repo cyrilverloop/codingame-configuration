@@ -3,7 +3,7 @@
     "name": "Prefix code",
     "alphanumName": "prefixCode",
     "link": "https://www.codingame.com/ide/puzzle/prefix-code",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "abracadabra",
             "alphanumName": "abracadabra",

@@ -3,7 +3,7 @@
     "name": "Dungeon 3D",
     "alphanumName": "dungeon3D",
     "link": "https://www.codingame.com/ide/puzzle/dungeon-3d",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

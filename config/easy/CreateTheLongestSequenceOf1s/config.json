@@ -3,7 +3,7 @@
     "name": "Create the longest sequence of 1s",
     "alphanumName": "createTheLongestSequenceOf1s",
     "link": "https://www.codingame.com/ide/puzzle/create-the-longest-sequence-of-1s",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "2 bits",
             "alphanumName": "twoBits",

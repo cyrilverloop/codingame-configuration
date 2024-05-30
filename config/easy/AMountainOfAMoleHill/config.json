@@ -3,7 +3,7 @@
     "name": "A mountain of a mole hill",
     "alphanumName": "aMountainOfAMoleHill",
     "link": "https://www.codingame.com/ide/puzzle/a-mountain-of-a-mole-hill",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "A simple garden",
             "alphanumName": "aSimpleGarden",

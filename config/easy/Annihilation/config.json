@@ -3,7 +3,7 @@
     "name": "Annihilation",
     "alphanumName": "annihilation",
     "link": "https://www.codingame.com/ide/puzzle/annihilation",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

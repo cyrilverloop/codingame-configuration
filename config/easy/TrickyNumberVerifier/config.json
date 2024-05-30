@@ -3,7 +3,7 @@
     "name": "Tricky Number Verifier",
     "alphanumName": "trickyNumberVerifier",
     "link": "https://www.codingame.com/ide/puzzle/tricky-number-verifier",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Valid Numbers",
             "alphanumName": "validNumbers",

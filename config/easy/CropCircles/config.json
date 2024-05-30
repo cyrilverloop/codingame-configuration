@@ -3,7 +3,7 @@
     "name": "Crop-Circles",
     "alphanumName": "cropCircles",
     "link": "https://www.codingame.com/ide/puzzle/crop-circles",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Basic",
             "alphanumName": "basic",

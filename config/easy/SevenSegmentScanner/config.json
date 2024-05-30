@@ -3,7 +3,7 @@
     "name": "7-segment scanner",
     "alphanumName": "sevenSegmentScanner",
     "link": "https://www.codingame.com/ide/puzzle/7-segment-scanner",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

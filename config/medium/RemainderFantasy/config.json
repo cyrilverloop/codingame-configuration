@@ -3,7 +3,7 @@
     "name": "Remainder Fantasy",
     "alphanumName": "remainderFantasy",
     "link": "https://www.codingame.com/ide/puzzle/remainder-fantasy",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Simple",
             "alphanumName": "simple",

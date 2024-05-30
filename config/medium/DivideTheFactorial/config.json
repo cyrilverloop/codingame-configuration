@@ -3,7 +3,7 @@
     "name": "Divide the factorial",
     "alphanumName": "divideTheFactorial",
     "link": "https://www.codingame.com/ide/puzzle/divide-the-factorial",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Test 1",
             "alphanumName": "test1",

@@ -3,7 +3,7 @@
     "name": "Futoshiki Solver",
     "alphanumName": "futoshikiSolver",
     "link": "https://www.codingame.com/ide/puzzle/futoshiki-solver",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "No comparisons",
             "alphanumName": "noComparisons",

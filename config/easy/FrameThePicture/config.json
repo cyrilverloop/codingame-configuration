@@ -3,7 +3,7 @@
     "name": "Frame the picture",
     "alphanumName": "frameThePicture",
     "link": "https://www.codingame.com/ide/puzzle/frame-the-picture",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Tiny picture, thin frame",
             "alphanumName": "tinyPictureThinFrame",

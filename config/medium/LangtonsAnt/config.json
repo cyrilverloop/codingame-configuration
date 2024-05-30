@@ -3,7 +3,7 @@
     "name": "Langton’s ant",
     "alphanumName": "langtonsAnt",
     "link": "https://www.codingame.com/ide/puzzle/langtons-ant",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Small uniform grid, few turns",
             "alphanumName": "smallUniformGridFewTurns",

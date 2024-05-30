@@ -3,7 +3,7 @@
     "name": "Source Code Analyser",
     "alphanumName": "sourceCodeAnalyser",
     "link": "https://www.codingame.com/ide/puzzle/source-code-analyser",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Example",
             "alphanumName": "example",

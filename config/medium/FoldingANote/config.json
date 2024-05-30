@@ -3,7 +3,7 @@
     "name": "Folding a Note",
     "alphanumName": "foldingANote",
     "link": "https://www.codingame.com/ide/puzzle/folding-a-note",
-    "testConfigurations": [
+    "tests": [
         {
             "name": "Easy",
             "alphanumName": "easy",
