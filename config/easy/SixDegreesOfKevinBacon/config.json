@@ -1,0 +1,38 @@
+{
+    "path": "easy/SixDegreesOfKevinBacon",
+    "name": "Six Degrees of Kevin Bacon",
+    "alphanumName": "smooth",
+    "link": "https://www.codingame.com/ide/puzzle/six-degrees-of-kevin-bacon",
+    "tests": [
+        {
+            "name": "2 Degrees of Kevin Bacon",
+            "alphanumName": "twoDegreesOfKevinBacon",
+            "file": "01 - 2 Degrees of Kevin Bacon.txt"
+        },
+        {
+            "name": "One Degree of Kevin Bacon",
+            "alphanumName": "oneDegreeOfKevinBacon",
+            "file": "02 - One Degree of Kevin Bacon.txt"
+        },
+        {
+            "name": "3 Degrees of Kevin Bacon",
+            "alphanumName": "threeDegreesOfKevinBacon",
+            "file": "03 - 3 Degrees of Kevin Bacon.txt"
+        },
+        {
+            "name": "Kevin Bacon Himself?!",
+            "alphanumName": "KevinBaconHimself",
+            "file": "04 - Kevin Bacon Himself!.txt"
+        },
+        {
+            "name": "Going big!",
+            "alphanumName": "GoingBig",
+            "file": "05 - Going big!.txt"
+        },
+        {
+            "name": "The Biggest",
+            "alphanumName": "TheBiggest",
+            "file": "06 - The Biggest.txt"
+        }
+    ]
+}
