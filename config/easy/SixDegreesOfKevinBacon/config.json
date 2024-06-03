@@ -1,7 +1,7 @@
 {
     "path": "easy/SixDegreesOfKevinBacon",
     "name": "Six Degrees of Kevin Bacon",
-    "alphanumName": "smooth",
+    "alphanumName": "sixDegreesOfKevinBacon",
     "link": "https://www.codingame.com/ide/puzzle/six-degrees-of-kevin-bacon",
     "tests": [
         {
