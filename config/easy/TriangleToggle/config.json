@@ -1,0 +1,68 @@
+{
+    "path": "easy/TriangleToggle",
+    "name": "Triangle Toggle",
+    "alphanumName": "triangleToggle",
+    "link": "https://www.codingame.com/ide/puzzle/tree-paths",
+    "tests": [
+        {
+            "name": "Test 1: One right",
+            "alphanumName": "test1OneRight",
+            "file": "01 - one right.txt"
+        },
+        {
+            "name": "Test 2: One Isosceles",
+            "alphanumName": "test2OneIsosceles",
+            "file": "02 - one isosceles.txt"
+        },
+        {
+            "name": "Test 3: Two triangles, sailboat",
+            "alphanumName": "test3TwoTrianglesSailboat",
+            "file": "03 - two triangles, sailboat.txt"
+        },
+        {
+            "name": "Test 4: Condensed",
+            "alphanumName": "test4Condensed",
+            "file": "04 - condensed.txt"
+        },
+        {
+            "name": "Test 5: Overlap (tree)",
+            "alphanumName": "test5OverlapTree",
+            "file": "05 - overlap (tree).txt"
+        },
+        {
+            "name": "Test 6: Overlap expanded Star of David",
+            "alphanumName": "test6OverlapExpandedStarOfDavid",
+            "file": "06 - overlap expanded star of david.txt"
+        },
+        {
+            "name": "Test 7 Overlap condensed Star of David",
+            "alphanumName": "test7OverlapCondensedStarOfDavid",
+            "file": "07 - overlap condensed star of david.txt"
+        },
+        {
+            "name": "Test 8 Triangles inside of triangles",
+            "alphanumName": "trianglesInsideOfTriangles",
+            "file": "08 - triangles inside of triangles.txt"
+        },
+        {
+            "name": "Test 9: Yoga, partial triangles",
+            "alphanumName": "yogaPartialTriangles",
+            "file": "09 - yoga, partial triangles.txt"
+        },
+        {
+            "name": "Test 10: Tesla Truck, partial triangles",
+            "alphanumName": "teslaTruckPartialTriangles",
+            "file": "10 - tesla truck, partial triangles.txt"
+        },
+        {
+            "name": "Test 11: Misc",
+            "alphanumName": "misc",
+            "file": "11 - misc.txt"
+        },
+        {
+            "name": "Test 12: overflowing everywhere",
+            "alphanumName": "overflowingEverywhere",
+            "file": "12 - overflowing everywhere.txt"
+        }
+    ]
+}

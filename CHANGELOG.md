@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - configuration for "Six Degrees of Kevin Bacon".
+- configuration for "Triangle Toggle".
 
 ## [1.2.1] - 2024-05-30
 ### Fixed
