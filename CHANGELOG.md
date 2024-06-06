@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Six Degrees of Kevin Bacon".
 - configuration for "Triangle Toggle".
 - configuration for "Zeckendorf representation, part I".
+- configuration for "Create 'Turn Here‘ Signs".
 
 ## [1.2.1] - 2024-05-30
 ### Fixed
