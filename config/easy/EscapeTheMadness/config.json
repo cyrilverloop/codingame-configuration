@@ -1,0 +1,58 @@
+{
+    "path": "easy/EscapeTheMadness",
+    "name": "Escape the madness",
+    "alphanumName": "escapeTheMadness",
+    "link": "https://www.codingame.com/ide/puzzle/escape-the-madness",
+    "tests": [
+        {
+            "name": "Only C-style trigraphs",
+            "alphanumName": "OnlyCStyleTrigraphs",
+            "file": "01 - Only C-style trigraphs.txt"
+        },
+        {
+            "name": "C-style trigraphs with unsupported characters",
+            "alphanumName": "CStyleTrigraphsWithUnsupportedCharacters",
+            "file": "02 - C-style trigraphs with unsupported characters.txt"
+        },
+        {
+            "name": "Only backslash escape sequences",
+            "alphanumName": "OnlyBackslashEscapeSequences",
+            "file": "03 - Only backslash escape sequences.txt"
+        },
+        {
+            "name": "Combined trigraphs and backslash escape sequences",
+            "alphanumName": "CombinedTrigraphsAndBackslashEscapeSequences",
+            "file": "04 - Combined trigraphs and backslash escape sequences.txt"
+        },
+        {
+            "name": "No double backslash escape sequence evaluation",
+            "alphanumName": "NoDoubleBackslashEscapeSequenceEvaluation",
+            "file": "05 - No double backslash escape sequence evaluation.txt"
+        },
+        {
+            "name": "Only HTML entities",
+            "alphanumName": "OnlyHTMLEntities",
+            "file": "06 - Only HTML entities.txt"
+        },
+        {
+            "name": "Only known HTML entities",
+            "alphanumName": "OnlyKnownHTMLEntities",
+            "file": "07 - Only known HTML entities.txt"
+        },
+        {
+            "name": "No double evaluation of HTML entities",
+            "alphanumName": "NoDoubleEvaluationOfHTMLEntities",
+            "file": "08 - No double evaluation of HTML entities.txt"
+        },
+        {
+            "name": "HTML entities must be rendered after backslash escape sequences",
+            "alphanumName": "HTMLEntitiesMustBeEenderedAfterBackslashEscapeSequences",
+            "file": "09 - HTML entities must be rendered after backslash escape sequences.txt"
+        },
+        {
+            "name": "All together now!",
+            "alphanumName": "AllTogetherNow",
+            "file": "10 - All together now!.txt"
+        }
+    ]
+}

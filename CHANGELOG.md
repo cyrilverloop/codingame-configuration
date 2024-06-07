@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Triangle Toggle".
 - configuration for "Zeckendorf representation, part I".
 - configuration for "Create 'Turn Here‘ Signs".
+- configuration for "Escape the madness".
 
 ## [1.2.1] - 2024-05-30
 ### Fixed
