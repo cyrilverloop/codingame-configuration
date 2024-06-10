@@ -1,0 +1,38 @@
+{
+    "path": "easy/WordSearchForProgrammers",
+    "name": "Word Search for Programmers",
+    "alphanumName": "wordSearchForProgrammers",
+    "link": "https://www.codingame.com/ide/puzzle/word-search-for-programmers",
+    "tests": [
+        {
+            "name": "The Simpsons (Test 1)",
+            "alphanumName": "TheSimpsonsTest1",
+            "file": "01 - The Simpsons (Test 1).txt"
+        },
+        {
+            "name": "Famous Animals (Test 2)",
+            "alphanumName": "FamousAnimalsTest2",
+            "file": "02 - Famous Animals (Test 2).txt"
+        },
+        {
+            "name": "US Presidents (Test 3)",
+            "alphanumName": "USPresidentsTest3",
+            "file": "03 - US Presidents (Test 3).txt"
+        },
+        {
+            "name": "Populous Countries (Test 4)",
+            "alphanumName": "PopulousCountriesTest4",
+            "file": "04 - Populous Countries (Test 4).txt"
+        },
+        {
+            "name": "Many people with one name (Test 5)",
+            "alphanumName": "ManyPeopleWithOneNameTest5",
+            "file": "05 - Many people with one name (Test 5).txt"
+        },
+        {
+            "name": "Older Countries: Median age over 40 (Test 6)",
+            "alphanumName": "OlderCountriesMedianAgeOver40Test6",
+            "file": "06 - Older Countries Median age over 40 (Test 6).txt"
+        }
+    ]
+}
