@@ -1,0 +1,78 @@
+{
+    "path": "easy/ScrabbleScore",
+    "name": "Scrabble score",
+    "alphanumName": "ScrabbleScore",
+    "link": "https://www.codingame.com/ide/puzzle/scrabble-score",
+    "tests": [
+        {
+            "name": "Easy",
+            "alphanumName": "Easy",
+            "file": "01 - Easy.txt"
+        },
+        {
+            "name": "Double letter score",
+            "alphanumName": "DoubleLetterScore",
+            "file": "02 - Double letter score.txt"
+        },
+        {
+            "name": "Triple letter score",
+            "alphanumName": "TripleLetterScore",
+            "file": "03 - Triple letter score.txt"
+        },
+        {
+            "name": "Double word score",
+            "alphanumName": "DoubleWordScore",
+            "file": "04 - Double word score.txt"
+        },
+        {
+            "name": "Triple word score",
+            "alphanumName": "TripleWordScore",
+            "file": "05 - Triple word score.txt"
+        },
+        {
+            "name": "Multiple multiplicator",
+            "alphanumName": "MultipleMultiplicator",
+            "file": "06 - Multiple multiplicator.txt"
+        },
+        {
+            "name": "Count the 2 words",
+            "alphanumName": "CountThe2Words",
+            "file": "07 - Count the 2 words.txt"
+        },
+        {
+            "name": "Special cell on 2 words",
+            "alphanumName": "SpecialCellOn2Words",
+            "file": "08 - Special cell on 2 words.txt"
+        },
+        {
+            "name": "Complete previous word",
+            "alphanumName": "CompletePreviousWord",
+            "file": "09 - Special cell on 2 words.txt"
+        },
+        {
+            "name": "Combo",
+            "alphanumName": "Combo",
+            "file": "10 - Combo.txt"
+        },
+        {
+            "name": "Blank is important",
+            "alphanumName": "BlankIsImportant",
+            "file": "11 - Blank is important.txt"
+        },
+        {
+            "name": "Multiple multiplicator 2",
+            "alphanumName": "MultipleMultiplicator2",
+            "file": "12 - Multiple multiplicator 2.txt"
+        },
+        {
+            "name": "First word",
+            "alphanumName": "FirstWord",
+            "file": "13 - First word.txt"
+        },
+        {
+            "name": "Just for fun",
+            "alphanumName": "JustForFun",
+            "file": "14 - First word.txt"
+        }
+    ]
+}

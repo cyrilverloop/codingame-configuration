@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "abcdefghijklmnopqrstuvwxyz".
 - configuration for "Word Search for Programmers".
 - configuration for "Card Counting when easily distracted".
+- configuration for "Scrabble score".
 
 ## [1.2.1] - 2024-05-30
 ### Fixed
