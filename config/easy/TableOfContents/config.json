@@ -1,0 +1,28 @@
+{
+    "path": "easy/TableOfContents",
+    "name": "Table of Contents",
+    "alphanumName": "TableOfContents",
+    "link": "https://www.codingame.com/ide/puzzle/table-of-contents",
+    "tests": [
+        {
+            "name": "Test",
+            "alphanumName": "Test",
+            "file": "01 - Test.txt"
+        },
+        {
+            "name": "Numbers",
+            "alphanumName": "Numbers",
+            "file": "02 - Numbers.txt"
+        },
+        {
+            "name": "Hell of subsections",
+            "alphanumName": "HellOfSubsections",
+            "file": "03 - Hell of subsections.txt"
+        },
+        {
+            "name": "World book",
+            "alphanumName": "WorldBook",
+            "file": "04 - World book.txt"
+        }
+    ]
+}
