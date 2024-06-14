@@ -1,0 +1,33 @@
+{
+    "path": "easy/FoldingPaper",
+    "name": "Folding Paper",
+    "alphanumName": "FoldingPaper",
+    "link": "https://www.codingame.com/ide/puzzle/folding-paper",
+    "tests": [
+        {
+            "name": "2 ply",
+            "alphanumName": "twoPly",
+            "file": "01 - 2 ply.txt"
+        },
+        {
+            "name": "4 ply",
+            "alphanumName": "fourPly",
+            "file": "02 - 4 ply.txt"
+        },
+        {
+            "name": "6 ply",
+            "alphanumName": "sixPly",
+            "file": "03 - 6 ply.txt"
+        },
+        {
+            "name": "8 ply easy",
+            "alphanumName": "eightPlyEasy",
+            "file": "04 - 8 ply easy.txt"
+        },
+        {
+            "name": "8 ply",
+            "alphanumName": "eightPly",
+            "file": "05 - 8 ply.txt"
+        }
+    ]
+}

@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Card Counting when easily distracted".
 - configuration for "Scrabble score".
 - configuration for "Table of Contents".
+- configuration for "Folding Paper".
 
 ## [1.2.1] - 2024-05-30
 ### Fixed
