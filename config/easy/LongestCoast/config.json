@@ -1,0 +1,43 @@
+{
+    "path": "easy/LongestCoast",
+    "name": "Longest coast",
+    "alphanumName": "LongestCoast",
+    "link": "https://www.codingame.com/ide/puzzle/longest-coast",
+    "tests": [
+        {
+            "name": "Simple start",
+            "alphanumName": "SimpleStart",
+            "file": "01 - Simple start.txt"
+        },
+        {
+            "name": "Multiple islands",
+            "alphanumName": "MultipleIslands",
+            "file": "02 - Multiple islands.txt"
+        },
+        {
+            "name": "Checkerboard",
+            "alphanumName": "Checkerboard",
+            "file": "03 - Checkerboard.txt"
+        },
+        {
+            "name": "Weird shaped island",
+            "alphanumName": "WeirdShapedIsland",
+            "file": "04 - Weird shaped island.txt"
+        },
+        {
+            "name": "Linked islands",
+            "alphanumName": "LinkedIslands",
+            "file": "05 - Linked islands.txt"
+        },
+        {
+            "name": "No water",
+            "alphanumName": "NoWater",
+            "file": "06 - No water.txt"
+        },
+        {
+            "name": "Large Archipelago",
+            "alphanumName": "LargeArchipelago",
+            "file": "07 - Large Archipelago.txt"
+        }
+    ]
+}
