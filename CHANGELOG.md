@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Table of Contents".
 - configuration for "Folding Paper".
 - configuration for "Longest coast".
+- configuration for "Where am I going?".
 
 ## [1.2.1] - 2024-05-30
 ### Fixed

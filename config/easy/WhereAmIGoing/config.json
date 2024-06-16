@@ -1,0 +1,28 @@
+{
+    "path": "easy/WhereAmIGoing",
+    "name": "Where am I going?",
+    "alphanumName": "WhereAmIGoing",
+    "link": "https://www.codingame.com/ide/puzzle/where-am-i-going",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "02 - Simple.txt"
+        },
+        {
+            "name": "Spiral",
+            "alphanumName": "Spiral",
+            "file": "03 - Spiral.txt"
+        },
+        {
+            "name": "Hard",
+            "alphanumName": "Hard",
+            "file": "04 - Hard.txt"
+        }
+    ]
+}
