@@ -21,6 +21,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Longest coast".
 - configuration for "Where am I going?".
 
+### Fixed
+- configuration for "Merlin’s Magic Square".
+
 ## [1.2.1] - 2024-05-30
 ### Fixed
 - `alphanumName` for : "Brackets, extreme edition.", "Brick in the Wall", "Survey Prediction",
