@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Longest coast".
 - configuration for "Where am I going?".
 - configuration for "You are the Father: Maury Povich Style".
+- configuration for "Shoot Enemy Aircraft".
 
 ### Fixed
 - configuration for "Merlin’s Magic Square".

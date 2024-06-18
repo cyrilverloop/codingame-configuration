@@ -1,0 +1,28 @@
+{
+    "path": "easy/ShootEnemyAircraft",
+    "name": "Shoot Enemy Aircraft",
+    "alphanumName": "ShootEnemyAircraft",
+    "link": "https://www.codingame.com/ide/puzzle/shoot-enemy-aircraft",
+    "tests": [
+        {
+            "name": "One aircraft on each side",
+            "alphanumName": "OneAircraftOnEachSide",
+            "file": "01 - One aircraft on each side.txt"
+        },
+        {
+            "name": "Three on the same side",
+            "alphanumName": "ThreeOnTheSameSide",
+            "file": "02 - Three on the same side.txt"
+        },
+        {
+            "name": "Hold the line",
+            "alphanumName": "HoldTheLine",
+            "file": "03 - Hold the line.txt"
+        },
+        {
+            "name": "Don’t panic",
+            "alphanumName": "DontPanic",
+            "file": "04 - Don’t panic.txt"
+        }
+    ]
+}
