@@ -1,0 +1,78 @@
+{
+    "path": "easy/ShouldBakersBeFrugal",
+    "name": "Should Bakers be Frugal?",
+    "alphanumName": "ShouldBakersBeFrugal",
+    "link": "https://www.codingame.com/ide/puzzle/should-bakers-be-frugal",
+    "tests": [
+        {
+            "name": "Basic",
+            "alphanumName": "Basic",
+            "file": "01 - Basic.txt"
+        },
+        {
+            "name": "Another Basic",
+            "alphanumName": "AnotherBasic",
+            "file": "02 - Another Basic.txt"
+        },
+        {
+            "name": "What IS the benefit",
+            "alphanumName": "WhatISTheBenefit",
+            "file": "03 - What IS the benefit.txt"
+        },
+        {
+            "name": "Not perfectly divisible",
+            "alphanumName": "NotPerfectlyDivisible",
+            "file": "04 - Not perfectly divisible.txt"
+        },
+        {
+            "name": "Real Biscuits",
+            "alphanumName": "RealBiscuits",
+            "file": "05 - Real Biscuits.txt"
+        },
+        {
+            "name": "So wasteful",
+            "alphanumName": "SoWasteful",
+            "file": "06 - So wasteful.txt"
+        },
+        {
+            "name": "Squeeze out the extras",
+            "alphanumName": "SqueezeOutTheExtras",
+            "file": "07 - Squeeze out the extras.txt"
+        },
+        {
+            "name": "So many biscuits",
+            "alphanumName": "SoManyBiscuits",
+            "file": "08 - So many biscuits.txt"
+        },
+        {
+            "name": "Who kneads that ?",
+            "alphanumName": "WhoKneadsThat",
+            "file": "09 - Who kneads that.txt"
+        },
+        {
+            "name": "Them Biscuits are Big",
+            "alphanumName": "ThemBiscuitsAreBig",
+            "file": "10 - Them Biscuits are Big.txt"
+        },
+        {
+            "name": "Big Payoff",
+            "alphanumName": "BigPayoff",
+            "file": "11 - Big Payoff.txt"
+        },
+        {
+            "name": "Now my hand hurts",
+            "alphanumName": "NowMyHandHurts",
+            "file": "12 - Now my hand hurts.txt"
+        },
+        {
+            "name": "Micro World",
+            "alphanumName": "Micro World",
+            "file": "13 - Micro World.txt"
+        },
+        {
+            "name": "A gazillion micro-biscuits",
+            "alphanumName": "AGazillionMicroBiscuits",
+            "file": "14 - A gazillion micro-biscuits.txt"
+        }
+    ]
+}
