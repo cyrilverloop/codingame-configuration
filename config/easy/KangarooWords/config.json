@@ -1,0 +1,48 @@
+{
+    "path": "easy/KangarooWords",
+    "name": "Kangaroo words",
+    "alphanumName": "KangarooWords",
+    "link": "https://www.codingame.com/ide/puzzle/kangaroo-words",
+    "tests": [
+        {
+            "name": "Action",
+            "alphanumName": "Action",
+            "file": "01 - Action.txt"
+        },
+        {
+            "name": "Fire",
+            "alphanumName": "Fire",
+            "file": "02 - Fire.txt"
+        },
+        {
+            "name": "Not alone",
+            "alphanumName": "NotAlone",
+            "file": "03 - Not alone.txt"
+        },
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "04 - Example.txt"
+        },
+        {
+            "name": "Screams",
+            "alphanumName": "Screams",
+            "file": "05 - Screams.txt"
+        },
+        {
+            "name": "Pointless",
+            "alphanumName": "Pointless",
+            "file": "06 - Pointless.txt"
+        },
+        {
+            "name": "CodingGame",
+            "alphanumName": "CodingGame",
+            "file": "07 - CodingGame.txt"
+        },
+        {
+            "name": "Pointless",
+            "alphanumName": "Pointless",
+            "file": "08 - Pointless.txt"
+        }
+    ]
+}
