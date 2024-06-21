@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Shoot Enemy Aircraft".
 - configuration for "Should Bakers be Frugal?".
 - configuration for "Kangaroo words".
+- configuration for "GDQ - Binary Coded Decimal Clock".
 
 ### Fixed
 - configuration for "Merlin’s Magic Square".

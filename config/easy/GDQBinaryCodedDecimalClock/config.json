@@ -1,0 +1,28 @@
+{
+    "path": "easy/GDQBinaryCodedDecimalClock",
+    "name": "GDQ - Binary Coded Decimal Clock",
+    "alphanumName": "GDQBinaryCodedDecimalClock",
+    "link": "https://www.codingame.com/ide/puzzle/gdq---binary-coded-decimal-clock",
+    "tests": [
+        {
+            "name": "Single Digits",
+            "alphanumName": "SingleDigits",
+            "file": "01 - Single Digits.txt"
+        },
+        {
+            "name": "Double Digits",
+            "alphanumName": "DoubleDigits",
+            "file": "02 - Double Digits.txt"
+        },
+        {
+            "name": "Tunic - Any% Unrestricted (21:42)",
+            "alphanumName": "TunicAnyUnrestricted2142",
+            "file": "03 - Tunic - Any% Unrestricted (21 42).txt"
+        },
+        {
+            "name": "Donkey Kong 64 - No Levels Early (02:04:09)",
+            "alphanumName": "DonkeyKong64NoLevelsEarly020409",
+            "file": "04 - Donkey Kong 64 - No Levels Early (02 04 09).txt"
+        }
+    ]
+}
