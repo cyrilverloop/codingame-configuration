@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Should Bakers be Frugal?".
 - configuration for "Kangaroo words".
 - configuration for "GDQ - Binary Coded Decimal Clock".
+- configuration for "Euclid’s Algorithm".
 
 ### Fixed
 - configuration for "Merlin’s Magic Square".

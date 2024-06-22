@@ -1,0 +1,28 @@
+{
+    "path": "easy/EuclidsAlgorithm",
+    "name": "Euclid’s Algorithm",
+    "alphanumName": "EuclidsAlgorithm",
+    "link": "https://www.codingame.com/ide/puzzle/euclids-algorithm",
+    "tests": [
+        {
+            "name": "25 / 3",
+            "alphanumName": "two53",
+            "file": "01 - 25 3.txt"
+        },
+        {
+            "name": "50 / 14",
+            "alphanumName": "five014",
+            "file": "02 - 50 14.txt"
+        },
+        {
+            "name": "115 / 47",
+            "alphanumName": "one1547",
+            "file": "03 - 115 47.txt"
+        },
+        {
+            "name": "4857 / 147",
+            "alphanumName": "four857147",
+            "file": "04 - 4857 147.txt"
+        }
+    ]
+}
