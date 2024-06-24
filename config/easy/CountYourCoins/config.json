@@ -1,0 +1,43 @@
+{
+    "path": "easy/CountYourCoins",
+    "name": "Count your coins",
+    "alphanumName": "CountYourCoins",
+    "link": "https://www.codingame.com/ide/puzzle/count-your-coins",
+    "tests": [
+        {
+            "name": "Easy !",
+            "alphanumName": "Easy",
+            "file": "01 - Easy !.txt"
+        },
+        {
+            "name": "It’s obviously way too much !",
+            "alphanumName": "ItsObviouslyWayTooMuch",
+            "file": "02 - It’s obviously way too much !.txt"
+        },
+        {
+            "name": "It’s way too much.. But less obvious",
+            "alphanumName": "ItsWayTooMuchButLessObvious",
+            "file": "03 - It’s way too much.. But less obvious.txt"
+        },
+        {
+            "name": "Two coin types",
+            "alphanumName": "TwoCoinTypes",
+            "file": "04 - Two coin types.txt"
+        },
+        {
+            "name": "That’s hard to evaluate...",
+            "alphanumName": "ThatsHardToEvaluate",
+            "file": "05 - That’s hard to evaluate....txt"
+        },
+        {
+            "name": "Why do I have so many different coins ?",
+            "alphanumName": "WhyDoIHaveSoManyDifferentCoins",
+            "file": "06 - Why do I have so many different coins.txt"
+        },
+        {
+            "name": "How does this even fit in my pocket ???",
+            "alphanumName": "HowDoesThisEvenFitInMyPocket",
+            "file": "07 - How does this even fit in my pocket.txt"
+        }
+    ]
+}

@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "GDQ - Binary Coded Decimal Clock".
 - configuration for "Euclid’s Algorithm".
 - configuration for "Tile a Floor".
+- configuration for "Count your coins".
 
 ### Fixed
 - configuration for "Merlin’s Magic Square".
