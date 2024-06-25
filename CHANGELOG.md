@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Euclid’s Algorithm".
 - configuration for "Tile a Floor".
 - configuration for "Count your coins".
+- configuration for "Square Spiral for Alien Contact 👽".
 
 ### Fixed
 - configuration for "Merlin’s Magic Square".

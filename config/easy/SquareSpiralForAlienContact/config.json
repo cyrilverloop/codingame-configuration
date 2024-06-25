@@ -1,0 +1,128 @@
+{
+    "path": "easy/SquareSpiralForAlienContact",
+    "name": "Square Spiral for Alien Contact 👽",
+    "alphanumName": "SquareSpiralForAlienContact",
+    "link": "https://www.codingame.com/ide/puzzle/square-spiral-for-alien-contact",
+    "tests": [
+        {
+            "name": "Test 1 = letter+ and #same, cw",
+            "alphanumName": "Test1LetterAndSameCw",
+            "file": "01 - Test 1 = letter+ and #same, cw.txt"
+        },
+        {
+            "name": "Test 2 = letter+ and #same, ccw",
+            "alphanumName": "Test2LetterAndSameCcw",
+            "file": "02 - Test 2 = letter+ and #same, ccw.txt"
+        },
+        {
+            "name": "Test 3 = letter++ and #same, cw",
+            "alphanumName": "Test3LetterAndSameCw",
+            "file": "03 - Test 3 = letter++ and #same, cw.txt"
+        },
+        {
+            "name": "Test 4 = letter++ and #same, ccw",
+            "alphanumName": "Test4LetterAndSameCcw",
+            "file": "04 - Test 4 = letter++ and #same, ccw.txt"
+        },
+        {
+            "name": "Test 5 = letter+ and #+, cw",
+            "alphanumName": "Test5LetterAndCw",
+            "file": "05 - Test 5 = letter+ and #+, cw.txt"
+        },
+        {
+            "name": "Test 6 = letter+ and #+, ccw",
+            "alphanumName": "Test6LetterAndCcw",
+            "file": "06 - Test 6 = letter+ and #+, ccw.txt"
+        },
+        {
+            "name": "Test 7 = letter+ and #++, cw",
+            "alphanumName": "TestLetterAndCw",
+            "file": "07 - Test 7 = letter+ and #++, cw.txt"
+        },
+        {
+            "name": "Test 8 = letter+ and #++, ccw",
+            "alphanumName": "Test8LetterAndCcw",
+            "file": "08 - Test 8 = letter+ and #++, ccw.txt"
+        },
+        {
+            "name": "Test 9 = letter++ and #+, cw",
+            "alphanumName": "Test9LetterAndCw",
+            "file": "09 - Test 9 = letter++ and #+, cw.txt"
+        },
+        {
+            "name": "Test 10 = letter++ and #+, ccw",
+            "alphanumName": "Test10LetterAndCcw",
+            "file": "10 - Test 10 = letter++ and #+, ccw.txt"
+        },
+        {
+            "name": "Test 11 = letter++ and #++, cw",
+            "alphanumName": "Test11LetterAndCw",
+            "file": "11 - Test 11 = letter++ and #++, cw.txt"
+        },
+        {
+            "name": "Test 12 = letter++ and #++, ccw",
+            "alphanumName": "Test12LetterAndCcw",
+            "file": "12 - Test 12 = letter++ and #++, ccw.txt"
+        },
+        {
+            "name": "Test 13 = letter- and #+, cw",
+            "alphanumName": "Test13LetterAndCw",
+            "file": "13 - Test 13 = letter- and #+, cw.txt"
+        },
+        {
+            "name": "Test 14 = letter- and #+, ccw",
+            "alphanumName": "Test14LetterAndCcw",
+            "file": "14 - Test 14 = letter- and #+, ccw.txt"
+        },
+        {
+            "name": "Test 15 = letter-- and #++, cw",
+            "alphanumName": "Test15LetterAndCw",
+            "file": "15 - Test 15 = letter-- and #++, cw.txt"
+        },
+        {
+            "name": "Test 16 = letter-- and #++, ccw",
+            "alphanumName": "Test16LetterAndCcw",
+            "file": "16 - Test 16 = letter-- and #++, ccw.txt"
+        },
+        {
+            "name": "Test 17 = letter+ and #-, cw",
+            "alphanumName": "Test17LetterAndCw",
+            "file": "17 - Test 17 = letter+ and #-, cw.txt"
+        },
+        {
+            "name": "Test 18 = letter+ and #-, ccw",
+            "alphanumName": "Test18LetterAndCcw",
+            "file": "18 - Test 18 = letter+ and #-, ccw.txt"
+        },
+        {
+            "name": "Test 19 = letter-- and #--, cw",
+            "alphanumName": "Test19LetterAndCw",
+            "file": "19 - Test 19 = letter-- and #--, cw.txt"
+        },
+        {
+            "name": "Test 20 = letter-- and #--, ccw",
+            "alphanumName": "Test20LetterAndCcw",
+            "file": "20 - Test 20 = letter-- and #--, ccw.txt"
+        },
+        {
+            "name": "Test 21 = whoa, that’s not enough material, cw",
+            "alphanumName": "Test21WhoathatsNotEnoughMaterialCw",
+            "file": "21 - Test 21 = whoa, that’s not enough material, cw.txt"
+        },
+        {
+            "name": "Test 22 - whoa, that’s not enough material, ccw",
+            "alphanumName": "Test22WhoaThatsNotEnoughMaterialCcw",
+            "file": "22 - Test 22 - whoa, that’s not enough material, ccw.txt"
+        },
+        {
+            "name": "Test 23 = oversized",
+            "alphanumName": "Test23Oversized",
+            "file": "23 - Test 23 = oversized.txt"
+        },
+        {
+            "name": "Test 24 = very oversized",
+            "alphanumName": "Test24VeryOversized",
+            "file": "24 - Test 24 = very oversized.txt"
+        }
+    ]
+}
