@@ -1,0 +1,123 @@
+{
+    "path": "easy/TheLogoBeyondCppAndCs",
+    "name": "The logo beyond C++ and C#",
+    "alphanumName": "TheLogoBeyondCppAndCs",
+    "link": "https://www.codingame.com/ide/puzzle/the-logo-beyond-c-and-c",
+    "tests": [
+        {
+            "name": "C Sharp Plus Test 1",
+            "alphanumName": "CSharpPlusTest1",
+            "file": "01 - C Sharp Plus Test 1.txt"
+        },
+        {
+            "name": "C Venn Test 2",
+            "alphanumName": "CVennTest2",
+            "file": "02 - C Venn Test 2.txt"
+        },
+        {
+            "name": "C Plus Plus and Plus Test 3",
+            "alphanumName": "CPlusPlusAndPlusTest3",
+            "file": "03 - C Plus Plus and Plus Test 3.txt"
+        },
+        {
+            "name": "C-hi Test 4",
+            "alphanumName": "ChiTest4",
+            "file": "04 - C-hi Test 4.txt"
+        },
+        {
+            "name": "C Climb Test 5",
+            "alphanumName": "CClimbTest5",
+            "file": "05 - C Climb Test 5.txt"
+        },
+        {
+            "name": "C-Cliff Test 6",
+            "alphanumName": "CCliffTest6",
+            "file": "06 - C-Cliff Test 6.txt"
+        },
+        {
+            "name": "C-X Test 7",
+            "alphanumName": "CXTest7",
+            "file": "07 - C-X Test 7.txt"
+        },
+        {
+            "name": "Tic Tac C Test 8",
+            "alphanumName": "TicTacCTest8",
+            "file": "08 - Tic Tac C Test 8.txt"
+        },
+        {
+            "name": "C-Check Test 9",
+            "alphanumName": "CCheckTest9",
+            "file": "09 - C-Check Test 9.txt"
+        },
+        {
+            "name": "C-Checkers Test 10",
+            "alphanumName": "CCheckersTest10",
+            "file": "10 - C-Checkers Test 10.txt"
+        },
+        {
+            "name": "C Sharp Sharp Test 11",
+            "alphanumName": "CSharpSharpTest11",
+            "file": "11 - C Sharp Sharp Test 11.txt"
+        },
+        {
+            "name": "C Sharp Plus Sharp Test 12",
+            "alphanumName": "CSharpPlusSharpTest12",
+            "file": "12 - C Sharp Plus Sharp Test 12.txt"
+        },
+        {
+            "name": "C Pyramid Test 13",
+            "alphanumName": "CPyramidTest13",
+            "file": "13 - C Pyramid Test 13.txt"
+        },
+        {
+            "name": "Greater Than C Test 14",
+            "alphanumName": "GreaterThanCTest14",
+            "file": "14 - Greater Than C Test 14.txt"
+        },
+        {
+            "name": "Giant C Test 15",
+            "alphanumName": "GiantCTest15",
+            "file": "15 - Giant C Test 15.txt"
+        },
+        {
+            "name": "One Thick C Test 16",
+            "alphanumName": "OneThickCTest16",
+            "file": "16 - One Thick C Test 16.txt"
+        },
+        {
+            "name": "C-U Test 17",
+            "alphanumName": "CUTest17",
+            "file": "17 - C-U Test 17.txt"
+        },
+        {
+            "name": "You can C forever Test 18",
+            "alphanumName": "YoucanCforeverTest18",
+            "file": "18 - You can C forever Test 18.txt"
+        },
+        {
+            "name": "I C U Test 19",
+            "alphanumName": "ICUTest19",
+            "file": "19 - I C U Test 19.txt"
+        },
+        {
+            "name": "C-Nake (Snake) Test 20",
+            "alphanumName": "CNakeSnakeTest20",
+            "file": "20 - C-Nake (Snake) Test 20.txt"
+        },
+        {
+            "name": "C-Legs Test 21",
+            "alphanumName": "CLegsTest21",
+            "file": "21 - C-Legs Test 21.txt"
+        },
+        {
+            "name": "C You Tuesday Test 22",
+            "alphanumName": "CYouTuesdayTest22",
+            "file": "22 - C You Tuesday Test 22.txt"
+        },
+        {
+            "name": "C-Man Test 23",
+            "alphanumName": "CManTest23",
+            "file": "23 - C-Man Test 23.txt"
+        }
+    ]
+}
