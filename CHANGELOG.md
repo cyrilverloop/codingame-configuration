@@ -33,6 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - configuration for "Merlin’s Magic Square".
+- filename configuration for "Disordered First Contact".
 
 ## [1.2.1] - 2024-05-30
 ### Fixed
