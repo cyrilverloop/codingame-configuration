@@ -1,0 +1,48 @@
+{
+    "path": "easy/DigitalScoreboard",
+    "name": "Digital Scoreboard",
+    "alphanumName": "DigitalScoreboard",
+    "link": "https://www.codingame.com/ide/puzzle/digital-scoreboard",
+    "tests": [
+        {
+            "name": "Addition Only - Test 1",
+            "alphanumName": "AdditionOnlyTest1",
+            "file": "01 - Addition Only - Test 1.txt"
+        },
+        {
+            "name": "Subtraction Only - Test 2",
+            "alphanumName": "SubtractionOnlyTest2",
+            "file": "02 - Subtraction Only - Test 2.txt"
+        },
+        {
+            "name": "Test 3",
+            "alphanumName": "test3",
+            "file": "03 - test 3.txt"
+        },
+        {
+            "name": "Test 4",
+            "alphanumName": "test4",
+            "file": "04 - test 4.txt"
+        },
+        {
+            "name": "Test 5",
+            "alphanumName": "test5",
+            "file": "05 - test 5.txt"
+        },
+        {
+            "name": "Nothing ever changes - Test 6",
+            "alphanumName": "NothingEverChangesTest6",
+            "file": "06 - Nothing ever changes - Test 6.txt"
+        },
+        {
+            "name": "Test 7",
+            "alphanumName": "test7",
+            "file": "07 - test 7.txt"
+        },
+        {
+            "name": "For Rafarafa - Test 8",
+            "alphanumName": "ForRafarafaTest8",
+            "file": "08 - For Rafarafa - Test 8.txt"
+        }
+    ]
+}
