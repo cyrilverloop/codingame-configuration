@@ -1,0 +1,83 @@
+{
+    "path": "easy/NATOAlphabetsOddUncles",
+    "name": "NATO-alphabet’s odd uncles",
+    "alphanumName": "NATOAlphabetsOddUncles",
+    "link": "https://www.codingame.com/ide/puzzle/nato-alphabets-odd-uncles",
+    "tests": [
+        {
+            "name": "Starting with oldest - Test 1",
+            "alphanumName": "StartingWithOldestTest1",
+            "file": "01 - Starting with oldest - Test 1.txt"
+        },
+        {
+            "name": "Then next oldest - Test 2",
+            "alphanumName": "ThenNextOldestTest2",
+            "file": "02 - Then next oldest - Test 2.txt"
+        },
+        {
+            "name": "Almost current - Test 3",
+            "alphanumName": "AlmostCurrentTest3",
+            "file": "03 - Almost current - Test 3.txt"
+        },
+        {
+            "name": "Let’s Regress - Test 4",
+            "alphanumName": "LetsRegressTest4",
+            "file": "04 - Let’s Regress - Test 4.txt"
+        },
+        {
+            "name": "Rest are random - Test 5",
+            "alphanumName": "RestAreRandomTest5",
+            "file": "05 - Rest are random - Test 5.txt"
+        },
+        {
+            "name": "Rest are random - Test 5",
+            "alphanumName": "RestAreRandomTest5",
+            "file": "05 - Rest are random - Test 5.txt"
+        },
+        {
+            "name": "Test 6",
+            "alphanumName": "test6",
+            "file": "06 - test 6.txt"
+        },
+        {
+            "name": "Test 7",
+            "alphanumName": "test7",
+            "file": "07 - test 7.txt"
+        },
+        {
+            "name": "Test 8",
+            "alphanumName": "test8",
+            "file": "08 - test 8.txt"
+        },
+        {
+            "name": "Test 9",
+            "alphanumName": "test9",
+            "file": "09 - test 9.txt"
+        },
+        {
+            "name": "Charlie is here - Test 10",
+            "alphanumName": "CharlieIsHereTest10",
+            "file": "10 - Charlie is here - Test 10.txt"
+        },
+        {
+            "name": "Charlie is here too - Test 11",
+            "alphanumName": "CharlieIsHereTooTest11",
+            "file": "11 - Charlie is here too - Test 11.txt"
+        },
+        {
+            "name": "Is it This Quebec or ... ?? - Test 12",
+            "alphanumName": "IsItThisQuebecOrTest12",
+            "file": "12 - Is it This Quebec or ... - Test 12.txt"
+        },
+        {
+            "name": "... or That Quebec ?? - Test 13",
+            "alphanumName": "orThatQuebecTest13",
+            "file": "13 - ... or That Quebec - Test 13.txt"
+        },
+        {
+            "name": "Which alphabet has both - Test 14",
+            "alphanumName": "WhichAlphabetHasBothTest14",
+            "file": "14 - Which alphabet has both - Test 14.txt"
+        }
+    ]
+}

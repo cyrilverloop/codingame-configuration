@@ -31,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Square Spiral for Alien Contact 👽".
 - configuration for "The logo beyond C++ and C#".
 - configuration for "Digital Scoreboard".
+- configuration for "NATO-alphabet’s odd uncles".
 
 ### Fixed
 - configuration for "Merlin’s Magic Square".
