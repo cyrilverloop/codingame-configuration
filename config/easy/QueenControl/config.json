@@ -1,0 +1,83 @@
+{
+    "path": "easy/QueenControl",
+    "name": "Queen control",
+    "alphanumName": "QueenControl",
+    "link": "https://www.codingame.com/ide/puzzle/queen-control",
+    "tests": [
+        {
+            "name": "Corner",
+            "alphanumName": "Corner",
+            "file": "01 - Corner.txt"
+        },
+        {
+            "name": "Center",
+            "alphanumName": "Center",
+            "file": "02 - Center.txt"
+        },
+        {
+            "name": "White ally down right",
+            "alphanumName": "WhiteAllyDownRight",
+            "file": "03 - White ally down right.txt"
+        },
+        {
+            "name": "White ally up left",
+            "alphanumName": "WhiteAllyUpLeft",
+            "file": "04 - White ally up left.txt"
+        },
+        {
+            "name": "White ally diagonal",
+            "alphanumName": "WhiteAllyDiagonal",
+            "file": "05 - White ally diagonal.txt"
+        },
+        {
+            "name": "Black ally down right",
+            "alphanumName": "BlackAllyDownRight",
+            "file": "06 - Black ally down right.txt"
+        },
+        {
+            "name": "Black ally up left",
+            "alphanumName": "BlackAllyUpLeft",
+            "file": "07 - Black ally up left.txt"
+        },
+        {
+            "name": "Black ally diagonal",
+            "alphanumName": "BlackAllyDiagonal",
+            "file": "08 - Black ally diagonal.txt"
+        },
+        {
+            "name": "Black enemy",
+            "alphanumName": "BlackEnemy",
+            "file": "09 - Black enemy.txt"
+        },
+        {
+            "name": "White enemy",
+            "alphanumName": "WhiteEnemy",
+            "file": "10 - White enemy.txt"
+        },
+        {
+            "name": "Surrounded by allies",
+            "alphanumName": "SurroundedByAllies",
+            "file": "11 - Surrounded by allies.txt"
+        },
+        {
+            "name": "Surrounded by enemies",
+            "alphanumName": "SurroundedByEnemies",
+            "file": "12 - Surrounded by enemies.txt"
+        },
+        {
+            "name": "Advanced test 1",
+            "alphanumName": "AdvancedTest1",
+            "file": "13 - Advanced test 1.txt"
+        },
+        {
+            "name": "Advanced test 2",
+            "alphanumName": "AdvancedTest2",
+            "file": "14 - Advanced test 2.txt"
+        },
+        {
+            "name": "Advanced test 3",
+            "alphanumName": "AdvancedTest3",
+            "file": "15 - Advanced test 3.txt"
+        }
+    ]
+}
