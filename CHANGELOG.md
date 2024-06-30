@@ -33,6 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Digital Scoreboard".
 - configuration for "NATO-alphabet’s odd uncles".
 - configuration for "Queen control".
+- configuration for "Video comments".
 
 ### Fixed
 - configuration for "Merlin’s Magic Square".

@@ -1,0 +1,38 @@
+{
+    "path": "easy/VideoComments",
+    "name": "Video comments",
+    "alphanumName": "VideoComments",
+    "link": "https://www.codingame.com/ide/puzzle/video-comments",
+    "tests": [
+        {
+            "name": "Time example",
+            "alphanumName": "TimeExample",
+            "file": "01 - Time example.txt"
+        },
+        {
+            "name": "Likes count",
+            "alphanumName": "LikesCount",
+            "file": "02 - Likes count.txt"
+        },
+        {
+            "name": "Tie - Followed",
+            "alphanumName": "TieFollowed",
+            "file": "03 - Tie - Followed.txt"
+        },
+        {
+            "name": "Pinned - All priorities",
+            "alphanumName": "PinnedAllPriorities",
+            "file": "04 - Pinned - All priorities.txt"
+        },
+        {
+            "name": "Replies",
+            "alphanumName": "Replies",
+            "file": "05 - Replies.txt"
+        },
+        {
+            "name": "Followed in replies",
+            "alphanumName": "FollowedInReplies",
+            "file": "06 - Followed in replies.txt"
+        }
+    ]
+}

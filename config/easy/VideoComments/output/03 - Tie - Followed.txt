@@ -1,0 +1,5 @@
+user9|09:12|4|Followed
+user8|19:58|3|Followed
+user10|21:32|10|none
+user1|10:50|6|none
+user3|10:50|6|none
