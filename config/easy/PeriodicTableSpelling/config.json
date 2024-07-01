@@ -1,0 +1,58 @@
+{
+    "path": "easy/PeriodicTableSpelling",
+    "name": "Periodic table spelling",
+    "alphanumName": "PeriodicTableSpelling",
+    "link": "https://www.codingame.com/ide/puzzle/periodic-table-spelling",
+    "tests": [
+        {
+            "name": "Carbon",
+            "alphanumName": "Carbon",
+            "file": "01 - Carbon.txt"
+        },
+        {
+            "name": "Krypton",
+            "alphanumName": "Krypton",
+            "file": "02 - Krypton.txt"
+        },
+        {
+            "name": "Javascript",
+            "alphanumName": "Javascript",
+            "file": "03 - Javascript.txt"
+        },
+        {
+            "name": "Snowy",
+            "alphanumName": "Snowy",
+            "file": "04 - Snowy.txt"
+        },
+        {
+            "name": "Hyperpathogenesis",
+            "alphanumName": "Hyperpathogenesis",
+            "file": "05 - Hyperpathogenesis.txt"
+        },
+        {
+            "name": "Obvious",
+            "alphanumName": "Obvious",
+            "file": "06 - Obvious.txt"
+        },
+        {
+            "name": "Canada",
+            "alphanumName": "Canada",
+            "file": "07 - Canada.txt"
+        },
+        {
+            "name": "Casinos",
+            "alphanumName": "Casinos",
+            "file": "08 - Casinos.txt"
+        },
+        {
+            "name": "Hinausgeschossen",
+            "alphanumName": "Hinausgeschossen",
+            "file": "09 - Hinausgeschossen.txt"
+        },
+        {
+            "name": "Innocuousnesses",
+            "alphanumName": "Innocuousnesses",
+            "file": "10 - Innocuousnesses.txt"
+        }
+    ]
+}
