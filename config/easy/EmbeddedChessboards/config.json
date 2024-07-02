@@ -1,0 +1,28 @@
+{
+    "path": "easy/EmbeddedChessboards",
+    "name": "Embedded Chessboards",
+    "alphanumName": "EmbeddedChessboards",
+    "link": "https://www.codingame.com/ide/puzzle/embedded-chessboards",
+    "tests": [
+        {
+            "name": "Small Painting",
+            "alphanumName": "SmallPainting",
+            "file": "01 - Small Painting.txt"
+        },
+        {
+            "name": "Bigger Painting",
+            "alphanumName": "BiggerPainting",
+            "file": "02 - Bigger Painting.txt"
+        },
+        {
+            "name": "Random 1",
+            "alphanumName": "Random1",
+            "file": "03 - Random 1.txt"
+        },
+        {
+            "name": "Random 2",
+            "alphanumName": "Random2",
+            "file": "04 - Random 2.txt"
+        }
+    ]
+}
