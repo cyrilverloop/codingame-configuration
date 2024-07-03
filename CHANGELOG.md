@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Periodic table spelling".
 - configuration for "Embedded Chessboards".
+- configuration for "Rocks, Papers, Scissors-es".
 
 ## [1.3.0] - 2024-06-30
 ### Added

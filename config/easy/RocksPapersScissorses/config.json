@@ -1,0 +1,28 @@
+{
+    "path": "easy/RocksPapersScissorses",
+    "name": "Rocks, Papers, Scissors-es",
+    "alphanumName": "RocksPapersScissorses",
+    "link": "https://www.codingame.com/ide/puzzle/rocks-papers-scissors-es",
+    "tests": [
+        {
+            "name": "Easy Win",
+            "alphanumName": "EasyWin",
+            "file": "01 - Easy Win.txt"
+        },
+        {
+            "name": "Draw Doesn’t Stop The Match",
+            "alphanumName": "DrawDoesntStopTheMatch",
+            "file": "02 - Draw Doesn’t Stop The Match.txt"
+        },
+        {
+            "name": "Round The Clock",
+            "alphanumName": "RoundTheClock",
+            "file": "03 - Round The Clock.txt"
+        },
+        {
+            "name": "Tiebreaker",
+            "alphanumName": "Tiebreaker",
+            "file": "04 - Tiebreaker.txt"
+        }
+    ]
+}
