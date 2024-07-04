@@ -1,0 +1,28 @@
+{
+    "path": "easy/WordleColorizer",
+    "name": "Wordle colorizer",
+    "alphanumName": "WordleColorizer",
+    "link": "https://www.codingame.com/ide/puzzle/wordle-colorizer",
+    "tests": [
+        {
+            "name": "POLKA",
+            "alphanumName": "POLKA",
+            "file": "01 - POLKA.txt"
+        },
+        {
+            "name": "WATER",
+            "alphanumName": "WATER",
+            "file": "02 - WATER.txt"
+        },
+        {
+            "name": "KOALA",
+            "alphanumName": "KOALA",
+            "file": "03 - KOALA.txt"
+        },
+        {
+            "name": "NANNY",
+            "alphanumName": "NANNY",
+            "file": "04 - NANNY.txt"
+        }
+    ]
+}
