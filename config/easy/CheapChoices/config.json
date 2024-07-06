@@ -1,0 +1,43 @@
+{
+    "path": "easy/CheapChoices",
+    "name": "Cheap Choices",
+    "alphanumName": "CheapChoices",
+    "link": "https://www.codingame.com/ide/puzzle/cheap-choices",
+    "tests": [
+        {
+            "name": "Simple Case",
+            "alphanumName": "SimpleCase",
+            "file": "01 - Simple Case.txt"
+        },
+        {
+            "name": "More People",
+            "alphanumName": "MorePeople",
+            "file": "02 - More People.txt"
+        },
+        {
+            "name": "No Items",
+            "alphanumName": "NoItems",
+            "file": "03 - No Items.txt"
+        },
+        {
+            "name": "Same Order",
+            "alphanumName": "SameOrder",
+            "file": "04 - Same Order.txt"
+        },
+        {
+            "name": "More Items",
+            "alphanumName": "MoreItems",
+            "file": "05 - More Items.txt"
+        },
+        {
+            "name": "Sold Out",
+            "alphanumName": "SoldOut",
+            "file": "06 - Sold Out.txt"
+        },
+        {
+            "name": "Busy Day",
+            "alphanumName": "BusyDay",
+            "file": "07 - Busy Day.txt"
+        }
+    ]
+}

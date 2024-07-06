@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Rocks, Papers, Scissors-es".
 - configuration for "Wordle colorizer".
 - configuration for "|Build A Bookcase|🔨".
+- configuration for "Cheap Choices".
 
 ## [1.3.0] - 2024-06-30
 ### Added
