@@ -1,0 +1,58 @@
+{
+    "path": "easy/Codongame",
+    "name": "Codongame",
+    "alphanumName": "Codongame",
+    "link": "https://www.codingame.com/ide/puzzle/codongame",
+    "tests": [
+        {
+            "name": "1. Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "2. Endings",
+            "alphanumName": "Endings",
+            "file": "02 - Endings.txt"
+        },
+        {
+            "name": "3. Small",
+            "alphanumName": "Small",
+            "file": "03 - Small.txt"
+        },
+        {
+            "name": "4. Correct length",
+            "alphanumName": "CorrectLength",
+            "file": "04 - Correct length.txt"
+        },
+        {
+            "name": "5. Hidden messages",
+            "alphanumName": "HiddenMessages",
+            "file": "05 - Hidden messages.txt"
+        },
+        {
+            "name": "6. Alien rna",
+            "alphanumName": "AlienRna",
+            "file": "06 - Alien rna.txt"
+        },
+        {
+            "name": "7. Lots of noise",
+            "alphanumName": "LotsOfNoise",
+            "file": "07 - Lots of noise.txt"
+        },
+        {
+            "name": "8. Random 1",
+            "alphanumName": "Random1",
+            "file": "08 - Random 1.txt"
+        },
+        {
+            "name": "9. Random 2",
+            "alphanumName": "Random2",
+            "file": "09 - Random 2.txt"
+        },
+        {
+            "name": "10. Shakespearean rag",
+            "alphanumName": "ShakespeareanRag",
+            "file": "10 - ShakespeareanRag.txt"
+        }
+    ]
+}
