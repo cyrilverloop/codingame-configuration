@@ -1,0 +1,33 @@
+{
+    "path": "easy/UkuleleGuitarConverter",
+    "name": "Ukulele/Guitar converter",
+    "alphanumName": "UkuleleGuitarConverter",
+    "link": "https://www.codingame.com/ide/puzzle/ukuleleguitar-converter",
+    "tests": [
+        {
+            "name": "Guitar n=1 single output",
+            "alphanumName": "GuitarN1SingleOutput",
+            "file": "01 - Guitar n=1 single output.txt"
+        },
+        {
+            "name": "Ukulele n=1 multiple outputs",
+            "alphanumName": "UkuleleN1MultipleOutputs",
+            "file": "02 - Ukulele n=1 multiple outputs.txt"
+        },
+        {
+            "name": "Guitar multiple conversions",
+            "alphanumName": "GuitarMultipleConversions",
+            "file": "03 - Guitar multiple conversions.txt"
+        },
+        {
+            "name": "Ukulele multiple conversions",
+            "alphanumName": "UkuleleMultipleConversions",
+            "file": "04 - Ukulele multiple conversions.txt"
+        },
+        {
+            "name": "Guitar multiple conversions with no match",
+            "alphanumName": "GuitarMultipleConversionsWithNoMatch",
+            "file": "05 - Guitar multiple conversions with no match.txt"
+        }
+    ]
+}
