@@ -1,0 +1,53 @@
+{
+    "path": "easy/TheOtherSide",
+    "name": "The Other Side",
+    "alphanumName": "TheOtherSide",
+    "link": "https://www.codingame.com/ide/puzzle/the-other-side",
+    "tests": [
+        {
+            "name": "Direct path",
+            "alphanumName": "DirectPath",
+            "file": "01 - Direct path.txt"
+        },
+        {
+            "name": "Nowhere to stand",
+            "alphanumName": "NowhereToStand",
+            "file": "02 - Nowhere to stand.txt"
+        },
+        {
+            "name": "Fully horizontal path",
+            "alphanumName": "FullyHorizontalPath",
+            "file": "03 - Fully horizontal path.txt"
+        },
+        {
+            "name": "Stalemate",
+            "alphanumName": "Stalemate",
+            "file": "04 - Stalemate.txt"
+        },
+        {
+            "name": "Zigzag",
+            "alphanumName": "Zigzag",
+            "file": "05 - Zigzag.txt"
+        },
+        {
+            "name": "No way",
+            "alphanumName": "NoWay",
+            "file": "06 - No way.txt"
+        },
+        {
+            "name": "One step back",
+            "alphanumName": "OneStepBack",
+            "file": "07 - One step back.txt"
+        },
+        {
+            "name": "No diagonal moves",
+            "alphanumName": "NoDiagonalMoves",
+            "file": "08 - No diagonal moves.txt"
+        },
+        {
+            "name": "The other side",
+            "alphanumName": "TheOtherSide",
+            "file": "09 - The other side.txt"
+        }
+    ]
+}
