@@ -1,0 +1,33 @@
+{
+    "path": "easy/MaxArea",
+    "name": "Max Area",
+    "alphanumName": "MaxArea",
+    "link": "https://www.codingame.com/ide/puzzle/max-area",
+    "tests": [
+        {
+            "name": "Normal",
+            "alphanumName": "Normal",
+            "file": "01 - Normal.txt"
+        },
+        {
+            "name": "Small",
+            "alphanumName": "Small",
+            "file": "02 - Small.txt"
+        },
+        {
+            "name": "Big",
+            "alphanumName": "Big",
+            "file": "03 - Big.txt"
+        },
+        {
+            "name": "Bigger",
+            "alphanumName": "Bigger",
+            "file": "04 - Bigger.txt"
+        },
+        {
+            "name": "Empty",
+            "alphanumName": "Empty",
+            "file": "05 - Empty.txt"
+        }
+    ]
+}
