@@ -1,0 +1,28 @@
+{
+    "path": "easy/Histogram",
+    "name": "Histogram",
+    "alphanumName": "Histogram",
+    "link": "https://www.codingame.com/ide/puzzle/histogram",
+    "tests": [
+        {
+            "name": "One letter",
+            "alphanumName": "OneLetter",
+            "file": "01 - One letter.txt"
+        },
+        {
+            "name": "Alphabet",
+            "alphanumName": "Alphabet",
+            "file": "02 - Alphabet.txt"
+        },
+        {
+            "name": "Coding game",
+            "alphanumName": "CodingGame",
+            "file": "03 - Coding game.txt"
+        },
+        {
+            "name": "Lorem ipsum",
+            "alphanumName": "LoremIpsum",
+            "file": "04 - Lorem ipsum.txt"
+        }
+    ]
+}
