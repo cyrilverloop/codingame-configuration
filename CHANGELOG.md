@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Max Area".
 - configuration for "Histogram".
 - configuration for "Library dependencies".
+- configuration for "Street Fighter : Level I".
 
 ## [1.3.0] - 2024-06-30
 ### Added

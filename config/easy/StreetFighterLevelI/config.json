@@ -1,0 +1,58 @@
+{
+    "path": "easy/StreetFighterLevelI",
+    "name": "Street Fighter : Level I",
+    "alphanumName": "StreetFighterLevelI",
+    "link": "https://www.codingame.com/ide/puzzle/street-fighter-level-i",
+    "tests": [
+        {
+            "name": "1- KEN vs RYU",
+            "alphanumName": "KENvsRYU",
+            "file": "01 - KEN vs RYU.txt"
+        },
+        {
+            "name": "2-KEN vs VLAD Kick only",
+            "alphanumName": "KENvsVLADKickOnly",
+            "file": "02 - KEN vs VLAD Kick only.txt"
+        },
+        {
+            "name": "3-ANNA vs JUN Punch only",
+            "alphanumName": "ANNAvsJUNPunchOnly",
+            "file": "03 - ANNA vs JUN Punch only.txt"
+        },
+        {
+            "name": "4-TANK vs JADE punch & kick",
+            "alphanumName": "TANKvsJADEPunchAndKick",
+            "file": "04 - TANK vs JADE punch & kick.txt"
+        },
+        {
+            "name": "5- VLAD vs JUN Specials",
+            "alphanumName": "VLADvsJUNSpecials",
+            "file": "05 - VLAD vs JUN Specials.txt"
+        },
+        {
+            "name": "6- KEN vs TANK Specials",
+            "alphanumName": "KENvsTANKSpecials",
+            "file": "06 - KEN vs TANK Specials.txt"
+        },
+        {
+            "name": "7-VLAD vs RYU Special VLAD Kill",
+            "alphanumName": "VLADvsRYUSpecialVLADKill",
+            "file": "07 - VLAD vs RYU Special VLAD Kill.txt"
+        },
+        {
+            "name": "8-JUN vs KEN long story",
+            "alphanumName": "JUNvsKENLongStory",
+            "file": "08 - JUN vs KEN long story.txt"
+        },
+        {
+            "name": "9-ANNA vs JADE round 1",
+            "alphanumName": "ANNAvsJADERound1",
+            "file": "09 - ANNA vs JADE round 1.txt"
+        },
+        {
+            "name": "10-ANNA vs JADE",
+            "alphanumName": "ANNAvsJADE",
+            "file": "10 - ANNA vs JADE.txt"
+        }
+    ]
+}
