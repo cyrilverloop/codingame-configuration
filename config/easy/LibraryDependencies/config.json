@@ -1,0 +1,68 @@
+{
+    "path": "easy/LibraryDependencies",
+    "name": "Library dependencies",
+    "alphanumName": "LibraryDependencies",
+    "link": "https://www.codingame.com/ide/puzzle/library-dependencies",
+    "tests": [
+        {
+            "name": "1. Successful compilation",
+            "alphanumName": "SuccessfulCompilation",
+            "file": "01 - Successful compilation.txt"
+        },
+        {
+            "name": "2. Fatal error",
+            "alphanumName": "FatalError",
+            "file": "02 - Fatal error.txt"
+        },
+        {
+            "name": "3. Reordering",
+            "alphanumName": "Reordering",
+            "file": "03 - Reordering.txt"
+        },
+        {
+            "name": "4. Reordering logic",
+            "alphanumName": "ReorderingLogic",
+            "file": "04 - Reordering logic.txt"
+        },
+        {
+            "name": "5. Not lexicographic order but no error",
+            "alphanumName": "NotLexicographicOrderButNoError",
+            "file": "05 - Not lexicographic order but no error.txt"
+        },
+        {
+            "name": "6. Real fake test 15 libraries 1",
+            "alphanumName": "RealFakeTest15Libraries1",
+            "file": "06 - Real fake test 15 libraries 1.txt"
+        },
+        {
+            "name": "7. Real fake test 15 libraries 2 (fatal)",
+            "alphanumName": "RealFakeTest15Libraries2Fatal",
+            "file": "07 - Real fake test 15 libraries 2 (fatal).txt"
+        },
+        {
+            "name": "8. Real fake test 15 libraries 3 (compiles)",
+            "alphanumName": "RealFakeTest15Libraries3Compiles",
+            "file": "08 - Real fake test 15 libraries 3 (compiles).txt"
+        },
+        {
+            "name": "9. 40 libraries",
+            "alphanumName": "fortyLibraries",
+            "file": "09 - 40 libraries.txt"
+        },
+        {
+            "name": "10. Max size in codingame",
+            "alphanumName": "MaxSizeInCodingame",
+            "file": "10 - Max size in codingame.txt"
+        },
+        {
+            "name": "11. Extra 1",
+            "alphanumName": "Extra1",
+            "file": "11 - Extra 1.txt"
+        },
+        {
+            "name": "12. Extra 2",
+            "alphanumName": "Extra2",
+            "file": "12 - Extra 2.txt"
+        }
+    ]
+}

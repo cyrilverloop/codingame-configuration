@@ -1,0 +1,17 @@
+10
+import J
+import H
+import D
+import A
+import I
+import C
+import B
+import F
+import G
+import E
+5
+A requires F, J, E
+D requires H
+E requires J, F
+G requires A, I, H
+J requires H, G

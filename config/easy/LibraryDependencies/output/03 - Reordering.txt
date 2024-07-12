@@ -1,0 +1,6 @@
+Import error: tried to import C but B is required.
+Suggest to change import order:
+import A
+import B
+import C
+import D

@@ -1,0 +1,21 @@
+10
+import I
+import A
+import D
+import C
+import G
+import H
+import B
+import F
+import E
+import J
+9
+A requires H
+B requires G
+C requires D
+D requires J
+E requires I, G
+G requires I, F
+H requires J
+I requires F
+J requires I
