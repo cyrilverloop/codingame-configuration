@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Histogram".
 - configuration for "Library dependencies".
 - configuration for "Street Fighter : Level I".
+- configuration for "Metric Units".
 
 ## [1.3.0] - 2024-06-30
 ### Added

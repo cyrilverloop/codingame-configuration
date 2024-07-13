@@ -1,0 +1,53 @@
+{
+    "path": "easy/MetricUnits",
+    "name": "Metric Units",
+    "alphanumName": "MetricUnits",
+    "link": "https://www.codingame.com/ide/puzzle/metric-units",
+    "tests": [
+        {
+            "name": "Simple expression",
+            "alphanumName": "SimpleExpression",
+            "file": "01 - Simple expression.txt"
+        },
+        {
+            "name": "Same units",
+            "alphanumName": "SameUnits",
+            "file": "02 - Same units.txt"
+        },
+        {
+            "name": "Kilometers to decimeters",
+            "alphanumName": "KilometersToDecimeters",
+            "file": "03 - Kilometers to decimeters.txt"
+        },
+        {
+            "name": "Kilometers to millimeters",
+            "alphanumName": "KilometersToMillimeters",
+            "file": "04 - Kilometers to millimeters.txt"
+        },
+        {
+            "name": "Meters to centimeters",
+            "alphanumName": "MetersToCentimeters",
+            "file": "05 - Meters to centimeters.txt"
+        },
+        {
+            "name": "Meters to millimeters",
+            "alphanumName": "MetersToMillimeters",
+            "file": "06 - Meters to millimeters.txt"
+        },
+        {
+            "name": "Centimeters to millimeters",
+            "alphanumName": "CentimetersToMillimeters",
+            "file": "07 - Centimeters to millimeters.txt"
+        },
+        {
+            "name": "Decimeters to micrometers",
+            "alphanumName": "DecimetersToMicrometers",
+            "file": "08 - Decimeters to micrometers.txt"
+        },
+        {
+            "name": "Millimeters to micrometers",
+            "alphanumName": "MillimetersToMicrometers",
+            "file": "09 - Millimeters to micrometers.txt"
+        }
+    ]
+}
