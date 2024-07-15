@@ -1,0 +1,58 @@
+{
+    "path": "easy/BlackjackSolver",
+    "name": "Blackjack solver",
+    "alphanumName": "BlackjackSolver",
+    "link": "https://www.codingame.com/ide/puzzle/blackjack-solver",
+    "tests": [
+        {
+            "name": "No 10 cards",
+            "alphanumName": "No10Cards",
+            "file": "01 - No 10 cards.txt"
+        },
+        {
+            "name": "With 10 cards",
+            "alphanumName": "With10Cards",
+            "file": "02 - With 10 cards.txt"
+        },
+        {
+            "name": "Draw",
+            "alphanumName": "Draw",
+            "file": "03 - Draw.txt"
+        },
+        {
+            "name": "With Ace",
+            "alphanumName": "WithAce",
+            "file": "04 - With Ace.txt"
+        },
+        {
+            "name": "Too much",
+            "alphanumName": "TooMuch",
+            "file": "05 - Too much.txt"
+        },
+        {
+            "name": "Not too much with Ace",
+            "alphanumName": "NotTooMuchWithAce",
+            "file": "06 - Not too much with Ace.txt"
+        },
+        {
+            "name": "Blackjack!",
+            "alphanumName": "Blackjack",
+            "file": "07 - Blackjack!.txt"
+        },
+        {
+            "name": "Blackjack draw",
+            "alphanumName": "BlackjackDraw",
+            "file": "08 - Blackjack draw.txt"
+        },
+        {
+            "name": "Multiple Aces",
+            "alphanumName": "MultipleAces",
+            "file": "09 - Multiple Aces.txt"
+        },
+        {
+            "name": "Both too much",
+            "alphanumName": "BothTooMuch",
+            "file": "10 - Both too much.txt"
+        }
+    ]
+}
