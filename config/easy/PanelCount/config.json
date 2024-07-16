@@ -1,0 +1,48 @@
+{
+    "path": "easy/PanelCount",
+    "name": "Panel count",
+    "alphanumName": "PanelCount",
+    "link": "https://www.codingame.com/ide/puzzle/panel-count",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Only one property",
+            "alphanumName": "OnlyOneProperty",
+            "file": "02 - Only one property.txt"
+        },
+        {
+            "name": "Several properties",
+            "alphanumName": "SeveralProperties",
+            "file": "03 - Several properties.txt"
+        },
+        {
+            "name": "More complex formula",
+            "alphanumName": "MoreComplexFormula",
+            "file": "04 - More complex formula.txt"
+        },
+        {
+            "name": "Unknown property",
+            "alphanumName": "UnknownProperty",
+            "file": "05 - Unknown property.txt"
+        },
+        {
+            "name": "No one",
+            "alphanumName": "NoOne",
+            "file": "06 - No one.txt"
+        },
+        {
+            "name": "More persons",
+            "alphanumName": "MorePersons",
+            "file": "07 - More persons.txt"
+        },
+        {
+            "name": "Formulas repeating",
+            "alphanumName": "FormulasRepeating",
+            "file": "08 - Formulas repeating.txt"
+        }
+    ]
+}
