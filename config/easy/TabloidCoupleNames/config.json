@@ -1,0 +1,128 @@
+{
+    "path": "easy/TabloidCoupleNames",
+    "name": "Tabloid Couple-Names 💕",
+    "alphanumName": "TabloidCoupleNames",
+    "link": "https://www.codingame.com/ide/puzzle/tabloid-couple-names",
+    "tests": [
+        {
+            "name": "Classics (Test 1)",
+            "alphanumName": "Classics",
+            "file": "01 - Classics.txt"
+        },
+        {
+            "name": "You have options (Test 2)",
+            "alphanumName": "YouHaveOptions",
+            "file": "02 - You have options.txt"
+        },
+        {
+            "name": "Lots of Options (Test 3)",
+            "alphanumName": "LotsOfOptions",
+            "file": "03 - Lots of Options.txt"
+        },
+        {
+            "name": "Is that really your person (Test 4)",
+            "alphanumName": "IsThatReallyYourPerson",
+            "file": "04 - Is that really your person.txt"
+        },
+        {
+            "name": "Fun Couples (Test 5)",
+            "alphanumName": "FunCouples",
+            "file": "05 - Fun Couples.txt"
+        },
+        {
+            "name": "Test 6",
+            "alphanumName": "test6",
+            "file": "06 - test 6.txt"
+        },
+        {
+            "name": "Test 7",
+            "alphanumName": "test7",
+            "file": "07 - test 7.txt"
+        },
+        {
+            "name": "Test 8",
+            "alphanumName": "test8",
+            "file": "08 - test 8.txt"
+        },
+        {
+            "name": "Test 9",
+            "alphanumName": "test9",
+            "file": "09 - test 9.txt"
+        },
+        {
+            "name": "Three-Overlap-Letters (Test 10)",
+            "alphanumName": "ThreeOverlapLetters",
+            "file": "10 - Three-Overlap-Letters.txt"
+        },
+        {
+            "name": "Test 11",
+            "alphanumName": "test11",
+            "file": "11 - test 11.txt"
+        },
+        {
+            "name": "Test 12",
+            "alphanumName": "test12",
+            "file": "12 - test 12.txt"
+        },
+        {
+            "name": "Test 13",
+            "alphanumName": "test13",
+            "file": "13 - test 13.txt"
+        },
+        {
+            "name": "Carrie Bradshaw Plus 1 (Test 14)",
+            "alphanumName": "CarrieBradshawPlus1",
+            "file": "14 - Carrie Bradshaw Plus 1.txt"
+        },
+        {
+            "name": "Test 15",
+            "alphanumName": "test15",
+            "file": "15 - test 15.txt"
+        },
+        {
+            "name": "Test 16",
+            "alphanumName": "test16",
+            "file": "16 - test 16.txt"
+        },
+        {
+            "name": "Test 17",
+            "alphanumName": "test17",
+            "file": "17 - test 17.txt"
+        },
+        {
+            "name": "So many options (Test 17)",
+            "alphanumName": "SoManyOptions",
+            "file": "18 - So many options.txt"
+        },
+        {
+            "name": "Test 19",
+            "alphanumName": "test19",
+            "file": "19 - test 19.txt"
+        },
+        {
+            "name": "Musical (Test 20)",
+            "alphanumName": "Musical",
+            "file": "20 - Musical.txt"
+        },
+        {
+            "name": "Scandalous (Test 21)",
+            "alphanumName": "Scandalous",
+            "file": "21 - Scandalous.txt"
+        },
+        {
+            "name": "OITNB and L-Word (Test 22)",
+            "alphanumName": "OITNBandLWord",
+            "file": "22 - OITNB and L-Word.txt"
+        },
+        {
+            "name": "So much overlap (Test 23)",
+            "alphanumName": "SoMuchOverlap",
+            "file": "23 - So much overlap.txt"
+        },
+        {
+            "name": "I am not Us (Test 24)",
+            "alphanumName": "IAmNotUs",
+            "file": "24 - I am not Us.txt"
+        }
+    ]
+}

@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Blackjack solver".
 - configuration for "Panel count".
 - configuration for "The weight of words".
+- configuration for "Tabloid Couple-Names 💕".
 
 ## [1.3.0] - 2024-06-30
 ### Added
