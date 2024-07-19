@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - alphanumName configuration for "Folding a Note".
+- alphanumName configuration for "Near-Palindromes".
 
 ## [1.3.0] - 2024-06-30
 ### Added
