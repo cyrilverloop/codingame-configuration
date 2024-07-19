@@ -1,0 +1,43 @@
+{
+    "path": "easy/MessedUpMosaics",
+    "name": "Messed up mosaics",
+    "alphanumName": "MessedUpMosaics",
+    "link": "https://www.codingame.com/ide/puzzle/messed-up-mosaics",
+    "tests": [
+        {
+            "name": "Small mosaic",
+            "alphanumName": "SmallMosaic",
+            "file": "01 - Small mosaic.txt"
+        },
+        {
+            "name": "2-tiles pattern, aligned",
+            "alphanumName": "twoTilesPatternAligned",
+            "file": "02 - 2-tiles pattern, aligned.txt"
+        },
+        {
+            "name": "2-tiles pattern, staggered",
+            "alphanumName": "twoTilesPatternStaggered",
+            "file": "03 - 2-tiles pattern, staggered.txt"
+        },
+        {
+            "name": "4-tiles pattern, aligned",
+            "alphanumName": "fourTilesPatternAligned",
+            "file": "04 - 4-tiles pattern, aligned.txt"
+        },
+        {
+            "name": "6-tiles pattern, staggered",
+            "alphanumName": "sixTilesPatternStaggered",
+            "file": "05 - 6-tiles pattern, staggered.txt"
+        },
+        {
+            "name": "Stagger Fever",
+            "alphanumName": "StaggerFever",
+            "file": "06 - Stagger Fever.txt"
+        },
+        {
+            "name": "Wavy pattern",
+            "alphanumName": "WavyPattern",
+            "file": "07 - Wavy pattern.txt"
+        }
+    ]
+}
