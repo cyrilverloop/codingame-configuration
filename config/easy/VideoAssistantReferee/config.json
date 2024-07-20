@@ -1,0 +1,73 @@
+{
+    "path": "easy/VideoAssistantReferee",
+    "name": "Video Assistant Referee",
+    "alphanumName": "VideoAssistantReferee",
+    "link": "https://www.codingame.com/ide/puzzle/video-assistant-referee",
+    "tests": [
+        {
+            "name": "#1: Lev Yashin, the goalkeeper",
+            "alphanumName": "LevYashinTheGoalkeeper",
+            "file": "01 - Lev Yashin, the goalkeeper.txt"
+        },
+        {
+            "name": "#2: Cafu, the Right Back",
+            "alphanumName": "CafuTheRightBack",
+            "file": "02 - Cafu, the Right Back.txt"
+        },
+        {
+            "name": "#3: Marcelo / Roberto Carlos, the Left Back",
+            "alphanumName": "MarceloRobertoCarlosTheLeftBack",
+            "file": "03 - Marcelo Roberto Carlos, the Left Back.txt"
+        },
+        {
+            "name": "#4: Sergio Ramos, the Center Back",
+            "alphanumName": "SergioRamosTheCenterBack",
+            "file": "04 - Sergio Ramos, the Center Back.txt"
+        },
+        {
+            "name": "#5: Beckenbauer, der Kaiser, the Libéro",
+            "alphanumName": "BeckenbauerDerKaiserTheLibero",
+            "file": "05 - Beckenbauer, der Kaiser, the Libéro.txt"
+        },
+        {
+            "name": "#6: Sergio Busquets, The Defensive Midfielder",
+            "alphanumName": "SergioBusquetsTheDefensiveMidfielder",
+            "file": "06 - Sergio Busquets, The Defensive Midfielder.txt"
+        },
+        {
+            "name": "#7: CR7, Raul, Emilio Butragueño",
+            "alphanumName": "CR7RaulEmilioButragueno",
+            "file": "07 - CR7, Raul, Emilio Butragueño.txt"
+        },
+        {
+            "name": "#8: Don Alfredo (Di Stéfano), Johan Cruyff, Zizou",
+            "alphanumName": "DonAlfredoDiStefanoJohanCruyffZizou",
+            "file": "08 - Don Alfredo (Di Stéfano), Johan Cruyff, Zizou.txt"
+        },
+        {
+            "name": "#9: Karim Benzema",
+            "alphanumName": "KarimBenzema",
+            "file": "09 - Karim Benzema.txt"
+        },
+        {
+            "name": "#10: Pelé, Messi, Maradona, Modric",
+            "alphanumName": "PeleMessiMaradonaModric",
+            "file": "10 - Pelé, Messi, Maradona, Modric.txt"
+        },
+        {
+            "name": "#11: Romario, Salah, Ribery, the Second Striker / Wing Forward",
+            "alphanumName": "RomarioSalahRiberyTheSecondStrikerWingForward",
+            "file": "11 - Romario, Salah, Ribery, the Second Striker Wing Forward.txt"
+        },
+        {
+            "name": "#12: The fans, the Ultras, aka the 12th man!",
+            "alphanumName": "TheFansTheUltrasAkaThe12thMan",
+            "file": "12 - The fans, the Ultras, aka the 12th man!.txt"
+        },
+        {
+            "name": "#13: Ted Lasso, the Coach, the Manager",
+            "alphanumName": "TedLassoTheCoachTheManager",
+            "file": "13 - Ted Lasso, the Coach, the Manager.txt"
+        }
+    ]
+}

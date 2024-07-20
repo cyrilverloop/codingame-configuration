@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The weight of words".
 - configuration for "Tabloid Couple-Names 💕".
 - configuration for "Messed up mosaics".
+- configuration for "Video Assistant Referee".
 
 ### Fixed
 - alphanumName configuration for "Folding a Note".
