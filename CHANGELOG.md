@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Tabloid Couple-Names 💕".
 - configuration for "Messed up mosaics".
 - configuration for "Video Assistant Referee".
+- configuration for "Ulam Spiral".
 
 ### Fixed
 - alphanumName configuration for "Folding a Note".

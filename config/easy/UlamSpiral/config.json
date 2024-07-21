@@ -1,0 +1,28 @@
+{
+    "path": "easy/UlamSpiral",
+    "name": "Ulam Spiral",
+    "alphanumName": "UlamSpiral",
+    "link": "https://www.codingame.com/ide/puzzle/ulam-spiral",
+    "tests": [
+        {
+            "name": "N=3",
+            "alphanumName": "N3",
+            "file": "01 - N=3.txt"
+        },
+        {
+            "name": "N=9",
+            "alphanumName": "N9",
+            "file": "02 - N=9.txt"
+        },
+        {
+            "name": "N=15",
+            "alphanumName": "N15",
+            "file": "03 - N=15.txt"
+        },
+        {
+            "name": "N=21",
+            "alphanumName": "N21",
+            "file": "04 - N=21.txt"
+        }
+    ]
+}
