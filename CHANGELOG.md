@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Messed up mosaics".
 - configuration for "Video Assistant Referee".
 - configuration for "Ulam Spiral".
+- configuration for "The leaking bathtub".
 
 ### Fixed
 - alphanumName configuration for "Folding a Note".

@@ -1,0 +1,33 @@
+{
+    "path": "easy/TheLeakingBathtub",
+    "name": "The leaking bathtub",
+    "alphanumName": "TheLeakingBathtub",
+    "link": "https://www.codingame.com/ide/puzzle/the-leaking-bathtub",
+    "tests": [
+        {
+            "name": "Standard bathtub",
+            "alphanumName": "StandardBathtub",
+            "file": "01 - Standard bathtub.txt"
+        },
+        {
+            "name": "More leaks",
+            "alphanumName": "MoreLeaks",
+            "file": "02 - More leaks.txt"
+        },
+        {
+            "name": "Unfillable bathtub",
+            "alphanumName": "UnfillableBathtub",
+            "file": "03 - Unfillable bathtub.txt"
+        },
+        {
+            "name": "No leak",
+            "alphanumName": "NoLeak",
+            "file": "04 - No leak.txt"
+        },
+        {
+            "name": "Olympic swimming pool",
+            "alphanumName": "OlympicSwimmingPool",
+            "file": "05 - Olympic swimming pool.txt"
+        }
+    ]
+}
