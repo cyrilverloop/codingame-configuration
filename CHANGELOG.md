@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Ulam Spiral".
 - configuration for "The leaking bathtub".
 - configuration for "Mirrors".
+- configuration for "Snake Sort 2D".
 
 ### Fixed
 - alphanumName configuration for "Folding a Note".
