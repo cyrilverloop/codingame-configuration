@@ -1,0 +1,83 @@
+{
+    "path": "easy/MakeAnAtariFont",
+    "name": "Make an Atari Font",
+    "alphanumName": "MakeAnAtariFont",
+    "link": "https://www.codingame.com/ide/puzzle/make-an-atari-font",
+    "tests": [
+        {
+            "name": "ABC Test 1",
+            "alphanumName": "ABCTest1",
+            "file": "01 - ABC.txt"
+        },
+        {
+            "name": "QXYZ Test 2",
+            "alphanumName": "QXYZTest2",
+            "file": "02 - QXYZ.txt"
+        },
+        {
+            "name": "HELLO Test 3",
+            "alphanumName": "HELLO",
+            "file": "03 - HELLO.txt"
+        },
+        {
+            "name": "WORLD Test 4",
+            "alphanumName": "WORLD",
+            "file": "04 - WORLD.txt"
+        },
+        {
+            "name": "A Test 5",
+            "alphanumName": "A",
+            "file": "05 - A.txt"
+        },
+        {
+            "name": "QUICK Test 6",
+            "alphanumName": "QUICK",
+            "file": "06 - QUICK.txt"
+        },
+        {
+            "name": "BROWN Test 7",
+            "alphanumName": "BROWN",
+            "file": "07 - BROWN.txt"
+        },
+        {
+            "name": "FOX Test 8",
+            "alphanumName": "FOX",
+            "file": "08 - FOX.txt"
+        },
+        {
+            "name": "JUMPS Test 9",
+            "alphanumName": "JUMPS",
+            "file": "09 - JUMPS.txt"
+        },
+        {
+            "name": "OVER Test 10",
+            "alphanumName": "OVER",
+            "file": "10 - OVER.txt"
+        },
+        {
+            "name": "THE Test 11",
+            "alphanumName": "THE",
+            "file": "11 - THE.txt"
+        },
+        {
+            "name": "LAZY Test 12",
+            "alphanumName": "LAZY",
+            "file": "12 - LAZY.txt"
+        },
+        {
+            "name": "DOG Test 13",
+            "alphanumName": "DOG",
+            "file": "13 - DOG.txt"
+        },
+        {
+            "name": "ATARI Test 14",
+            "alphanumName": "ATARI",
+            "file": "14 - ATARI.txt"
+        },
+        {
+            "name": "CODINGAME Test 15",
+            "alphanumName": "CODINGAME",
+            "file": "15 - CODINGAME.txt"
+        }
+    ]
+}

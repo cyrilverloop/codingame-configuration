@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The leaking bathtub".
 - configuration for "Mirrors".
 - configuration for "Snake Sort 2D".
+- configuration for "Make an Atari Font".
 
 ### Fixed
 - alphanumName configuration for "Folding a Note".
