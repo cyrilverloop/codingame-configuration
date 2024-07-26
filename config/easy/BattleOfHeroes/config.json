@@ -1,0 +1,33 @@
+{
+    "path": "easy/BattleOfHeroes",
+    "name": "Battle of Heroes",
+    "alphanumName": "BattleOfHeroes",
+    "link": "https://www.codingame.com/ide/puzzle/battle-of-heroes",
+    "tests": [
+        {
+            "name": "Minotaur vs. Unicorn",
+            "alphanumName": "MinotaurVsUnicorn",
+            "file": "01 - Minotaur vs. Unicorn.txt"
+        },
+        {
+            "name": "Flawless victory!",
+            "alphanumName": "FlawlessVictory",
+            "file": "02 - Flawless victory!.txt"
+        },
+        {
+            "name": "Range battle",
+            "alphanumName": "RangeBattle",
+            "file": "03 - Range battle.txt"
+        },
+        {
+            "name": "Rebel scum",
+            "alphanumName": "RebelScum",
+            "file": "04 - Rebel scum.txt"
+        },
+        {
+            "name": "Deadly strike-back",
+            "alphanumName": "DeadlyStrikeBack",
+            "file": "05 - Deadly strike-back.txt"
+        }
+    ]
+}
