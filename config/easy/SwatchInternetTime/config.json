@@ -1,0 +1,58 @@
+{
+    "path": "easy/SwatchInternetTime",
+    "name": "Swatch Internet Time",
+    "alphanumName": "SwatchInternetTime",
+    "link": "https://www.codingame.com/ide/puzzle/swatch-internet-time",
+    "tests": [
+        {
+            "name": "At UTC+01:00",
+            "alphanumName": "AtUTC0100",
+            "file": "01 - At UTC+0100.txt"
+        },
+        {
+            "name": "At UTC+01:00, with decimals",
+            "alphanumName": "AtUTC0100WithDecimals",
+            "file": "02 - At UTC+0100, with decimals.txt"
+        },
+        {
+            "name": "At other positive timezones",
+            "alphanumName": "AtOtherPositiveTimezones",
+            "file": "03 - At other positive timezones.txt"
+        },
+        {
+            "name": "At negative timezones",
+            "alphanumName": "AtNegativeTimezones",
+            "file": "04 - At negative timezones.txt"
+        },
+        {
+            "name": "At positive timezones with minutes",
+            "alphanumName": "AtPositiveTimezonesWithMinutes",
+            "file": "05 - At positive timezones with minutes.txt"
+        },
+        {
+            "name": "At negative timezones with minutes",
+            "alphanumName": "AtNegativeTimezonesWithMinutes",
+            "file": "06 - At negative timezones with minutes.txt"
+        },
+        {
+            "name": "With half-up rounding (odd)",
+            "alphanumName": "WithHalfUpRoundingOdd",
+            "file": "07 - With half-up rounding (odd).txt"
+        },
+        {
+            "name": "With half-up rounding (even)",
+            "alphanumName": "WithHalfUpRoundingEven",
+            "file": "08 - With half-up rounding (even).txt"
+        },
+        {
+            "name": "Loop",
+            "alphanumName": "Loop",
+            "file": "09 - Loop.txt"
+        },
+        {
+            "name": "From Amsterdam with love",
+            "alphanumName": "FromAmsterdamWithLove",
+            "file": "10 - From Amsterdam with love.txt"
+        }
+    ]
+}
