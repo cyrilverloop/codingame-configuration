@@ -33,6 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Make an Atari Font".
 - configuration for "Battle of Heroes".
 - configuration for "Swatch Internet Time".
+- configuration for "Number Partition".
 
 ### Fixed
 - alphanumName configuration for "Folding a Note".
