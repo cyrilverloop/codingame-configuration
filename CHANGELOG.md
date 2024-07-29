@@ -34,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Battle of Heroes".
 - configuration for "Swatch Internet Time".
 - configuration for "Number Partition".
+- configuration for "anagram to break the code !".
 
 ### Fixed
 - alphanumName configuration for "Folding a Note".

@@ -1,0 +1,58 @@
+{
+    "path": "easy/AnagramToBreakTheCode",
+    "name": "anagram to break the code !",
+    "alphanumName": "AnagramToBreakTheCode",
+    "link": "https://www.codingame.com/ide/puzzle/anagram-to-break-the-code",
+    "tests": [
+        {
+            "name": "1) Sample",
+            "alphanumName": "Sample",
+            "file": "01 - Sample.txt"
+        },
+        {
+            "name": "2) 5 letters + punctuation mark",
+            "alphanumName": "FiveLettersPunctuationMark",
+            "file": "02 - 5 letters + punctuation mark.txt"
+        },
+        {
+            "name": "3) 4 letters + punctuation mark",
+            "alphanumName": "FourLettersPunctuationMark",
+            "file": "03 - 4 letters + punctuation mark.txt"
+        },
+        {
+            "name": "4) 7 letters + duplicate anagram",
+            "alphanumName": "SevenLettersDuplicateAnagram",
+            "file": "04 - 7 letters + duplicate anagram.txt"
+        },
+        {
+            "name": "5) impossible",
+            "alphanumName": "impossible",
+            "file": "05 - impossible.txt"
+        },
+        {
+            "name": "6) 8 letters + case sensitives anagram",
+            "alphanumName": "EightLettersCaseSensitivesAnagram",
+            "file": "06 - 8 letters + case sensitives anagram.txt"
+        },
+        {
+            "name": "7) 9 letters + the key + 1 anagram in same sentence",
+            "alphanumName": "NineLettersTheKey1AnagramInSameSentence",
+            "file": "07 - 9 letters + the key + 1 anagram in same sentence.txt"
+        },
+        {
+            "name": "8) random words no sense",
+            "alphanumName": "RandomWordsNoSense",
+            "file": "08 - random words no sense.txt"
+        },
+        {
+            "name": "9) no word before anagram",
+            "alphanumName": "NoWordBeforeAnagram",
+            "file": "09 - no word before anagram.txt"
+        },
+        {
+            "name": "10) no word after key",
+            "alphanumName": "NoWordAfterKey",
+            "file": "10 - no word after key.txt"
+        }
+    ]
+}
