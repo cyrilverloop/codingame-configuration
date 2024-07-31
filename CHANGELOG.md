@@ -36,6 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Number Partition".
 - configuration for "anagram to break the code !".
 - configuration for "Vectors in variables dimensions".
+- configuration for "Another Road Construction Site - 1".
 
 ### Fixed
 - alphanumName configuration for "Folding a Note".

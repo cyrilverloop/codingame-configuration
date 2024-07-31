@@ -1,0 +1,28 @@
+{
+    "path": "easy/AnotherRoadConstructionSite1",
+    "name": "Another Road Construction Site - 1",
+    "alphanumName": "AnotherRoadConstructionSite1",
+    "link": "https://www.codingame.com/ide/puzzle/another-road-construction-site---1",
+    "tests": [
+        {
+            "name": "Little annoyance",
+            "alphanumName": "LittleAnnoyance",
+            "file": "01 - Little annoyance.txt"
+        },
+        {
+            "name": "Like stopping for a coffee",
+            "alphanumName": "LikeStoppingForACoffee",
+            "file": "02 - Like stopping for a coffee.txt"
+        },
+        {
+            "name": "Cote d‘Azur",
+            "alphanumName": "CoteDAzur",
+            "file": "03 - Cote d‘Azur.txt"
+        },
+        {
+            "name": "Genova - Roma",
+            "alphanumName": "GenovaRoma",
+            "file": "04 - Genova - Roma.txt"
+        }
+    ]
+}
