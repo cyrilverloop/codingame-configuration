@@ -38,11 +38,6 @@
             "name": "CodingGame",
             "alphanumName": "CodingGame",
             "file": "07 - CodingGame.txt"
-        },
-        {
-            "name": "Pointless",
-            "alphanumName": "Pointless",
-            "file": "08 - Pointless.txt"
         }
     ]
 }
