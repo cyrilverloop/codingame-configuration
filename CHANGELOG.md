@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - single quotes in puzzle name "Create ‘Turn Here’ Signs".
 - double configuraton for "Kangaroo words".
 - double configuraton for "NATO-alphabet’s odd uncles".
+- space in alphanumName for "Should Bakers be Frugal?".
 
 ## [1.4.0] - 2024-07-31
 ### Added
