@@ -1,6 +1,6 @@
 {
     "path": "easy/CreateTurnHereSigns",
-    "name": "Create 'Turn Here‘ Signs",
+    "name": "Create ‘Turn Here’ Signs",
     "alphanumName": "createTurnHereSigns",
     "link": "https://www.codingame.com/ide/puzzle/create-turn-here-signs",
     "tests": [

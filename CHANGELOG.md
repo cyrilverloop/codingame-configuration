@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+### Fixed
+- single quotes in puzzle name "Create ‘Turn Here’ Signs".
+
 ## [1.4.0] - 2024-07-31
 ### Added
 - configuration for "Periodic table spelling".
@@ -47,7 +51,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Six Degrees of Kevin Bacon".
 - configuration for "Triangle Toggle".
 - configuration for "Zeckendorf representation, part I".
-- configuration for "Create 'Turn Here‘ Signs".
+- configuration for "Create ‘Turn Here’ Signs".
 - configuration for "Escape the madness".
 - configuration for "ASCII Art The Drunken Bishop Algorithm".
 - configuration for "abcdefghijklmnopqrstuvwxyz".
