@@ -1,0 +1,38 @@
+{
+    "path": "easy/HowHighUpDoesTheBeerGo",
+    "name": "How high up does the beer go?",
+    "alphanumName": "HowHighUpDoesTheBeerGo",
+    "link": "https://www.codingame.com/ide/puzzle/how-high-up-does-the-beer-go",
+    "tests": [
+        {
+            "name": "Test 1 - basic pint glass",
+            "alphanumName": "Test1BasicPintGlass",
+            "file": "01 - basic pint glass.txt"
+        },
+        {
+            "name": "Test 2 - a tall skinny drink",
+            "alphanumName": "Test2ATallSkinnyDrink",
+            "file": "02 - a tall skinny drink.txt"
+        },
+        {
+            "name": "Test 3 - that glass has a wide lip!",
+            "alphanumName": "Test3ThatGlassHasAWideLip",
+            "file": "03 - that glass has a wide lip!.txt"
+        },
+        {
+            "name": "Test 4 - Chug a lug, Donna",
+            "alphanumName": "Test4ChugALugDonna",
+            "file": "04 - Chug a lug, Donna.txt"
+        },
+        {
+            "name": "Test 5 - I’m going to go lay down now",
+            "alphanumName": "Test5ImGoingToGoLayDownNow",
+            "file": "05 - I’m going to go lay down now.txt"
+        },
+        {
+            "name": "Test 6 - I’ll just have a sip",
+            "alphanumName": "Test6IllJustHaveASip",
+            "file": "06 - I’ll just have a sip.txt"
+        }
+    ]
+}
