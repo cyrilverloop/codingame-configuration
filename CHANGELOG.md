@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Interstellar".
 - configuration for "How high up does the beer go?".
+- configuration for "Match DNA Sequence".
 
 ## [1.4.1] - 2024-07-31
 ### Fixed

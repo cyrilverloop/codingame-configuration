@@ -1,0 +1,28 @@
+{
+    "path": "easy/MatchDNASequence",
+    "name": "Match DNA Sequence",
+    "alphanumName": "MatchDNASequence",
+    "link": "https://www.codingame.com/ide/puzzle/match-dna-sequence",
+    "tests": [
+        {
+            "name": "1. Exact Match - Easy",
+            "alphanumName": "ExactMatchEasy",
+            "file": "01 - Exact Match - Easy.txt"
+        },
+        {
+            "name": "2. No Match",
+            "alphanumName": "NoMatch",
+            "file": "02 - No Match.txt"
+        },
+        {
+            "name": "3. Many Lines, inexact match",
+            "alphanumName": "ManyLinesInexactMatch",
+            "file": "03 - Many Lines, inexact match.txt"
+        },
+        {
+            "name": "4. Overflow",
+            "alphanumName": "Overflow",
+            "file": "04 - Overflow.txt"
+        }
+    ]
+}
