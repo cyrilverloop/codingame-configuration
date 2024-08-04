@@ -1,0 +1,33 @@
+{
+    "path": "easy/BlendingColors",
+    "name": "Blending Colors",
+    "alphanumName": "BlendingColors",
+    "link": "https://www.codingame.com/ide/puzzle/blending-colors",
+    "tests": [
+        {
+            "name": "RGB",
+            "alphanumName": "RGB",
+            "file": "01 - RGB.txt"
+        },
+        {
+            "name": "CMY",
+            "alphanumName": "CMY",
+            "file": "02 - CMY.txt"
+        },
+        {
+            "name": "All colors",
+            "alphanumName": "AllColors",
+            "file": "03 - All colors.txt"
+        },
+        {
+            "name": "Concentric",
+            "alphanumName": "Concentric",
+            "file": "04 - Concentric.txt"
+        },
+        {
+            "name": "Big Canvas",
+            "alphanumName": "Big Canvas",
+            "file": "05 - BigCanvas.txt"
+        }
+    ]
+}
