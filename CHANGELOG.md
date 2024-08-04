@@ -11,6 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Match DNA Sequence".
 - configuration for "Blending Colors".
 
+### Fixed
+- output of test 4 for "Graffiti on the fence".
+
 ## [1.4.1] - 2024-07-31
 ### Fixed
 - single quotes in puzzle name "Create ‘Turn Here’ Signs".
