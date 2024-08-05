@@ -1,0 +1,48 @@
+{
+    "path": "easy/NumberFormatting",
+    "name": "Number formatting",
+    "alphanumName": "NumberFormatting",
+    "link": "https://www.codingame.com/ide/puzzle/number-formatting",
+    "tests": [
+        {
+            "name": "Only digits",
+            "alphanumName": "OnlyDigits",
+            "file": "01 - Only digits.txt"
+        },
+        {
+            "name": "Same number of digits",
+            "alphanumName": "SameNumberOfDigits",
+            "file": "02 - Same number of digits.txt"
+        },
+        {
+            "name": "Integer",
+            "alphanumName": "Integer",
+            "file": "03 - Integer.txt"
+        },
+        {
+            "name": "Right side shift",
+            "alphanumName": "RightSideShift",
+            "file": "04 - Right side shift.txt"
+        },
+        {
+            "name": "Up to the last",
+            "alphanumName": "UpToTheLast",
+            "file": "05 - Up to the last.txt"
+        },
+        {
+            "name": "Both sides shift",
+            "alphanumName": "BothSidesShift",
+            "file": "06 - Both sides shift.txt"
+        },
+        {
+            "name": "One",
+            "alphanumName": "One",
+            "file": "07 - One.txt"
+        },
+        {
+            "name": "Zero",
+            "alphanumName": "Zero",
+            "file": "08 - Zero.txt"
+        }
+    ]
+}
