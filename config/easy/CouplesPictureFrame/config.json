@@ -1,0 +1,108 @@
+{
+    "path": "easy/CouplesPictureFrame",
+    "name": "Couple’s Picture-Frame",
+    "alphanumName": "CouplesPictureFrame",
+    "link": "https://www.codingame.com/ide/puzzle/couples-picture-frame",
+    "tests": [
+        {
+            "name": "Same Length - Test 1",
+            "alphanumName": "SameLengthTest1",
+            "file": "01 - Same Length.txt"
+        },
+        {
+            "name": "wife is twice husband - Test 2",
+            "alphanumName": "wifeIsTwiceHusbandTest2",
+            "file": "02 - wife is twice husband.txt"
+        },
+        {
+            "name": "husband is twice wife - Test 3",
+            "alphanumName": "husbandIsTwiceWifeTest3",
+            "file": "03 - husband is twice wife.txt"
+        },
+        {
+            "name": "husband is 3x wife - Test 4",
+            "alphanumName": "husbandIs3xWifeTest4",
+            "file": "04 - husband is 3x wife.txt"
+        },
+        {
+            "name": "wife is 3x husband - Test 5",
+            "alphanumName": "wifeIs3xHusbandTest5",
+            "file": "05 - wife is 3x husband.txt"
+        },
+        {
+            "name": "gcf is 1 - Test 6",
+            "alphanumName": "gcfIs1Test6",
+            "file": "06 - gcf is 1.txt"
+        },
+        {
+            "name": "gcf is 2, wife is longer - Test 7",
+            "alphanumName": "gcfIs2WifeIsLongerTest7",
+            "file": "07 - gcf is 2, wife is longer.txt"
+        },
+        {
+            "name": "gcf is 2, wife is shorter - Test 8",
+            "alphanumName": "gcfIs2WifeIsShorterTest8",
+            "file": "08 - gcf is 2, wife is shorter.txt"
+        },
+        {
+            "name": "multiples of 3, wife is longer - Test 9",
+            "alphanumName": "multiplesOf3WifeIsLongerTest9",
+            "file": "09 - multiples of 3, wife is longer.txt"
+        },
+        {
+            "name": "multiples of 3, wife is shorter - Test 10",
+            "alphanumName": "multiplesOf3WifeIsShorterTest10",
+            "file": "10 - multiples of 3, wife is shorter.txt"
+        },
+        {
+            "name": "more random cases - Test 11",
+            "alphanumName": "moreRandomCasesTest11",
+            "file": "11 - more random cases.txt"
+        },
+        {
+            "name": "Test 12",
+            "alphanumName": "Test12",
+            "file": "12 - test 12.txt"
+        },
+        {
+            "name": "Test 13",
+            "alphanumName": "test13",
+            "file": "13 - test 13.txt"
+        },
+        {
+            "name": "Test 14",
+            "alphanumName": "test14",
+            "file": "14 - test 14.txt"
+        },
+        {
+            "name": "Test 15",
+            "alphanumName": "test15",
+            "file": "15 - test 15.txt"
+        },
+        {
+            "name": "Test 16",
+            "alphanumName": "test16",
+            "file": "16 - test 16.txt"
+        },
+        {
+            "name": "Test 17",
+            "alphanumName": "test17",
+            "file": "17 - test 17.txt"
+        },
+        {
+            "name": "Test 18",
+            "alphanumName": "test18",
+            "file": "18 - test 18.txt"
+        },
+        {
+            "name": "Test 19",
+            "alphanumName": "test19",
+            "file": "19 - test 19.txt"
+        },
+        {
+            "name": "Test 20",
+            "alphanumName": "test20",
+            "file": "20 - test 20.txt"
+        }
+    ]
+}

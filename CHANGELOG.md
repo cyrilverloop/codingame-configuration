@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Blending Colors".
 - configuration of test 14 for "Graffiti on the fence".
 - configuration for "Number formatting".
+- configuration for "Couple’s Picture-Frame".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".
