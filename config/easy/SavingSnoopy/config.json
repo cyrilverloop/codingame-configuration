@@ -1,0 +1,28 @@
+{
+    "path": "easy/SavingSnoopy",
+    "name": "Saving Snoopy",
+    "alphanumName": "SavingSnoopy",
+    "link": "https://www.codingame.com/ide/puzzle/saving-snoopy",
+    "tests": [
+        {
+            "name": "Welcome Message",
+            "alphanumName": "WelcomeMessage",
+            "file": "01 - Welcome Message.txt"
+        },
+        {
+            "name": "Urgent Message",
+            "alphanumName": "UrgentMessage",
+            "file": "02 - Urgent Message.txt"
+        },
+        {
+            "name": "Yet Another Urgent Message",
+            "alphanumName": "YetAnotherUrgentMessage",
+            "file": "03 - Yet Another Urgent Message.txt"
+        },
+        {
+            "name": "Final Message",
+            "alphanumName": "Final Message",
+            "file": "04 - Final Message.txt"
+        }
+    ]
+}

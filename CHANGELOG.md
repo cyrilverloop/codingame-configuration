@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Number formatting".
 - configuration for "Couple’s Picture-Frame".
 - configuration for "Character replacement problem".
+- configuration for "Saving Snoopy".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".
