@@ -1,0 +1,133 @@
+{
+    "path": "easy/TileAFloorDifferently",
+    "name": "Tile a Floor Differently",
+    "alphanumName": "TileAFloorDifferently",
+    "link": "https://www.codingame.com/ide/puzzle/tile-a-floor-differently",
+    "tests": [
+        {
+            "name": "Slash and b - Test 1",
+            "alphanumName": "SlashAndBTest1",
+            "file": "01 - Slash and b.txt"
+        },
+        {
+            "name": "Both slashes and b - Test 2",
+            "alphanumName": "BothSlashesAndBTest2",
+            "file": "02 - Both slashes and b.txt"
+        },
+        {
+            "name": "Slash and d - Test 3",
+            "alphanumName": "SlashAndDTest3",
+            "file": "03 - Slash and d.txt"
+        },
+        {
+            "name": "Slashes and d - Test 4",
+            "alphanumName": "SlashesAndDTest4",
+            "file": "04 - Slashes and d.txt"
+        },
+        {
+            "name": "Slashes and p -Test 5",
+            "alphanumName": "SlashesAndPTest5",
+            "file": "05 - Slashes and p.txt"
+        },
+        {
+            "name": "Slashes and q - Test 6",
+            "alphanumName": "SlashesAndQTest6",
+            "file": "06 - Slashes and q.txt"
+        },
+        {
+            "name": "Letter combos b d - Test 7",
+            "alphanumName": "LetterCombosBDTest7",
+            "file": "07 - Letter combos b d.txt"
+        },
+        {
+            "name": "Letter combos d p - Test 8",
+            "alphanumName": "LetterCombosDPTest8",
+            "file": "08 - Letter combos d p.txt"
+        },
+        {
+            "name": "Letter combos p q Test 9",
+            "alphanumName": "LetterCombosPQTest9",
+            "file": "09 - Letter combos p q.txt"
+        },
+        {
+            "name": "Letter combos b q - Test 10",
+            "alphanumName": "LetterCombosBQTest10",
+            "file": "10 - Letter combos b q.txt"
+        },
+        {
+            "name": "Multiple Letters > 2 - Test 11",
+            "alphanumName": "MultipleLetters2Test11",
+            "file": "11 - Multiple Letters 2.txt"
+        },
+        {
+            "name": "Extra characters - Test 12",
+            "alphanumName": "ExtraCharactersTest12",
+            "file": "12 - Extra characters.txt"
+        },
+        {
+            "name": "Test 13",
+            "alphanumName": "test13",
+            "file": "13 - test 13.txt"
+        },
+        {
+            "name": "Test 14",
+            "alphanumName": "test14",
+            "file": "14 - test 14.txt"
+        },
+        {
+            "name": "Test 15",
+            "alphanumName": "test15",
+            "file": "15 - test 15.txt"
+        },
+        {
+            "name": "Test 16",
+            "alphanumName": "test16",
+            "file": "16 - test 16.txt"
+        },
+        {
+            "name": "Test 17",
+            "alphanumName": "test17",
+            "file": "17 - test 17.txt"
+        },
+        {
+            "name": "Test 18",
+            "alphanumName": "test18",
+            "file": "18 - test 18.txt"
+        },
+        {
+            "name": "Test 19",
+            "alphanumName": "test19",
+            "file": "19 - test 19.txt"
+        },
+        {
+            "name": "Test 20",
+            "alphanumName": "test20",
+            "file": "20 - test 20.txt"
+        },
+        {
+            "name": "Test 21",
+            "alphanumName": "test21",
+            "file": "21 - test 21.txt"
+        },
+        {
+            "name": "Test 22",
+            "alphanumName": "test22",
+            "file": "22 - test 22.txt"
+        },
+        {
+            "name": "Test 23",
+            "alphanumName": "test23",
+            "file": "23 - test 23.txt"
+        },
+        {
+            "name": "Test 24",
+            "alphanumName": "test24",
+            "file": "24 - test 24.txt"
+        },
+        {
+            "name": "Test 25",
+            "alphanumName": "test25",
+            "file": "25 - test 25.txt"
+        }
+    ]
+}
