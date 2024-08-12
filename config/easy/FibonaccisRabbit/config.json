@@ -1,0 +1,48 @@
+{
+    "path": "easy/FibonaccisRabbit",
+    "name": "Fibonacci’s Rabbit",
+    "alphanumName": "FibonaccisRabbit",
+    "link": "https://www.codingame.com/ide/puzzle/fibonaccis-rabbit",
+    "tests": [
+        {
+            "name": "Fibonacci’s Classic",
+            "alphanumName": "FibonaccisClassic",
+            "file": "01 - Fibonacci’s Classic.txt"
+        },
+        {
+            "name": "3rd Generation",
+            "alphanumName": "3rdGeneration",
+            "file": "02 - 3rd Generation.txt"
+        },
+        {
+            "name": "Old Rabbits",
+            "alphanumName": "OldRabbits",
+            "file": "03 - Old Rabbits.txt"
+        },
+        {
+            "name": "There’s no bunny",
+            "alphanumName": "TheresNoBunny",
+            "file": "04 - There’s no bunny.txt"
+        },
+        {
+            "name": "Birth Control",
+            "alphanumName": "BirthControl",
+            "file": "05 - Birth Control.txt"
+        },
+        {
+            "name": "Lots of Bunnies",
+            "alphanumName": "LotsOfBunnies",
+            "file": "06 - Lots of Bunnies.txt"
+        },
+        {
+            "name": "Test 7",
+            "alphanumName": "test7",
+            "file": "07 - test 7.txt"
+        },
+        {
+            "name": "Test 8",
+            "alphanumName": "test8",
+            "file": "08 - test 8.txt"
+        }
+    ]
+}
