@@ -1,0 +1,38 @@
+{
+    "path": "easy/HungerGames",
+    "name": "Hunger Games",
+    "alphanumName": "HungerGames",
+    "link": "https://www.codingame.com/ide/puzzle/hunger-games",
+    "tests": [
+        {
+            "name": "Test 1",
+            "alphanumName": "Test1",
+            "file": "01 - Test 1.txt"
+        },
+        {
+            "name": "A few more",
+            "alphanumName": "AFewMore",
+            "file": "02 - A few more.txt"
+        },
+        {
+            "name": "Serial Killers",
+            "alphanumName": "SerialKillers",
+            "file": "03 - Serial Killers.txt"
+        },
+        {
+            "name": "Line Killers",
+            "alphanumName": "LineKillers",
+            "file": "04 - Line Killers.txt"
+        },
+        {
+            "name": "Alphabetize Tributes",
+            "alphanumName": "AlphabetizeTributes",
+            "file": "05 - Alphabetize Tributes.txt"
+        },
+        {
+            "name": "Alphabize Victims",
+            "alphanumName": "AlphabizeVictims",
+            "file": "06 - Alphabize Victims.txt"
+        }
+    ]
+}
