@@ -1,0 +1,63 @@
+{
+    "path": "easy/CrazyList",
+    "name": "Crazy List",
+    "alphanumName": "CrazyList",
+    "link": "https://www.codingame.com/ide/puzzle/crazy-list",
+    "tests": [
+        {
+            "name": "Example 1",
+            "alphanumName": "Example1",
+            "file": "01 - Example 1.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "Example2",
+            "file": "02 - Example 2.txt"
+        },
+        {
+            "name": "A long list",
+            "alphanumName": "ALongList",
+            "file": "03 - A long list.txt"
+        },
+        {
+            "name": "A short list",
+            "alphanumName": "A short list",
+            "file": "04 - A short list.txt"
+        },
+        {
+            "name": "Be negative",
+            "alphanumName": "BeNegative",
+            "file": "05 - Be negative.txt"
+        },
+        {
+            "name": "Crazy negative",
+            "alphanumName": "CrazyNegative",
+            "file": "06 - Crazy negative.txt"
+        },
+        {
+            "name": "Full negative",
+            "alphanumName": "FullNegative",
+            "file": "07 - Full negative.txt"
+        },
+        {
+            "name": "Very short",
+            "alphanumName": "VeryShort",
+            "file": "08 - Very short.txt"
+        },
+        {
+            "name": "Zero ?",
+            "alphanumName": "Zero",
+            "file": "09 - Zero.txt"
+        },
+        {
+            "name": "Crazy",
+            "alphanumName": "Crazy",
+            "file": "10 - Crazy.txt"
+        },
+        {
+            "name": "Strange !",
+            "alphanumName": "Strange",
+            "file": "11 - Strange !.txt"
+        }
+    ]
+}
