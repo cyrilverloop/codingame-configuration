@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Fibonacci's Rabbit".
 - configuration for "Hunger Games".
 - configuration for "Crazy List".
+- configuration for "Popularity of each activity".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".
