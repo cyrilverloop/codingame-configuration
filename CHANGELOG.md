@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Popularity of each activity".
 - configuration for "deus Hex machina".
 - configuration for "Fix the networks".
+- configuration for "Score a Bridge deal".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".

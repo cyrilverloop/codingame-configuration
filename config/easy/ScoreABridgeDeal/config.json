@@ -1,0 +1,48 @@
+{
+    "path": "easy/ScoreABridgeDeal",
+    "name": "Score a Bridge deal",
+    "alphanumName": "ScoreABridgeDeal",
+    "link": "https://www.codingame.com/ide/puzzle/score-a-bridge-deal",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Winning a partial",
+            "alphanumName": "WinningAPartial",
+            "file": "02 - Winning a partial.txt"
+        },
+        {
+            "name": "Nobody’s interested",
+            "alphanumName": "NobodysInterested",
+            "file": "03 - Nobody’s interested.txt"
+        },
+        {
+            "name": "Going Down !",
+            "alphanumName": "GoingDown",
+            "file": "04 - Going Down !.txt"
+        },
+        {
+            "name": "Bonuses",
+            "alphanumName": "Bonuses",
+            "file": "05 - Bonuses.txt"
+        },
+        {
+            "name": "Doubling starts",
+            "alphanumName": "DoublingStarts",
+            "file": "06 - Doubling starts.txt"
+        },
+        {
+            "name": "Random 1",
+            "alphanumName": "Random1",
+            "file": "07 - Random 1.txt"
+        },
+        {
+            "name": "Random 2",
+            "alphanumName": "Random2",
+            "file": "08 - Random 2.txt"
+        }
+    ]
+}
