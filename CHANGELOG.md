@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Fix the networks".
 - configuration for "Score a Bridge deal".
 - configuration for "Agent X, Mission 1 — The Caesar Cipher".
+- configuration for "Duo combinations".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".

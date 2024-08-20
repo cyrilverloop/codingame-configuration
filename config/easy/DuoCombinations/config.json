@@ -1,0 +1,38 @@
+{
+    "path": "easy/DuoCombinations",
+    "name": "Duo combinations",
+    "alphanumName": "DuoCombinations",
+    "link": "https://www.codingame.com/ide/puzzle/duo-combinations",
+    "tests": [
+        {
+            "name": "Test 1: Basic",
+            "alphanumName": "test1Basic",
+            "file": "01 - Basic.txt"
+        },
+        {
+            "name": "Test 2: Couple of pairs",
+            "alphanumName": "test2CoupleOfPairs",
+            "file": "02 - Couple of pairs.txt"
+        },
+        {
+            "name": "Test 3: New symbols",
+            "alphanumName": "test3NewSymbols",
+            "file": "03 - New symbols.txt"
+        },
+        {
+            "name": "Test 4: Other symbols",
+            "alphanumName": "test4OtherSymbols",
+            "file": "04 - Other symbols.txt"
+        },
+        {
+            "name": "Test 5: More symbols",
+            "alphanumName": "test5MoreSymbols",
+            "file": "05 - More symbols.txt"
+        },
+        {
+            "name": "Test 6: Extended output",
+            "alphanumName": "test6ExtendedOutput",
+            "file": "06 - Extended output.txt"
+        }
+    ]
+}
