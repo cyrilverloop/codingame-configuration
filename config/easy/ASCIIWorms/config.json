@@ -1,0 +1,28 @@
+{
+    "path": "easy/ASCIIWorms",
+    "name": "ASCII Worms",
+    "alphanumName": "ASCIIWorms",
+    "link": "https://www.codingame.com/ide/puzzle/ascii-worms",
+    "tests": [
+        {
+            "name": "Just a normal worm",
+            "alphanumName": "JustANormalWorm",
+            "file": "01 - Just a normal worm.txt"
+        },
+        {
+            "name": "Tiny worm",
+            "alphanumName": "TinyWorm",
+            "file": "02 - Tiny worm.txt"
+        },
+        {
+            "name": "HUGE worm!",
+            "alphanumName": "HUGEWorm",
+            "file": "03 - HUGE worm!.txt"
+        },
+        {
+            "name": "Gives me scoleciphobia",
+            "alphanumName": "GivesMeScoleciphobia",
+            "file": "04 - Gives me scoleciphobia.txt"
+        }
+    ]
+}
