@@ -1,0 +1,43 @@
+{
+    "path": "easy/EuclidsAlgorithmWithComplexNumbers",
+    "name": "Euclid’s algorithm with complex numbers",
+    "alphanumName": "EuclidsAlgorithmWithComplexNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/euclids-algorithm-with-complex-numbers",
+    "tests": [
+        {
+            "name": "1. 2 is not prime",
+            "alphanumName": "isNotPrime",
+            "file": "01 - 2 is not prime.txt"
+        },
+        {
+            "name": "2. Random",
+            "alphanumName": "Random",
+            "file": "02 - Random.txt"
+        },
+        {
+            "name": "3. Don’t sort",
+            "alphanumName": "DontSort",
+            "file": "03 - Don’t sort.txt"
+        },
+        {
+            "name": "4. Rounding",
+            "alphanumName": "Rounding",
+            "file": "04 - Rounding.txt"
+        },
+        {
+            "name": "5. Big",
+            "alphanumName": "Big",
+            "file": "05 - Big.txt"
+        },
+        {
+            "name": "6. Bigger",
+            "alphanumName": "Bigger",
+            "file": "06 - Bigger.txt"
+        },
+        {
+            "name": "7. Care even rounding",
+            "alphanumName": "CareEvenRounding",
+            "file": "07 - Care even rounding.txt"
+        }
+    ]
+}

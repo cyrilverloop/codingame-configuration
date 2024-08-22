@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Agent X, Mission 1 — The Caesar Cipher".
 - configuration for "Duo combinations".
 - configuration for "ASCII Worms".
+- configuration for "Euclid’s algorithm with complex numbers".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".
