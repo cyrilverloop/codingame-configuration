@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Duo combinations".
 - configuration for "ASCII Worms".
 - configuration for "Euclid’s algorithm with complex numbers".
+- configuration for "A bit of accounting - Lettering".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".
