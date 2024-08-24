@@ -1,0 +1,78 @@
+{
+    "path": "easy/FurlongsPerFortnight",
+    "name": "Furlongs per Fortnight",
+    "alphanumName": "FurlongsPerFortnight",
+    "link": "https://www.codingame.com/ide/puzzle/furlongs-per-fortnight",
+    "tests": [
+        {
+            "name": "DT -> dt - Test 1",
+            "alphanumName": "DTdt",
+            "file": "01 - DT dt.txt"
+        },
+        {
+            "name": "D -> d - Test 2",
+            "alphanumName": "Dd",
+            "file": "02 - D d.txt"
+        },
+        {
+            "name": "Dt -> dT - Test 3",
+            "alphanumName": "DtdT",
+            "file": "03 - Dt dT.txt"
+        },
+        {
+            "name": "dT -> Dt - Test 4",
+            "alphanumName": "dTDt",
+            "file": "04 - dT Dt.txt"
+        },
+        {
+            "name": "d -> D - Test 5",
+            "alphanumName": "dD",
+            "file": "05 - d D.txt"
+        },
+        {
+            "name": "dt -> DT - Test 6",
+            "alphanumName": "dtDT",
+            "file": "06 - dt DT.txt"
+        },
+        {
+            "name": "T -> t - Test 7",
+            "alphanumName": "Tt",
+            "file": "07 - T t.txt"
+        },
+        {
+            "name": "t -> T - Test 8",
+            "alphanumName": "tT",
+            "file": "08 - t T.txt"
+        },
+        {
+            "name": "miles to inches - Test 9",
+            "alphanumName": "milesToInches",
+            "file": "09 - miles to inches.txt"
+        },
+        {
+            "name": "inches to miles - Test 10",
+            "alphanumName": "inchesToMiles",
+            "file": "10 - miles to inches.txt"
+        },
+        {
+            "name": "fortnights to seconds - Test 11",
+            "alphanumName": "fortnightsToSeconds",
+            "file": "11 - fortnights to seconds.txt"
+        },
+        {
+            "name": "seconds to fortnights - Test 12",
+            "alphanumName": "secondsToFortnights",
+            "file": "12 - seconds to fortnights.txt"
+        },
+        {
+            "name": "Extreme1 - Test 13",
+            "alphanumName": "Extreme1",
+            "file": "13 - Extreme1.txt"
+        },
+        {
+            "name": "Extreme2 - Test 14",
+            "alphanumName": "Extreme2",
+            "file": "14 - Extreme2.txt"
+        }
+    ]
+}
