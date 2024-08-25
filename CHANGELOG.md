@@ -31,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Euclid’s algorithm with complex numbers".
 - configuration for "A bit of accounting - Lettering".
 - configuration for "Furlongs per Fortnight".
+- configuration for "Stunning numbers".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".
