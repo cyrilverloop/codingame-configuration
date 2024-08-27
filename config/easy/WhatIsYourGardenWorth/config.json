@@ -1,0 +1,53 @@
+{
+    "path": "easy/WhatIsYourGardenWorth",
+    "name": "What 🌼 is 🌷 your 🌸 garden 💐 worth?",
+    "alphanumName": "WhatIsYourGardenWorth",
+    "link": "https://www.codingame.com/ide/puzzle/what-is-your-garden-worth",
+    "tests": [
+        {
+            "name": "Test 1 - 1 of value",
+            "alphanumName": "oneOfValue",
+            "file": "01 - 1 of value.txt"
+        },
+        {
+            "name": "Test 2 - 2 of value",
+            "alphanumName": "twoOfValue",
+            "file": "02 - 2 of value.txt"
+        },
+        {
+            "name": "Test 3 - several of value",
+            "alphanumName": "severalOfValue",
+            "file": "03 - several of value.txt"
+        },
+        {
+            "name": "Test 4 - multiples of same plant",
+            "alphanumName": "multiplesOfSamePlant",
+            "file": "04 - multiples of same plant.txt"
+        },
+        {
+            "name": "Test 5 - big garden",
+            "alphanumName": "bigGarden",
+            "file": "05 - big garden.txt"
+        },
+        {
+            "name": "Test 6 - giant garden",
+            "alphanumName": "giantGarden",
+            "file": "06 - giant garden.txt"
+        },
+        {
+            "name": "Test 7 - profitable",
+            "alphanumName": "profitable",
+            "file": "07 - profitable.txt"
+        },
+        {
+            "name": "Test 8 - well kept and profitable",
+            "alphanumName": "wellKeptAndProfitable",
+            "file": "08 - well kept and profitable.txt"
+        },
+        {
+            "name": "Test 9 - no weeds and lots of offers",
+            "alphanumName": "noWeedsAndLotsOfOffers",
+            "file": "09 - no weeds and lots of offers.txt"
+        }
+    ]
+}
