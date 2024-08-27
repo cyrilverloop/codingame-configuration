@@ -1,0 +1,38 @@
+{
+    "path": "easy/TheHelpdesk",
+    "name": "The helpdesk",
+    "alphanumName": "TheHelpdesk",
+    "link": "https://www.codingame.com/ide/puzzle/the-helpdesk",
+    "tests": [
+        {
+            "name": "Short day",
+            "alphanumName": "ShortDay",
+            "file": "01 - Short day.txt"
+        },
+        {
+            "name": "So efficient!",
+            "alphanumName": "SoEfficient",
+            "file": "02 - So efficient!.txt"
+        },
+        {
+            "name": "Employee of the month",
+            "alphanumName": "EmployeeOfTheMonth",
+            "file": "03 - Employee of the month.txt"
+        },
+        {
+            "name": "Just home before the break",
+            "alphanumName": "JustHomeBeforeTheBreak",
+            "file": "04 - Just home before the break.txt"
+        },
+        {
+            "name": "Why do they keep taking breaks?!",
+            "alphanumName": "WhyDoTheyKeepTakingBreaks",
+            "file": "05 - Why do they keep taking breaks!.txt"
+        },
+        {
+            "name": "Why do they keep taking breaks?! 2",
+            "alphanumName": "WhyDoTheyKeepTakingBreaks2",
+            "file": "06 - Why do they keep taking breaks! 2.txt"
+        }
+    ]
+}
