@@ -35,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Mandelbrot Set Approximation".
 - configuration for "What 🌼 is 🌷 your 🌸 garden 💐 worth?".
 - configuration for "The helpdesk".
+- configuration for "Remove insert statements".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".

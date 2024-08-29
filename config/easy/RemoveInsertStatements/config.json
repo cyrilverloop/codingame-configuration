@@ -1,0 +1,48 @@
+{
+    "path": "easy/RemoveInsertStatements",
+    "name": "Remove insert statements",
+    "alphanumName": "RemoveInsertStatements",
+    "link": "https://www.codingame.com/ide/puzzle/remove-insert-statements",
+    "tests": [
+        {
+            "name": "1-1) simple insert statement",
+            "alphanumName": "simpleInsertStatement",
+            "file": "01 - simple insert statement.txt"
+        },
+        {
+            "name": "2-1) simple commented statement",
+            "alphanumName": "simpleCommentedStatement",
+            "file": "02 - simple commented statement.txt"
+        },
+        {
+            "name": "3-1) insert + comment",
+            "alphanumName": "insertComment",
+            "file": "03 - insert + comment.txt"
+        },
+        {
+            "name": "4-1) with function",
+            "alphanumName": "withFunction",
+            "file": "04 - with function.txt"
+        },
+        {
+            "name": "5-1) many insert statements",
+            "alphanumName": "manyInsertStatements",
+            "file": "05 - many insert statements.txt"
+        },
+        {
+            "name": "6-1) functions + inserts",
+            "alphanumName": "functionsInserts",
+            "file": "06 - functions + inserts.txt"
+        },
+        {
+            "name": "7-1) multi-line INSERT instructions",
+            "alphanumName": "multiLineINSERTInstructions",
+            "file": "07 - multi-line INSERT instructions.txt"
+        },
+        {
+            "name": "8-1) many insert on same line",
+            "alphanumName": "manyInsertOnSameLine",
+            "file": "08 - many insert on same line.txt"
+        }
+    ]
+}
