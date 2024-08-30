@@ -1,0 +1,28 @@
+{
+    "path": "easy/InsertToString",
+    "name": "Insert to String",
+    "alphanumName": "InsertToString",
+    "link": "https://www.codingame.com/ide/puzzle/insert-to-string",
+    "tests": [
+        {
+            "name": "Hello, world!",
+            "alphanumName": "HelloWorld",
+            "file": "01 - Hello, world!.txt"
+        },
+        {
+            "name": "Add missing text",
+            "alphanumName": "AddMissingText",
+            "file": "02 - Add missing text.txt"
+        },
+        {
+            "name": "Complete code snippet",
+            "alphanumName": "CompleteCodeSnippet",
+            "file": "03 - Complete code snippet.txt"
+        },
+        {
+            "name": "Add text to punctuation",
+            "alphanumName": "AddTextToPunctuation",
+            "file": "04 - Add text to punctuation.txt"
+        }
+    ]
+}
