@@ -37,6 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The helpdesk".
 - configuration for "Remove insert statements".
 - configuration for "Insert to String".
+- configuration for "WW2 Mortar Warfare".
 
 ### Fixed
 - output of test 4 for "Graffiti on the fence".

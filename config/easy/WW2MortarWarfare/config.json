@@ -1,0 +1,28 @@
+{
+    "path": "easy/WW2MortarWarfare",
+    "name": "WW2 Mortar Warfare",
+    "alphanumName": "WW2MortarWarfare",
+    "link": "https://www.codingame.com/ide/puzzle/ww2-mortar-warfare",
+    "tests": [
+        {
+            "name": "Easy Calculation",
+            "alphanumName": "EasyCalculation",
+            "file": "01 - Easy Calculation.txt"
+        },
+        {
+            "name": "More Precise",
+            "alphanumName": "MorePrecise",
+            "file": "02 - More Precise.txt"
+        },
+        {
+            "name": "Too Far",
+            "alphanumName": "TooFar",
+            "file": "03 - Too Far.txt"
+        },
+        {
+            "name": "Too Close",
+            "alphanumName": "TooClose",
+            "file": "04 - Too Close.txt"
+        }
+    ]
+}
