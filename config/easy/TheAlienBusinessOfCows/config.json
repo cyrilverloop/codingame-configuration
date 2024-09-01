@@ -1,0 +1,33 @@
+{
+    "path": "easy/TheAlienBusinessOfCows",
+    "name": "The alien business of cows",
+    "alphanumName": "TheAlienBusinessOfCows",
+    "link": "https://www.codingame.com/ide/puzzle/the-alien-business-of-cows",
+    "tests": [
+        {
+            "name": "United Steak of America",
+            "alphanumName": "UnitedSteakOfAmerica",
+            "file": "01 - United Steak of America.txt"
+        },
+        {
+            "name": "Free Tacow !",
+            "alphanumName": "FreeTacow",
+            "file": "02 - Free Tacow !.txt"
+        },
+        {
+            "name": "Is that a Mowse ?",
+            "alphanumName": "IsThatAMowse",
+            "file": "03 - Is that a Mowse.txt"
+        },
+        {
+            "name": "Those missions are stupid",
+            "alphanumName": "ThoseMissionsAreStupid",
+            "file": "04 - Those missions are stupid.txt"
+        },
+        {
+            "name": "Union of Steak Amateurs",
+            "alphanumName": "UnionOfSteakAmateurs",
+            "file": "05 - Union of Steak Amateurs.txt"
+        }
+    ]
+}
