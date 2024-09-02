@@ -1,0 +1,48 @@
+{
+    "path": "medium/LexiScrambleQuest",
+    "name": "LexiScramble Quest",
+    "alphanumName": "LexiScrambleQuest",
+    "link": "https://www.codingame.com/ide/puzzle/lexiscramble-quest",
+    "tests": [
+        {
+            "name": "Nursery",
+            "alphanumName": "Nursery",
+            "file": "01 - Nursery.txt"
+        },
+        {
+            "name": "Just words...",
+            "alphanumName": "JustWords",
+            "file": "02 - Just words....txt"
+        },
+        {
+            "name": "Small words",
+            "alphanumName": "SmallWords",
+            "file": "03 - Small words.txt"
+        },
+        {
+            "name": "Medium length",
+            "alphanumName": "MediumLength",
+            "file": "04 - Medium length.txt"
+        },
+        {
+            "name": "Little long",
+            "alphanumName": "LittleLong",
+            "file": "05 - Little long.txt"
+        },
+        {
+            "name": "mississippi",
+            "alphanumName": "mississippi",
+            "file": "06 - mississippi.txt"
+        },
+        {
+            "name": "Monstrous",
+            "alphanumName": "Monstrous",
+            "file": "07 - Monstrous.txt"
+        },
+        {
+            "name": "Beatles",
+            "alphanumName": "Beatles",
+            "file": "08 - Beatles.txt"
+        }
+    ]
+}

@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - configuration for "The alien business of cows".
+- configuration for "LexiScramble Quest".
 
 ## [1.5.1] - 2024-08-31
 ### Fixed
