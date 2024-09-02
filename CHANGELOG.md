@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The alien business of cows".
 - configuration for "LexiScramble Quest".
 
+### Fixed
+- extra space in alphanumName of test "Big Canvas" for "Blending Colors".
+
 ## [1.5.1] - 2024-08-31
 ### Fixed
 - Package version for NPM.
