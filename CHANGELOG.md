@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - extra space in alphanumName of test "Big Canvas" for "Blending Colors".
 - alphanumName of test "A short list" for "Crazy List".
 - alphanumNames of tests for "Furlongs per Fortnight".
+- alphanumName of test "Final Message" for "Saving Snoopy".
 
 ## [1.5.1] - 2024-08-31
 ### Fixed
