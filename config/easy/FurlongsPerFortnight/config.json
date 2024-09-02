@@ -6,42 +6,42 @@
     "tests": [
         {
             "name": "DT -> dt - Test 1",
-            "alphanumName": "DTdt",
+            "alphanumName": "DTdtTest1",
             "file": "01 - DT dt.txt"
         },
         {
             "name": "D -> d - Test 2",
-            "alphanumName": "Dd",
+            "alphanumName": "DdTest2",
             "file": "02 - D d.txt"
         },
         {
             "name": "Dt -> dT - Test 3",
-            "alphanumName": "DtdT",
+            "alphanumName": "DtdTTest3",
             "file": "03 - Dt dT.txt"
         },
         {
             "name": "dT -> Dt - Test 4",
-            "alphanumName": "dTDt",
+            "alphanumName": "dTDtTest4",
             "file": "04 - dT Dt.txt"
         },
         {
             "name": "d -> D - Test 5",
-            "alphanumName": "dD",
+            "alphanumName": "dDTest5",
             "file": "05 - d D.txt"
         },
         {
             "name": "dt -> DT - Test 6",
-            "alphanumName": "dtDT",
+            "alphanumName": "dtDTTest6",
             "file": "06 - dt DT.txt"
         },
         {
             "name": "T -> t - Test 7",
-            "alphanumName": "Tt",
+            "alphanumName": "TtTest7",
             "file": "07 - T t.txt"
         },
         {
             "name": "t -> T - Test 8",
-            "alphanumName": "tT",
+            "alphanumName": "tTTest8",
             "file": "08 - t T.txt"
         },
         {
