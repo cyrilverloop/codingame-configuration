@@ -1,0 +1,113 @@
+{
+    "path": "medium/Rummikub1",
+    "name": "Rummikub 1",
+    "alphanumName": "Rummikub1",
+    "link": "https://www.codingame.com/ide/puzzle/rummikub-1",
+    "tests": [
+        {
+            "name": "Add to a run",
+            "alphanumName": "AddToARun",
+            "file": "01 - Add to a run.txt"
+        },
+        {
+            "name": "Add to a run: the end",
+            "alphanumName": "AddToARunTheEnd",
+            "file": "02 - Add to a run the end.txt"
+        },
+        {
+            "name": "Add to set",
+            "alphanumName": "AddToSet",
+            "file": "03 - Add to set.txt"
+        },
+        {
+            "name": "Insert to the middle of a run",
+            "alphanumName": "InsertToTheMiddleOfARun",
+            "file": "04 - Insert to the middle of a run.txt"
+        },
+        {
+            "name": "Insert to run",
+            "alphanumName": "InsertToRun",
+            "file": "05 - Insert to run.txt"
+        },
+        {
+            "name": "Choose the run",
+            "alphanumName": "ChooseTheRun",
+            "file": "06 - Choose the run.txt"
+        },
+        {
+            "name": "Take one and add",
+            "alphanumName": "TakeOneAndAdd",
+            "file": "07 - Take one and add.txt"
+        },
+        {
+            "name": "Take one and add again",
+            "alphanumName": "TakeOneAndAddAgain",
+            "file": "08 - Take one and add again.txt"
+        },
+        {
+            "name": "Take one and insert",
+            "alphanumName": "TakeOneAndInsert",
+            "file": "09 - Take one and insert.txt"
+        },
+        {
+            "name": "Take a split",
+            "alphanumName": "TakeASplit",
+            "file": "10 - Take a split.txt"
+        },
+        {
+            "name": "Switch right to left",
+            "alphanumName": "SwitchRightToLeft",
+            "file": "11 - Switch right to left.txt"
+        },
+        {
+            "name": "Switch left to right",
+            "alphanumName": "SwitchLeftToRight",
+            "file": "12 - Switch left to right.txt"
+        },
+        {
+            "name": "Combine for the first",
+            "alphanumName": "CombineForTheFirst",
+            "file": "13 - Combine for the first.txt"
+        },
+        {
+            "name": "Combine for the last",
+            "alphanumName": "CombineForTheLast",
+            "file": "14 - Combine for the last.txt"
+        },
+        {
+            "name": "Combine priority",
+            "alphanumName": "CombinePriority",
+            "file": "15 - Combine priority.txt"
+        },
+        {
+            "name": "Combine to insert",
+            "alphanumName": "CombineToInsert",
+            "file": "16 - Combine to insert.txt"
+        },
+        {
+            "name": "Combine to take",
+            "alphanumName": "CombineToTake",
+            "file": "17 - Combine to take.txt"
+        },
+        {
+            "name": "Prepare for the split",
+            "alphanumName": "PrepareForTheSplit",
+            "file": "18 - Prepare for the split.txt"
+        },
+        {
+            "name": "Prepare for the split again",
+            "alphanumName": "PrepareForTheSplitAgain",
+            "file": "19 - Prepare for the split again.txt"
+        },
+        {
+            "name": "You take some, you put some",
+            "alphanumName": "YouTakeSomeYouPutSome",
+            "file": "20 - You take some, you put some.txt"
+        },
+        {
+            "name": "Its time for Rummikub 2",
+            "alphanumName": "ItsTimeForRummikub2",
+            "file": "21 - Its time for Rummikub 2.txt"
+        }
+    ]
+}
