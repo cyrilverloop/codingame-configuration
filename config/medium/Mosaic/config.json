@@ -1,0 +1,63 @@
+{
+    "path": "medium/Mosaic",
+    "name": "Mosaic",
+    "alphanumName": "Mosaic",
+    "link": "https://www.codingame.com/ide/puzzle/mosaic",
+    "tests": [
+        {
+            "name": "Then those ones must be empty",
+            "alphanumName": "ThenThoseOnesMustBeEmpty",
+            "file": "01 - Then those ones must be empty.txt"
+        },
+        {
+            "name": "All blank",
+            "alphanumName": "AllBlank",
+            "file": "02 - All blank.txt"
+        },
+        {
+            "name": "Then those ones must be filled",
+            "alphanumName": "ThenThoseOnesMustBeFilled",
+            "file": "03 - Then those ones must be filled.txt"
+        },
+        {
+            "name": "Careful",
+            "alphanumName": "Careful",
+            "file": "04 - Careful.txt"
+        },
+        {
+            "name": "5x5",
+            "alphanumName": "fiveByFive",
+            "file": "05 - 5x5.txt"
+        },
+        {
+            "name": "10x10",
+            "alphanumName": "tenByTen",
+            "file": "06 - 10x10.txt"
+        },
+        {
+            "name": "15x15",
+            "alphanumName": "fifteenByFifteen",
+            "file": "07 - 15x15.txt"
+        },
+        {
+            "name": "20x20",
+            "alphanumName": "twentyByTwenty",
+            "file": "08 - 20x20.txt"
+        },
+        {
+            "name": "25x25",
+            "alphanumName": "twentyFiveByTwentyFive",
+            "file": "09 - 25x25.txt"
+        },
+        {
+            "name": "Pixel art - Yin Yang",
+            "alphanumName": "PixelArtYinYang",
+            "file": "10 - Pixel art - Yin Yang.txt"
+        },
+        {
+            "name": "Pixel art - Congratulations",
+            "alphanumName": "PixelArtCongratulations",
+            "file": "11 - Pixel art - Congratulations.txt"
+        }
+    ]
+}
