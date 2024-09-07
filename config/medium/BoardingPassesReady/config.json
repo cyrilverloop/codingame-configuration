@@ -1,0 +1,38 @@
+{
+    "path": "medium/BoardingPassesReady",
+    "name": "Boarding passes ready!",
+    "alphanumName": "BoardingPassesReady",
+    "link": "https://www.codingame.com/ide/puzzle/boarding-passes-ready",
+    "tests": [
+        {
+            "name": "A very small plane indeed",
+            "alphanumName": "AVerySmallPlaneIndeed",
+            "file": "01 - A very small plane indeed.txt"
+        },
+        {
+            "name": "Just A Few",
+            "alphanumName": "JustAFew",
+            "file": "02 - Just A Few.txt"
+        },
+        {
+            "name": "Small Flight",
+            "alphanumName": "SmallFlight",
+            "file": "03 - Small Flight.txt"
+        },
+        {
+            "name": "Half Full",
+            "alphanumName": "HalfFull",
+            "file": "04 - Half Full.txt"
+        },
+        {
+            "name": "Wide-Body Craft",
+            "alphanumName": "WideBodyCraft",
+            "file": "05 - Wide-Body Craft.txt"
+        },
+        {
+            "name": "Half-full Wide-Body",
+            "alphanumName": "HalfFullWideBody",
+            "file": "06 - Half-full Wide-Body.txt"
+        }
+    ]
+}
