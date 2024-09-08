@@ -1,0 +1,58 @@
+{
+    "path": "medium/DecimalNumbersToFloatingNumbers",
+    "name": "Decimal numbers to floating numbers",
+    "alphanumName": "DecimalNumbersToFloatingNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/decimal-numbers-to-floating-numbers",
+    "tests": [
+        {
+            "name": "Zero",
+            "alphanumName": "Zero",
+            "file": "01 - Zero.txt"
+        },
+        {
+            "name": "Simple integer",
+            "alphanumName": "SimpleInteger",
+            "file": "02 - Simple integer.txt"
+        },
+        {
+            "name": "Invalid number",
+            "alphanumName": "InvalidNumber",
+            "file": "03 - Invalid number.txt"
+        },
+        {
+            "name": "Simple decimal",
+            "alphanumName": "SimpleDecimal",
+            "file": "04 - Simple decimal.txt"
+        },
+        {
+            "name": "Decimal with rounding (1)",
+            "alphanumName": "DecimalWithRounding1",
+            "file": "05 - Decimal with rounding (1).txt"
+        },
+        {
+            "name": "Decimal with rounding (2)",
+            "alphanumName": "DecimalWithRounding2",
+            "file": "06 - Decimal with rounding (2).txt"
+        },
+        {
+            "name": "Scientific notation (1)",
+            "alphanumName": "ScientificNotation1",
+            "file": "07 - Scientific notation (1).txt"
+        },
+        {
+            "name": "Scientific notation (2)",
+            "alphanumName": "ScientificNotation2",
+            "file": "08 - Scientific notation (2).txt"
+        },
+        {
+            "name": "Scientific notation (3)",
+            "alphanumName": "ScientificNotation3",
+            "file": "09 - Scientific notation (3).txt"
+        },
+        {
+            "name": "Scientific notation (4)",
+            "alphanumName": "ScientificNotation4",
+            "file": "10 - Scientific notation (4).txt"
+        }
+    ]
+}
