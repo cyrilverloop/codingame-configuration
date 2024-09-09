@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Mosaic".
 - configuration for "Boarding passes ready!".
 - configuration for "Decimal numbers to floating numbers".
+- configuration for "Partition Numbers".
 
 ## [1.6.0] - 2024-09-02
 ### Added
