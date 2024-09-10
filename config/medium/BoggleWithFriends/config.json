@@ -1,0 +1,68 @@
+{
+    "path": "medium/BoggleWithFriends",
+    "name": "Boggle with Friends",
+    "alphanumName": "BoggleWithFriends",
+    "link": "https://www.codingame.com/ide/puzzle/boggle-with-friends",
+    "tests": [
+        {
+            "name": "Test 1: all words are valid, no dups",
+            "alphanumName": "allWordsAreValidNoDups",
+            "file": "01 - all words are valid, no dups.txt"
+        },
+        {
+            "name": "Test 2: some words are not valid for this boggle board",
+            "alphanumName": "someWordsAreNotValidForThisBoggleBoard",
+            "file": "02 - some words are not valid for this boggle board.txt"
+        },
+        {
+            "name": "Test 3: Multiple players have the same word",
+            "alphanumName": "MultiplePlayersHaveTheSameWord",
+            "file": "03 - Multiple players have the same word.txt"
+        },
+        {
+            "name": "Test 4: Individual players repeat their own words",
+            "alphanumName": "IndividualPlayersRepeatTheirOwnWords",
+            "file": "04 - Individual players repeat their own words.txt"
+        },
+        {
+            "name": "Test 5: All put together",
+            "alphanumName": "AllPutTogether",
+            "file": "05 - All put together.txt"
+        },
+        {
+            "name": "Test 6: The one where it’s funny",
+            "alphanumName": "TheOneWhereItsFunny",
+            "file": "06 - The one where it’s funny.txt"
+        },
+        {
+            "name": "Test 7: Random",
+            "alphanumName": "Random",
+            "file": "07 - Random.txt"
+        },
+        {
+            "name": "Test 8: Pivot, Break, RIP Matthew Perry",
+            "alphanumName": "PivotBreakRIPMatthewPerry",
+            "file": "08 - Pivot, Break, RIP Matthew Perry.txt"
+        },
+        {
+            "name": "Test 9: Smelly Cat, Haircut",
+            "alphanumName": "SmellyCatHaircut",
+            "file": "09 - Smelly Cat, Haircut.txt"
+        },
+        {
+            "name": "Test 10: Awkward and Too Tidy",
+            "alphanumName": "AwkwardAndTooTidy",
+            "file": "10 - Awkward and Too Tidy.txt"
+        },
+        {
+            "name": "Test 11: Intense",
+            "alphanumName": "Intense",
+            "file": "11 - Intense.txt"
+        },
+        {
+            "name": "Test 12: Friendship is valuable",
+            "alphanumName": "FriendshipIsValuable",
+            "file": "12 - Friendship is valuable.txt"
+        }
+    ]
+}
