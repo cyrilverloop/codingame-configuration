@@ -1,0 +1,38 @@
+{
+    "path": "medium/MagicColoring",
+    "name": "Magic Coloring",
+    "alphanumName": "MagicColoring",
+    "link": "https://www.codingame.com/ide/puzzle/magic-coloring",
+    "tests": [
+        {
+            "name": "Yin Yang",
+            "alphanumName": "YinYang",
+            "file": "01 - Yin Yang.txt"
+        },
+        {
+            "name": "Television Image",
+            "alphanumName": "TelevisionImage",
+            "file": "02 - Television Image.txt"
+        },
+        {
+            "name": "Monochrome",
+            "alphanumName": "Monochrome",
+            "file": "03 - Monochrome.txt"
+        },
+        {
+            "name": "Chaos Line",
+            "alphanumName": "ChaosLine",
+            "file": "04 - Chaos Line.txt"
+        },
+        {
+            "name": "Wall Of Color",
+            "alphanumName": "WallOfColor",
+            "file": "05 - Wall Of Color.txt"
+        },
+        {
+            "name": "A Dot",
+            "alphanumName": "ADot",
+            "file": "06 - A Dot.txt"
+        }
+    ]
+}
