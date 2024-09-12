@@ -1,0 +1,33 @@
+{
+    "path": "medium/NeedleInAHaystack",
+    "name": "Needle in a haystack",
+    "alphanumName": "NeedleInAHaystack",
+    "link": "https://www.codingame.com/ide/puzzle/needle-in-a-haystack",
+    "tests": [
+        {
+            "name": "Examples",
+            "alphanumName": "Examples",
+            "file": "01 - Examples.txt"
+        },
+        {
+            "name": "Digits",
+            "alphanumName": "Digits",
+            "file": "02 - Digits.txt"
+        },
+        {
+            "name": "Mixed",
+            "alphanumName": "Mixed",
+            "file": "03 - Mixed.txt"
+        },
+        {
+            "name": "Large Heap",
+            "alphanumName": "LargeHeap",
+            "file": "04 - Large Heap.txt"
+        },
+        {
+            "name": "Larger Heap",
+            "alphanumName": "LargerHeap",
+            "file": "05 - Larger Heap.txt"
+        }
+    ]
+}
