@@ -1,0 +1,38 @@
+{
+    "path": "medium/TinyForest",
+    "name": "Tiny Forest",
+    "alphanumName": "TinyForest",
+    "link": "https://www.codingame.com/ide/puzzle/tiny-forest",
+    "tests": [
+        {
+            "name": "No Trees",
+            "alphanumName": "NoTrees",
+            "file": "01 - No Trees.txt"
+        },
+        {
+            "name": "One Tree",
+            "alphanumName": "One Tree",
+            "file": "02 - One Tree.txt"
+        },
+        {
+            "name": "Some Trees",
+            "alphanumName": "SomeTrees",
+            "file": "03 - Some Trees.txt"
+        },
+        {
+            "name": "Long Forest",
+            "alphanumName": "LongForest",
+            "file": "04 - Long Forest.txt"
+        },
+        {
+            "name": "Huge Forest",
+            "alphanumName": "HugeForest",
+            "file": "05 - Huge Forest.txt"
+        },
+        {
+            "name": "Symetrical Forest",
+            "alphanumName": "SymetricalForest",
+            "file": "06 - Symetrical Forest.txt"
+        }
+    ]
+}
