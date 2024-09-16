@@ -1,0 +1,43 @@
+{
+    "path": "medium/CountAsICount2",
+    "name": "Count as I count #2",
+    "alphanumName": "CountAsICount2",
+    "link": "https://www.codingame.com/ide/puzzle/count-as-i-count-2",
+    "tests": [
+        {
+            "name": "Bring back memory",
+            "alphanumName": "BringBackMemory",
+            "file": "01 - Bring back memory.txt"
+        },
+        {
+            "name": "Not 4 rounds",
+            "alphanumName": "Not4Rounds",
+            "file": "02 - Not 4 rounds.txt"
+        },
+        {
+            "name": "Only one",
+            "alphanumName": "OnlyOne",
+            "file": "03 - Only one.txt"
+        },
+        {
+            "name": "Smarter not faster",
+            "alphanumName": "SmarterNotFaster",
+            "file": "04 - Smarter not faster.txt"
+        },
+        {
+            "name": "Bigger",
+            "alphanumName": "Bigger",
+            "file": "05 - Bigger.txt"
+        },
+        {
+            "name": "Even bigger",
+            "alphanumName": "EvenBigger",
+            "file": "06 - Even bigger.txt"
+        },
+        {
+            "name": "The end?",
+            "alphanumName": "TheEnd",
+            "file": "07 - The end.txt"
+        }
+    ]
+}

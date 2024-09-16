@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Finish the Eight Queens".
 - configuration for "Tiny Forest".
 - configuration for "16x16 Sudoku".
+- configuration for "Count as I count #2".
 
 ## [1.6.0] - 2024-09-02
 ### Added
