@@ -1,0 +1,28 @@
+{
+    "path": "medium/FirewallPlacement",
+    "name": "Firewall placement",
+    "alphanumName": "FirewallPlacement",
+    "link": "https://www.codingame.com/ide/puzzle/firewall-placement",
+    "tests": [
+        {
+            "name": "Small network",
+            "alphanumName": "SmallNetwork",
+            "file": "01 - Small network.txt"
+        },
+        {
+            "name": "Medium network",
+            "alphanumName": "MediumNetwork",
+            "file": "02 - Medium network.txt"
+        },
+        {
+            "name": "Larger lobster graph",
+            "alphanumName": "LargerLobsterGraph",
+            "file": "03 - Larger lobster graph.txt"
+        },
+        {
+            "name": "Large graph",
+            "alphanumName": "LargeGraph",
+            "file": "04 - Large graph.txt"
+        }
+    ]
+}
