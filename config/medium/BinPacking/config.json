@@ -1,0 +1,28 @@
+{
+    "path": "medium/BinPacking",
+    "name": "Bin packing",
+    "alphanumName": "BinPacking",
+    "link": "https://www.codingame.com/ide/puzzle/bin-packing",
+    "tests": [
+        {
+            "name": "Samples",
+            "alphanumName": "Samples",
+            "file": "01 - Samples.txt"
+        },
+        {
+            "name": "NP-Easy",
+            "alphanumName": "NPEasy",
+            "file": "02 - NP-Easy.txt"
+        },
+        {
+            "name": "NP-Medium",
+            "alphanumName": "NPMedium",
+            "file": "03 - NP-Medium.txt"
+        },
+        {
+            "name": "NP-Hard",
+            "alphanumName": "NPHard",
+            "file": "04 - NP-Hard.txt"
+        }
+    ]
+}
