@@ -1,0 +1,28 @@
+{
+    "path": "medium/AgentXMission2MysteriousCryptogram",
+    "name": "Agent X, Mission 2—Mysterious Cryptogram",
+    "alphanumName": "AgentXMission2MysteriousCryptogram",
+    "link": "https://www.codingame.com/ide/puzzle/agent-x-mission-2mysterious-cryptogram",
+    "tests": [
+        {
+            "name": "First contact",
+            "alphanumName": "FirstContact",
+            "file": "01 - First contact.txt"
+        },
+        {
+            "name": "Longer Message with More Words",
+            "alphanumName": "LongerMessageWithMoreWords",
+            "file": "02 - Longer Message with More Words.txt"
+        },
+        {
+            "name": "A Lot More Words",
+            "alphanumName": "ALotMoreWords",
+            "file": "03 - A Lot More Words.txt"
+        },
+        {
+            "name": "Final Test",
+            "alphanumName": "FinalTest",
+            "file": "04 - Final Test.txt"
+        }
+    ]
+}
