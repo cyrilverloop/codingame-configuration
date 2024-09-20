@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Firewall placement".
 - configuration for "Bin packing".
 - configuration for "Agent X, Mission 2—Mysterious Cryptogram".
+- configuration for "String balls".
 
 ## [1.6.0] - 2024-09-02
 ### Added

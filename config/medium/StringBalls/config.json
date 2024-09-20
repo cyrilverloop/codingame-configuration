@@ -1,0 +1,63 @@
+{
+    "path": "medium/StringBalls",
+    "name": "String balls",
+    "alphanumName": "StringBalls",
+    "link": "https://www.codingame.com/ide/puzzle/string-balls",
+    "tests": [
+        {
+            "name": "1. r=1, edge=yes, char=1",
+            "alphanumName": "r1EdgeYesChar1",
+            "file": "01 - r=1, edge=yes, char=1.txt"
+        },
+        {
+            "name": "2. r=1, edge=no, char=1",
+            "alphanumName": "r1EdgeNoChar1",
+            "file": "02 - r=1, edge=no, char=1.txt"
+        },
+        {
+            "name": "3. r>1, edge=no, char=1",
+            "alphanumName": "rGT1EdgeNoChar1",
+            "file": "03 - rGT1, edge=no, char=1.txt"
+        },
+        {
+            "name": "4. r>1, edge=yes, char>1",
+            "alphanumName": "rGT1EdgeYesCharGT1",
+            "file": "04 - rGT1, edge=yes, charGT1.txt"
+        },
+        {
+            "name": "5. r>1, edge=no, char>1",
+            "alphanumName": "rGT1EdgeNoCharGT1",
+            "file": "05 - rGT1, edge=no, charGT1.txt"
+        },
+        {
+            "name": "6. Small test 1",
+            "alphanumName": "SmallTest1",
+            "file": "06 - Small test 1.txt"
+        },
+        {
+            "name": "7. Big radius",
+            "alphanumName": "BigRadius",
+            "file": "07 - Big radius.txt"
+        },
+        {
+            "name": "8. Medium 1 (>100k)",
+            "alphanumName": "Medium1GT100k",
+            "file": "08 - Medium 1 (GT100k).txt"
+        },
+        {
+            "name": "9. Medium 2",
+            "alphanumName": "Medium2",
+            "file": "09 - Medium 2.txt"
+        },
+        {
+            "name": "10. Big ( > 500k)",
+            "alphanumName": "BigGT500k",
+            "file": "10 - Big ( GT 500k).txt"
+        },
+        {
+            "name": "11. Big 2",
+            "alphanumName": "Big2",
+            "file": "11 - Big 2.txt"
+        }
+    ]
+}
