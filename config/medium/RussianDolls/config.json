@@ -1,0 +1,33 @@
+{
+    "path": "medium/RussianDolls",
+    "name": "Russian Dolls",
+    "alphanumName": "RussianDolls",
+    "link": "https://www.codingame.com/ide/puzzle/russian-dolls",
+    "tests": [
+        {
+            "name": "Examples",
+            "alphanumName": "Examples",
+            "file": "01 - Examples.txt"
+        },
+        {
+            "name": "Valid Examples",
+            "alphanumName": "ValidExamples",
+            "file": "02 - Valid Examples.txt"
+        },
+        {
+            "name": "Basic Doll Sets",
+            "alphanumName": "BasicDollSets",
+            "file": "03 - Basic Doll Sets.txt"
+        },
+        {
+            "name": "Advanced Doll Sets",
+            "alphanumName": "AdvancedDollSets",
+            "file": "04 - Advanced Doll Sets.txt"
+        },
+        {
+            "name": "Complicated Nesting",
+            "alphanumName": "ComplicatedNesting",
+            "file": "05 - Complicated Nesting.txt"
+        }
+    ]
+}
