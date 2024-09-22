@@ -1,0 +1,28 @@
+{
+    "path": "medium/RomanSorting",
+    "name": "Roman Sorting",
+    "alphanumName": "RomanSorting",
+    "link": "https://www.codingame.com/ide/puzzle/roman-sorting",
+    "tests": [
+        {
+            "name": "Single Roman Numerals",
+            "alphanumName": "SingleRomanNumerals",
+            "file": "01 - Single Roman Numerals.txt"
+        },
+        {
+            "name": "Subtracted Prefix",
+            "alphanumName": "SubtractedPrefix",
+            "file": "02 - Subtracted Prefix.txt"
+        },
+        {
+            "name": "Be Careful",
+            "alphanumName": "BeCareful",
+            "file": "03 - Be Careful.txt"
+        },
+        {
+            "name": "A Legion Of Romans",
+            "alphanumName": "ALegionOfRomans",
+            "file": "04 - A Legion Of Romans.txt"
+        }
+    ]
+}

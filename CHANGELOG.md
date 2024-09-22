@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Agent X, Mission 2—Mysterious Cryptogram".
 - configuration for "String balls".
 - configuration for "Russian Dolls".
+- configuration for "Roman Sorting".
 
 ## [1.6.0] - 2024-09-02
 ### Added
