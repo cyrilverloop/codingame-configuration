@@ -1,0 +1,53 @@
+{
+    "path": "medium/MarkovAnts",
+    "name": "Markov ants",
+    "alphanumName": "MarkovAnts",
+    "link": "https://www.codingame.com/ide/puzzle/markov-ants",
+    "tests": [
+        {
+            "name": "Base case",
+            "alphanumName": "BaseCase",
+            "file": "01 - Base case.txt"
+        },
+        {
+            "name": "Square 6",
+            "alphanumName": "Square6",
+            "file": "02 - Square 6.txt"
+        },
+        {
+            "name": "Different step",
+            "alphanumName": "DifferentStep",
+            "file": "03 - Different step.txt"
+        },
+        {
+            "name": "Different origin",
+            "alphanumName": "DifferentOrigin",
+            "file": "04 - Different origin.txt"
+        },
+        {
+            "name": "Different shape (rectangle)",
+            "alphanumName": "DifferentShapeRectangle",
+            "file": "05 - Different shape (rectangle).txt"
+        },
+        {
+            "name": "Different shape + start",
+            "alphanumName": "DifferentShapeStart",
+            "file": "06 - Different shape + start.txt"
+        },
+        {
+            "name": "Different shape + start + step",
+            "alphanumName": "DifferentShapeStartStep",
+            "file": "07 - Different shape + start + step.txt"
+        },
+        {
+            "name": "Extra test 1",
+            "alphanumName": "ExtraTest1",
+            "file": "08 - Extra test 1.txt"
+        },
+        {
+            "name": "Extra test 2",
+            "alphanumName": "ExtraTest2",
+            "file": "09 - Extra test 2.txt"
+        }
+    ]
+}
