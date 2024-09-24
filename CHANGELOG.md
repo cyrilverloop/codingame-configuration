@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Russian Dolls".
 - configuration for "Roman Sorting".
 - configuration for "Markov ants".
+- configuration for "One for his Nobs".
 
 ## [1.6.0] - 2024-09-02
 ### Added

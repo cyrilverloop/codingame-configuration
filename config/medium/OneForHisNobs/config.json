@@ -1,0 +1,53 @@
+{
+    "path": "medium/OneForHisNobs",
+    "name": "One for his Nobs",
+    "alphanumName": "OneForHisNobs",
+    "link": "https://www.codingame.com/ide/puzzle/one-for-his-nobs",
+    "tests": [
+        {
+            "name": "Fifteens",
+            "alphanumName": "Fifteens",
+            "file": "01 - Fifteens.txt"
+        },
+        {
+            "name": "Runs",
+            "alphanumName": "Runs",
+            "file": "02 - Runs.txt"
+        },
+        {
+            "name": "Pairs",
+            "alphanumName": "Pairs",
+            "file": "03 - Pairs.txt"
+        },
+        {
+            "name": "Flushes",
+            "alphanumName": "Flushes",
+            "file": "04 - Flushes.txt"
+        },
+        {
+            "name": "One for his nobs",
+            "alphanumName": "OneForHisNobs",
+            "file": "05 - One for his nobs.txt"
+        },
+        {
+            "name": "Compound runs",
+            "alphanumName": "CompoundRuns",
+            "file": "06 - Compound runs.txt"
+        },
+        {
+            "name": "Big Hands",
+            "alphanumName": "BigHands",
+            "file": "07 - Big Hands.txt"
+        },
+        {
+            "name": "19 hand",
+            "alphanumName": "19Hand",
+            "file": "08 - 19 hand.txt"
+        },
+        {
+            "name": "Wikipedia hands",
+            "alphanumName": "WikipediaHands",
+            "file": "09 - Wikipedia hands.txt"
+        }
+    ]
+}
