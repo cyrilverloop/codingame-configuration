@@ -1,0 +1,28 @@
+{
+    "path": "medium/Coastline",
+    "name": "Coastline",
+    "alphanumName": "Coastline",
+    "link": "https://www.codingame.com/ide/puzzle/coastline",
+    "tests": [
+        {
+            "name": "Easy cases",
+            "alphanumName": "EasyCases",
+            "file": "01 - Easy cases.txt"
+        },
+        {
+            "name": "Harder cases",
+            "alphanumName": "HarderCases",
+            "file": "02 - Harder cases.txt"
+        },
+        {
+            "name": "Long list of cases",
+            "alphanumName": "LongListOfCases",
+            "file": "03 - Long list of cases.txt"
+        },
+        {
+            "name": "Long list of rocks",
+            "alphanumName": "LongListOfRocks",
+            "file": "04 - Long list of rocks.txt"
+        }
+    ]
+}
