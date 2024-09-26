@@ -1,0 +1,63 @@
+{
+    "path": "medium/TheCashRegister",
+    "name": "The Cash Register",
+    "alphanumName": "TheCashRegister",
+    "link": "https://www.codingame.com/ide/puzzle/the-cash-register",
+    "tests": [
+        {
+            "name": "Simple case",
+            "alphanumName": "SimpleCase",
+            "file": "01 - Simple case.txt"
+        },
+        {
+            "name": "A bit harder",
+            "alphanumName": "ABitHarder",
+            "file": "02 - A bit harder.txt"
+        },
+        {
+            "name": "Nothing to give back",
+            "alphanumName": "NothingToGiveBack",
+            "file": "03 - Nothing to give back.txt"
+        },
+        {
+            "name": "Bigger amount",
+            "alphanumName": "BiggerAmount",
+            "file": "04 - Bigger amount.txt"
+        },
+        {
+            "name": "Weird money",
+            "alphanumName": "WeirdMoney",
+            "file": "05 - Weird money.txt"
+        },
+        {
+            "name": "One coin only",
+            "alphanumName": "OneCoinOnly",
+            "file": "06 - One coin only.txt"
+        },
+        {
+            "name": "Multiple solutions ?",
+            "alphanumName": "MultipleSolutions",
+            "file": "07 - Multiple solutions.txt"
+        },
+        {
+            "name": "Nothing to do",
+            "alphanumName": "NothingToDo",
+            "file": "08 - Nothing to do.txt"
+        },
+        {
+            "name": "Very big amount",
+            "alphanumName": "VeryBigAmount",
+            "file": "09 - Very big amount.txt"
+        },
+        {
+            "name": "Bad luck !",
+            "alphanumName": "BadLuck",
+            "file": "10 - Bad luck !.txt"
+        },
+        {
+            "name": "Several solutions",
+            "alphanumName": "SeveralSolutions",
+            "file": "11 - Several solutions.txt"
+        }
+    ]
+}
