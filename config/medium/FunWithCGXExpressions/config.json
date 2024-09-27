@@ -1,0 +1,53 @@
+{
+    "path": "medium/FunWithCGXExpressions",
+    "name": "Fun with CGX Expressions",
+    "alphanumName": "FunWithCGXExpressions",
+    "link": "https://www.codingame.com/ide/puzzle/fun-with-cgx-expressions",
+    "tests": [
+        {
+            "name": "Very simple",
+            "alphanumName": "VerySimple",
+            "file": "01 - Very simple.txt"
+        },
+        {
+            "name": "Easy",
+            "alphanumName": "Easy",
+            "file": "02 - Easy.txt"
+        },
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "03 - Simple.txt"
+        },
+        {
+            "name": "Fractions",
+            "alphanumName": "Fractions",
+            "file": "04 - Fractions.txt"
+        },
+        {
+            "name": "Negative constants",
+            "alphanumName": "NegativeConstants",
+            "file": "05 - Negative constants.txt"
+        },
+        {
+            "name": "Not so simple",
+            "alphanumName": "NotSoSimple",
+            "file": "06 - Not so simple.txt"
+        },
+        {
+            "name": "Negative denominator",
+            "alphanumName": "NegativeDenominator",
+            "file": "07 - Negative denominator.txt"
+        },
+        {
+            "name": "Some recursion",
+            "alphanumName": "SomeRecursion",
+            "file": "08 - Some recursion.txt"
+        },
+        {
+            "name": "Random variables",
+            "alphanumName": "RandomVariables",
+            "file": "09 - Random variables.txt"
+        }
+    ]
+}
