@@ -31,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Coastline".
 - configuration for "The Cash Register".
 - configuration for "Fun with CGX Expressions".
+- configuration for "Risk odds calculator".
 
 ## [1.6.0] - 2024-09-02
 ### Added

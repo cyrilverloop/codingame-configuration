@@ -1,0 +1,48 @@
+{
+    "path": "medium/RiskOddsCalculator",
+    "name": "Risk odds calculator",
+    "alphanumName": "RiskOddsCalculator",
+    "link": "https://www.codingame.com/ide/puzzle/risk-odds-calculator",
+    "tests": [
+        {
+            "name": "Minimal armies",
+            "alphanumName": "MinimalArmies",
+            "file": "01 - Minimal armies.txt"
+        },
+        {
+            "name": "Small armies, advantage attacker",
+            "alphanumName": "SmallArmiesAdvantageAttacker",
+            "file": "02 - Small armies, advantage attacker.txt"
+        },
+        {
+            "name": "Small armies, advantage defender",
+            "alphanumName": "SmallArmiesAdvantageDefender",
+            "file": "03 - Small armies, advantage defender.txt"
+        },
+        {
+            "name": "Small armies, balanced",
+            "alphanumName": "SmallArmiesBalanced",
+            "file": "04 - Small armies, balanced.txt"
+        },
+        {
+            "name": "Crushing endgame",
+            "alphanumName": "CrushingEndgame",
+            "file": "05 - Crushing endgame.txt"
+        },
+        {
+            "name": "Hail Mary",
+            "alphanumName": "HailMary",
+            "file": "06 - Hail Mary.txt"
+        },
+        {
+            "name": "Large, uncertain battle",
+            "alphanumName": "LargeUncertainBattle",
+            "file": "07 - Large, uncertain battle.txt"
+        },
+        {
+            "name": "Mother of all battles",
+            "alphanumName": "MotherOfAllBattles",
+            "file": "08 - Mother of all battles.txt"
+        }
+    ]
+}
