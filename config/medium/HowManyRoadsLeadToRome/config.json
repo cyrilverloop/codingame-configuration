@@ -1,0 +1,33 @@
+{
+    "path": "medium/HowManyRoadsLeadToRome",
+    "name": "How many roads lead to Rome?",
+    "alphanumName": "HowManyRoadsLeadToRome",
+    "link": "https://www.codingame.com/ide/puzzle/how-many-roads-lead-to-rome",
+    "tests": [
+        {
+            "name": "One road",
+            "alphanumName": "OneRoad",
+            "file": "01 - One road.txt"
+        },
+        {
+            "name": "Two roads",
+            "alphanumName": "TwoRoads",
+            "file": "02 - Two roads.txt"
+        },
+        {
+            "name": "No way",
+            "alphanumName": "NoWay",
+            "file": "03 - No way.txt"
+        },
+        {
+            "name": "Oops, loops!",
+            "alphanumName": "OopsLoops",
+            "file": "04 - Oops, loops!.txt"
+        },
+        {
+            "name": "Big graph!",
+            "alphanumName": "BigGraph",
+            "file": "05 - Big graph!.txt"
+        }
+    ]
+}
