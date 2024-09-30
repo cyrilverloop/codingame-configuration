@@ -1,0 +1,33 @@
+{
+    "path": "medium/SPORECityPlanner",
+    "name": "SPORE City Planner",
+    "alphanumName": "SPORECityPlanner",
+    "link": "https://www.codingame.com/ide/puzzle/spore-city-planner",
+    "tests": [
+        {
+            "name": "Test city",
+            "alphanumName": "TestCity",
+            "file": "01 - Test city.txt"
+        },
+        {
+            "name": "Civilization stage, small city",
+            "alphanumName": "CivilizationStageSmallCity",
+            "file": "02 - Civilization stage, small city.txt"
+        },
+        {
+            "name": "Civilization stage, big city",
+            "alphanumName": "CivilizationStageBigCity",
+            "file": "03 - Civilization stage, big city.txt"
+        },
+        {
+            "name": "Space stage, big city 1",
+            "alphanumName": "SpaceStageBigCity1",
+            "file": "04 - Space stage, big city 1.txt"
+        },
+        {
+            "name": "Space stage, big city 2",
+            "alphanumName": "SpaceStageBigCity2",
+            "file": "05 - Space stage, big city 2.txt"
+        }
+    ]
+}

@@ -33,6 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Fun with CGX Expressions".
 - configuration for "Risk odds calculator".
 - configuration for "How many roads lead to Rome?".
+- configuration for "SPORE City Planner".
 
 ## [1.6.0] - 2024-09-02
 ### Added
