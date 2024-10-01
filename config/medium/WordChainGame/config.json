@@ -1,0 +1,43 @@
+{
+    "path": "medium/WordChainGame",
+    "name": "Word Chain Game",
+    "alphanumName": "WordChainGame",
+    "link": "https://www.codingame.com/ide/puzzle/word-chain-game",
+    "tests": [
+        {
+            "name": "Animals",
+            "alphanumName": "Animals",
+            "file": "01 - Animals.txt"
+        },
+        {
+            "name": "One Word",
+            "alphanumName": "OneWord",
+            "file": "02 - One Word.txt"
+        },
+        {
+            "name": "Same Letters",
+            "alphanumName": "SameLetters",
+            "file": "03 - Same Letters.txt"
+        },
+        {
+            "name": "Countries",
+            "alphanumName": "Countries",
+            "file": "04 - Countries.txt"
+        },
+        {
+            "name": "League of Legends",
+            "alphanumName": "LeagueOfLegends",
+            "file": "05 - League of Legends.txt"
+        },
+        {
+            "name": "More Animals",
+            "alphanumName": "MoreAnimals",
+            "file": "06 - More Animals.txt"
+        },
+        {
+            "name": "More Same Letters",
+            "alphanumName": "MoreSameLetters",
+            "file": "07 - More Same Letters.txt"
+        }
+    ]
+}
