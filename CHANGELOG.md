@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - configuration for "Word Chain Game".
+- configuration for "Chebyshev Orbiting".
 
 ## [1.7.0] - 2024-09-30
 ### Added

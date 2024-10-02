@@ -1,0 +1,83 @@
+{
+    "path": "medium/ChebyshevOrbiting",
+    "name": "Chebyshev Orbiting",
+    "alphanumName": "ChebyshevOrbiting",
+    "link": "https://www.codingame.com/ide/puzzle/chebyshev-orbiting",
+    "tests": [
+        {
+            "name": "Sample",
+            "alphanumName": "Sample",
+            "file": "01 - Sample.txt"
+        },
+        {
+            "name": "Through the planet",
+            "alphanumName": "ThroughThePlanet",
+            "file": "02 - Through the planet.txt"
+        },
+        {
+            "name": "Small orbit",
+            "alphanumName": "SmallOrbit",
+            "file": "03 - Small orbit.txt"
+        },
+        {
+            "name": "Small planet. Crash?",
+            "alphanumName": "SmallPlanetCrash",
+            "file": "04 - Small planet Crash.txt"
+        },
+        {
+            "name": "Strange orbit",
+            "alphanumName": "StrangeOrbit",
+            "file": "05 - Strange orbit.txt"
+        },
+        {
+            "name": "Elliptical orbit",
+            "alphanumName": "EllipticalOrbit",
+            "file": "06 - Elliptical orbit.txt"
+        },
+        {
+            "name": "Elliptical orbit forever",
+            "alphanumName": "EllipticalOrbitForever",
+            "file": "07 - Elliptical orbit forever.txt"
+        },
+        {
+            "name": "Strange orbit forever",
+            "alphanumName": "StrangeOrbitForever",
+            "file": "08 - Strange orbit forever.txt"
+        },
+        {
+            "name": "Launch from planet and land",
+            "alphanumName": "LaunchFromPlanetAndLand",
+            "file": "09 - Launch from planet and land.txt"
+        },
+        {
+            "name": "Journey to the center of the planet",
+            "alphanumName": "JourneyToTheCenterOfThePlanet",
+            "file": "10 - Journey to the center of the planet.txt"
+        },
+        {
+            "name": "Giant step of the humanity",
+            "alphanumName": "GiantStepOfTheHumanity",
+            "file": "11 - Giant step of the humanity.txt"
+        },
+        {
+            "name": "Just crash",
+            "alphanumName": "JustCrash",
+            "file": "12 - Just crash.txt"
+        },
+        {
+            "name": "Early crash",
+            "alphanumName": "EarlyCrash",
+            "file": "13 - Early crash.txt"
+        },
+        {
+            "name": "Long-long cycle",
+            "alphanumName": "LongLongCycle",
+            "file": "14 - Long-long cycle.txt"
+        },
+        {
+            "name": "Long way to crash",
+            "alphanumName": "LongWayToCrash",
+            "file": "15 - Long way to crash.txt"
+        }
+    ]
+}
