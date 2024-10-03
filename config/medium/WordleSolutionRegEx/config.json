@@ -1,0 +1,63 @@
+{
+    "path": "medium/WordleSolutionRegEx",
+    "name": "Wordle Solution RegEx",
+    "alphanumName": "WordleSolutionRegEx",
+    "link": "https://www.codingame.com/ide/puzzle/wordle-solution-regex",
+    "tests": [
+        {
+            "name": "Endless Possibilities",
+            "alphanumName": "EndlessPossibilities",
+            "file": "01 - Endless Possibilities.txt"
+        },
+        {
+            "name": "Hole in One!",
+            "alphanumName": "HoleInOne",
+            "file": "02 - Hole in One!.txt"
+        },
+        {
+            "name": "Greens and Grays",
+            "alphanumName": "GreensAndGrays",
+            "file": "03 - Greens and Grays.txt"
+        },
+        {
+            "name": "Yellows and Grays",
+            "alphanumName": "YellowsAndGrays",
+            "file": "04 - Yellows and Grays.txt"
+        },
+        {
+            "name": "Yellows and Greens",
+            "alphanumName": "YellowsAndGreens",
+            "file": "05 - Yellows and Greens.txt"
+        },
+        {
+            "name": "Everything",
+            "alphanumName": "Everything",
+            "file": "06 - Everything.txt"
+        },
+        {
+            "name": "Everything, Everywhere",
+            "alphanumName": "EverythingEverywhere",
+            "file": "07 - Everything, Everywhere.txt"
+        },
+        {
+            "name": "Don’t Exclude ALL Grays!",
+            "alphanumName": "DontExcludeALLGrays",
+            "file": "08 - Don’t Exclude ALL Grays!.txt"
+        },
+        {
+            "name": "Everything, Everywhere, All At Once",
+            "alphanumName": "EverythingEverywhereAllAtOnce",
+            "file": "09 - Everything, Everywhere, All At Once.txt"
+        },
+        {
+            "name": "Don’t Exclude ALL Grays! 2",
+            "alphanumName": "DontExcludeALLGrays2",
+            "file": "10 - Don’t Exclude ALL Grays! 2.txt"
+        },
+        {
+            "name": "Solved!",
+            "alphanumName": "Solved!",
+            "file": "11 - Solved!.txt"
+        }
+    ]
+}
