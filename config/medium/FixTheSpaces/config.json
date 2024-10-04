@@ -1,0 +1,88 @@
+{
+    "path": "medium/FixTheSpaces",
+    "name": "Fix the spaces",
+    "alphanumName": "FixTheSpaces",
+    "link": "https://www.codingame.com/ide/puzzle/fix-the-spaces",
+    "tests": [
+        {
+            "name": "1 Starters",
+            "alphanumName": "Starters",
+            "file": "01 - Starters.txt"
+        },
+        {
+            "name": "2 Prefix letter",
+            "alphanumName": "PrefixLetter",
+            "file": "02 - Prefix letter.txt"
+        },
+        {
+            "name": "3 Suffix letter",
+            "alphanumName": "SuffixLetter",
+            "file": "03 - Suffix letter.txt"
+        },
+        {
+            "name": "4 Prefix words",
+            "alphanumName": "PrefixWords",
+            "file": "04 - Prefix words.txt"
+        },
+        {
+            "name": "5 Suffix words",
+            "alphanumName": "SuffixWords",
+            "file": "05 - Suffix words.txt"
+        },
+        {
+            "name": "6 Repeated",
+            "alphanumName": "Repeated",
+            "file": "06 - Repeated.txt"
+        },
+        {
+            "name": "7 Combo",
+            "alphanumName": "Combo",
+            "file": "07 - Combo.txt"
+        },
+        {
+            "name": "8 Unsolvable",
+            "alphanumName": "Unsolvable",
+            "file": "08 - Unsolvable.txt"
+        },
+        {
+            "name": "9 Actually solvable",
+            "alphanumName": "ActuallySolvable",
+            "file": "09 - Actually solvable.txt"
+        },
+        {
+            "name": "10 Actually solvable 2",
+            "alphanumName": "ActuallySolvable2",
+            "file": "10 - Actually solvable 2.txt"
+        },
+        {
+            "name": "11 Actually solvable 3",
+            "alphanumName": "ActuallySolvable3",
+            "file": "11 - Actually solvable 3.txt"
+        },
+        {
+            "name": "12 Actually solvable 4",
+            "alphanumName": "ActuallySolvable4",
+            "file": "12 - Actually solvable 4.txt"
+        },
+        {
+            "name": "13 Actually solvable 5",
+            "alphanumName": "ActuallySolvable5",
+            "file": "13 - Actually solvable 5.txt"
+        },
+        {
+            "name": "14 Actually solvable 6 (Count well)",
+            "alphanumName": "ActuallySolvable6CountWell",
+            "file": "14 - Actually solvable 6 (Count well).txt"
+        },
+        {
+            "name": "15 Performance 1 (70 words)",
+            "alphanumName": "Performance170Words",
+            "file": "15 - Performance 1 (70 words).txt"
+        },
+        {
+            "name": "16 Performance 2 (140 words)",
+            "alphanumName": "Performance2140Words",
+            "file": "16 - Performance 2 (140 words).txt"
+        }
+    ]
+}
