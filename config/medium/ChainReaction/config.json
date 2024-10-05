@@ -1,0 +1,38 @@
+{
+    "path": "medium/ChainReaction",
+    "name": "Chain Reaction",
+    "alphanumName": "ChainReaction",
+    "link": "https://www.codingame.com/ide/puzzle/chain-reaction",
+    "tests": [
+        {
+            "name": "Warm up",
+            "alphanumName": "WarmUp",
+            "file": "01 - Warm up.txt"
+        },
+        {
+            "name": "3 rows of 3 buttons",
+            "alphanumName": "ThreeRowsOf3Buttons",
+            "file": "02 - 3 rows of 3 buttons.txt"
+        },
+        {
+            "name": "A single row",
+            "alphanumName": "ASingleRow",
+            "file": "03 - A single row.txt"
+        },
+        {
+            "name": "More rotations",
+            "alphanumName": "MoreRotations",
+            "file": "04 - More rotations.txt"
+        },
+        {
+            "name": "Even more rotations",
+            "alphanumName": "EvenMoreRotations",
+            "file": "05 - Even more rotations.txt"
+        },
+        {
+            "name": "That’s too much",
+            "alphanumName": "ThatsTooMuch",
+            "file": "06 - That’s too much.txt"
+        }
+    ]
+}

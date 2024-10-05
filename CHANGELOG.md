@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Chebyshev Orbiting".
 - configuration for "Wordle Solution RegEx".
 - configuration for "Fix the spaces".
+- configuration for "Chain Reaction".
 
 ## [1.7.0] - 2024-09-30
 ### Added
