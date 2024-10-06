@@ -1,0 +1,53 @@
+{
+    "path": "medium/GameOfLifeSimulation",
+    "name": "Game of Life Simulation",
+    "alphanumName": "GameOfLifeSimulation",
+    "link": "https://www.codingame.com/ide/puzzle/game-of-life-simulation",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Blinker (Oscillator)",
+            "alphanumName": "BlinkerOscillator",
+            "file": "02 - Blinker (Oscillator).txt"
+        },
+        {
+            "name": "Block",
+            "alphanumName": "Block",
+            "file": "03 - Block.txt"
+        },
+        {
+            "name": "To still",
+            "alphanumName": "ToStill",
+            "file": "04 - To still.txt"
+        },
+        {
+            "name": "Single cell",
+            "alphanumName": "SingleCell",
+            "file": "05 - Single cell.txt"
+        },
+        {
+            "name": "Two gliders",
+            "alphanumName": "TwoGliders",
+            "file": "06 - Two gliders.txt"
+        },
+        {
+            "name": "Pulsar",
+            "alphanumName": "Pulsar",
+            "file": "07 - Pulsar.txt"
+        },
+        {
+            "name": "Glider gun",
+            "alphanumName": "GliderGun",
+            "file": "08 - Glider gun.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "Random",
+            "file": "09 - Random.txt"
+        }
+    ]
+}
