@@ -1,0 +1,38 @@
+{
+    "path": "medium/SlimSAT",
+    "name": "Slim SAT",
+    "alphanumName": "SlimSAT",
+    "link": "https://www.codingame.com/ide/puzzle/slim-sat",
+    "tests": [
+        {
+            "name": "A simple one",
+            "alphanumName": "ASimpleOne",
+            "file": "01 - A simple one.txt"
+        },
+        {
+            "name": "Slightly bigger formula",
+            "alphanumName": "SlightlyBiggerFormula",
+            "file": "02 - Slightly bigger formula.txt"
+        },
+        {
+            "name": "More variables",
+            "alphanumName": "MoreVariables",
+            "file": "03 - More variables.txt"
+        },
+        {
+            "name": "Even bigger formula",
+            "alphanumName": "EvenBiggerFormula",
+            "file": "04 - Even bigger formula.txt"
+        },
+        {
+            "name": "Huge formula",
+            "alphanumName": "HugeFormula",
+            "file": "05 - Huge formula.txt"
+        },
+        {
+            "name": "Many variables",
+            "alphanumName": "ManyVariables",
+            "file": "06 - Many variables.txt"
+        }
+    ]
+}
