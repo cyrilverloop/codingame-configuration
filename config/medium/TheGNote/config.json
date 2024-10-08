@@ -1,0 +1,48 @@
+{
+    "path": "medium/TheGNote",
+    "name": "The G Note",
+    "alphanumName": "TheGNote",
+    "link": "https://www.codingame.com/ide/puzzle/the-g-note",
+    "tests": [
+        {
+            "name": "V",
+            "alphanumName": "V",
+            "file": "01 - V.txt"
+        },
+        {
+            "name": "IX",
+            "alphanumName": "IX",
+            "file": "02 - IX.txt"
+        },
+        {
+            "name": "XVII",
+            "alphanumName": "XVII",
+            "file": "03 - XVII.txt"
+        },
+        {
+            "name": "XXXIII",
+            "alphanumName": "XXXIII",
+            "file": "04 - XXXIII.txt"
+        },
+        {
+            "name": "LXV",
+            "alphanumName": "LXV",
+            "file": "05 - LXV.txt"
+        },
+        {
+            "name": "CXXIX",
+            "alphanumName": "CXXIX",
+            "file": "06 - CXXIX.txt"
+        },
+        {
+            "name": "CCLVII",
+            "alphanumName": "CCLVII",
+            "file": "07 - CCLVII.txt"
+        },
+        {
+            "name": "DXIII",
+            "alphanumName": "DXIII",
+            "file": "08 - DXIII.txt"
+        }
+    ]
+}
