@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Game of Life Simulation".
 - configuration for "Slim SAT".
 - configuration for "The G Note".
+- configuration for "Number of triangles enclosing X".
 
 ## [1.7.0] - 2024-09-30
 ### Added

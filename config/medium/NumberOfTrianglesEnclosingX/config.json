@@ -1,0 +1,53 @@
+{
+    "path": "medium/NumberOfTrianglesEnclosingX",
+    "name": "Number of triangles enclosing X",
+    "alphanumName": "NumberOfTrianglesEnclosingX",
+    "link": "https://www.codingame.com/ide/puzzle/number-of-triangles-enclosing-x",
+    "tests": [
+        {
+            "name": "1) Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "2) X is outside",
+            "alphanumName": "XIsOutside",
+            "file": "02 - X is outside.txt"
+        },
+        {
+            "name": "3) 4 points",
+            "alphanumName": "FourPoints",
+            "file": "03 - 4 points.txt"
+        },
+        {
+            "name": "4) 4 points different X",
+            "alphanumName": "FourPointsDifferentX",
+            "file": "04 - 4 points different X.txt"
+        },
+        {
+            "name": "5) X in the center of the square",
+            "alphanumName": "XInTheCenterOfTheSquare",
+            "file": "05 - X in the center of the square.txt"
+        },
+        {
+            "name": "6) outside the Halo of points",
+            "alphanumName": "outsideTheHaloOfPoints",
+            "file": "06 - outside the Halo of points.txt"
+        },
+        {
+            "name": "7) with decimals",
+            "alphanumName": "withDecimals",
+            "file": "07 - with decimals.txt"
+        },
+        {
+            "name": "8) many data few output",
+            "alphanumName": "manyDataFewOutput",
+            "file": "08 - many data few output.txt"
+        },
+        {
+            "name": "9) many data many output",
+            "alphanumName": "manyDataManyOutput",
+            "file": "09 - many data many output.txt"
+        }
+    ]
+}
