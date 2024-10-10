@@ -1,0 +1,43 @@
+{
+    "path": "medium/ScaryRideAtTheHauntedMansion",
+    "name": "Scary Ride at the Haunted Mansion",
+    "alphanumName": "ScaryRideAtTheHauntedMansion",
+    "link": "https://www.codingame.com/ide/puzzle/scary-ride-at-the-haunted-mansion",
+    "tests": [
+        {
+            "name": "1: me with my parents only",
+            "alphanumName": "meWithMyParentsOnly",
+            "file": "01 - me with my parents only.txt"
+        },
+        {
+            "name": "2: 3 groups of people",
+            "alphanumName": "threeGroupsOfPeople",
+            "file": "02 - 3 groups of people.txt"
+        },
+        {
+            "name": "3: forbidden for kids alone",
+            "alphanumName": "forbiddenForKidsAlone",
+            "file": "03 - forbidden for kids alone.txt"
+        },
+        {
+            "name": "4: do not mix the groups",
+            "alphanumName": "doNotMixTheGroups",
+            "file": "04 - do not mix the groups.txt"
+        },
+        {
+            "name": "5: many rides before my turn",
+            "alphanumName": "manyRidesBeforeMyTurn",
+            "file": "05 - many rides before my turn.txt"
+        },
+        {
+            "name": "6: we stop counting when I am sitting for my ride",
+            "alphanumName": "weStopCountingWhenIAmSittingForMyRide",
+            "file": "06 - we stop counting when I am sitting for my ride.txt"
+        },
+        {
+            "name": "7: very long day !",
+            "alphanumName": "veryLongDay",
+            "file": "07 - very long day !.txt"
+        }
+    ]
+}
