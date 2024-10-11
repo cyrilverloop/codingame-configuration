@@ -1,0 +1,63 @@
+{
+    "path": "medium/HowManyTrianglesAndRectangles",
+    "name": "How many triangles and rectangles?",
+    "alphanumName": "HowManyTrianglesAndRectangles",
+    "link": "https://www.codingame.com/ide/puzzle/how-many-triangles-and-rectangles",
+    "tests": [
+        {
+            "name": "One rectangle",
+            "alphanumName": "OneRectangle",
+            "file": "01 - One rectangle.txt"
+        },
+        {
+            "name": "One triangle",
+            "alphanumName": "OneTriangle",
+            "file": "02 - One triangle.txt"
+        },
+        {
+            "name": "Three triangles",
+            "alphanumName": "ThreeTriangles",
+            "file": "03 - Three triangles.txt"
+        },
+        {
+            "name": "Little house",
+            "alphanumName": "LittleHouse",
+            "file": "04 - Little house.txt"
+        },
+        {
+            "name": "Some rectangles",
+            "alphanumName": "SomeRectangles",
+            "file": "05 - Some rectangles.txt"
+        },
+        {
+            "name": "Some triangles",
+            "alphanumName": "SomeTriangles",
+            "file": "06 - Some triangles.txt"
+        },
+        {
+            "name": "A cross",
+            "alphanumName": "ACross",
+            "file": "07 - A cross.txt"
+        },
+        {
+            "name": "More triangles and rectangles",
+            "alphanumName": "MoreTrianglesAndRectangles",
+            "file": "08 - More triangles and rectangles.txt"
+        },
+        {
+            "name": "Even more triangles and rectangles",
+            "alphanumName": "EvenMoreTrianglesAndRectangles",
+            "file": "09 - Even more triangles and rectangles.txt"
+        },
+        {
+            "name": "CG",
+            "alphanumName": "CG",
+            "file": "10 - CG.txt"
+        },
+        {
+            "name": "HELLO",
+            "alphanumName": "HELLO",
+            "file": "11 - HELLO.txt"
+        }
+    ]
+}
