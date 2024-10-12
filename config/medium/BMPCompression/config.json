@@ -1,0 +1,58 @@
+{
+    "path": "medium/BMPCompression",
+    "name": "BMP Compression",
+    "alphanumName": "BMPCompression",
+    "link": "https://www.codingame.com/ide/puzzle/bmp-compression",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "Dot",
+            "alphanumName": "Dot",
+            "file": "02 - Dot.txt"
+        },
+        {
+            "name": "Blank",
+            "alphanumName": "Blank",
+            "file": "03 - Blank.txt"
+        },
+        {
+            "name": "Smiley",
+            "alphanumName": "Smiley",
+            "file": "04 - Smiley.txt"
+        },
+        {
+            "name": "Ghost",
+            "alphanumName": "Ghost",
+            "file": "05 - Ghost.txt"
+        },
+        {
+            "name": "Space",
+            "alphanumName": "Space",
+            "file": "06 - Space.txt"
+        },
+        {
+            "name": "Bike",
+            "alphanumName": "Bike",
+            "file": "07 - Bike.txt"
+        },
+        {
+            "name": "Flower",
+            "alphanumName": "Flower",
+            "file": "08 - Flower.txt"
+        },
+        {
+            "name": "CG",
+            "alphanumName": "CG",
+            "file": "09 - CG.txt"
+        },
+        {
+            "name": "ASCII",
+            "alphanumName": "ASCII",
+            "file": "10 - ASCII.txt"
+        }
+    ]
+}

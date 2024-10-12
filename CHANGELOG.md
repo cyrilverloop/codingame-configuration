@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Number of triangles enclosing X".
 - configuration for "Scary Ride at the Haunted Mansion".
 - configuration for "How many triangles and rectangles?".
+- configuration for "BMP Compression".
 
 ## [1.7.0] - 2024-09-30
 ### Added
