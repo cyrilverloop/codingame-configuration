@@ -1,0 +1,38 @@
+{
+    "path": "medium/CodeBreakerPuzzle",
+    "name": "Code Breaker Puzzle",
+    "alphanumName": "CodeBreakerPuzzle",
+    "link": "https://www.codingame.com/ide/puzzle/code-breaker-puzzle",
+    "tests": [
+        {
+            "name": "Hello world",
+            "alphanumName": "HelloWorld",
+            "file": "01 - Hello world.txt"
+        },
+        {
+            "name": "Baking your code",
+            "alphanumName": "BakingYourCode",
+            "file": "02 - Baking your code.txt"
+        },
+        {
+            "name": "Ominous",
+            "alphanumName": "Ominous",
+            "file": "03 - Ominous.txt"
+        },
+        {
+            "name": "Common knowledge",
+            "alphanumName": "CommonKnowledge",
+            "file": "04 - Common knowledge.txt"
+        },
+        {
+            "name": "First Multiplier",
+            "alphanumName": "FirstMultiplier",
+            "file": "05 - First Multiplier.txt"
+        },
+        {
+            "name": "So Cryptic",
+            "alphanumName": "So Cryptic",
+            "file": "06 - So Cryptic.txt"
+        }
+    ]
+}
