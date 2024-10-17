@@ -1,0 +1,48 @@
+{
+    "path": "medium/GoCompetition",
+    "name": "Go competition",
+    "alphanumName": "GoCompetition",
+    "link": "https://www.codingame.com/ide/puzzle/go-competition",
+    "tests": [
+        {
+            "name": "Test - Basics 1",
+            "alphanumName": "TestBasics1",
+            "file": "01 - Test - Basics 1.txt"
+        },
+        {
+            "name": "Test - Basics 2",
+            "alphanumName": "TestBasics2",
+            "file": "02 - Test - Basics 2.txt"
+        },
+        {
+            "name": "Test - Basics 3",
+            "alphanumName": "TestBasics3",
+            "file": "03 - Test - Basics 3.txt"
+        },
+        {
+            "name": "Test - Basics 4",
+            "alphanumName": "TestBasics4",
+            "file": "04 - Test - Basics 4.txt"
+        },
+        {
+            "name": "Test - Medium 1",
+            "alphanumName": "TestMedium1",
+            "file": "05 - Test - Medium 1.txt"
+        },
+        {
+            "name": "Test - Medium 2",
+            "alphanumName": "TestMedium2",
+            "file": "06 - Test - Medium 2.txt"
+        },
+        {
+            "name": "Test - Hard 1",
+            "alphanumName": "TestHard1",
+            "file": "07 - Test - Hard 1.txt"
+        },
+        {
+            "name": "Test - Hard 2",
+            "alphanumName": "TestHard2",
+            "file": "08 - Test - Hard 2.txt"
+        }
+    ]
+}
