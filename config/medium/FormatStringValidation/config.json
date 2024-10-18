@@ -1,0 +1,48 @@
+{
+    "path": "medium/FormatStringValidation",
+    "name": "Format string validation",
+    "alphanumName": "FormatStringValidation",
+    "link": "https://www.codingame.com/ide/puzzle/format-string-validation",
+    "tests": [
+        {
+            "name": "Any word",
+            "alphanumName": "AnyWord",
+            "file": "01 - Any word.txt"
+        },
+        {
+            "name": "Any letter",
+            "alphanumName": "AnyLetter",
+            "file": "02 - Any letter.txt"
+        },
+        {
+            "name": "Wrong letter",
+            "alphanumName": "WrongLetter",
+            "file": "03 - Wrong letter.txt"
+        },
+        {
+            "name": "Wrong part",
+            "alphanumName": "WrongPart",
+            "file": "04 - Wrong part.txt"
+        },
+        {
+            "name": "Technically correct",
+            "alphanumName": "TechnicallyCorrect",
+            "file": "05 - Technically correct.txt"
+        },
+        {
+            "name": "Upping the Ante",
+            "alphanumName": "UppingTheAnte",
+            "file": "06 - Upping the Ante.txt"
+        },
+        {
+            "name": "Out of bounds",
+            "alphanumName": "OutOfBounds",
+            "file": "07 - Out of bounds.txt"
+        },
+        {
+            "name": "Let’s not jump to hasty conclusions",
+            "alphanumName": "LetsNotJumpToHastyConclusions",
+            "file": "08 - Let’s not jump to hasty conclusions.txt"
+        }
+    ]
+}
