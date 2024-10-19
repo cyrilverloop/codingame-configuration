@@ -1,0 +1,58 @@
+{
+    "path": "medium/IdentifyASimpleShape",
+    "name": "Identify a simple shape",
+    "alphanumName": "IdentifyASimpleShape",
+    "link": "https://www.codingame.com/ide/puzzle/identify-a-simple-shape",
+    "tests": [
+        {
+            "name": "Point",
+            "alphanumName": "Point",
+            "file": "01 - Point.txt"
+        },
+        {
+            "name": "Vertical line",
+            "alphanumName": "VerticalLine",
+            "file": "02 - Vertical line.txt"
+        },
+        {
+            "name": "Horizontal line",
+            "alphanumName": "HorizontalLine",
+            "file": "03 - Horizontal line.txt"
+        },
+        {
+            "name": "Diagonal line",
+            "alphanumName": "DiagonalLine",
+            "file": "04 - Diagonal line.txt"
+        },
+        {
+            "name": "Empty square",
+            "alphanumName": "EmptySquare",
+            "file": "05 - Empty square.txt"
+        },
+        {
+            "name": "Filled rectangle",
+            "alphanumName": "FilledRectangle",
+            "file": "06 - Filled rectangle.txt"
+        },
+        {
+            "name": "Another square",
+            "alphanumName": "AnotherSquare",
+            "file": "07 - Another square.txt"
+        },
+        {
+            "name": "Empty triangle",
+            "alphanumName": "EmptyTriangle",
+            "file": "08 - Empty triangle.txt"
+        },
+        {
+            "name": "Filled triangle",
+            "alphanumName": "FilledTriangle",
+            "file": "09 - Filled triangle.txt"
+        },
+        {
+            "name": "All black",
+            "alphanumName": "AllBlack",
+            "file": "10 - All black.txt"
+        }
+    ]
+}

@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Army ants".
 - configuration for "Go competition".
 - configuration for "Format string validation".
+- configuration for "Identify a simple shape".
 
 ## [1.7.0] - 2024-09-30
 ### Added
