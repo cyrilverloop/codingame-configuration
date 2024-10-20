@@ -1,0 +1,58 @@
+{
+    "path": "medium/TeamBuilding",
+    "name": "Team Building",
+    "alphanumName": "TeamBuilding",
+    "link": "https://www.codingame.com/ide/puzzle/team-building",
+    "tests": [
+        {
+            "name": "4 players, N=2, K=2",
+            "alphanumName": "FourPlayersN2K2",
+            "file": "01 - 4 players, N=2, K=2.txt"
+        },
+        {
+            "name": "5 players, N=2, K=2",
+            "alphanumName": "FivePlayersN2K2",
+            "file": "02 - 5 players, N=2, K=2.txt"
+        },
+        {
+            "name": "6 players, N=3, K=2",
+            "alphanumName": "SixPlayersN3K2",
+            "file": "03 - 6 players, N=3, K=2.txt"
+        },
+        {
+            "name": "3 players, N=2, K=1, shared team name",
+            "alphanumName": "ThreePlayersN2K1SharedTeamName",
+            "file": "04 - 3 players, N=2, K=1, shared team name.txt"
+        },
+        {
+            "name": "7 players, N=2, K=3",
+            "alphanumName": "SevenPlayersN2K3",
+            "file": "05 - 7 players, N=2, K=3.txt"
+        },
+        {
+            "name": "10 players, N=1, K=8, shared team name",
+            "alphanumName": "TenPlayersN1K8SharedTeamName",
+            "file": "06 - 10 players, N=1, K=8, shared team name.txt"
+        },
+        {
+            "name": "BABADUM",
+            "alphanumName": "BABADUM",
+            "file": "07 - BABADUM.txt"
+        },
+        {
+            "name": "Lonely",
+            "alphanumName": "Lonely",
+            "file": "08 - Lonely.txt"
+        },
+        {
+            "name": "Many teams of 1",
+            "alphanumName": "ManyTeamsOf1",
+            "file": "09 - Many teams of 1.txt"
+        },
+        {
+            "name": "HMMMMM",
+            "alphanumName": "HMMMMM",
+            "file": "10 - HMMMMM.txt"
+        }
+    ]
+}
