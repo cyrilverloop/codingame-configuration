@@ -1,0 +1,33 @@
+{
+    "path": "medium/EratosthenesWallpaper",
+    "name": "Eratosthenes’ Wallpaper",
+    "alphanumName": "EratosthenesWallpaper",
+    "link": "https://www.codingame.com/ide/puzzle/eratosthenes-wallpaper",
+    "tests": [
+        {
+            "name": "The first numbers",
+            "alphanumName": "TheFirstNumbers",
+            "file": "01 - The first numbers.txt"
+        },
+        {
+            "name": "Big numbers",
+            "alphanumName": "BigNumbers",
+            "file": "02 - Big numbers.txt"
+        },
+        {
+            "name": "Big sheet",
+            "alphanumName": "BigSheet",
+            "file": "03 - Big sheet.txt"
+        },
+        {
+            "name": "Will it fit?",
+            "alphanumName": "WillItFit",
+            "file": "04 - Will it fit.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "Impossible",
+            "file": "05 - Impossible.txt"
+        }
+    ]
+}
