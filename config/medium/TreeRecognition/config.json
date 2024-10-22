@@ -1,0 +1,43 @@
+{
+    "path": "medium/TreeRecognition",
+    "name": "Tree Recognition",
+    "alphanumName": "TreeRecognition",
+    "link": "https://www.codingame.com/ide/puzzle/tree-recognition",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "3-nodes",
+            "alphanumName": "3-nodes",
+            "file": "02 - 3-nodes.txt"
+        },
+        {
+            "name": "4-nodes",
+            "alphanumName": "4-nodes",
+            "file": "03 - 4-nodes.txt"
+        },
+        {
+            "name": "5-nodes",
+            "alphanumName": "5-nodes",
+            "file": "04 - 5-nodes.txt"
+        },
+        {
+            "name": "8-nodes",
+            "alphanumName": "8-nodes",
+            "file": "05 - 8-nodes.txt"
+        },
+        {
+            "name": "More trees",
+            "alphanumName": "MoreTrees",
+            "file": "06 - More trees.txt"
+        },
+        {
+            "name": "Bigger trees",
+            "alphanumName": "BiggerTrees",
+            "file": "07 - Bigger trees.txt"
+        }
+    ]
+}

@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Identify a simple shape".
 - configuration for "Team Building".
 - configuration for "Eratosthenes’ Wallpaper".
+- configuration for "Tree Recognition".
 
 ## [1.7.0] - 2024-09-30
 ### Added
