@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Team Building".
 - configuration for "Eratosthenes’ Wallpaper".
 - configuration for "Tree Recognition".
+- configuration for "Frequency-Based Decryption".
 
 ## [1.7.0] - 2024-09-30
 ### Added
