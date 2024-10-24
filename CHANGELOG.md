@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Eratosthenes’ Wallpaper".
 - configuration for "Tree Recognition".
 - configuration for "Frequency-Based Decryption".
+- configuration for "Optical Link Failure Localization".
 
 ## [1.7.0] - 2024-09-30
 ### Added

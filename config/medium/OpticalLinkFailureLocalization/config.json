@@ -1,0 +1,38 @@
+{
+    "path": "medium/OpticalLinkFailureLocalization",
+    "name": "Optical Link Failure Localization",
+    "alphanumName": "OpticalLinkFailureLocalization",
+    "link": "https://www.codingame.com/ide/puzzle/optical-link-failure-localization",
+    "tests": [
+        {
+            "name": "Small network single",
+            "alphanumName": "SmallNetworkSingle",
+            "file": "01 - Small network single.txt"
+        },
+        {
+            "name": "Medium network single",
+            "alphanumName": "MediumNetworkSingle",
+            "file": "02 - Medium network single.txt"
+        },
+        {
+            "name": "Ambiguous single",
+            "alphanumName": "AmbiguousSingle",
+            "file": "03 - Ambiguous single.txt"
+        },
+        {
+            "name": "Medium network dual",
+            "alphanumName": "MediumNetworkDual",
+            "file": "04 - Medium network dual.txt"
+        },
+        {
+            "name": "Ambiguous dual",
+            "alphanumName": "AmbiguousDual",
+            "file": "05 - Ambiguous dual.txt"
+        },
+        {
+            "name": "Large network dual",
+            "alphanumName": "LargeNetworkDual",
+            "file": "06 - Large network dual.txt"
+        }
+    ]
+}
