@@ -1,0 +1,58 @@
+{
+    "path": "medium/RecurringDecimalToFraction",
+    "name": "Recurring decimal to fraction",
+    "alphanumName": "RecurringDecimalToFraction",
+    "link": "https://www.codingame.com/ide/puzzle/recurring-decimal-to-fraction",
+    "tests": [
+        {
+            "name": "Classic number",
+            "alphanumName": "ClassicNumber",
+            "file": "01 - Classic number.txt"
+        },
+        {
+            "name": "Two writings of one number",
+            "alphanumName": "TwoWritingsOfOneNumber",
+            "file": "02 - Two writings of one number.txt"
+        },
+        {
+            "name": "Classic period 2",
+            "alphanumName": "ClassicPeriod2",
+            "file": "03 - Classic period 2.txt"
+        },
+        {
+            "name": "Other period 2",
+            "alphanumName": "OtherPeriod2",
+            "file": "04 - Other period 2.txt"
+        },
+        {
+            "name": "Different end",
+            "alphanumName": "DifferentEnd",
+            "file": "05 - Different end.txt"
+        },
+        {
+            "name": "Other period 3",
+            "alphanumName": "OtherPeriod3",
+            "file": "06 - Other period 3.txt"
+        },
+        {
+            "name": "Period is not at the beginning",
+            "alphanumName": "PeriodIsNotAtTheBeginning",
+            "file": "07 - Period is not at the beginning.txt"
+        },
+        {
+            "name": "Particular case with an integer",
+            "alphanumName": "ParticularCaseWithAnInteger",
+            "file": "08 - Particular case with an integer.txt"
+        },
+        {
+            "name": "Other classic test",
+            "alphanumName": "OtherClassicTest",
+            "file": "09 - Other classic test.txt"
+        },
+        {
+            "name": "Only two repetitions with rest",
+            "alphanumName": "OnlyTwoRepetitionsWithRest",
+            "file": "10 - Only two repetitions with rest.txt"
+        }
+    ]
+}
