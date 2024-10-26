@@ -1,5 +1,5 @@
 {
-    "path": "easy/SixteenBySixteenSudoku",
+    "path": "medium/SixteenBySixteenSudoku",
     "name": "16x16 Sudoku",
     "alphanumName": "SixteenBySixteenSudoku",
     "link": "https://www.codingame.com/ide/puzzle/16x16-sudoku",
