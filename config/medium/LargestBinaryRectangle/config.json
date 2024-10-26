@@ -1,0 +1,48 @@
+{
+    "path": "medium/LargestBinaryRectangle",
+    "name": "Largest Binary Rectangle",
+    "alphanumName": "LargestBinaryRectangle",
+    "link": "https://www.codingame.com/ide/puzzle/largest-binary-rectangle",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Long rectangle",
+            "alphanumName": "LongRectangle",
+            "file": "02 - Long rectangle.txt"
+        },
+        {
+            "name": "Tall rectangle",
+            "alphanumName": "TallRectangle",
+            "file": "03 - Tall rectangle.txt"
+        },
+        {
+            "name": "One row",
+            "alphanumName": "OneRow",
+            "file": "04 - One row.txt"
+        },
+        {
+            "name": "One col",
+            "alphanumName": "OneCol",
+            "file": "05 - One col.txt"
+        },
+        {
+            "name": "Random 1",
+            "alphanumName": "Random1",
+            "file": "06 - Random 1.txt"
+        },
+        {
+            "name": "Random 2",
+            "alphanumName": "Random2",
+            "file": "07 - Random 2.txt"
+        },
+        {
+            "name": "Random 3",
+            "alphanumName": "Random3",
+            "file": "08 - Random 3.txt"
+        }
+    ]
+}
