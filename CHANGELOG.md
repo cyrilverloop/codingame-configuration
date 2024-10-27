@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Optical Link Failure Localization".
 - configuration for "Recurring decimal to fraction".
 - configuration for "Largest Binary Rectangle".
+- configuration for "Pixel Polygons".
 
 ### Fixed
 - `path` for : "ASCII Art with Logo Language", "ASCII Art with Logo Language, Part 2",

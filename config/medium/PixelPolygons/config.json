@@ -1,0 +1,53 @@
+{
+    "path": "medium/PixelPolygons",
+    "name": "Pixel Polygons",
+    "alphanumName": "PixelPolygons",
+    "link": "https://www.codingame.com/ide/puzzle/pixel-polygons",
+    "tests": [
+        {
+            "name": "Test 1",
+            "alphanumName": "test1",
+            "file": "01 - test 1.txt"
+        },
+        {
+            "name": "Test 2",
+            "alphanumName": "test2",
+            "file": "02 - test 2.txt"
+        },
+        {
+            "name": "Test 3",
+            "alphanumName": "test3",
+            "file": "03 - test 3.txt"
+        },
+        {
+            "name": "Test 4",
+            "alphanumName": "test4",
+            "file": "04 - test 4.txt"
+        },
+        {
+            "name": "Test 5",
+            "alphanumName": "test5",
+            "file": "05 - test 5.txt"
+        },
+        {
+            "name": "Test 6",
+            "alphanumName": "test6",
+            "file": "06 - test 6.txt"
+        },
+        {
+            "name": "Test 7",
+            "alphanumName": "test7",
+            "file": "07 - test 7.txt"
+        },
+        {
+            "name": "Test 8",
+            "alphanumName": "test8",
+            "file": "08 - test 8.txt"
+        },
+        {
+            "name": "Test 9",
+            "alphanumName": "test9",
+            "file": "09 - test 9.txt"
+        }
+    ]
+}
