@@ -33,6 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Recurring decimal to fraction".
 - configuration for "Largest Binary Rectangle".
 - configuration for "Pixel Polygons".
+- configuration for "Fibonomials".
 
 ### Fixed
 - `path` for : "ASCII Art with Logo Language", "ASCII Art with Logo Language, Part 2",

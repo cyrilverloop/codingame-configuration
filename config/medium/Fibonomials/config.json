@@ -1,0 +1,38 @@
+{
+    "path": "medium/Fibonomials",
+    "name": "Fibonomials",
+    "alphanumName": "Fibonomials",
+    "link": "https://www.codingame.com/ide/puzzle/fibonomials",
+    "tests": [
+        {
+            "name": "Example 1",
+            "alphanumName": "Example1",
+            "file": "01 - Example 1.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "Example2",
+            "file": "02 - Example 2.txt"
+        },
+        {
+            "name": "Regular Fibonacci !",
+            "alphanumName": "RegularFibonacci",
+            "file": "03 - Regular Fibonacci !.txt"
+        },
+        {
+            "name": "Almost Fibonacci !",
+            "alphanumName": "AlmostFibonacci",
+            "file": "04 - Almost Fibonacci !.txt"
+        },
+        {
+            "name": "Powers of 2",
+            "alphanumName": "PowersOf2",
+            "file": "05 - Powers of 2.txt"
+        },
+        {
+            "name": "Exponential growth",
+            "alphanumName": "ExponentialGrowth",
+            "file": "06 - Exponential growth.txt"
+        }
+    ]
+}
