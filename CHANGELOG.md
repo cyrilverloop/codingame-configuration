@@ -39,6 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `path` for : "ASCII Art with Logo Language", "ASCII Art with Logo Language, Part 2",
 "Army ants", "Finish the Eight Queens", "Frequency-Based Decryption",
 "Partition Numbers", "16x16 Sudoku", and "The Prime Twins - Part Two".
+- alphanumName of test "One Tree" for "Tiny Forest".
 
 ## [1.7.0] - 2024-09-30
 ### Added
