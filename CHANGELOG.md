@@ -34,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Largest Binary Rectangle".
 - configuration for "Pixel Polygons".
 - configuration for "Fibonomials".
+- configuration for "Hotel".
 
 ### Fixed
 - `path` for : "ASCII Art with Logo Language", "ASCII Art with Logo Language, Part 2",

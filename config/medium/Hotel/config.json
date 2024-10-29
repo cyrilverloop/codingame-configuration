@@ -1,0 +1,28 @@
+{
+    "path": "medium/Hotel",
+    "name": "Hotel",
+    "alphanumName": "Hotel",
+    "link": "https://www.codingame.com/ide/puzzle/hotel",
+    "tests": [
+        {
+            "name": "Winter is coming",
+            "alphanumName": "WinterIsComing",
+            "file": "01 - Winter is coming.txt"
+        },
+        {
+            "name": "Help me if you can",
+            "alphanumName": "HelpMeIfYouCan",
+            "file": "02 - Help me if you can.txt"
+        },
+        {
+            "name": "I am the danger",
+            "alphanumName": "IAmTheDanger",
+            "file": "03 - I am the danger.txt"
+        },
+        {
+            "name": "Guitar heroes",
+            "alphanumName": "GuitarHeroes",
+            "file": "04 - Guitar heroes.txt"
+        }
+    ]
+}
