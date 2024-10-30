@@ -1,0 +1,53 @@
+{
+    "path": "medium/RingTheBells",
+    "name": "Ring the bells",
+    "alphanumName": "RingTheBells",
+    "link": "https://www.codingame.com/ide/puzzle/ring-the-bells",
+    "tests": [
+        {
+            "name": "Two transpositions",
+            "alphanumName": "TwoTranspositions",
+            "file": "01 - Two transpositions.txt"
+        },
+        {
+            "name": "Conjugate of 3-cycle",
+            "alphanumName": "ConjugateOf3Cycle",
+            "file": "02 - Conjugate of 3-cycle.txt"
+        },
+        {
+            "name": "Two transpositions",
+            "alphanumName": "TwoTranspositions",
+            "file": "03 - Two transpositions.txt"
+        },
+        {
+            "name": "Null permutation",
+            "alphanumName": "NullPermutation",
+            "file": "04 - Null permutation.txt"
+        },
+        {
+            "name": "Same permutation",
+            "alphanumName": "SamePermutation",
+            "file": "05 - Same permutation.txt"
+        },
+        {
+            "name": "1-cycle",
+            "alphanumName": "OneCycle",
+            "file": "06 - 1-cycle.txt"
+        },
+        {
+            "name": "Empty permutation",
+            "alphanumName": "EmptyPermutation",
+            "file": "07 - Empty permutation.txt"
+        },
+        {
+            "name": "All cases",
+            "alphanumName": "AllCases",
+            "file": "08 - All cases.txt"
+        },
+        {
+            "name": "Plain Bob Minimus (3 moves)",
+            "alphanumName": "PlainBobMinimus3Moves",
+            "file": "09 - Plain Bob Minimus (3 moves).txt"
+        }
+    ]
+}

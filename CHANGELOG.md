@@ -35,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Pixel Polygons".
 - configuration for "Fibonomials".
 - configuration for "Hotel".
+- configuration for "Ring the bells".
 
 ### Fixed
 - `path` for : "ASCII Art with Logo Language", "ASCII Art with Logo Language, Part 2",
