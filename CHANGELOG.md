@@ -36,6 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Fibonomials".
 - configuration for "Hotel".
 - configuration for "Ring the bells".
+- configuration for "Particle Detection with Cloud Chamber".
 
 ### Fixed
 - `path` for : "ASCII Art with Logo Language", "ASCII Art with Logo Language, Part 2",
