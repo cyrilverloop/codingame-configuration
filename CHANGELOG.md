@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - configuration for "Binary Tree Visual".
+- configuration for "Optimized coloring".
 
 ## [1.8.0] - 2024-10-31
 ### Added

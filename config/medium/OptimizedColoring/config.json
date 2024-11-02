@@ -1,0 +1,48 @@
+{
+    "path": "medium/OptimizedColoring",
+    "name": "Optimized coloring",
+    "alphanumName": "OptimizedColoring",
+    "link": "https://www.codingame.com/ide/puzzle/optimized-coloring",
+    "tests": [
+        {
+            "name": "Really easy : 1 zone",
+            "alphanumName": "ReallyEasy1Zone",
+            "file": "01 - Really easy 1 zone.txt"
+        },
+        {
+            "name": "Easy",
+            "alphanumName": "Easy",
+            "file": "02 - Easy.txt"
+        },
+        {
+            "name": "Easy : Nested Zone",
+            "alphanumName": "EasyNestedZone",
+            "file": "03 - Easy Nested Zone.txt"
+        },
+        {
+            "name": "Geometry !",
+            "alphanumName": "Geometry",
+            "file": "04 - Geometry !.txt"
+        },
+        {
+            "name": "Grid",
+            "alphanumName": "Grid",
+            "file": "05 - Grid.txt"
+        },
+        {
+            "name": "Tricky",
+            "alphanumName": "Tricky",
+            "file": "06 - Tricky.txt"
+        },
+        {
+            "name": "Draws !",
+            "alphanumName": "Draws",
+            "file": "07 - Draws !.txt"
+        },
+        {
+            "name": "More Colors",
+            "alphanumName": "More Colors",
+            "file": "08 - More Colors.txt"
+        }
+    ]
+}
