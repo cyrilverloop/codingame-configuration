@@ -1,0 +1,33 @@
+{
+    "path": "medium/PrimitivePythagoreanTriples",
+    "name": "Primitive Pythagorean Triples",
+    "alphanumName": "PrimitivePythagoreanTriples",
+    "link": "https://www.codingame.com/ide/puzzle/primitive-pythagorean-triples",
+    "tests": [
+        {
+            "name": "No Triples",
+            "alphanumName": "NoTriples",
+            "file": "01 - No Triples.txt"
+        },
+        {
+            "name": "Only One",
+            "alphanumName": "OnlyOne",
+            "file": "02 - Only One.txt"
+        },
+        {
+            "name": "More Triples",
+            "alphanumName": "MoreTriples",
+            "file": "03 - More Triples.txt"
+        },
+        {
+            "name": "Even More Triples",
+            "alphanumName": "EvenMoreTriples",
+            "file": "04 - Even More Triples.txt"
+        },
+        {
+            "name": "Huge Amount",
+            "alphanumName": "HugeAmount",
+            "file": "05 - Huge Amount.txt"
+        }
+    ]
+}

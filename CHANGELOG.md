@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Binary Tree Visual".
 - configuration for "Optimized coloring".
 - configuration for "Mask-Matching".
+- configuration for "Primitive Pythagorean Triples".
 
 ## [1.8.0] - 2024-10-31
 ### Added
