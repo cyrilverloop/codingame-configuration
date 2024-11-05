@@ -1,0 +1,93 @@
+{
+    "path": "medium/ComplicatedInterpreter",
+    "name": "Complicated interpreter",
+    "alphanumName": "ComplicatedInterpreter",
+    "link": "https://www.codingame.com/ide/puzzle/complicated-interpreter",
+    "tests": [
+        {
+            "name": "One variable",
+            "alphanumName": "OneVariable",
+            "file": "01 - One variable.txt"
+        },
+        {
+            "name": "Two variables and addition",
+            "alphanumName": "TwoVariablesAndAddition",
+            "file": "02 - Two variables and addition.txt"
+        },
+        {
+            "name": "Subtraction and referencing",
+            "alphanumName": "SubtractionAndReferencing",
+            "file": "03 - Subtraction and referencing.txt"
+        },
+        {
+            "name": "Invalid Variable",
+            "alphanumName": "InvalidVariable",
+            "file": "04 - Invalid Variable.txt"
+        },
+        {
+            "name": "Multiplication",
+            "alphanumName": "Multiplication",
+            "file": "05 - Multiplication.txt"
+        },
+        {
+            "name": "Comments",
+            "alphanumName": "Comments",
+            "file": "06 - Comments.txt"
+        },
+        {
+            "name": "Delete",
+            "alphanumName": "Delete",
+            "file": "07 - Delete.txt"
+        },
+        {
+            "name": "Loops",
+            "alphanumName": "Loops",
+            "file": "08 - Loops.txt"
+        },
+        {
+            "name": "Long code",
+            "alphanumName": "LongCode",
+            "file": "09 - Long code.txt"
+        },
+        {
+            "name": "Functions",
+            "alphanumName": "Functions",
+            "file": "10 - Functions.txt"
+        },
+        {
+            "name": "If statements and equality operators",
+            "alphanumName": "IfStatementsAndEqualityOperators",
+            "file": "11 - If statements and equality operators.txt"
+        },
+        {
+            "name": "or operator",
+            "alphanumName": "orOperator",
+            "file": "12 - or operator.txt"
+        },
+        {
+            "name": "and operator",
+            "alphanumName": "andOperator",
+            "file": "13 - and operator.txt"
+        },
+        {
+            "name": "Error if statement",
+            "alphanumName": "ErrorIfStatement",
+            "file": "14 - Error if statement.txt"
+        },
+        {
+            "name": "Function reassignment and one line calls",
+            "alphanumName": "FunctionReassignmentAndOneLineCalls",
+            "file": "15 - Function reassignment and one line calls.txt"
+        },
+        {
+            "name": "Invalid function",
+            "alphanumName": "InvalidFunction",
+            "file": "16 - Invalid function.txt"
+        },
+        {
+            "name": "Nested loops",
+            "alphanumName": "NestedLoops",
+            "file": "17 - Nested loops.txt"
+        }
+    ]
+}
