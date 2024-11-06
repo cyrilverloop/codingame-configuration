@@ -1,0 +1,28 @@
+{
+    "path": "medium/MonthlySystem",
+    "name": "Monthly System",
+    "alphanumName": "MonthlySystem",
+    "link": "https://www.codingame.com/ide/puzzle/monthly-system",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Multi Months",
+            "alphanumName": "MultiMonths",
+            "file": "02 - Multi Months.txt"
+        },
+        {
+            "name": "Longer Months",
+            "alphanumName": "LongerMonths",
+            "file": "03 - Longer Months.txt"
+        },
+        {
+            "name": "Beware the leading zeros",
+            "alphanumName": "BewareTheLeadingZeros",
+            "file": "04 - Beware the leading zeros.txt"
+        }
+    ]
+}
