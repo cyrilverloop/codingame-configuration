@@ -1,0 +1,73 @@
+{
+    "path": "medium/TennisScore",
+    "name": "Tennis score",
+    "alphanumName": "TennisScore",
+    "link": "https://www.codingame.com/ide/puzzle/tennis-score",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Advantage",
+            "alphanumName": "Advantage",
+            "file": "02 - Advantage.txt"
+        },
+        {
+            "name": "Deuce",
+            "alphanumName": "Deuce",
+            "file": "03 - Deuce.txt"
+        },
+        {
+            "name": "2nd set",
+            "alphanumName": "SecondSet",
+            "file": "04 - 2nd set.txt"
+        },
+        {
+            "name": "7-5",
+            "alphanumName": "SevenFive",
+            "file": "05 - 7-5.txt"
+        },
+        {
+            "name": "2 winning sets",
+            "alphanumName": "TwoWinningSets",
+            "file": "06 - 2 winning sets.txt"
+        },
+        {
+            "name": "Best of 3",
+            "alphanumName": "BestOf3",
+            "file": "07 - Best of 3.txt"
+        },
+        {
+            "name": "3 winning sets",
+            "alphanumName": "ThreeWinningSets",
+            "file": "08 - 3 winning sets.txt"
+        },
+        {
+            "name": "Best of 5",
+            "alphanumName": "BestOf5",
+            "file": "09 - Best of 5.txt"
+        },
+        {
+            "name": "Tie-break in progress",
+            "alphanumName": "TieBreakInProgress",
+            "file": "10 - Tie-break in progress.txt"
+        },
+        {
+            "name": "Tie-break",
+            "alphanumName": "TieBreak",
+            "file": "11 - Tie-break.txt"
+        },
+        {
+            "name": "Long game",
+            "alphanumName": "LongGame",
+            "file": "12 - Long game.txt"
+        },
+        {
+            "name": "It’s not finish!",
+            "alphanumName": "ItsNotFinish",
+            "file": "13 - It’s not finish!.txt"
+        }
+    ]
+}
