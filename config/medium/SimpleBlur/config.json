@@ -1,0 +1,33 @@
+{
+    "path": "medium/SimpleBlur",
+    "name": "Simple Blur",
+    "alphanumName": "SimpleBlur",
+    "link": "https://www.codingame.com/ide/puzzle/simple-blur",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Larger",
+            "alphanumName": "Larger",
+            "file": "02 - Larger.txt"
+        },
+        {
+            "name": "1D",
+            "alphanumName": "OneD",
+            "file": "03 - 1D.txt"
+        },
+        {
+            "name": "Black",
+            "alphanumName": "Black",
+            "file": "04 - Black.txt"
+        },
+        {
+            "name": "Gray",
+            "alphanumName": "Gray",
+            "file": "05 - Gray.txt"
+        }
+    ]
+}
