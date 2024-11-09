@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Monthly System".
 - configuration for "Tennis score".
 - configuration for "Simple Blur".
+- configuration for "Self Checkout Machine".
 
 ## [1.8.0] - 2024-10-31
 ### Added

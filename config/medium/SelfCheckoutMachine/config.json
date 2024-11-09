@@ -1,0 +1,43 @@
+{
+    "path": "medium/SelfCheckoutMachine",
+    "name": "Self Checkout Machine",
+    "alphanumName": "SelfCheckoutMachine",
+    "link": "https://www.codingame.com/ide/puzzle/self-checkout-machine",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "More customers",
+            "alphanumName": "MoreCustomers",
+            "file": "02 - More customers.txt"
+        },
+        {
+            "name": "Perfect customers",
+            "alphanumName": "PerfectCustomers",
+            "file": "03 - Perfect customers.txt"
+        },
+        {
+            "name": "Run out of top coin",
+            "alphanumName": "RunOutOfTopCoin",
+            "file": "04 - Run out of top coin.txt"
+        },
+        {
+            "name": "Rich shop",
+            "alphanumName": "RichShop",
+            "file": "05 - Rich shop.txt"
+        },
+        {
+            "name": "Jamming",
+            "alphanumName": "Jamming",
+            "file": "06 - Jamming.txt"
+        },
+        {
+            "name": "So many Pennies",
+            "alphanumName": "SoManyPennies",
+            "file": "07 - So many Pennies.txt"
+        }
+    ]
+}
