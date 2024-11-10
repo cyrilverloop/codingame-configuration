@@ -1,0 +1,33 @@
+{
+    "path": "medium/BagOfBalls",
+    "name": "Bag of Balls",
+    "alphanumName": "BagOfBalls",
+    "link": "https://www.codingame.com/ide/puzzle/bag-of-balls",
+    "tests": [
+        {
+            "name": "Example 1",
+            "alphanumName": "Example1",
+            "file": "01 - Example 1.txt"
+        },
+        {
+            "name": "Only one white",
+            "alphanumName": "OnlyOneWhite",
+            "file": "02 - Only one white.txt"
+        },
+        {
+            "name": "No white",
+            "alphanumName": "NoWhite",
+            "file": "03 - No white.txt"
+        },
+        {
+            "name": "Ultimate Test",
+            "alphanumName": "UltimateTest",
+            "file": "04 - Ultimate Test.txt"
+        },
+        {
+            "name": "Ultimate Test 2",
+            "alphanumName": "UltimateTest2",
+            "file": "05 - Ultimate Test 2.txt"
+        }
+    ]
+}
