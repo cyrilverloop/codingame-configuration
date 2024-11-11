@@ -1,0 +1,33 @@
+{
+    "path": "medium/TheExperienceForCreatingPuzzles",
+    "name": "The experience for creating puzzles",
+    "alphanumName": "TheExperienceForCreatingPuzzles",
+    "link": "https://www.codingame.com/ide/puzzle/the-experience-for-creating-puzzles",
+    "tests": [
+        {
+            "name": "Leveling up",
+            "alphanumName": "LevelingUp",
+            "file": "01 - Leveling up.txt"
+        },
+        {
+            "name": "Accepted 5 times",
+            "alphanumName": "Accepted5Times",
+            "file": "02 - Accepted 5 times.txt"
+        },
+        {
+            "name": "Prolific Codingamer.",
+            "alphanumName": "ProlificCodingamer",
+            "file": "03 - Prolific Codingamer..txt"
+        },
+        {
+            "name": "BlitzProg has second thoughts",
+            "alphanumName": "BlitzProgHasSecondThoughts",
+            "file": "04 - BlitzProg has second thoughts.txt"
+        },
+        {
+            "name": "Unapproved puzzle.",
+            "alphanumName": "UnapprovedPuzzle",
+            "file": "05 - Unapproved puzzle..txt"
+        }
+    ]
+}
