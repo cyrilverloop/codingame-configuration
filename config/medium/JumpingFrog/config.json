@@ -1,0 +1,38 @@
+{
+    "path": "medium/JumpingFrog",
+    "name": "Jumping Frog",
+    "alphanumName": "JumpingFrog",
+    "link": "https://www.codingame.com/ide/puzzle/jumping-frog",
+    "tests": [
+        {
+            "name": "Small 1",
+            "alphanumName": "Small1",
+            "file": "01 - Small 1.txt"
+        },
+        {
+            "name": "Full 3*3",
+            "alphanumName": "Full3x3",
+            "file": "02 - Full 3x3.txt"
+        },
+        {
+            "name": "Can’t jump",
+            "alphanumName": "CantJump",
+            "file": "03 - Can’t jump.txt"
+        },
+        {
+            "name": "One path 5*5",
+            "alphanumName": "OnePath5x5",
+            "file": "04 - One path 5x5.txt"
+        },
+        {
+            "name": "Infinity 6*6",
+            "alphanumName": "Infinity6x6",
+            "file": "05 - Infinity 6x6.txt"
+        },
+        {
+            "name": "Big",
+            "alphanumName": "Big",
+            "file": "06 - Big.txt"
+        }
+    ]
+}
