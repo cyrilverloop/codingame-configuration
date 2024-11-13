@@ -1,0 +1,43 @@
+{
+    "path": "medium/TheParking",
+    "name": "The parking",
+    "alphanumName": "TheParking",
+    "link": "https://www.codingame.com/ide/puzzle/the-parking",
+    "tests": [
+        {
+            "name": "1: Sample",
+            "alphanumName": "OneSample",
+            "file": "01 - Sample.txt"
+        },
+        {
+            "name": "2: Cars only with parking available",
+            "alphanumName": "TwoCarsonlyWithParkingAvailable",
+            "file": "02 - Cars only with parking available.txt"
+        },
+        {
+            "name": "3: Motorbikes only with parking available",
+            "alphanumName": "ThreeMotorbikesOnlyWithParkingAvailable",
+            "file": "03 - Motorbikes only with parking available.txt"
+        },
+        {
+            "name": "4: cars + motorbikes + 1 fixed price",
+            "alphanumName": "FourCarsPlusMotorbikesPlusOneFixedPrice",
+            "file": "04 - cars + motorbikes + 1 fixed price.txt"
+        },
+        {
+            "name": "5: cars + motorbikes + fixed price + parking not available",
+            "alphanumName": "FiveCarsPlusMotorbikesPlusFixedPricePlusParkingNotAvailable",
+            "file": "05 - cars + motorbikes + fixed price + parking not available.txt"
+        },
+        {
+            "name": "6: 1 car no fee",
+            "alphanumName": "SixOneCarNoFee",
+            "file": "06 - 1 car no fee.txt"
+        },
+        {
+            "name": "7: cars + motorbikes + fixed price + parking not available",
+            "alphanumName": "SevenCarsPlusMotorbikesPlusFixedPricePlusParkingNotAvailable",
+            "file": "07 - cars + motorbikes + fixed price + parking not available.txt"
+        }
+    ]
+}
