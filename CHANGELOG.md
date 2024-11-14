@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The experience for creating puzzles".
 - configuration for "Jumping Frog".
 - configuration for "The parking".
+- configuration for "The Ultimate Test".
 
 ## [1.8.0] - 2024-10-31
 ### Added
