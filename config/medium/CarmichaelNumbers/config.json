@@ -1,0 +1,38 @@
+{
+    "path": "medium/CarmichaelNumbers",
+    "name": "Carmichael numbers",
+    "alphanumName": "CarmichaelNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/carmichael-numbers",
+    "tests": [
+        {
+            "name": "Small composite number",
+            "alphanumName": "SmallCompositeNumber",
+            "file": "01 - Small composite number.txt"
+        },
+        {
+            "name": "Small Carmichael number",
+            "alphanumName": "SmallCarmichaelNumber",
+            "file": "02 - Small Carmichael number.txt"
+        },
+        {
+            "name": "Bigger composite number",
+            "alphanumName": "BiggerCompositeNumber",
+            "file": "03 - Bigger composite number.txt"
+        },
+        {
+            "name": "Small prime number",
+            "alphanumName": "SmallPrimeNumber",
+            "file": "04 - Small prime number.txt"
+        },
+        {
+            "name": "Big prime number",
+            "alphanumName": "BigPrimeNumber",
+            "file": "05 - Big prime number.txt"
+        },
+        {
+            "name": "Big Carmichael number",
+            "alphanumName": "BigCarmichaelNumber",
+            "file": "06 - Big Carmichael number.txt"
+        }
+    ]
+}
