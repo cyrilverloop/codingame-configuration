@@ -1,0 +1,53 @@
+{
+    "path": "medium/TwentyFourGame",
+    "name": "24 Game",
+    "alphanumName": "TwentyFourGame",
+    "link": "https://www.codingame.com/ide/puzzle/24-game",
+    "tests": [
+        {
+            "name": "Addition",
+            "alphanumName": "Addition",
+            "file": "01 - Addition.txt"
+        },
+        {
+            "name": "Multiplication",
+            "alphanumName": "Multiplication",
+            "file": "02 - Multiplication.txt"
+        },
+        {
+            "name": "Not Possible",
+            "alphanumName": "NotPossible",
+            "file": "03 - Not Possible.txt"
+        },
+        {
+            "name": "Not Possible",
+            "alphanumName": "NotPossible2",
+            "file": "04 - Not Possible.txt"
+        },
+        {
+            "name": "Larger Inputs",
+            "alphanumName": "LargerInputs",
+            "file": "05 - Larger Inputs.txt"
+        },
+        {
+            "name": "Larger Inputs",
+            "alphanumName": "LargerInputs2",
+            "file": "06 - Larger Inputs.txt"
+        },
+        {
+            "name": "Border Case",
+            "alphanumName": "BorderCase",
+            "file": "07 - Border Case.txt"
+        },
+        {
+            "name": "Not in Ascending Order",
+            "alphanumName": "NotInAscendingOrder",
+            "file": "08 - Not in Ascending Order.txt"
+        },
+        {
+            "name": "Division Rounding/Order",
+            "alphanumName": "DivisionRoundingOrder",
+            "file": "09 - Division Rounding-Order.txt"
+        }
+    ]
+}
