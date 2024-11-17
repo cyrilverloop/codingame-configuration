@@ -1,0 +1,28 @@
+{
+    "path": "medium/BinarySequence",
+    "name": "Binary Sequence",
+    "alphanumName": "BinarySequence",
+    "link": "https://www.codingame.com/ide/puzzle/binary-sequence",
+    "tests": [
+        {
+            "name": "Beginning",
+            "alphanumName": "Beginning",
+            "file": "01 - Beginning.txt"
+        },
+        {
+            "name": "Zero padded",
+            "alphanumName": "ZeroPadded",
+            "file": "02 - Zero padded.txt"
+        },
+        {
+            "name": "Lot of indexes",
+            "alphanumName": "Lot of indexes",
+            "file": "03 - Lot of indexes.txt"
+        },
+        {
+            "name": "Test 4",
+            "alphanumName": "test4",
+            "file": "04 - test 4.txt"
+        }
+    ]
+}
