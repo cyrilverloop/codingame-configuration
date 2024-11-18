@@ -1,0 +1,48 @@
+{
+    "path": "medium/KidsBlocks",
+    "name": "Kids Blocks",
+    "alphanumName": "KidsBlocks",
+    "link": "https://www.codingame.com/ide/puzzle/kids-blocks",
+    "tests": [
+        {
+            "name": "Few pieces",
+            "alphanumName": "FewPieces",
+            "file": "01 - Few pieces.txt"
+        },
+        {
+            "name": "Too few",
+            "alphanumName": "TooFew",
+            "file": "02 - Too few.txt"
+        },
+        {
+            "name": "Sufficient blocks",
+            "alphanumName": "SufficientBlocks",
+            "file": "03 - Sufficient blocks.txt"
+        },
+        {
+            "name": "More Blocks",
+            "alphanumName": "MoreBlocks",
+            "file": "04 - More Blocks.txt"
+        },
+        {
+            "name": "One inch wall",
+            "alphanumName": "OneInchWall",
+            "file": "05 - One inch wall.txt"
+        },
+        {
+            "name": "15 inches samples",
+            "alphanumName": "FifteenInchesSamples",
+            "file": "06 - 15 inches samples.txt"
+        },
+        {
+            "name": "25 inches samples",
+            "alphanumName": "TwentyFiveInchesSamples",
+            "file": "07 - 25 inches samples.txt"
+        },
+        {
+            "name": "Another 25 inches samples",
+            "alphanumName": "Another25InchesSamples",
+            "file": "08 - Another 25 inches samples.txt"
+        }
+    ]
+}
