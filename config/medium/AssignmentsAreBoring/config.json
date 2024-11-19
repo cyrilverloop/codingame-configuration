@@ -1,0 +1,53 @@
+{
+    "path": "medium/AssignmentsAreBoring",
+    "name": "Assignments are boring",
+    "alphanumName": "AssignmentsAreBoring",
+    "link": "https://www.codingame.com/ide/puzzle/assignments-are-boring",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Zero Page",
+            "alphanumName": "ZeroPage",
+            "file": "02 - Zero Page.txt"
+        },
+        {
+            "name": "Same page count",
+            "alphanumName": "SamePageCount",
+            "file": "03 - Same page count.txt"
+        },
+        {
+            "name": "A little big",
+            "alphanumName": "ALittleBig",
+            "file": "04 - A little big.txt"
+        },
+        {
+            "name": "Slightly big",
+            "alphanumName": "SlightlyBig",
+            "file": "05 - Slightly big.txt"
+        },
+        {
+            "name": "Isn’t it too much?",
+            "alphanumName": "IsntItTooMuch",
+            "file": "06 - Isn’t it too much.txt"
+        },
+        {
+            "name": "This is against the law",
+            "alphanumName": "ThisIsAgainstTheLaw",
+            "file": "07 - This is against the law.txt"
+        },
+        {
+            "name": "Are there even this many subjects?",
+            "alphanumName": "AreThereEvenThisManySubjects",
+            "file": "08 - Are there even this many subjects.txt"
+        },
+        {
+            "name": "Speed is everything",
+            "alphanumName": "SpeedIsEverything",
+            "file": "09 - Speed is everything.txt"
+        }
+    ]
+}
