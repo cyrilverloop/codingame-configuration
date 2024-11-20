@@ -1,0 +1,53 @@
+{
+    "path": "medium/FishingWithAStick",
+    "name": "Fishing With A Stick",
+    "alphanumName": "FishingWithAStick",
+    "link": "https://www.codingame.com/ide/puzzle/fishing-with-a-stick",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Fishing Without Water",
+            "alphanumName": "FishingWithoutWater",
+            "file": "02 - Fishing Without Water.txt"
+        },
+        {
+            "name": "Fishing Without A Stick",
+            "alphanumName": "FishingWithoutAStick",
+            "file": "03 - Fishing Without A Stick.txt"
+        },
+        {
+            "name": "Fishing Without A Stick And Without Water",
+            "alphanumName": "FishingWithoutAStickAndWithoutWater",
+            "file": "04 - Fishing Without A Stick And Without Water.txt"
+        },
+        {
+            "name": "Fishing In The Sea",
+            "alphanumName": "FishingInTheSea",
+            "file": "05 - Fishing In The Sea.txt"
+        },
+        {
+            "name": "Fishing In A Garbage",
+            "alphanumName": "FishingInAGarbage",
+            "file": "06 - Fishing In A Garbage.txt"
+        },
+        {
+            "name": "Fishing In A Toilet",
+            "alphanumName": "FishingInAToilet",
+            "file": "07 - Fishing In A Toilet.txt"
+        },
+        {
+            "name": "Fishing A Fishing Rod",
+            "alphanumName": "FishingAFishingRod",
+            "file": "08 - Fishing A Fishing Rod.txt"
+        },
+        {
+            "name": "Fishing A Fishing Rod That Fishes A Fishing Rod",
+            "alphanumName": "FishingAFishingRodThatFishesAFishingRod",
+            "file": "09 - Fishing A Fishing Rod That Fishes A Fishing Rod.txt"
+        }
+    ]
+}
