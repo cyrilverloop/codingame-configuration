@@ -1,0 +1,48 @@
+{
+    "path": "medium/LiteraryAlfabetSoupe",
+    "name": "Literary Alfabet Soupe",
+    "alphanumName": "LiteraryAlfabetSoupe",
+    "link": "https://www.codingame.com/ide/puzzle/literary-alfabet-soupe",
+    "tests": [
+        {
+            "name": "Don Quixote",
+            "alphanumName": "DonQuixote",
+            "file": "01 - Don Quixote.txt"
+        },
+        {
+            "name": "Les Misérables",
+            "alphanumName": "LesMiserables",
+            "file": "02 - Les Misérables.txt"
+        },
+        {
+            "name": "Den grimme ælling",
+            "alphanumName": "DenGrimmeAelling",
+            "file": "03 - Den grimme ælling.txt"
+        },
+        {
+            "name": "Pride and Prejudice",
+            "alphanumName": "PrideAndPrejudice",
+            "file": "04 - Pride and Prejudice.txt"
+        },
+        {
+            "name": "Nils Holgerssons underbara resa genom Sverige",
+            "alphanumName": "NilsHolgerssonsUnderbaraResaGenomSverige",
+            "file": "05 - Nils Holgerssons underbara resa genom Sverige.txt"
+        },
+        {
+            "name": "Die Verwandlung",
+            "alphanumName": "DieVerwandlung",
+            "file": "06 - Die Verwandlung.txt"
+        },
+        {
+            "name": "Moby-Dick; or, The Whale",
+            "alphanumName": "MobyDickOrTheWhale",
+            "file": "07 - Moby-Dick; or, The Whale.txt"
+        },
+        {
+            "name": "Canne al vento",
+            "alphanumName": "CanneAlVento",
+            "file": "08 - Canne al vento.txt"
+        }
+    ]
+}

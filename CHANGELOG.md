@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Kids Blocks".
 - configuration for "Assignments are boring".
 - configuration for "Fishing With A Stick".
+- configuration for "Literary Alfabet Soupe".
 
 ## [1.8.0] - 2024-10-31
 ### Added
