@@ -1,0 +1,38 @@
+{
+    "path": "medium/Rubik",
+    "name": "Rubik®",
+    "alphanumName": "Rubik",
+    "link": "https://www.codingame.com/ide/puzzle/rubik",
+    "tests": [
+        {
+            "name": "2",
+            "alphanumName": "two",
+            "file": "01 - 2.txt"
+        },
+        {
+            "name": "3",
+            "alphanumName": "three",
+            "file": "02 - 3.txt"
+        },
+        {
+            "name": "4",
+            "alphanumName": "four",
+            "file": "03 - 4.txt"
+        },
+        {
+            "name": "5",
+            "alphanumName": "five",
+            "file": "04 - 5.txt"
+        },
+        {
+            "name": "6",
+            "alphanumName": "six",
+            "file": "05 - 6.txt"
+        },
+        {
+            "name": "1",
+            "alphanumName": "one",
+            "file": "06 - 1.txt"
+        }
+    ]
+}
