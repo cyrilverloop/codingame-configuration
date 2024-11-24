@@ -1,0 +1,33 @@
+{
+    "path": "medium/FindTheLiars",
+    "name": "Find the liars",
+    "alphanumName": "FindTheLiars",
+    "link": "https://www.codingame.com/ide/puzzle/find-the-liars",
+    "tests": [
+        {
+            "name": "A simple beginning",
+            "alphanumName": "ASimpleBeginning",
+            "file": "01 - A simple beginning.txt"
+        },
+        {
+            "name": "Simple but complex",
+            "alphanumName": "SimpleButComplex",
+            "file": "02 - Simple but complex.txt"
+        },
+        {
+            "name": "A longer beginning",
+            "alphanumName": "ALongerBeginning",
+            "file": "03 - A longer beginning.txt"
+        },
+        {
+            "name": "A messy truth",
+            "alphanumName": "AMessyTruth",
+            "file": "04 - A messy truth.txt"
+        },
+        {
+            "name": "A long path",
+            "alphanumName": "ALongPath",
+            "file": "05 - A long path.txt"
+        }
+    ]
+}
