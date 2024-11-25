@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Rubik®".
 - configuration for "The Fastest".
 - configuration for "Find the liars".
+- configuration for "Inversion count".
 
 ## [1.8.0] - 2024-10-31
 ### Added
