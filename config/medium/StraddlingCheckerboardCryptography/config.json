@@ -1,0 +1,43 @@
+{
+    "path": "medium/StraddlingCheckerboardCryptography",
+    "name": "Straddling Checkerboard Cryptography",
+    "alphanumName": "StraddlingCheckerboardCryptography",
+    "link": "https://www.codingame.com/ide/puzzle/straddling-checkerboard-cryptography",
+    "tests": [
+        {
+            "name": "Simple encrypt",
+            "alphanumName": "SimpleEncrypt",
+            "file": "01 - Simple encrypt.txt"
+        },
+        {
+            "name": "Unsupported characters",
+            "alphanumName": "UnsupportedCharacters",
+            "file": "02 - Unsupported characters.txt"
+        },
+        {
+            "name": "And the numbers ???",
+            "alphanumName": "AndTheNumbers",
+            "file": "03 - And the numbers.txt"
+        },
+        {
+            "name": "Let’s decrypt",
+            "alphanumName": "LetsDecrypt",
+            "file": "04 - Let’s decrypt.txt"
+        },
+        {
+            "name": "Scramble header encrypt",
+            "alphanumName": "ScrambleHeaderEncrypt",
+            "file": "05 - Scramble header encrypt.txt"
+        },
+        {
+            "name": "Scramble header decrypt",
+            "alphanumName": "ScrambleHeaderDecrypt",
+            "file": "06 - Scramble header decrypt.txt"
+        },
+        {
+            "name": "All decrypt",
+            "alphanumName": "AllDecrypt",
+            "file": "07 - All decrypt.txt"
+        }
+    ]
+}
