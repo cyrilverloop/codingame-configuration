@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Find the liars".
 - configuration for "Inversion count".
 - configuration for "Straddling Checkerboard Cryptography".
+- configuration for "Halting sequences".
 
 ## [1.8.0] - 2024-10-31
 ### Added

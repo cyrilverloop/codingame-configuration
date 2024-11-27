@@ -1,0 +1,48 @@
+{
+    "path": "medium/HaltingSequences",
+    "name": "Halting sequences",
+    "alphanumName": "HaltingSequences",
+    "link": "https://www.codingame.com/ide/puzzle/halting-sequences",
+    "tests": [
+        {
+            "name": "Small examples",
+            "alphanumName": "SmallExamples",
+            "file": "01 - Small examples.txt"
+        },
+        {
+            "name": "Larger tests",
+            "alphanumName": "LargerTests",
+            "file": "02 - Larger tests.txt"
+        },
+        {
+            "name": "Large examples",
+            "alphanumName": "LargeExamples",
+            "file": "03 - Large examples.txt"
+        },
+        {
+            "name": "Halting patterns",
+            "alphanumName": "HaltingPatterns",
+            "file": "04 - Halting patterns.txt"
+        },
+        {
+            "name": "Random big loops",
+            "alphanumName": "RandomBigLoops",
+            "file": "05 - Random big loops.txt"
+        },
+        {
+            "name": "Random big halts",
+            "alphanumName": "RandomBigHalts",
+            "file": "06 - Random big halts.txt"
+        },
+        {
+            "name": "Different halting cases",
+            "alphanumName": "DifferentHaltingCases",
+            "file": "07 - Different halting cases.txt"
+        },
+        {
+            "name": "Hard halting cases",
+            "alphanumName": "HardHaltingCases",
+            "file": "08 - Hard halting cases.txt"
+        }
+    ]
+}
