@@ -1,0 +1,63 @@
+{
+    "path": "medium/ChristmasTree",
+    "name": "Christmas Tree",
+    "alphanumName": "ChristmasTree",
+    "link": "https://www.codingame.com/ide/puzzle/christmas-tree",
+    "tests": [
+        {
+            "name": "Example tree",
+            "alphanumName": "ExampleTree",
+            "file": "01 - Example tree.txt"
+        },
+        {
+            "name": "Really small tree",
+            "alphanumName": "ReallySmallTree",
+            "file": "02 - Really small tree.txt"
+        },
+        {
+            "name": "Tall tree",
+            "alphanumName": "TallTree",
+            "file": "03 - Tall tree.txt"
+        },
+        {
+            "name": "Giant tree",
+            "alphanumName": "GiantTree",
+            "file": "04 - Giant tree.txt"
+        },
+        {
+            "name": "Fat tree",
+            "alphanumName": "FatTree",
+            "file": "05 - Fat tree.txt"
+        },
+        {
+            "name": "Extreme tree 1",
+            "alphanumName": "ExtremeTree1",
+            "file": "06 - Extreme tree 1.txt"
+        },
+        {
+            "name": "Tricky tree",
+            "alphanumName": "TrickyTree",
+            "file": "07 - Tricky tree.txt"
+        },
+        {
+            "name": "Extreme tree 2",
+            "alphanumName": "ExtremeTree2",
+            "file": "08 - Extreme tree 2.txt"
+        },
+        {
+            "name": "Extreme tree 3",
+            "alphanumName": "ExtremeTree3",
+            "file": "09 - Extreme tree 3.txt"
+        },
+        {
+            "name": "Extreme tree 4",
+            "alphanumName": "ExtremeTree4",
+            "file": "10 - Extreme tree 4.txt"
+        },
+        {
+            "name": "Extreme tree 5",
+            "alphanumName": "ExtremeTree5",
+            "file": "11 - Extreme tree 5.txt"
+        }
+    ]
+}
