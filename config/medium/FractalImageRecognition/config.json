@@ -1,0 +1,58 @@
+{
+    "path": "medium/FractalImageRecognition",
+    "name": "Fractal Image Recognition",
+    "alphanumName": "FractalImageRecognition",
+    "link": "https://www.codingame.com/ide/puzzle/fractal-image-recognition",
+    "tests": [
+        {
+            "name": "1",
+            "alphanumName": "one",
+            "file": "01 - 1.txt"
+        },
+        {
+            "name": "2",
+            "alphanumName": "two",
+            "file": "02 - 2.txt"
+        },
+        {
+            "name": "3",
+            "alphanumName": "three",
+            "file": "03 - 3.txt"
+        },
+        {
+            "name": "4",
+            "alphanumName": "four",
+            "file": "04 - 4.txt"
+        },
+        {
+            "name": "5",
+            "alphanumName": "five",
+            "file": "05 - 5.txt"
+        },
+        {
+            "name": "6",
+            "alphanumName": "six",
+            "file": "06 - 6.txt"
+        },
+        {
+            "name": "7",
+            "alphanumName": "seven",
+            "file": "07 - 7.txt"
+        },
+        {
+            "name": "8",
+            "alphanumName": "eight",
+            "file": "08 - 8.txt"
+        },
+        {
+            "name": "9",
+            "alphanumName": "nine",
+            "file": "09 - 9.txt"
+        },
+        {
+            "name": "0",
+            "alphanumName": "zero",
+            "file": "10 - 0.txt"
+        }
+    ]
+}
