@@ -11,22 +11,22 @@
         },
         {
             "name": "3-nodes",
-            "alphanumName": "3-nodes",
+            "alphanumName": "threeNodes",
             "file": "02 - 3-nodes.txt"
         },
         {
             "name": "4-nodes",
-            "alphanumName": "4-nodes",
+            "alphanumName": "fourNodes",
             "file": "03 - 4-nodes.txt"
         },
         {
             "name": "5-nodes",
-            "alphanumName": "5-nodes",
+            "alphanumName": "fiveNodes",
             "file": "04 - 5-nodes.txt"
         },
         {
             "name": "8-nodes",
-            "alphanumName": "8-nodes",
+            "alphanumName": "eightNodes",
             "file": "05 - 8-nodes.txt"
         },
         {
