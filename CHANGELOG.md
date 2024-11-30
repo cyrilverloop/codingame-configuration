@@ -39,6 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - alphanumName of test "So Cryptic" for "Code Breaker Puzzle".
+- double alphanumName of tests "Two transpositions" for "Ring the bells".
 
 ## [1.8.0] - 2024-10-31
 ### Added
