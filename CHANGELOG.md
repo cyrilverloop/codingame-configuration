@@ -41,6 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - alphanumName of test "So Cryptic" for "Code Breaker Puzzle".
 - double alphanumName of tests "Two transpositions" for "Ring the bells".
 - alphanumNames for "Tree Recognition".
+- alphanumName of test "Solved!" for "Wordle Solution RegEx".
 
 ## [1.8.0] - 2024-10-31
 ### Added
