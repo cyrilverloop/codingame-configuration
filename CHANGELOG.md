@@ -37,6 +37,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Fractal Image Recognition".
 - configuration for "Magic Square".
 
+### Fixed
+- alphanumName of test "So Cryptic" for "Code Breaker Puzzle".
+
 ## [1.8.0] - 2024-10-31
 ### Added
 - configuration for "Word Chain Game".
