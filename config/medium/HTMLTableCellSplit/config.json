@@ -1,0 +1,43 @@
+{
+    "path": "medium/HTMLTableCellSplit",
+    "name": "HTML table cell split",
+    "alphanumName": "HTMLTableCellSplit",
+    "link": "https://www.codingame.com/ide/puzzle/html-table-cell-split",
+    "tests": [
+        {
+            "name": "Just check if statement clear",
+            "alphanumName": "JustCheckIfStatementClear",
+            "file": "01 - Just check if statement clear.txt"
+        },
+        {
+            "name": "Let’s start seriously",
+            "alphanumName": "LetsStartSeriously",
+            "file": "02 - Let’s start seriously.txt"
+        },
+        {
+            "name": "In the middle of spans",
+            "alphanumName": "InTheMiddleOfSpans",
+            "file": "03 - In the middle of spans.txt"
+        },
+        {
+            "name": "Care to above",
+            "alphanumName": "CareToAbove",
+            "file": "04 - Care to above.txt"
+        },
+        {
+            "name": "Split in rows",
+            "alphanumName": "SplitInRows",
+            "file": "05 - Split in rows.txt"
+        },
+        {
+            "name": "Complex by col",
+            "alphanumName": "ComplexByCol",
+            "file": "06 - Complex by col.txt"
+        },
+        {
+            "name": "Complex by row",
+            "alphanumName": "ComplexByRow",
+            "file": "07 - Complex by row.txt"
+        }
+    ]
+}
