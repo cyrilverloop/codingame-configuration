@@ -1,0 +1,43 @@
+{
+    "path": "medium/ReversePolishNotation",
+    "name": "Reverse Polish Notation",
+    "alphanumName": "ReversePolishNotation",
+    "link": "https://www.codingame.com/ide/puzzle/reverse-polish-notation",
+    "tests": [
+        {
+            "name": "Simple operation",
+            "alphanumName": "SimpleOperation",
+            "file": "01 - Simple operation.txt"
+        },
+        {
+            "name": "More operations",
+            "alphanumName": "MoreOperations",
+            "file": "02 - More operations.txt"
+        },
+        {
+            "name": "Playing with the stack",
+            "alphanumName": "PlayingWithTheStack",
+            "file": "03 - Playing with the stack.txt"
+        },
+        {
+            "name": "Stack underflow",
+            "alphanumName": "StackUnderflow",
+            "file": "04 - Stack underflow.txt"
+        },
+        {
+            "name": "ROL",
+            "alphanumName": "ROL",
+            "file": "05 - ROL.txt"
+        },
+        {
+            "name": "Divide by zero",
+            "alphanumName": "DivideByZero",
+            "file": "06 - Divide by zero.txt"
+        },
+        {
+            "name": "Error In Progress",
+            "alphanumName": "ErrorInProgress",
+            "file": "07 - Error In Progress.txt"
+        }
+    ]
+}
