@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Polydivisible number".
 - configuration for "HTML table cell split".
 - configuration for "Reverse Polish Notation".
+- configuration for "Place the Parenthesis".
 
 ## [1.9.0] - 2024-11-30
 ### Added

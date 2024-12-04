@@ -1,0 +1,28 @@
+{
+    "path": "medium/PlaceTheParenthesis",
+    "name": "Place the Parenthesis",
+    "alphanumName": "PlaceTheParenthesis",
+    "link": "https://www.codingame.com/ide/puzzle/place-the-parenthesis",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "No parenthesis",
+            "alphanumName": "NoParenthesis",
+            "file": "02 - No parenthesis.txt"
+        },
+        {
+            "name": "Negativity",
+            "alphanumName": "Negativity",
+            "file": "03 - Negativity.txt"
+        },
+        {
+            "name": "Test 4",
+            "alphanumName": "Test4",
+            "file": "04 - Test 4.txt"
+        }
+    ]
+}
