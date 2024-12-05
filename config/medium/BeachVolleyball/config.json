@@ -1,0 +1,33 @@
+{
+    "path": "medium/BeachVolleyball",
+    "name": "🏐 🏖 Beach Volleyball 🏐 🏖",
+    "alphanumName": "BeachVolleyball",
+    "link": "https://www.codingame.com/ide/puzzle/beach-volleyball",
+    "tests": [
+        {
+            "name": "Straight Down",
+            "alphanumName": "StraightDown",
+            "file": "01 - Straight Down.txt"
+        },
+        {
+            "name": "Frictionless Water",
+            "alphanumName": "FrictionlessWater",
+            "file": "02 - Frictionless Water.txt"
+        },
+        {
+            "name": "Different speeds",
+            "alphanumName": "DifferentSpeeds",
+            "file": "03 - Different speeds.txt"
+        },
+        {
+            "name": "Big Kick",
+            "alphanumName": "BigKick",
+            "file": "04 - Big Kick.txt"
+        },
+        {
+            "name": "Really Big Kick",
+            "alphanumName": "ReallyBigKick",
+            "file": "05 - Really Big Kick.txt"
+        }
+    ]
+}
