@@ -1,0 +1,93 @@
+{
+    "path": "medium/ASCIICube",
+    "name": "ASCII cube",
+    "alphanumName": "ASCIICube",
+    "link": "https://www.codingame.com/ide/puzzle/ascii-cube",
+    "tests": [
+        {
+            "name": "w > h > d",
+            "alphanumName": "wGThGTd",
+            "file": "01 - w gt h gt d.txt"
+        },
+        {
+            "name": "d > h > w",
+            "alphanumName": "dGThGTw",
+            "file": "02 - d gt h gt w.txt"
+        },
+        {
+            "name": "w > d > h",
+            "alphanumName": "wGTdGTh",
+            "file": "03 - w gt d gt h.txt"
+        },
+        {
+            "name": "h > d > w",
+            "alphanumName": "hGTdGTw",
+            "file": "04 - h gt d gt w.txt"
+        },
+        {
+            "name": "d > w > h",
+            "alphanumName": "dGTwGTh",
+            "file": "05 - d gt w gt h.txt"
+        },
+        {
+            "name": "h > w > d",
+            "alphanumName": "hGTwGTd",
+            "file": "06 - h gt w gt d.txt"
+        },
+        {
+            "name": "w = 1",
+            "alphanumName": "w1",
+            "file": "07 - w = 1.txt"
+        },
+        {
+            "name": "h = 1",
+            "alphanumName": "h1",
+            "file": "08 - h = 1.txt"
+        },
+        {
+            "name": "d = 1",
+            "alphanumName": "d1",
+            "file": "09 - d = 1.txt"
+        },
+        {
+            "name": "w = 1 / h = 1",
+            "alphanumName": "w1h1",
+            "file": "10 - w = 1 h = 1.txt"
+        },
+        {
+            "name": "w = 1 / d = 1",
+            "alphanumName": "w1d1",
+            "file": "11 - w = 1 d = 1.txt"
+        },
+        {
+            "name": "h = 1 / d = 1",
+            "alphanumName": "h1d1",
+            "file": "12 - h = 1 d = 1.txt"
+        },
+        {
+            "name": "w = 1 / h = 1 / d = 1",
+            "alphanumName": "w1h1d1",
+            "file": "13 - w = 1 h = 1 d = 1.txt"
+        },
+        {
+            "name": "w = d",
+            "alphanumName": "wd",
+            "file": "14 - w = d.txt"
+        },
+        {
+            "name": "w = h",
+            "alphanumName": "wh",
+            "file": "15 - w = h.txt"
+        },
+        {
+            "name": "h = d",
+            "alphanumName": "hd",
+            "file": "16 - h = d.txt"
+        },
+        {
+            "name": "w = h = d",
+            "alphanumName": "whd",
+            "file": "17 - w = h = d.txt"
+        }
+    ]
+}

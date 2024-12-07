@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Place the Parenthesis".
 - configuration for "🏐 🏖 Beach Volleyball 🏐 🏖".
 - configuration for "Rocket engines".
+- configuration for "ASCII cube".
 
 ## [1.9.0] - 2024-11-30
 ### Added
