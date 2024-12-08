@@ -1,0 +1,53 @@
+{
+    "path": "medium/Criminal",
+    "name": "Criminal",
+    "alphanumName": "Criminal",
+    "link": "https://www.codingame.com/ide/puzzle/criminal",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "Example2",
+            "file": "02 - Example 2.txt"
+        },
+        {
+            "name": "Ninja",
+            "alphanumName": "Ninja",
+            "file": "03 - Ninja.txt"
+        },
+        {
+            "name": "Small Hole",
+            "alphanumName": "SmallHole",
+            "file": "04 - Small Hole.txt"
+        },
+        {
+            "name": "Infiltrate",
+            "alphanumName": "Infiltrate",
+            "file": "05 - Infiltrate.txt"
+        },
+        {
+            "name": "Behind A Stick",
+            "alphanumName": "BehindAStick",
+            "file": "06 - Behind A Stick.txt"
+        },
+        {
+            "name": "In A House",
+            "alphanumName": "InAHouse",
+            "file": "07 - In A House.txt"
+        },
+        {
+            "name": "In A House 2",
+            "alphanumName": "InAHouse2",
+            "file": "08 - In A House 2.txt"
+        },
+        {
+            "name": "Nobody Will Catch You! ... if you’re already caught",
+            "alphanumName": "NobodyWillCatchYouIfYoureAlreadyCaught",
+            "file": "09 - Nobody Will Catch You! ... if you’re already caught.txt"
+        }
+    ]
+}
