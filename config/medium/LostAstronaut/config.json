@@ -1,0 +1,43 @@
+{
+    "path": "medium/LostAstronaut",
+    "name": "Lost astronaut",
+    "alphanumName": "LostAstronaut",
+    "link": "https://www.codingame.com/ide/puzzle/lost-astronaut",
+    "tests": [
+        {
+            "name": "all binary",
+            "alphanumName": "allBinary",
+            "file": "01 - all binary.txt"
+        },
+        {
+            "name": "all octaldecimal",
+            "alphanumName": "allOctaldecimal",
+            "file": "02 - all octaldecimal.txt"
+        },
+        {
+            "name": "all hexadecimal",
+            "alphanumName": "allHexadecimal",
+            "file": "03 - all hexadecimal.txt"
+        },
+        {
+            "name": "random test",
+            "alphanumName": "randomTest",
+            "file": "04 - random test.txt"
+        },
+        {
+            "name": "1st Signal",
+            "alphanumName": "firstSignal",
+            "file": "05 - 1st Signal.txt"
+        },
+        {
+            "name": "2nd Signal",
+            "alphanumName": "secondSignal",
+            "file": "06 - 2nd Signal.txt"
+        },
+        {
+            "name": "3rd Signal",
+            "alphanumName": "thirdSignal",
+            "file": "07 - 3rd Signal.txt"
+        }
+    ]
+}
