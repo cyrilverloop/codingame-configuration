@@ -1,0 +1,58 @@
+{
+    "path": "medium/NonTripleNumbers",
+    "name": "Non-Triple Numbers",
+    "alphanumName": "NonTripleNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/non-triple-numbers",
+    "tests": [
+        {
+            "name": "n = 27",
+            "alphanumName": "n27",
+            "file": "01 - n = 27.txt"
+        },
+        {
+            "name": "n = 367",
+            "alphanumName": "n367",
+            "file": "02 - n = 367.txt"
+        },
+        {
+            "name": "n = 4943",
+            "alphanumName": "n4943",
+            "file": "03 - n = 4943.txt"
+        },
+        {
+            "name": "n = 349525",
+            "alphanumName": "n349525",
+            "file": "04 - n = 349525.txt"
+        },
+        {
+            "name": "n = 209919",
+            "alphanumName": "n209919",
+            "file": "05 - n = 209919.txt"
+        },
+        {
+            "name": "n = 1048575",
+            "alphanumName": "n1048575",
+            "file": "06 - n = 1048575.txt"
+        },
+        {
+            "name": "n = 6804756",
+            "alphanumName": "n6804756",
+            "file": "07 - n = 6804756.txt"
+        },
+        {
+            "name": "n = 227978622",
+            "alphanumName": "n227978622",
+            "file": "08 - n = 227978622.txt"
+        },
+        {
+            "name": "n = 380810157",
+            "alphanumName": "n380810157",
+            "file": "09 - n = 380810157.txt"
+        },
+        {
+            "name": "n = 1072693248",
+            "alphanumName": "n1072693248",
+            "file": "10 - n = 1072693248.txt"
+        }
+    ]
+}
