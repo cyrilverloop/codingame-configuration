@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Criminal".
 - configuration for "Lost astronaut".
 - configuration for "Non-Triple Numbers".
+- configuration for "Railway Station Clock".
 
 ## [1.9.0] - 2024-11-30
 ### Added

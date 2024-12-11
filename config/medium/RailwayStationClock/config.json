@@ -1,0 +1,68 @@
+{
+    "path": "medium/RailwayStationClock",
+    "name": "Railway Station Clock",
+    "alphanumName": "RailwayStationClock",
+    "link": "https://www.codingame.com/ide/puzzle/railway-station-clock",
+    "tests": [
+        {
+            "name": "Little off",
+            "alphanumName": "LittleOff",
+            "file": "01 - Little off.txt"
+        },
+        {
+            "name": "Just adjusted",
+            "alphanumName": "JustAdjusted",
+            "file": "02 - Just adjusted.txt"
+        },
+        {
+            "name": "Little more",
+            "alphanumName": "LittleMore",
+            "file": "03 - Little more.txt"
+        },
+        {
+            "name": "Half way",
+            "alphanumName": "HalfWay",
+            "file": "04 - Half way.txt"
+        },
+        {
+            "name": "Late or not?",
+            "alphanumName": "LateOrNot",
+            "file": "05 - Late or not.txt"
+        },
+        {
+            "name": "Bear with it",
+            "alphanumName": "BearWithIt",
+            "file": "06 - Bear with it.txt"
+        },
+        {
+            "name": "Confusing",
+            "alphanumName": "Confusing",
+            "file": "07 - Confusing.txt"
+        },
+        {
+            "name": "Still confusing",
+            "alphanumName": "StillConfusing",
+            "file": "08 - Still confusing.txt"
+        },
+        {
+            "name": "It happens",
+            "alphanumName": "ItHappens",
+            "file": "09 - It happens.txt"
+        },
+        {
+            "name": "Yesterday or tomorrow",
+            "alphanumName": "YesterdayOrTomorrow",
+            "file": "10 - Yesterday or tomorrow.txt"
+        },
+        {
+            "name": "Just late",
+            "alphanumName": "JustLate",
+            "file": "11 - Just late.txt"
+        },
+        {
+            "name": "Early bird",
+            "alphanumName": "EarlyBird",
+            "file": "12 - Early bird.txt"
+        }
+    ]
+}
