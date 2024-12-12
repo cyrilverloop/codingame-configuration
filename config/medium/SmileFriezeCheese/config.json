@@ -1,0 +1,43 @@
+{
+    "path": "medium/SmileFriezeCheese",
+    "name": "Smile! Frieze! Cheese!",
+    "alphanumName": "SmileFriezeCheese",
+    "link": "https://www.codingame.com/ide/puzzle/smile-frieze-cheese",
+    "tests": [
+        {
+            "name": "p111",
+            "alphanumName": "p111",
+            "file": "01 - p111.txt"
+        },
+        {
+            "name": "p1m1",
+            "alphanumName": "p1m1",
+            "file": "02 - p1m1.txt"
+        },
+        {
+            "name": "pm11",
+            "alphanumName": "pm11",
+            "file": "03 - pm11.txt"
+        },
+        {
+            "name": "pmm2",
+            "alphanumName": "pmm2",
+            "file": "04 - pmm2.txt"
+        },
+        {
+            "name": "p112",
+            "alphanumName": "p112",
+            "file": "05 - p112.txt"
+        },
+        {
+            "name": "p1a1",
+            "alphanumName": "p1a1",
+            "file": "06 - p1a1.txt"
+        },
+        {
+            "name": "pma2",
+            "alphanumName": "pma2",
+            "file": "07 - pma2.txt"
+        }
+    ]
+}
