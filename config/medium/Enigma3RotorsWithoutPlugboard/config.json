@@ -1,0 +1,28 @@
+{
+    "path": "medium/Enigma3RotorsWithoutPlugboard",
+    "name": "Enigma - 3 rotors without plugboard",
+    "alphanumName": "Enigma3RotorsWithoutPlugboard",
+    "link": "https://www.codingame.com/ide/puzzle/enigma---3-rotors-without-plugboard",
+    "tests": [
+        {
+            "name": "Short Message",
+            "alphanumName": "ShortMessage",
+            "file": "01 - Short Message.txt"
+        },
+        {
+            "name": "Triggered Rotation",
+            "alphanumName": "TriggeredRotation",
+            "file": "02 - Triggered Rotation.txt"
+        },
+        {
+            "name": "Longer Message",
+            "alphanumName": "LongerMessage",
+            "file": "03 - Longer Message.txt"
+        },
+        {
+            "name": "Longest Message",
+            "alphanumName": "LongestMessage",
+            "file": "04 - Longest Message.txt"
+        }
+    ]
+}
