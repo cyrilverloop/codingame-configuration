@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Smile! Frieze! Cheese!".
 - configuration for "Enigma - 3 rotors without plugboard".
 - configuration for "A story to go in circles".
+- configuration for "Thermal Flying - Episode 1".
 
 ## [1.9.0] - 2024-11-30
 ### Added

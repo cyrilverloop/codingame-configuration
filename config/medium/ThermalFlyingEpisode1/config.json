@@ -1,0 +1,43 @@
+{
+    "path": "medium/ThermalFlyingEpisode1",
+    "name": "Thermal Flying - Episode 1",
+    "alphanumName": "ThermalFlyingEpisode1",
+    "link": "https://www.codingame.com/ide/puzzle/thermal-flying---episode-1",
+    "tests": [
+        {
+            "name": "Morning Flight",
+            "alphanumName": "MorningFlight",
+            "file": "01 - Morning Flight.txt"
+        },
+        {
+            "name": "Little thermal",
+            "alphanumName": "LittleThermal",
+            "file": "02 - Little thermal.txt"
+        },
+        {
+            "name": "Bigger thermal",
+            "alphanumName": "BiggerThermal",
+            "file": "03 - Bigger thermal.txt"
+        },
+        {
+            "name": "Strong one with downdraft",
+            "alphanumName": "StrongOneWithDowndraft",
+            "file": "04 - Strong one with downdraft.txt"
+        },
+        {
+            "name": "Turbulent air",
+            "alphanumName": "TurbulentAir",
+            "file": "05 - Turbulent air.txt"
+        },
+        {
+            "name": "Cumulonimbus",
+            "alphanumName": "Cumulonimbus",
+            "file": "06 - Cumulonimbus.txt"
+        },
+        {
+            "name": "Apocalyptic",
+            "alphanumName": "Apocalyptic",
+            "file": "07 - Apocalyptic.txt"
+        }
+    ]
+}
