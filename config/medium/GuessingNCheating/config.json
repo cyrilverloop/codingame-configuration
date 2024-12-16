@@ -1,0 +1,63 @@
+{
+    "path": "medium/GuessingNCheating",
+    "name": "Guessing n Cheating",
+    "alphanumName": "GuessingNCheating",
+    "link": "https://www.codingame.com/ide/puzzle/guessing-n-cheating",
+    "tests": [
+        {
+            "name": "Sample cheating",
+            "alphanumName": "SampleCheating",
+            "file": "01 - Sample cheating.txt"
+        },
+        {
+            "name": "Cheat right in the face",
+            "alphanumName": "CheatRightInTheFace",
+            "file": "02 - Cheat right in the face.txt"
+        },
+        {
+            "name": "Bob in a mess",
+            "alphanumName": "BobInAMess",
+            "file": "03 - Bob in a mess.txt"
+        },
+        {
+            "name": "Contradiction",
+            "alphanumName": "Contradiction",
+            "file": "04 - Contradiction.txt"
+        },
+        {
+            "name": "Good Luck",
+            "alphanumName": "GoodLuck",
+            "file": "05 - Good Luck.txt"
+        },
+        {
+            "name": "Sequence",
+            "alphanumName": "Sequence",
+            "file": "06 - Sequence.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "Impossible",
+            "file": "07 - Impossible.txt"
+        },
+        {
+            "name": "Repetition",
+            "alphanumName": "Repetition",
+            "file": "08 - Repetition.txt"
+        },
+        {
+            "name": "Elimination",
+            "alphanumName": "Elimination",
+            "file": "09 - Elimination.txt"
+        },
+        {
+            "name": "Right at the end",
+            "alphanumName": "RightAtTheEnd",
+            "file": "10 - Right at the end.txt"
+        },
+        {
+            "name": "Weird reasoning",
+            "alphanumName": "WeirdReasoning",
+            "file": "11 - Weird reasoning.txt"
+        }
+    ]
+}
