@@ -1,0 +1,53 @@
+{
+    "path": "medium/DiceGalaxy",
+    "name": "Dice galaxy",
+    "alphanumName": "DiceGalaxy",
+    "link": "https://www.codingame.com/ide/puzzle/dice-galaxy",
+    "tests": [
+        {
+            "name": "Vertical position",
+            "alphanumName": "VerticalPosition",
+            "file": "01 - Vertical position.txt"
+        },
+        {
+            "name": "Horizontal position",
+            "alphanumName": "HorizontalPosition",
+            "file": "02 - Horizontal position.txt"
+        },
+        {
+            "name": "Diagonal position",
+            "alphanumName": "DiagonalPosition",
+            "file": "03 - Diagonal position.txt"
+        },
+        {
+            "name": "Knight move",
+            "alphanumName": "KnightMove",
+            "file": "04 - Knight move.txt"
+        },
+        {
+            "name": "A little flat universe",
+            "alphanumName": "ALittleFlatUniverse",
+            "file": "05 - A little flat universe.txt"
+        },
+        {
+            "name": "Balanced",
+            "alphanumName": "Balanced",
+            "file": "06 - Balanced.txt"
+        },
+        {
+            "name": "Mistakes of predecessors",
+            "alphanumName": "MistakesOfPredecessors",
+            "file": "07 - Mistakes of predecessors.txt"
+        },
+        {
+            "name": "Double galaxy",
+            "alphanumName": "DoubleGalaxy",
+            "file": "08 - Double galaxy.txt"
+        },
+        {
+            "name": "Seven galaxy",
+            "alphanumName": "SevenGalaxy",
+            "file": "09 - Seven galaxy.txt"
+        }
+    ]
+}

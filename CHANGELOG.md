@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "A story to go in circles".
 - configuration for "Thermal Flying - Episode 1".
 - configuration for "Guessing n Cheating".
+- configuration for "Dice galaxy".
 
 ## [1.9.0] - 2024-11-30
 ### Added
