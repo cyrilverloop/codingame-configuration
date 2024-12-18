@@ -1,0 +1,28 @@
+{
+    "path": "medium/Hunger",
+    "name": "Hunger",
+    "alphanumName": "Hunger",
+    "link": "https://www.codingame.com/ide/puzzle/hunger",
+    "tests": [
+        {
+            "name": "Sample",
+            "alphanumName": "Sample",
+            "file": "01 - Sample.txt"
+        },
+        {
+            "name": "*Burp*",
+            "alphanumName": "Burp",
+            "file": "02 - Burp.txt"
+        },
+        {
+            "name": ":(",
+            "alphanumName": "test3",
+            "file": "03 - (.txt"
+        },
+        {
+            "name": "It’s the reward that matters",
+            "alphanumName": "ItsTheRewardThatMatters",
+            "file": "04 - It’s the reward that matters.txt"
+        }
+    ]
+}
