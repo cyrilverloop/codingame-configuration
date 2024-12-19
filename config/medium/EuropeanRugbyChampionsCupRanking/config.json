@@ -1,0 +1,33 @@
+{
+    "path": "medium/EuropeanRugbyChampionsCupRanking",
+    "name": "EUROPEAN RUGBY CHAMPIONS CUP RANKING",
+    "alphanumName": "EuropeanRugbyChampionsCupRanking",
+    "link": "https://www.codingame.com/ide/puzzle/european-rugby-champions-cup-ranking",
+    "tests": [
+        {
+            "name": "CHALLENGE CUP 2014/2015",
+            "alphanumName": "CHALLENGECUP20142015",
+            "file": "01 - CHALLENGE CUP 2014-2015.txt"
+        },
+        {
+            "name": "ERCC 2015/2016",
+            "alphanumName": "ERCC20152016",
+            "file": "02 - ERCC 2015-2016.txt"
+        },
+        {
+            "name": "ERCC 2016/2017",
+            "alphanumName": "ERCC20162017",
+            "file": "03 - ERCC 2016-2017.txt"
+        },
+        {
+            "name": "ERCC 2017/2018",
+            "alphanumName": "ERCC20172018",
+            "file": "04 - ERCC 2017-2018.txt"
+        },
+        {
+            "name": "ERCC 2018/2019",
+            "alphanumName": "ERCC20182019",
+            "file": "05 - ERCC 2018-2019.txt"
+        }
+    ]
+}
