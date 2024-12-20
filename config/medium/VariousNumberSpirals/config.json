@@ -1,0 +1,33 @@
+{
+    "path": "medium/VariousNumberSpirals",
+    "name": "Various Number Spirals",
+    "alphanumName": "VariousNumberSpirals",
+    "link": "https://www.codingame.com/ide/puzzle/various-number-spirals",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Counter-clockwise",
+            "alphanumName": "CounterClockwise",
+            "file": "02 - Counter-clockwise.txt"
+        },
+        {
+            "name": "Primitive",
+            "alphanumName": "Primitive",
+            "file": "03 - Primitive.txt"
+        },
+        {
+            "name": "Big one",
+            "alphanumName": "BigOne",
+            "file": "04 - Big one.txt"
+        },
+        {
+            "name": "Descending",
+            "alphanumName": "Descending",
+            "file": "05 - Descending.txt"
+        }
+    ]
+}
