@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Hunger".
 - configuration for "EUROPEAN RUGBY CHAMPIONS CUP RANKING".
 - configuration for "Various Number Spirals".
+- configuration for "Random Time Travel".
 
 ## [1.9.0] - 2024-11-30
 ### Added

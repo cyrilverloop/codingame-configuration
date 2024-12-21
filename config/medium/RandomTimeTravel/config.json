@@ -1,0 +1,33 @@
+{
+    "path": "medium/RandomTimeTravel",
+    "name": "Random Time Travel",
+    "alphanumName": "RandomTimeTravel",
+    "link": "https://www.codingame.com/ide/puzzle/random-time-travel",
+    "tests": [
+        {
+            "name": "Simple forward",
+            "alphanumName": "SimpleForward",
+            "file": "01 - Simple forward.txt"
+        },
+        {
+            "name": "Simple backward",
+            "alphanumName": "SimpleBackward",
+            "file": "02 - Simple backward.txt"
+        },
+        {
+            "name": "Java Random 10 steps",
+            "alphanumName": "JavaRandom10Steps",
+            "file": "03 - Java Random 10 steps.txt"
+        },
+        {
+            "name": "Java Random -10 steps",
+            "alphanumName": "JavaRandomMinus10Steps",
+            "file": "04 - Java Random -10 steps.txt"
+        },
+        {
+            "name": "Back to the future",
+            "alphanumName": "BackToTheFuture",
+            "file": "05 - Back to the future.txt"
+        }
+    ]
+}
