@@ -1,0 +1,38 @@
+{
+    "path": "medium/CookingPassion",
+    "name": "Cooking passion",
+    "alphanumName": "CookingPassion",
+    "link": "https://www.codingame.com/ide/puzzle/cooking-passion",
+    "tests": [
+        {
+            "name": "Simple Recipe",
+            "alphanumName": "SimpleRecipe",
+            "file": "01 - Simple Recipe.txt"
+        },
+        {
+            "name": "kilograms",
+            "alphanumName": "kilograms",
+            "file": "02 - kilograms.txt"
+        },
+        {
+            "name": "Order + liquid",
+            "alphanumName": "OrderLiquid",
+            "file": "03 - Order + liquid.txt"
+        },
+        {
+            "name": "Your dog is rich",
+            "alphanumName": "YourDogIsRich",
+            "file": "04 - Your dog is rich.txt"
+        },
+        {
+            "name": "J’aime la ratatouille",
+            "alphanumName": "JAimeLaRatatouille",
+            "file": "05 - J’aime la ratatouille.txt"
+        },
+        {
+            "name": "Mix and twist",
+            "alphanumName": "MixAndTwist",
+            "file": "06 - Mix and twist.txt"
+        }
+    ]
+}
