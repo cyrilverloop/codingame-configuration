@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Various Number Spirals".
 - configuration for "Random Time Travel".
 - configuration for "Cooking passion".
+- configuration for "Guessing digits".
 
 ## [1.9.0] - 2024-11-30
 ### Added
