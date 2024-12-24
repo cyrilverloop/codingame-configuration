@@ -1,0 +1,28 @@
+{
+    "path": "medium/ASCIISnakes",
+    "name": "ASCII Snakes",
+    "alphanumName": "ASCIISnakes",
+    "link": "https://www.codingame.com/ide/puzzle/ascii-snakes",
+    "tests": [
+        {
+            "name": "Example case",
+            "alphanumName": "ExampleCase",
+            "file": "01 - Example case.txt"
+        },
+        {
+            "name": "Back to the basics",
+            "alphanumName": "BackToTheBasics",
+            "file": "02 - Back to the basics.txt"
+        },
+        {
+            "name": "Weird snake",
+            "alphanumName": "WeirdSnake",
+            "file": "03 - Weird snake.txt"
+        },
+        {
+            "name": "Boss snake",
+            "alphanumName": "BossSnake",
+            "file": "04 - Boss snake.txt"
+        }
+    ]
+}

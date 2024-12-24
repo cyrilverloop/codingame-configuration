@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Random Time Travel".
 - configuration for "Cooking passion".
 - configuration for "Guessing digits".
+- configuration for "ASCII Snakes".
 
 ## [1.9.0] - 2024-11-30
 ### Added
