@@ -1,0 +1,53 @@
+{
+    "path": "medium/CustomGameOfLife",
+    "name": "Custom Game of Life",
+    "alphanumName": "CustomGameOfLife",
+    "link": "https://www.codingame.com/ide/puzzle/custom-game-of-life",
+    "tests": [
+        {
+            "name": "Stable",
+            "alphanumName": "Stable",
+            "file": "01 - Stable.txt"
+        },
+        {
+            "name": "1 turn",
+            "alphanumName": "oneTurn",
+            "file": "02 - 1 turn.txt"
+        },
+        {
+            "name": "Oscillator",
+            "alphanumName": "Oscillator",
+            "file": "03 - Oscillator.txt"
+        },
+        {
+            "name": "Spaceship 4 turns",
+            "alphanumName": "Spaceship4Turns",
+            "file": "04 - Spaceship 4 turns.txt"
+        },
+        {
+            "name": "New rules, simple",
+            "alphanumName": "NewRulesSimple",
+            "file": "05 - New rules, simple.txt"
+        },
+        {
+            "name": "A bit more complex",
+            "alphanumName": "ABitMoreComplex",
+            "file": "06 - A bit more complex.txt"
+        },
+        {
+            "name": "Weird rules",
+            "alphanumName": "WeirdRules",
+            "file": "07 - Weird rules.txt"
+        },
+        {
+            "name": "Complex rules, more turns",
+            "alphanumName": "ComplexRulesMoreTurns",
+            "file": "08 - Complex rules, more turns.txt"
+        },
+        {
+            "name": "Insane (20x20, random rules and grid)",
+            "alphanumName": "Insane20x20RandomRulesAndGrid",
+            "file": "09 - Insane (20x20, random rules and grid).txt"
+        }
+    ]
+}
