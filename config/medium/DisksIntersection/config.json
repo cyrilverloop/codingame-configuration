@@ -1,0 +1,33 @@
+{
+    "path": "medium/DisksIntersection",
+    "name": "Disks intersection",
+    "alphanumName": "DisksIntersection",
+    "link": "https://www.codingame.com/ide/puzzle/disks-intersection",
+    "tests": [
+        {
+            "name": "No intersection",
+            "alphanumName": "NoIntersection",
+            "file": "01 - No intersection.txt"
+        },
+        {
+            "name": "Intersection in one point",
+            "alphanumName": "IntersectionInOnePoint",
+            "file": "02 - Intersection in one point.txt"
+        },
+        {
+            "name": "Same radius",
+            "alphanumName": "SameRadius",
+            "file": "03 - Same radius.txt"
+        },
+        {
+            "name": "Different radius",
+            "alphanumName": "DifferentRadius",
+            "file": "04 - Different radius.txt"
+        },
+        {
+            "name": "One in another",
+            "alphanumName": "OneInAnother",
+            "file": "05 - One in another.txt"
+        }
+    ]
+}
