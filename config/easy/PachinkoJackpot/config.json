@@ -1,7 +1,7 @@
 {
-    "path": "easy/PanelCount",
+    "path": "easy/PachinkoJackpot",
     "name": "Pachinko Jackpot",
-    "alphanumName": "PanelCount",
+    "alphanumName": "PachinkoJackpot",
     "link": "https://www.codingame.com/ide/puzzle/pachinko-jackpot",
     "tests": [
         {
