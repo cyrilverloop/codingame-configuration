@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "ASCII Snakes".
 - configuration for "Custom Game of Life".
 - configuration for "Disks intersection".
+- configuration for "Pachinko Jackpot".
 
 ## [1.9.0] - 2024-11-30
 ### Added

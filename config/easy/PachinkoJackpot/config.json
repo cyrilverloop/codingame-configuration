@@ -1,0 +1,68 @@
+{
+    "path": "easy/PanelCount",
+    "name": "Pachinko Jackpot",
+    "alphanumName": "PanelCount",
+    "link": "https://www.codingame.com/ide/puzzle/pachinko-jackpot",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Multipliers",
+            "alphanumName": "Multipliers",
+            "file": "02 - Multipliers.txt"
+        },
+        {
+            "name": "Flat prizes",
+            "alphanumName": "FlatPrizes",
+            "file": "03 - Flat prizes.txt"
+        },
+        {
+            "name": "Missing catcher",
+            "alphanumName": "MissingCatcher",
+            "file": "04 - Missing catcher.txt"
+        },
+        {
+            "name": "Triple Potential",
+            "alphanumName": "TriplePotential",
+            "file": "05 - Triple Potential.txt"
+        },
+        {
+            "name": "Level pegging",
+            "alphanumName": "LevelPegging",
+            "file": "06 - Level pegging.txt"
+        },
+        {
+            "name": "Smallish",
+            "alphanumName": "Smallish",
+            "file": "07 - Smallish.txt"
+        },
+        {
+            "name": "Medium",
+            "alphanumName": "Medium",
+            "file": "08 - Medium.txt"
+        },
+        {
+            "name": "Large",
+            "alphanumName": "Large",
+            "file": "09 - Large.txt"
+        },
+        {
+            "name": "Extra large",
+            "alphanumName": "ExtraLarge",
+            "file": "10 - Extra large.txt"
+        },
+        {
+            "name": "Giant",
+            "alphanumName": "Giant",
+            "file": "11 - Giant.txt"
+        },
+        {
+            "name": "Monster",
+            "alphanumName": "Monster",
+            "file": "12 - Monster.txt"
+        }
+    ]
+}
