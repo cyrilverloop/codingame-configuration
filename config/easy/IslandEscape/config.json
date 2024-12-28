@@ -1,0 +1,73 @@
+{
+    "path": "easy/IslandEscape",
+    "name": "Island Escape",
+    "alphanumName": "IslandEscape",
+    "link": "https://www.codingame.com/ide/puzzle/island-escape",
+    "tests": [
+        {
+            "name": "Sea stack",
+            "alphanumName": "SeaStack",
+            "file": "01 - Sea stack.txt"
+        },
+        {
+            "name": "Vanishing island",
+            "alphanumName": "VanishingIsland",
+            "file": "02 - Vanishing island.txt"
+        },
+        {
+            "name": "Tiny islet",
+            "alphanumName": "TinyIslet",
+            "file": "03 - Tiny islet.txt"
+        },
+        {
+            "name": "Plateau",
+            "alphanumName": "Plateau",
+            "file": "04 - Plateau.txt"
+        },
+        {
+            "name": "Volcano",
+            "alphanumName": "Volcano",
+            "file": "05 - Volcano.txt"
+        },
+        {
+            "name": "Long descent",
+            "alphanumName": "LongDescent",
+            "file": "06 - Long descent.txt"
+        },
+        {
+            "name": "Cradled valley",
+            "alphanumName": "CradledValley",
+            "file": "07 - Cradled valley.txt"
+        },
+        {
+            "name": "Secluded paradise",
+            "alphanumName": "SecludedParadise",
+            "file": "08 - Secluded paradise.txt"
+        },
+        {
+            "name": "Secret fortress",
+            "alphanumName": "SecretFortress",
+            "file": "09 - Secret fortress.txt"
+        },
+        {
+            "name": "Abandoned barracks",
+            "alphanumName": "AbandonedBarracks",
+            "file": "10 - Abandoned barracks.txt"
+        },
+        {
+            "name": "Sea fort",
+            "alphanumName": "SeaFort",
+            "file": "11 - Sea fort.txt"
+        },
+        {
+            "name": "Castle",
+            "alphanumName": "Castle",
+            "file": "12 - Castle.txt"
+        },
+        {
+            "name": "City state",
+            "alphanumName": "CityState",
+            "file": "13 - City state.txt"
+        }
+    ]
+}
