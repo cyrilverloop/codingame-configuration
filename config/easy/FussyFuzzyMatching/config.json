@@ -1,0 +1,33 @@
+{
+    "path": "easy/FussyFuzzyMatching",
+    "name": "Fussy Fuzzy Matching",
+    "alphanumName": "FussyFuzzyMatching",
+    "link": "https://www.codingame.com/ide/puzzle/fussy-fuzzy-matching",
+    "tests": [
+        {
+            "name": "Strict",
+            "alphanumName": "Strict",
+            "file": "01 - Strict.txt"
+        },
+        {
+            "name": "letterCase=false, letterFuzz=2",
+            "alphanumName": "letterCaseFalseLetterFuzz2",
+            "file": "02 - letterCase=false, letterFuzz=2.txt"
+        },
+        {
+            "name": "numberFuzz",
+            "alphanumName": "numberFuzz",
+            "file": "03 - numberFuzz.txt"
+        },
+        {
+            "name": "otherFuzz=false",
+            "alphanumName": "otherFuzzFalse",
+            "file": "04 - otherFuzz=false.txt"
+        },
+        {
+            "name": "Put It All Together",
+            "alphanumName": "PutItAllTogether",
+            "file": "05 - Put It All Together.txt"
+        }
+    ]
+}
