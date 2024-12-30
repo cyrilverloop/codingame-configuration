@@ -1,0 +1,53 @@
+{
+    "path": "easy/SandFall",
+    "name": "Sand Fall",
+    "alphanumName": "SandFall",
+    "link": "https://www.codingame.com/ide/puzzle/sand-fall",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Wall Hug",
+            "alphanumName": "WallHug",
+            "file": "02 - Wall Hug.txt"
+        },
+        {
+            "name": "Single Pile",
+            "alphanumName": "SinglePile",
+            "file": "03 - Single Pile.txt"
+        },
+        {
+            "name": "Close Fit",
+            "alphanumName": "CloseFit",
+            "file": "04 - Close Fit.txt"
+        },
+        {
+            "name": "Fibo",
+            "alphanumName": "Fibo",
+            "file": "05 - Fibo.txt"
+        },
+        {
+            "name": "Pop Culture",
+            "alphanumName": "PopCulture",
+            "file": "06 - Pop Culture.txt"
+        },
+        {
+            "name": "Chess - Italian opening",
+            "alphanumName": "ChessItalianOpening",
+            "file": "07 - Chess - Italian opening.txt"
+        },
+        {
+            "name": "Landscape",
+            "alphanumName": "Landscape",
+            "file": "08 - Landscape.txt"
+        },
+        {
+            "name": "Big Box",
+            "alphanumName": "BigBox",
+            "file": "09 - Big Box.txt"
+        }
+    ]
+}
