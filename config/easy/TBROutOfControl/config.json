@@ -1,0 +1,58 @@
+{
+    "path": "easy/TBROutOfControl",
+    "name": "TBR out of control !!!",
+    "alphanumName": "TBROutOfControl",
+    "link": "https://www.codingame.com/ide/puzzle/tbr-out-of-control",
+    "tests": [
+        {
+            "name": "Simple case",
+            "alphanumName": "SimpleCase",
+            "file": "01 - Simple case.txt"
+        },
+        {
+            "name": "Long TBR",
+            "alphanumName": "LongTBR",
+            "file": "02 - Long TBR.txt"
+        },
+        {
+            "name": "Small bookshelf",
+            "alphanumName": "SmallBookshelf",
+            "file": "03 - Small bookshelf.txt"
+        },
+        {
+            "name": "Duplicate",
+            "alphanumName": "Duplicate",
+            "file": "04 - Duplicate.txt"
+        },
+        {
+            "name": "New space",
+            "alphanumName": "NewSpace",
+            "file": "05 - New space.txt"
+        },
+        {
+            "name": "Favorite books",
+            "alphanumName": "FavoriteBooks",
+            "file": "06 - Favorite books.txt"
+        },
+        {
+            "name": "Duplicate is favorite",
+            "alphanumName": "DuplicateIsFavorite",
+            "file": "07 - Duplicate is favorite.txt"
+        },
+        {
+            "name": "Duplicate again...",
+            "alphanumName": "DuplicateAgain",
+            "file": "08 - Duplicate again....txt"
+        },
+        {
+            "name": "Test 9",
+            "alphanumName": "test9",
+            "file": "09 - test 9.txt"
+        },
+        {
+            "name": "Test 10",
+            "alphanumName": "test10",
+            "file": "10 - test 10.txt"
+        }
+    ]
+}
