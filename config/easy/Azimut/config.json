@@ -1,0 +1,38 @@
+{
+    "path": "easy/Azimut",
+    "name": "Azimut",
+    "alphanumName": "Azimut",
+    "link": "https://www.codingame.com/ide/puzzle/azimut",
+    "tests": [
+        {
+            "name": "Simple Turn",
+            "alphanumName": "SimpleTurn",
+            "file": "01 - Simple Turn.txt"
+        },
+        {
+            "name": "Three in a row",
+            "alphanumName": "ThreeInARow",
+            "file": "02 - Three in a row.txt"
+        },
+        {
+            "name": "Backtracking",
+            "alphanumName": "Backtracking",
+            "file": "03 - Backtracking.txt"
+        },
+        {
+            "name": "Running Ahead",
+            "alphanumName": "RunningAhead",
+            "file": "04 - Running Ahead.txt"
+        },
+        {
+            "name": "Long Run",
+            "alphanumName": "LongRun",
+            "file": "05 - Long Run.txt"
+        },
+        {
+            "name": "Nascar",
+            "alphanumName": "Nascar",
+            "file": "06 - Nascar.txt"
+        }
+    ]
+}
