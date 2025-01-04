@@ -1,0 +1,38 @@
+{
+    "path": "easy/SparseMatMul",
+    "name": "Sparse MatMul",
+    "alphanumName": "SparseMatMul",
+    "link": "https://www.codingame.com/ide/puzzle/sparse-matmul",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Corners",
+            "alphanumName": "Corners",
+            "file": "02 - Corners.txt"
+        },
+        {
+            "name": "Dense",
+            "alphanumName": "Dense",
+            "file": "03 - Dense.txt"
+        },
+        {
+            "name": "Cancelation",
+            "alphanumName": "Cancelation",
+            "file": "04 - Cancelation.txt"
+        },
+        {
+            "name": "Banded",
+            "alphanumName": "Banded",
+            "file": "05 - Banded.txt"
+        },
+        {
+            "name": "Supertask",
+            "alphanumName": "Supertask",
+            "file": "06 - Supertask.txt"
+        }
+    ]
+}
