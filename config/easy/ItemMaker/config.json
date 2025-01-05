@@ -1,0 +1,33 @@
+{
+    "path": "easy/ItemMaker",
+    "name": "Item Maker",
+    "alphanumName": "ItemMaker",
+    "link": "https://www.codingame.com/ide/puzzle/item-maker",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Increased rarity",
+            "alphanumName": "IncreasedRarity",
+            "file": "02 - Increased rarity.txt"
+        },
+        {
+            "name": "Epic now?",
+            "alphanumName": "EpicNow",
+            "file": "03 - Epic now.txt"
+        },
+        {
+            "name": "Let's Legendary!",
+            "alphanumName": "LetsLegendary",
+            "file": "04 - Let’s Legendary!.txt"
+        },
+        {
+            "name": "Another one, just for fun",
+            "alphanumName": "AnotherOneJustForFun",
+            "file": "05 - Another one, just for fun.txt"
+        }
+    ]
+}
