@@ -1,0 +1,53 @@
+{
+    "path": "easy/NumberOfDigits",
+    "name": "Number of Digits",
+    "alphanumName": "NumberOfDigits",
+    "link": "https://www.codingame.com/ide/puzzle/number-of-digits",
+    "tests": [
+        {
+            "name": "n = 12",
+            "alphanumName": "n12",
+            "file": "01 - n = 12.txt"
+        },
+        {
+            "name": "n = 0",
+            "alphanumName": "n0",
+            "file": "02 - n = 0.txt"
+        },
+        {
+            "name": "n = 219",
+            "alphanumName": "n219",
+            "file": "03 - n = 219.txt"
+        },
+        {
+            "name": "n = 4218",
+            "alphanumName": "n4218",
+            "file": "04 - n = 4218.txt"
+        },
+        {
+            "name": "n = 10000",
+            "alphanumName": "n10000",
+            "file": "05 - n = 10000.txt"
+        },
+        {
+            "name": "n = 248919",
+            "alphanumName": "n248919",
+            "file": "06 - n = 248919.txt"
+        },
+        {
+            "name": "n = 841772",
+            "alphanumName": "n841772",
+            "file": "07 - n = 841772.txt"
+        },
+        {
+            "name": "n = 1283048",
+            "alphanumName": "n1283048",
+            "file": "08 - n = 1283048.txt"
+        },
+        {
+            "name": "n = 824883294",
+            "alphanumName": "n824883294",
+            "file": "09 - n = 824883294.txt"
+        }
+    ]
+}
