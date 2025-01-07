@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Sparse MatMul".
 - configuration for "Item Maker".
 - configuration for "Number of Digits".
+- configuration for "Bijective Numeration".
 
 ## [1.10.0] - 2024-12-31
 ### Added
