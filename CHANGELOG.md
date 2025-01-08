@@ -15,6 +15,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Bijective Numeration".
 - configuration for "Playing Card Odds".
 
+### Changed
+- difficulty of "Zhiwei Sun Squares" from easy to medium.
+
 ### Fixed
 - link to "Triangle Toggle".
 
