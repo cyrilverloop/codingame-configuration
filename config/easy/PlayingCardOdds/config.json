@@ -1,0 +1,53 @@
+{
+    "path": "easy/PlayingCardOdds",
+    "name": "Playing Card Odds",
+    "alphanumName": "PlayingCardOdds",
+    "link": "https://www.codingame.com/ide/puzzle/playing-card-odds",
+    "tests": [
+        {
+            "name": "Example 1",
+            "alphanumName": "Example1",
+            "file": "01 - Example 1.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "Example2",
+            "file": "02 - Example 2.txt"
+        },
+        {
+            "name": "Crazy eights",
+            "alphanumName": "CrazyEights",
+            "file": "03 - Crazy eights.txt"
+        },
+        {
+            "name": "Trump or face card",
+            "alphanumName": "TrumpOrFaceCard",
+            "file": "04 - Trump or face card.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "Impossible",
+            "file": "05 - Impossible.txt"
+        },
+        {
+            "name": "A lock",
+            "alphanumName": "ALock",
+            "file": "06 - A lock.txt"
+        },
+        {
+            "name": "Full deck",
+            "alphanumName": "FullDeck",
+            "file": "07 - Full deck.txt"
+        },
+        {
+            "name": "Mixture",
+            "alphanumName": "Mixture",
+            "file": "08 - Mixture.txt"
+        },
+        {
+            "name": "Decimation",
+            "alphanumName": "Decimation",
+            "file": "09 - Decimation.txt"
+        }
+    ]
+}
