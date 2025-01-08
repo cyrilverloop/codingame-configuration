@@ -2,7 +2,7 @@
     "path": "easy/TriangleToggle",
     "name": "Triangle Toggle",
     "alphanumName": "triangleToggle",
-    "link": "https://www.codingame.com/ide/puzzle/tree-paths",
+    "link": "https://www.codingame.com/ide/puzzle/triangle-toggle",
     "tests": [
         {
             "name": "Test 1: One right",
