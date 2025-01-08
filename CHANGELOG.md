@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.
+- difficulty of "Pachinko Jackpot" from easy to medium.
 
 ### Fixed
 - link to "Triangle Toggle".
