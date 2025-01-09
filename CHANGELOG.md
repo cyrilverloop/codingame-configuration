@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Number of Digits".
 - configuration for "Bijective Numeration".
 - configuration for "Playing Card Odds".
+- configuration for "nD-Vector sorting".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.

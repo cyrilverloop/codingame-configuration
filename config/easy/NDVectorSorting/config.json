@@ -1,0 +1,33 @@
+{
+    "path": "easy/NDVectorSorting",
+    "name": "nD-Vector sorting",
+    "alphanumName": "NDVectorSorting",
+    "link": "https://www.codingame.com/ide/puzzle/nd-vector-sorting",
+    "tests": [
+        {
+            "name": "2D basic",
+            "alphanumName": "2DBasic",
+            "file": "01 - 2D basic.txt"
+        },
+        {
+            "name": "3D simple (lexical check)",
+            "alphanumName": "3DSimpleLexicalCheck",
+            "file": "02 - 3D simple (lexical check).txt"
+        },
+        {
+            "name": "Quite large number of dimensions & vectors",
+            "alphanumName": "QuiteLargeNumberOfDimensionsAndVectors",
+            "file": "03 - Quite large number of dimensions & vectors.txt"
+        },
+        {
+            "name": "Biggest number of dimensions",
+            "alphanumName": "BiggestNumberOfDimensions",
+            "file": "04 - Biggest number of dimensions.txt"
+        },
+        {
+            "name": "Biggest number of vectors",
+            "alphanumName": "Biggest number of vectors",
+            "file": "05 - BiggestNumberOfVectors.txt"
+        }
+    ]
+}
