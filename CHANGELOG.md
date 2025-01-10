@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Bijective Numeration".
 - configuration for "Playing Card Odds".
 - configuration for "nD-Vector sorting".
+- configuration for "Let’s make a cheap ASCII 3D engine!".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.
