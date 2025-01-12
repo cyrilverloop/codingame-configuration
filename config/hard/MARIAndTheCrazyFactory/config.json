@@ -1,0 +1,73 @@
+{
+    "path": "hard/MARIAndTheCrazyFactory",
+    "name": "M.A.R.I. and the crazy factory",
+    "alphanumName": "MARIAndTheCrazyFactory",
+    "link": "https://www.codingame.com/ide/puzzle/m-a-r-i--and-the-crazy-factory",
+    "tests": [
+        {
+            "name": "Go straight ahead… or maybe not",
+            "alphanumName": "GoStraightAheadOrMaybeNot",
+            "file": "01 - Go straight ahead… or maybe not.txt"
+        },
+        {
+            "name": "Straight ahead and nop",
+            "alphanumName": "StraightAheadAndNop",
+            "file": "02 - Straight ahead and nop.txt"
+        },
+        {
+            "name": "Turn right",
+            "alphanumName": "TurnRight",
+            "file": "03 - Turn right.txt"
+        },
+        {
+            "name": "A bit harder",
+            "alphanumName": "ABitHarder",
+            "file": "04 - A bit harder.txt"
+        },
+        {
+            "name": "With break",
+            "alphanumName": "WithBreak",
+            "file": "05 - With break.txt"
+        },
+        {
+            "name": "Starts with a not empty set",
+            "alphanumName": "StartsWithANotEmptySet",
+            "file": "06 - Starts with a not empty set.txt"
+        },
+        {
+            "name": "Repeat next instruction",
+            "alphanumName": "RepeatNextInstruction",
+            "file": "07 - Repeat next instruction.txt"
+        },
+        {
+            "name": "Random puzzle",
+            "alphanumName": "RandomPuzzle",
+            "file": "08 - Random puzzle.txt"
+        },
+        {
+            "name": "Someone lost a piece",
+            "alphanumName": "SomeoneLostAPiece",
+            "file": "09 - Someone lost a piece.txt"
+        },
+        {
+            "name": "A key on the ground",
+            "alphanumName": "AKeyOnTheGround",
+            "file": "10 - A key on the ground.txt"
+        },
+        {
+            "name": "Open the door tyrannosaur",
+            "alphanumName": "OpenTheDoorTyrannosaur",
+            "file": "11 - Open the door tyrannosaur.txt"
+        },
+        {
+            "name": "Drunken M.A.R.I.",
+            "alphanumName": "DrunkenMARI",
+            "file": "12 - Drunken M.A.R.I..txt"
+        },
+        {
+            "name": "To the central command",
+            "alphanumName": "ToTheCentralCommand",
+            "file": "13 - To the central command.txt"
+        }
+    ]
+}
