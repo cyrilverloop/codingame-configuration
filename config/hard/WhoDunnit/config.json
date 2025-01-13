@@ -1,0 +1,108 @@
+{
+    "path": "hard/WhoDunnit",
+    "name": "Who Dunnit?",
+    "alphanumName": "WhoDunnit",
+    "link": "https://www.codingame.com/ide/puzzle/who-dunnit",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Example shuffled",
+            "alphanumName": "ExampleShuffled",
+            "file": "02 - Example shuffled.txt"
+        },
+        {
+            "name": "Direct implication",
+            "alphanumName": "DirectImplication",
+            "file": "03 - Direct implication.txt"
+        },
+        {
+            "name": "Three suspects",
+            "alphanumName": "ThreeSuspects",
+            "file": "04 - Three suspects.txt"
+        },
+        {
+            "name": "Unidentified weapon",
+            "alphanumName": "UnidentifiedWeapon",
+            "file": "05 - Unidentified weapon.txt"
+        },
+        {
+            "name": "Confession",
+            "alphanumName": "Confession",
+            "file": "06 - Confession.txt"
+        },
+        {
+            "name": "Accomplice",
+            "alphanumName": "Accomplice",
+            "file": "07 - Accomplice.txt"
+        },
+        {
+            "name": "Double homicide",
+            "alphanumName": "DoubleHomicide",
+            "file": "08 - Double homicide.txt"
+        },
+        {
+            "name": "Triple homicide",
+            "alphanumName": "TripleHomicide",
+            "file": "09 - Triple homicide.txt"
+        },
+        {
+            "name": "Airtight alibi",
+            "alphanumName": "AirtightAlibi",
+            "file": "10 - Airtight alibi.txt"
+        },
+        {
+            "name": "Murder! by Anthony and Elva Pratt",
+            "alphanumName": "MurderByAnthonyAndElvaPratt",
+            "file": "11 - Murder! by Anthony and Elva Pratt.txt"
+        },
+        {
+            "name": "(Spoiler) Plot device by Rian Johnson",
+            "alphanumName": "SpoilerPlotDeviceByRianJohnson",
+            "file": "12 - (Spoiler) Plot device by Rian Johnson.txt"
+        },
+        {
+            "name": "Accessory after the fact",
+            "alphanumName": "AccessoryAfterTheFact",
+            "file": "13 - Accessory after the fact.txt"
+        },
+        {
+            "name": "Silent co-conspirators",
+            "alphanumName": "SilentCoConspirators",
+            "file": "14 - Silent co-conspirators.txt"
+        },
+        {
+            "name": "Motive",
+            "alphanumName": "Motive",
+            "file": "15 - Motive.txt"
+        },
+        {
+            "name": "Chain of reasoning",
+            "alphanumName": "ChainOfReasoning",
+            "file": "16 - Chain of reasoning.txt"
+        },
+        {
+            "name": "Kitchen Sink",
+            "alphanumName": "KitchenSink",
+            "file": "17 - Kitchen Sink.txt"
+        },
+        {
+            "name": "Jaw dropper",
+            "alphanumName": "JawDropper",
+            "file": "18 - Jaw dropper.txt"
+        },
+        {
+            "name": "Unexpected twist",
+            "alphanumName": "UnexpectedTwist",
+            "file": "19 - Unexpected twist.txt"
+        },
+        {
+            "name": "Alternative ending",
+            "alphanumName": "AlternativeEnding",
+            "file": "20 - Alternative ending.txt"
+        }
+    ]
+}
