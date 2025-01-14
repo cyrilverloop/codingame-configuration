@@ -1,0 +1,103 @@
+{
+    "path": "hard/Rummikub2",
+    "name": "Rummikub 2",
+    "alphanumName": "Rummikub2",
+    "link": "https://www.codingame.com/ide/puzzle/rummikub-2",
+    "tests": [
+        {
+            "name": "Multiple takes",
+            "alphanumName": "MultipleTakes",
+            "file": "01 - Multiple takes.txt"
+        },
+        {
+            "name": "A lot of actions",
+            "alphanumName": "ALotOfActions",
+            "file": "02 - A lot of actions.txt"
+        },
+        {
+            "name": "A lot of actions?",
+            "alphanumName": "ALotOfActions2",
+            "file": "03 - A lot of actions 2.txt"
+        },
+        {
+            "name": "A lot is irrelevant",
+            "alphanumName": "ALotIsIrrelevant",
+            "file": "04 - A lot is irrelevant.txt"
+        },
+        {
+            "name": "A lot of actions and extra",
+            "alphanumName": "ALotOfActionsAndExtra",
+            "file": "05 - A lot of actions and extra.txt"
+        },
+        {
+            "name": "Joker",
+            "alphanumName": "Joker",
+            "file": "06 - Joker.txt"
+        },
+        {
+            "name": "Joker in set",
+            "alphanumName": "JokerInSet",
+            "file": "07 - Joker in set.txt"
+        },
+        {
+            "name": "Joker outside",
+            "alphanumName": "JokerOutside",
+            "file": "08 - Joker outside.txt"
+        },
+        {
+            "name": "Joker inside",
+            "alphanumName": "JokerInside",
+            "file": "09 - Joker inside.txt"
+        },
+        {
+            "name": "Joke(r)",
+            "alphanumName": "Joker2",
+            "file": "10 - Joke(r).txt"
+        },
+        {
+            "name": "Don’t use the joker",
+            "alphanumName": "DontUseTheJoker",
+            "file": "11 - Don’t use the joker.txt"
+        },
+        {
+            "name": "Get that joker",
+            "alphanumName": "GetThatJoker",
+            "file": "12 - Get that joker.txt"
+        },
+        {
+            "name": "Joker as early as possible",
+            "alphanumName": "JokerAsEarlyAsPossible",
+            "file": "13 - Joker as early as possible.txt"
+        },
+        {
+            "name": "With J is better",
+            "alphanumName": "WithJIsBetter",
+            "file": "14 - With J is better.txt"
+        },
+        {
+            "name": "Joker combine",
+            "alphanumName": "JokerCombine",
+            "file": "15 - Joker combine.txt"
+        },
+        {
+            "name": "Multiple takes with J",
+            "alphanumName": "MultipleTakesWithJ",
+            "file": "16 - Multiple takes with J.txt"
+        },
+        {
+            "name": "A lot of actions with J",
+            "alphanumName": "ALotOfActionsWithJ",
+            "file": "17 - A lot of actions with J.txt"
+        },
+        {
+            "name": "A bit of everything",
+            "alphanumName": "ABitOfEverything",
+            "file": "18 - A bit of everything.txt"
+        },
+        {
+            "name": "Many paths to explore",
+            "alphanumName": "ManyPathsToExplore",
+            "file": "19 - Many paths to explore.txt"
+        }
+    ]
+}

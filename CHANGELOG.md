@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Fold and cut".
 - configuration for "M.A.R.I. and the crazy factory".
 - configuration for "Who Dunnit?".
+- configuration for "Rummikub 2".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.
