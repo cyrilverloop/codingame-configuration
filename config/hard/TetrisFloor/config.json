@@ -1,0 +1,83 @@
+{
+    "path": "hard/TetrisFloor",
+    "name": "Tetris Floor",
+    "alphanumName": "TetrisFloor",
+    "link": "https://www.codingame.com/ide/puzzle/tetris-floor",
+    "tests": [
+        {
+            "name": "Studio",
+            "alphanumName": "Studio",
+            "file": "01 - Studio.txt"
+        },
+        {
+            "name": "Studio #2",
+            "alphanumName": "Studio2",
+            "file": "02 - Studio #2.txt"
+        },
+        {
+            "name": "One Bedroom",
+            "alphanumName": "OneBedroom",
+            "file": "03 - One Bedroom.txt"
+        },
+        {
+            "name": "One Bedroom #2",
+            "alphanumName": "OneBedroom2",
+            "file": "04 - One Bedroom #2.txt"
+        },
+        {
+            "name": "Two Bedrooms",
+            "alphanumName": "TwoBedrooms",
+            "file": "05 - Two Bedrooms.txt"
+        },
+        {
+            "name": "Two Bedrooms #2",
+            "alphanumName": "TwoBedrooms2",
+            "file": "06 - Two Bedrooms #2.txt"
+        },
+        {
+            "name": "Conformity",
+            "alphanumName": "Conformity",
+            "file": "07 - Conformity.txt"
+        },
+        {
+            "name": "Conformity #2",
+            "alphanumName": "Conformity2",
+            "file": "08 - Conformity #2.txt"
+        },
+        {
+            "name": "Many Possibilities",
+            "alphanumName": "ManyPossibilities",
+            "file": "09 - Many Possibilities.txt"
+        },
+        {
+            "name": "Similar Prices",
+            "alphanumName": "SimilarPrices",
+            "file": "10 - Similar Prices.txt"
+        },
+        {
+            "name": "Tetris",
+            "alphanumName": "Tetris",
+            "file": "11 - Tetris.txt"
+        },
+        {
+            "name": "Orientation N-S",
+            "alphanumName": "OrientationNS",
+            "file": "12 - Orientation N-S.txt"
+        },
+        {
+            "name": "Orientation E-W",
+            "alphanumName": "OrientationEW",
+            "file": "13 - Orientation E-W.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "Random",
+            "file": "14 - Random.txt"
+        },
+        {
+            "name": "Random #2",
+            "alphanumName": "Random#2",
+            "file": "15 - Random #2.txt"
+        }
+    ]
+}

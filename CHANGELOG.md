@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "M.A.R.I. and the crazy factory".
 - configuration for "Who Dunnit?".
 - configuration for "Rummikub 2".
+- configuration for "Tetris Floor".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.
