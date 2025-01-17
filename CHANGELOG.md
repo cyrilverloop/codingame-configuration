@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Rummikub 2".
 - configuration for "Tetris Floor".
 - configuration for "Counter Attack".
+- configuration for "Simple Pascal (PL/0) Compiler".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.

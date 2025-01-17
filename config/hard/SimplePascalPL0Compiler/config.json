@@ -1,0 +1,88 @@
+{
+    "path": "hard/SimplePascalPL0Compiler",
+    "name": "Simple Pascal (PL/0) Compiler",
+    "alphanumName": "SimplePascalPL0Compiler",
+    "link": "https://www.codingame.com/ide/puzzle/simple-pascal-pl0-compiler",
+    "tests": [
+        {
+            "name": "Simple example",
+            "alphanumName": "SimpleExample",
+            "file": "01 - Simple example.txt"
+        },
+        {
+            "name": "While and If",
+            "alphanumName": "WhileAndIf",
+            "file": "02 - While and If.txt"
+        },
+        {
+            "name": "Procedure",
+            "alphanumName": "Procedure",
+            "file": "03 - Procedure.txt"
+        },
+        {
+            "name": "Unknown variable",
+            "alphanumName": "UnknownVariable",
+            "file": "04 - Unknown variable.txt"
+        },
+        {
+            "name": "; missing",
+            "alphanumName": "missing",
+            "file": "05 - ; missing.txt"
+        },
+        {
+            "name": "Invalid expression",
+            "alphanumName": "InvalidExpression",
+            "file": "06 - Invalid expression.txt"
+        },
+        {
+            "name": "Missing symbol",
+            "alphanumName": "MissingSymbol",
+            "file": "07 - Missing symbol.txt"
+        },
+        {
+            "name": "Already exist",
+            "alphanumName": "AlreadyExist",
+            "file": "08 - Already exist.txt"
+        },
+        {
+            "name": "Constant already exist",
+            "alphanumName": "ConstantAlreadyExist",
+            "file": "09 - Constant already exist.txt"
+        },
+        {
+            "name": "Variable already exist",
+            "alphanumName": "VariableAlreadyExist",
+            "file": "10 - Variable already exist.txt"
+        },
+        {
+            "name": "Invalid statement",
+            "alphanumName": "InvalidStatement",
+            "file": "11 - Invalid statement.txt"
+        },
+        {
+            "name": "Odd or Neg",
+            "alphanumName": "OddOrNeg",
+            "file": "12 - Odd or Neg.txt"
+        },
+        {
+            "name": "Scope",
+            "alphanumName": "Scope",
+            "file": "13 - Scope.txt"
+        },
+        {
+            "name": "No BEGIN",
+            "alphanumName": "NoBEGIN",
+            "file": "14 - No BEGIN.txt"
+        },
+        {
+            "name": "Crazy format",
+            "alphanumName": "CrazyFormat",
+            "file": "15 - Crazy format.txt"
+        },
+        {
+            "name": "Nested procedures",
+            "alphanumName": "NestedProcedures",
+            "file": "16 - Nested procedures.txt"
+        }
+    ]
+}
