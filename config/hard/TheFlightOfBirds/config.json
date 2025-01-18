@@ -1,0 +1,53 @@
+{
+    "path": "hard/TheFlightOfBirds",
+    "name": "The flight of birds",
+    "alphanumName": "TheFlightOfBirds",
+    "link": "https://www.codingame.com/ide/puzzle/the-flight-of-birds",
+    "tests": [
+        {
+            "name": "Test 1: 2 birds, 0 wall collision, 0 bird collision",
+            "alphanumName": "test12Birds0WallCollision0BirdCollision",
+            "file": "01 - test 1 2 birds, 0 wall collision, 0 bird collision.txt"
+        },
+        {
+            "name": "Test 2: 2 birds, 5 wall collisions, 0 bird collision",
+            "alphanumName": "test22Birds5WallCollisions0BirdCollision",
+            "file": "02 - test 2 2 birds, 5 wall collisions, 0 bird collision.txt"
+        },
+        {
+            "name": "Test 3: 2 birds, 0 wall collisions, 1 bird collision",
+            "alphanumName": "test32Birds0WallCollisions1BirdCollision",
+            "file": "03 - test 3 2 birds, 0 wall collisions, 1 bird collision.txt"
+        },
+        {
+            "name": "Test 4: 4 birds, 4 wall collisions, 3 bird collisions",
+            "alphanumName": "test44Birds4WallCollisions3BirdCollisions",
+            "file": "04 - test 4 4 birds, 4 wall collisions, 3 bird collisions.txt"
+        },
+        {
+            "name": "Test 5: 4 birds, 9 wall collisions, 5 bird collisions",
+            "alphanumName": "test54Birds9WallCollisions5BirdCollisions",
+            "file": "05 - test 5 4 birds, 9 wall collisions, 5 bird collisions.txt"
+        },
+        {
+            "name": "Test 6: 10 birds, 20 wall collisions, 12 bird collisions",
+            "alphanumName": "test610Birds20WallCollisions12BirdCollisions",
+            "file": "06 - test 6 10 birds, 20 wall collisions, 12 bird collisions.txt"
+        },
+        {
+            "name": "Test 7: 80 birds, 89 wall collisions, 203 bird collisions",
+            "alphanumName": "test780Birds89WallCollisions203BirdCollisions",
+            "file": "07 - test 7 80 birds, 89 wall collisions, 203 bird collisions.txt"
+        },
+        {
+            "name": "Test 8: No movement",
+            "alphanumName": "test8NoMovement",
+            "file": "08 - test 8 No movement.txt"
+        },
+        {
+            "name": "Test 9: Return to initial position",
+            "alphanumName": "test9ReturnToInitialPosition",
+            "file": "09 - test 9 Return to initial position.txt"
+        }
+    ]
+}
