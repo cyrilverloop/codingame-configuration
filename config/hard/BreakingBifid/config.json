@@ -1,0 +1,33 @@
+{
+    "path": "hard/BreakingBifid",
+    "name": "Breaking Bifid",
+    "alphanumName": "BreakingBifid",
+    "link": "https://www.codingame.com/ide/puzzle/breaking-bifid",
+    "tests": [
+        {
+            "name": "Long text",
+            "alphanumName": "LongText",
+            "file": "01 - Long text.txt"
+        },
+        {
+            "name": "Pangram",
+            "alphanumName": "Pangram",
+            "file": "02 - Pangram.txt"
+        },
+        {
+            "name": "Medium length text",
+            "alphanumName": "MediumLengthText",
+            "file": "03 - Medium length text.txt"
+        },
+        {
+            "name": "Short text",
+            "alphanumName": "ShortText",
+            "file": "04 - Short text.txt"
+        },
+        {
+            "name": "Minimal text",
+            "alphanumName": "MinimalText",
+            "file": "05 - Minimal text.txt"
+        }
+    ]
+}
