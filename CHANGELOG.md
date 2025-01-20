@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Simple Pascal (PL/0) Compiler".
 - configuration for "The flight of birds".
 - configuration for "Breaking Bifid".
+- configuration for "Mind Cracker".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.

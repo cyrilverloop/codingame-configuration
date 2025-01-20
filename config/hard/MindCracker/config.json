@@ -1,0 +1,53 @@
+{
+    "path": "hard/MindCracker",
+    "name": "Mind Cracker",
+    "alphanumName": "MindCracker",
+    "link": "https://www.codingame.com/ide/puzzle/mind-cracker",
+    "tests": [
+        {
+            "name": "27 combinations / 2 lines",
+            "alphanumName": "Two7Combinations2Lines",
+            "file": "01 - 27 combinations 2 lines.txt"
+        },
+        {
+            "name": "256 combinations / 4 line",
+            "alphanumName": "Two56Combinations4Line",
+            "file": "02 - 256 combinations 4 line.txt"
+        },
+        {
+            "name": "3125 combinations / 5 line",
+            "alphanumName": "Three125Combinations5Line",
+            "file": "03 - 3125 combinations 5 line.txt"
+        },
+        {
+            "name": "531441 combinations / 6 lines",
+            "alphanumName": "Five31441Combinations6Lines",
+            "file": "04 - 531441 combinations 6 lines.txt"
+        },
+        {
+            "name": "2097152 combinations / 7 lines",
+            "alphanumName": "Two097152Combinations7Lines",
+            "file": "05 - 2097152 combinations 7 lines.txt"
+        },
+        {
+            "name": "10000000 combinations / 10 lines",
+            "alphanumName": "One0000000Combinations10Lines",
+            "file": "06 - 10000000 combinations 10 lines.txt"
+        },
+        {
+            "name": "100000000 combinations / 11 lines",
+            "alphanumName": "One00000000Combinations11Lines",
+            "file": "07 - 100000000 combinations 11 lines.txt"
+        },
+        {
+            "name": "100000000 combinations / 11 lines (2)",
+            "alphanumName": "One00000000Combinations11Lines2",
+            "file": "08 - 100000000 combinations 11 lines (2).txt"
+        },
+        {
+            "name": "100000000 combinations / 11 lines (3)",
+            "alphanumName": "One00000000Combinations11Lines3",
+            "file": "09 - 100000000 combinations 11 lines (3).txt"
+        }
+    ]
+}
