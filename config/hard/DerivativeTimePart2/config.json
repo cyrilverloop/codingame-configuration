@@ -1,0 +1,43 @@
+{
+    "path": "hard/DerivativeTimePart2",
+    "name": "Derivative time !!! - part2",
+    "alphanumName": "DerivativeTimePart2",
+    "link": "https://www.codingame.com/ide/puzzle/derivative-time---part2",
+    "tests": [
+        {
+            "name": "crazy ln chain",
+            "alphanumName": "crazyLnChain",
+            "file": "01 - crazy ln chain.txt"
+        },
+        {
+            "name": "interesting powers",
+            "alphanumName": "interestingPowers",
+            "file": "02 - interesting powers.txt"
+        },
+        {
+            "name": "2nd deriv",
+            "alphanumName": "secondDeriv",
+            "file": "03 - 2nd deriv.txt"
+        },
+        {
+            "name": "fraction",
+            "alphanumName": "fraction",
+            "file": "04 - fraction.txt"
+        },
+        {
+            "name": "3rd",
+            "alphanumName": "third",
+            "file": "05 - 3rd.txt"
+        },
+        {
+            "name": "parse",
+            "alphanumName": "parse",
+            "file": "06 - parse.txt"
+        },
+        {
+            "name": "diversified vars",
+            "alphanumName": "diversifiedVars",
+            "file": "07 - diversified vars.txt"
+        }
+    ]
+}
