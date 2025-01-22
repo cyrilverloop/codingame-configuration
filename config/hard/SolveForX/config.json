@@ -1,0 +1,68 @@
+{
+    "path": "hard/SolveForX",
+    "name": "Solve for X",
+    "alphanumName": "SolveForX",
+    "link": "https://www.codingame.com/ide/puzzle/solve-for-x",
+    "tests": [
+        {
+            "name": "Addition",
+            "alphanumName": "Addition",
+            "file": "01 - Addition.txt"
+        },
+        {
+            "name": "Subtraction",
+            "alphanumName": "Subtraction",
+            "file": "02 - Subtraction.txt"
+        },
+        {
+            "name": "Multiplication",
+            "alphanumName": "Multiplication",
+            "file": "03 - Multiplication.txt"
+        },
+        {
+            "name": "Division I",
+            "alphanumName": "DivisionI",
+            "file": "04 - Division I.txt"
+        },
+        {
+            "name": "Division II",
+            "alphanumName": "DivisionII",
+            "file": "05 - Division II.txt"
+        },
+        {
+            "name": "Sorting Subexpressions",
+            "alphanumName": "SortingSubexpressions",
+            "file": "06 - Sorting Subexpressions.txt"
+        },
+        {
+            "name": "Easy",
+            "alphanumName": "Easy",
+            "file": "07 - Easy.txt"
+        },
+        {
+            "name": "Medium",
+            "alphanumName": "Medium",
+            "file": "08 - Medium.txt"
+        },
+        {
+            "name": "Hard I",
+            "alphanumName": "HardI",
+            "file": "09 - Hard I.txt"
+        },
+        {
+            "name": "Hard II",
+            "alphanumName": "HardII",
+            "file": "10 - Hard II.txt"
+        },
+        {
+            "name": "Hard III",
+            "alphanumName": "HardIII",
+            "file": "11 - Hard III.txt"
+        },
+        {
+            "name": "24: The Long Game - A Tribute",
+            "alphanumName": "TwentyFourTheLongGameATribute",
+            "file": "12 - 24 The Long Game - A Tribute.txt"
+        }
+    ]
+}
