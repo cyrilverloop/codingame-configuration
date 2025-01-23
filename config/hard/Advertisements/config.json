@@ -1,0 +1,118 @@
+{
+    "path": "hard/Advertisements",
+    "name": "Advertisements",
+    "alphanumName": "Advertisements",
+    "link": "https://www.codingame.com/ide/puzzle/advertisements",
+    "tests": [
+        {
+            "name": "1 Product advertisement",
+            "alphanumName": "ProductAdvertisement",
+            "file": "01 - Product advertisement.txt"
+        },
+        {
+            "name": "2 Brand advertisement",
+            "alphanumName": "BrandAdvertisement",
+            "file": "02 - Brand advertisement.txt"
+        },
+        {
+            "name": "3 It’s not all about the advertisement",
+            "alphanumName": "ItsNotAllAboutTheAdvertisement",
+            "file": "03 - It’s not all about the advertisement.txt"
+        },
+        {
+            "name": "4 Smart customer",
+            "alphanumName": "SmartCustomer",
+            "file": "04 - Smart customer.txt"
+        },
+        {
+            "name": "5 Stupid customer",
+            "alphanumName": "StupidCustomer",
+            "file": "05 - Stupid customer.txt"
+        },
+        {
+            "name": "6 A good textile deal",
+            "alphanumName": "AGoodTextileDeal",
+            "file": "06 - A good textile deal.txt"
+        },
+        {
+            "name": "7 A bad textile deal",
+            "alphanumName": "ABadTextileDeal",
+            "file": "07 - A bad textile deal.txt"
+        },
+        {
+            "name": "8 Good for business",
+            "alphanumName": "GoodForBusiness",
+            "file": "08 - Good for business.txt"
+        },
+        {
+            "name": "9 For free!",
+            "alphanumName": "ForFree",
+            "file": "09 - For free!.txt"
+        },
+        {
+            "name": "10 Multiple advertisements",
+            "alphanumName": "MultipleAdvertisements",
+            "file": "10 - Multiple advertisements.txt"
+        },
+        {
+            "name": "11 A lot of advertisements",
+            "alphanumName": "ALotOfAdvertisements",
+            "file": "11 - A lot of advertisements.txt"
+        },
+        {
+            "name": "12 Which of the two?",
+            "alphanumName": "WhichOfTheTwo",
+            "file": "12 - Which of the two.txt"
+        },
+        {
+            "name": "13 Mix and match",
+            "alphanumName": "MixAndMatch",
+            "file": "13 - Mix and match.txt"
+        },
+        {
+            "name": "14 Leave some for the other one",
+            "alphanumName": "LeaveSomeForTheOtherOne",
+            "file": "14 - Leave some for the other one.txt"
+        },
+        {
+            "name": "15 Leave the best to the next 1",
+            "alphanumName": "LeaveTheBestToTheNext1",
+            "file": "15 - Leave the best to the next 1.txt"
+        },
+        {
+            "name": "16 Leave the best to the next 2",
+            "alphanumName": "LeaveTheBestToTheNext2",
+            "file": "16 - Leave the best to the next 2.txt"
+        },
+        {
+            "name": "17 Leave the best to the next 3",
+            "alphanumName": "LeaveTheBestToTheNext3",
+            "file": "17 - Leave the best to the next 3.txt"
+        },
+        {
+            "name": "18 Leave the worst to the next 1",
+            "alphanumName": "LeaveTheWorstToTheNext1",
+            "file": "18 - Leave the worst to the next 1.txt"
+        },
+        {
+            "name": "19 Leave the worst to the next 2",
+            "alphanumName": "LeaveTheWorstToTheNext2",
+            "file": "19 - Leave the worst to the next 2.txt"
+        },
+        {
+            "name": "20 The absolute best is against rule 4",
+            "alphanumName": "TheAbsoluteBestIsAgainstRule4",
+            "file": "20 - The absolute best is against rule 4.txt"
+        },
+        {
+            "name": "21 Dessert and clothing day",
+            "alphanumName": "DessertAndClothingDay",
+            "file": "21 - Dessert and clothing day.txt"
+        },
+        {
+            "name": "22 Action Action!",
+            "alphanumName": "ActionAction",
+            "file": "22 - Action Action!.txt"
+        }
+    ]
+}
