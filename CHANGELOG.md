@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Derivative time !!! - part2".
 - configuration for "Solve for X".
 - configuration for "Advertisements".
+- configuration for "Picture Puzzle".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.
