@@ -1,0 +1,103 @@
+{
+    "path": "hard/StringBallsII",
+    "name": "String Balls II",
+    "alphanumName": "StringBallsII",
+    "link": "https://www.codingame.com/ide/puzzle/string-balls-ii",
+    "tests": [
+        {
+            "name": "Easy Test",
+            "alphanumName": "EasyTest",
+            "file": "01 - Easy Test.txt"
+        },
+        {
+            "name": "10 Char Center, Short Radius",
+            "alphanumName": "10CharCenterShortRadius",
+            "file": "02 - 10 Char Center, Short Radius.txt"
+        },
+        {
+            "name": "10 Char Center, Medium Radius",
+            "alphanumName": "10CharCenterMediumRadius",
+            "file": "03 - 10 Char Center, Medium Radius.txt"
+        },
+        {
+            "name": "10 Char Center, Long Radius",
+            "alphanumName": "10CharCenterLongRadius",
+            "file": "04 - 10 Char Center, Long Radius.txt"
+        },
+        {
+            "name": "20 Char Center, Short Radius",
+            "alphanumName": "20CharCenterShortRadius",
+            "file": "05 - 20 Char Center, Short Radius.txt"
+        },
+        {
+            "name": "20 Char Center, Medium Radius",
+            "alphanumName": "20CharCenterMediumRadius",
+            "file": "06 - 20 Char Center, Medium Radius.txt"
+        },
+        {
+            "name": "20 Char Center, Long Radius",
+            "alphanumName": "20CharCenterLongRadius",
+            "file": "07 - 20 Char Center, Long Radius.txt"
+        },
+        {
+            "name": "Turn Up The Heat I",
+            "alphanumName": "TurnUpTheHeatI",
+            "file": "08 - Turn Up The Heat I.txt"
+        },
+        {
+            "name": "Turn Up The Heat II",
+            "alphanumName": "TurnUpTheHeatII",
+            "file": "09 - Turn Up The Heat II.txt"
+        },
+        {
+            "name": "Medium Stress I",
+            "alphanumName": "MediumStressI",
+            "file": "10 - Medium Stress I.txt"
+        },
+        {
+            "name": "Medium Stress II",
+            "alphanumName": "MediumStressII",
+            "file": "11 - Medium Stress II.txt"
+        },
+        {
+            "name": "Medium Stress III",
+            "alphanumName": "MediumStressIII",
+            "file": "12 - Medium Stress III.txt"
+        },
+        {
+            "name": "Extreme Stress I",
+            "alphanumName": "ExtremeStressI",
+            "file": "13 - Extreme Stress I.txt"
+        },
+        {
+            "name": "Extreme Stress II",
+            "alphanumName": "ExtremeStressII",
+            "file": "14 - Extreme Stress II.txt"
+        },
+        {
+            "name": "Extreme Stress III",
+            "alphanumName": "ExtremeStressIII",
+            "file": "15 - Extreme Stress III.txt"
+        },
+        {
+            "name": "Ultimate Stress I",
+            "alphanumName": "UltimateStressI",
+            "file": "16 - Ultimate Stress I.txt"
+        },
+        {
+            "name": "Ultimate Stress II",
+            "alphanumName": "UltimateStressII",
+            "file": "17 - Ultimate Stress II.txt"
+        },
+        {
+            "name": "Ultimate Stress III",
+            "alphanumName": "UltimateStressIII",
+            "file": "18 - Ultimate Stress III.txt"
+        },
+        {
+            "name": "Please Stop!",
+            "alphanumName": "PleaseStop",
+            "file": "19 - Please Stop!.txt"
+        }
+    ]
+}

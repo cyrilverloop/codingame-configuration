@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Solve for X".
 - configuration for "Advertisements".
 - configuration for "Picture Puzzle".
+- configuration for "String Balls II".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.
