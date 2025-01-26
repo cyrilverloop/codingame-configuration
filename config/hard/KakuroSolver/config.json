@@ -1,0 +1,53 @@
+{
+    "path": "hard/KakuroSolver",
+    "name": "Kakuro Solver",
+    "alphanumName": "KakuroSolver",
+    "link": "https://www.codingame.com/ide/puzzle/kakuro-solver",
+    "tests": [
+        {
+            "name": "Example 1 (3 * 3)",
+            "alphanumName": "Example133",
+            "file": "01 - Example 1 (3 x 3).txt"
+        },
+        {
+            "name": "Test 2 (4 * 4)",
+            "alphanumName": "Test244",
+            "file": "02 - Test 2 (4 x 4).txt"
+        },
+        {
+            "name": "Test 3 (1 * 3)",
+            "alphanumName": "Test313",
+            "file": "03 - Test 3 (1 x 3).txt"
+        },
+        {
+            "name": "Example 2 (5 * 5)",
+            "alphanumName": "Example255",
+            "file": "04 - Example 2 (5 x 5).txt"
+        },
+        {
+            "name": "Test 5 (9 * 8)",
+            "alphanumName": "Test598",
+            "file": "05 - Test 5 (9 x 8).txt"
+        },
+        {
+            "name": "Test 6 (9 * 9)",
+            "alphanumName": "Test699",
+            "file": "06 - Test 6 (9 x 9).txt"
+        },
+        {
+            "name": "Test 7 (12 * 10)",
+            "alphanumName": "Test71210",
+            "file": "07 - Test 7 (12 x 10).txt"
+        },
+        {
+            "name": "Test 8 (18 * 10)",
+            "alphanumName": "Test81810",
+            "file": "08 - Test 8 (18 x 10).txt"
+        },
+        {
+            "name": "Test 9 (15 * 15)",
+            "alphanumName": "Test91515",
+            "file": "09 - Test 9 (15 x 15).txt"
+        }
+    ]
+}
