@@ -1,0 +1,43 @@
+{
+    "path": "hard/KillerSudokuExtremeChallenge",
+    "name": "Killer Sudoku Extreme Challenge",
+    "alphanumName": "KillerSudokuExtremeChallenge",
+    "link": "https://www.codingame.com/ide/puzzle/killer-sudoku-extreme-challenge",
+    "tests": [
+        {
+            "name": "1 Puzzle - Easy",
+            "alphanumName": "OnePuzzleEasy",
+            "file": "01 - 1 Puzzle - Easy.txt"
+        },
+        {
+            "name": "1 Hard Puzzle - Fewer Cages",
+            "alphanumName": "OneHardPuzzleFewerCages",
+            "file": "02 - 1 Hard Puzzle - Fewer Cages.txt"
+        },
+        {
+            "name": "2 Puzzles",
+            "alphanumName": "TwoPuzzles",
+            "file": "03 - 2 Puzzles.txt"
+        },
+        {
+            "name": "8 Puzzles",
+            "alphanumName": "EightPuzzles",
+            "file": "04 - 8 Puzzles.txt"
+        },
+        {
+            "name": "16 Puzzles",
+            "alphanumName": "SixteenPuzzles",
+            "file": "05 - 16 Puzzles.txt"
+        },
+        {
+            "name": "32 Puzzles",
+            "alphanumName": "ThirtyTwoPuzzles",
+            "file": "06 - 32 Puzzles.txt"
+        },
+        {
+            "name": "40 Puzzles",
+            "alphanumName": "FortyPuzzles",
+            "file": "07 - 40 Puzzles.txt"
+        }
+    ]
+}
