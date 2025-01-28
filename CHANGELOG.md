@@ -33,6 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "String Balls II".
 - configuration for "Kakuro Solver".
 - configuration for "Killer Sudoku Extreme Challenge".
+- configuration for "Nonogram inversor".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.
