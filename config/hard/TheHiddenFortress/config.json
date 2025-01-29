@@ -1,0 +1,48 @@
+{
+    "path": "hard/TheHiddenFortress",
+    "name": "The Hidden Fortress",
+    "alphanumName": "TheHiddenFortress",
+    "link": "https://www.codingame.com/ide/puzzle/the-hidden-fortress",
+    "tests": [
+        {
+            "name": "3 x 3",
+            "alphanumName": "threex3",
+            "file": "01 - 3 x 3.txt"
+        },
+        {
+            "name": "Another 3 x 3",
+            "alphanumName": "Another3x3",
+            "file": "02 - Another 3 x 3.txt"
+        },
+        {
+            "name": "5 x 5",
+            "alphanumName": "fivex5",
+            "file": "03 - 5 x 5.txt"
+        },
+        {
+            "name": "11 x 11",
+            "alphanumName": "one1x11",
+            "file": "04 - 11 x 11.txt"
+        },
+        {
+            "name": "16 x 16",
+            "alphanumName": "one6x16",
+            "file": "05 - 16 x 16.txt"
+        },
+        {
+            "name": "21 x 21",
+            "alphanumName": "two1x21",
+            "file": "06 - 21 x 21.txt"
+        },
+        {
+            "name": "31 x 31, airy",
+            "alphanumName": "three1x31Airy",
+            "file": "07 - 31 x 31, airy.txt"
+        },
+        {
+            "name": "31 x 31, dense",
+            "alphanumName": "three1x31Dense",
+            "file": "08 - 31 x 31, dense.txt"
+        }
+    ]
+}
