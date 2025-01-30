@@ -35,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Killer Sudoku Extreme Challenge".
 - configuration for "Nonogram inversor".
 - configuration for "The Hidden Fortress".
+- configuration for "Conditional probabilities".
 
 ### Changed
 - difficulty of "Zhiwei Sun Squares" from easy to medium.

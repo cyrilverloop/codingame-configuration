@@ -1,0 +1,38 @@
+{
+    "path": "hard/ConditionalProbabilities",
+    "name": "Conditional probabilities",
+    "alphanumName": "ConditionalProbabilities",
+    "link": "https://www.codingame.com/ide/puzzle/conditional-probabilities",
+    "tests": [
+        {
+            "name": "A, B, A AND B",
+            "alphanumName": "ABAANDB",
+            "file": "01 - A, B, A AND B.txt"
+        },
+        {
+            "name": "A, NOT B, NOT A AND B",
+            "alphanumName": "ANOTBNOTAANDB",
+            "file": "02 - A, NOT B, NOT A AND B.txt"
+        },
+        {
+            "name": "A, B GIVEN A, B GIVEN NOT A",
+            "alphanumName": "ABGIVENABGIVENNOTA",
+            "file": "03 - A, B GIVEN A, B GIVEN NOT A.txt"
+        },
+        {
+            "name": "A AND B, NOT A AND B, A AND NOT B",
+            "alphanumName": "AANDBNOTAANDBAANDNOTB",
+            "file": "04 - A AND B, NOT A AND B, A AND NOT B.txt"
+        },
+        {
+            "name": "Not enough values",
+            "alphanumName": "NotEnoughValues",
+            "file": "05 - Not enough values.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "Impossible",
+            "file": "06 - Impossible.txt"
+        }
+    ]
+}
