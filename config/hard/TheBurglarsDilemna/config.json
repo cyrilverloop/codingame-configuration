@@ -1,0 +1,43 @@
+{
+    "path": "hard/TheBurglarsDilemna",
+    "name": "The Burglar’s Dilemna",
+    "alphanumName": "TheBurglarsDilemna",
+    "link": "https://www.codingame.com/ide/puzzle/the-burglars-dilemna",
+    "tests": [
+        {
+            "name": "Simple solution",
+            "alphanumName": "SimpleSolution",
+            "file": "01 - Simple solution.txt"
+        },
+        {
+            "name": "Obvious fleeing",
+            "alphanumName": "ObviousFleeing",
+            "file": "02 - Obvious fleeing.txt"
+        },
+        {
+            "name": "More attempts with 0 & 9",
+            "alphanumName": "MoreAttemptsWith09",
+            "file": "03 - More attempts with 0 & 9.txt"
+        },
+        {
+            "name": "Two possibilities",
+            "alphanumName": "TwoPossibilities",
+            "file": "04 - Two possibilities.txt"
+        },
+        {
+            "name": "Long Code",
+            "alphanumName": "LongCode",
+            "file": "05 - Long Code.txt"
+        },
+        {
+            "name": "Short code",
+            "alphanumName": "ShortCode",
+            "file": "06 - Short code.txt"
+        },
+        {
+            "name": "Short code redux",
+            "alphanumName": "ShortCodeRedux",
+            "file": "07 - Short code redux.txt"
+        }
+    ]
+}
