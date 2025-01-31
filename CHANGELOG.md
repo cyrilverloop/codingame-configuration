@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Fixed
 - name of test "Let’s Legendary!" for "Item Maker".
+- configuration of test "Biggest number of vectors" for "nD-Vector sorting".
 
 ## [1.11.1] - 2025-01-31
 ### Fixed

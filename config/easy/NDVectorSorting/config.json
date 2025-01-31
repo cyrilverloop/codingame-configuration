@@ -26,8 +26,8 @@
         },
         {
             "name": "Biggest number of vectors",
-            "alphanumName": "Biggest number of vectors",
-            "file": "05 - BiggestNumberOfVectors.txt"
+            "alphanumName": "BiggestNumberOfVectors",
+            "file": "05 - Biggest number of vectors.txt"
         }
     ]
 }
