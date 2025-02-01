@@ -1,0 +1,43 @@
+{
+    "path": "easy/DartsCheckoutRoutes",
+    "name": "Darts Checkout Routes",
+    "alphanumName": "DartsCheckoutRoutes",
+    "link": "https://www.codingame.com/ide/puzzle/darts-checkout-routes",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Higher Score",
+            "alphanumName": "HigherScore",
+            "file": "02 - Higher Score.txt"
+        },
+        {
+            "name": "More Darts",
+            "alphanumName": "MoreDarts",
+            "file": "03 - More Darts.txt"
+        },
+        {
+            "name": "Max Score",
+            "alphanumName": "MaxScore",
+            "file": "04 - Max Score.txt"
+        },
+        {
+            "name": "No Darts",
+            "alphanumName": "NoDarts",
+            "file": "05 - No Darts.txt"
+        },
+        {
+            "name": "Unorthodox Darts",
+            "alphanumName": "UnorthodoxDarts",
+            "file": "06 - Unorthodox Darts.txt"
+        },
+        {
+            "name": "Unorthodox Darts 2",
+            "alphanumName": "UnorthodoxDarts2",
+            "file": "07 - Unorthodox Darts 2.txt"
+        }
+    ]
+}
