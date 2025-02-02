@@ -1,0 +1,68 @@
+{
+    "path": "medium/CatalyticMicroparticles",
+    "name": "Catalytic Microparticles",
+    "alphanumName": "CatalyticMicroparticles",
+    "link": "https://www.codingame.com/ide/puzzle/catalytic-microparticles",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Solid cube",
+            "alphanumName": "SolidCube",
+            "file": "02 - Solid cube.txt"
+        },
+        {
+            "name": "Oblong prism",
+            "alphanumName": "OblongPrism",
+            "file": "03 - Oblong prism.txt"
+        },
+        {
+            "name": "Indentations",
+            "alphanumName": "Indentations",
+            "file": "04 - Indentations.txt"
+        },
+        {
+            "name": "Critical flaw",
+            "alphanumName": "CriticalFlaw",
+            "file": "05 - Critical flaw.txt"
+        },
+        {
+            "name": "Substellar",
+            "alphanumName": "Substellar",
+            "file": "06 - Substellar.txt"
+        },
+        {
+            "name": "Knobby surface",
+            "alphanumName": "KnobbySurface",
+            "file": "07 - Knobby surface.txt"
+        },
+        {
+            "name": "Spheroid",
+            "alphanumName": "Spheroid",
+            "file": "08 - Spheroid.txt"
+        },
+        {
+            "name": "Channel",
+            "alphanumName": "Channel",
+            "file": "09 - Channel.txt"
+        },
+        {
+            "name": "Dumbell",
+            "alphanumName": "Dumbell",
+            "file": "10 - Dumbell.txt"
+        },
+        {
+            "name": "Lattice",
+            "alphanumName": "Lattice",
+            "file": "11 - Lattice.txt"
+        },
+        {
+            "name": "Rings",
+            "alphanumName": "Rings",
+            "file": "12 - Rings.txt"
+        }
+    ]
+}
