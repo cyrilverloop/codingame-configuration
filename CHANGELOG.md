@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Darts Checkout Routes".
 - configuration for "Catalytic Microparticles".
+- configuration for "Logic Gates Detective".
 
 ## [1.11.2] - 2025-01-31
 ### Fixed

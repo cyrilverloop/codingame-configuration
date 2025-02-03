@@ -1,0 +1,48 @@
+{
+    "path": "medium/LogicGatesDetective",
+    "name": "Logic Gates Detective",
+    "alphanumName": "LogicGatesDetective",
+    "link": "https://www.codingame.com/ide/puzzle/logic-gates-detective",
+    "tests": [
+        {
+            "name": "example",
+            "alphanumName": "example",
+            "file": "01 - example.txt"
+        },
+        {
+            "name": "easy",
+            "alphanumName": "easy",
+            "file": "02 - easy.txt"
+        },
+        {
+            "name": "ignore some nodes",
+            "alphanumName": "ignoreSomeNodes",
+            "file": "03 - ignore some nodes.txt"
+        },
+        {
+            "name": "and",
+            "alphanumName": "and",
+            "file": "04 - and.txt"
+        },
+        {
+            "name": "or",
+            "alphanumName": "or",
+            "file": "05 - or.txt"
+        },
+        {
+            "name": "xor",
+            "alphanumName": "xor",
+            "file": "06 - xor.txt"
+        },
+        {
+            "name": "large adder",
+            "alphanumName": "largeAdder",
+            "file": "07 - large adder.txt"
+        },
+        {
+            "name": "large adder reverse input",
+            "alphanumName": "largeAdderReverseInput",
+            "file": "08 - large adder reverse input.txt"
+        }
+    ]
+}
