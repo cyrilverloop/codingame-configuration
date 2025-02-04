@@ -1,0 +1,53 @@
+{
+    "path": "medium/TheSovereignsGame",
+    "name": "The Sovereign’s Game",
+    "alphanumName": "TheSovereignsGame",
+    "link": "https://www.codingame.com/ide/puzzle/the-sovereigns-game",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Slightly More Piles",
+            "alphanumName": "SlightlyMorePiles",
+            "file": "02 - Slightly More Piles.txt"
+        },
+        {
+            "name": "Replenishment",
+            "alphanumName": "Replenishment",
+            "file": "03 - Replenishment.txt"
+        },
+        {
+            "name": "Lots of Replenishment",
+            "alphanumName": "LotsOfReplenishment",
+            "file": "04 - Lots of Replenishment.txt"
+        },
+        {
+            "name": "Lots of Resource Piles",
+            "alphanumName": "LotsOfResourcePiles",
+            "file": "05 - Lots of Resource Piles.txt"
+        },
+        {
+            "name": "Lots Lots of Resource Piles",
+            "alphanumName": "LotsLotsOfResourcePiles",
+            "file": "06 - Lots Lots of Resource Piles.txt"
+        },
+        {
+            "name": "Large Resource Piles with Lots of Turns",
+            "alphanumName": "LargeResourcePilesWithLotsOfTurns",
+            "file": "07 - Large Resource Piles with Lots of Turns.txt"
+        },
+        {
+            "name": "Sovereign’s Challenge",
+            "alphanumName": "SovereignsChallenge",
+            "file": "08 - Sovereign’s Challenge.txt"
+        },
+        {
+            "name": "Sovereign’s Ultimate Challenge",
+            "alphanumName": "SovereignsUltimateChallenge",
+            "file": "09 - Sovereign’s Ultimate Challenge.txt"
+        }
+    ]
+}
