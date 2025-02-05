@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Catalytic Microparticles".
 - configuration for "Logic Gates Detective".
 - configuration for "The Sovereign’s Game".
+- configuration for "Reconstruct a Tree".
 
 ## [1.11.2] - 2025-01-31
 ### Fixed
