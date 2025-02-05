@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The Sovereign’s Game".
 - configuration for "Reconstruct a Tree".
 
+### Changed
+- difficulty of "Parse SQL Queries" from easy to medium
+
 ## [1.11.2] - 2025-01-31
 ### Fixed
 - name of test "Let’s Legendary!" for "Item Maker".
