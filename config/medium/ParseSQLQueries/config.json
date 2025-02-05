@@ -5,29 +5,29 @@
     "link": "https://www.codingame.com/ide/puzzle/parse-sql-queries",
     "tests": [
         {
-            "name": "Select All",
+            "name": "Select all",
             "alphanumName": "selectAll",
             "file": "01 - select all.txt"
         },
         {
-            "name": "Select From Where",
+            "name": "Select from where",
             "alphanumName": "selectFromWhere",
-            "file": "02 - select from where.txt"
+            "file": "02 - Select from where.txt"
         },
         {
-            "name": "ORDER BY DESC",
-            "alphanumName": "ORDERBYDESC",
-            "file": "03 - ORDER BY DESC.txt"
+            "name": "Order by ascending",
+            "alphanumName": "OrderByAscending",
+            "file": "03 - Order by ascending.txt"
         },
         {
-            "name": "Slightly bigger table",
-            "alphanumName": "slightlyBiggerTable",
-            "file": "04 - slightly bigger table.txt"
+            "name": "Order by descending",
+            "alphanumName": "OrderByDescending",
+            "file": "04 - Order by descending.txt"
         },
         {
-            "name": "Titanic Table",
-            "alphanumName": "titanicTable",
-            "file": "05 - titanic table.txt"
+            "name": "Slightly more advanced",
+            "alphanumName": "SlightlyMoreAdvanced",
+            "file": "05 - Slightly more advanced.txt"
         }
     ]
 }
