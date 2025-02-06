@@ -1,0 +1,43 @@
+{
+    "path": "medium/MrsKnuthPartI",
+    "name": "Mrs. Knuth - Part I",
+    "alphanumName": "MrsKnuthPartI",
+    "link": "https://www.codingame.com/ide/puzzle/mrs--knuth---part-i",
+    "tests": [
+        {
+            "name": "One Easy Day",
+            "alphanumName": "OneEasyDay",
+            "file": "01 - One Easy Day.txt"
+        },
+        {
+            "name": "One Long Day",
+            "alphanumName": "OneLongDay",
+            "file": "02 - One Long Day.txt"
+        },
+        {
+            "name": "Two-Day Workweek",
+            "alphanumName": "TwoDayWorkweek",
+            "file": "03 - Two-Day Workweek.txt"
+        },
+        {
+            "name": "Three Reasonable Days",
+            "alphanumName": "ThreeReasonableDays",
+            "file": "04 - Three Reasonable Days.txt"
+        },
+        {
+            "name": "Three Long Days",
+            "alphanumName": "ThreeLongDays",
+            "file": "05 - Three Long Days.txt"
+        },
+        {
+            "name": "Four Moderate Days",
+            "alphanumName": "FourModerateDays",
+            "file": "06 - Four Moderate Days.txt"
+        },
+        {
+            "name": "Five Long Days",
+            "alphanumName": "FiveLongDays",
+            "file": "07 - Five Long Days.txt"
+        }
+    ]
+}
