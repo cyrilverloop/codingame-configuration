@@ -1,0 +1,48 @@
+{
+    "path": "hard/MusicalIntervals",
+    "name": "Musical Intervals",
+    "alphanumName": "MusicalIntervals",
+    "link": "https://www.codingame.com/ide/puzzle/musical-intervals",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Diatonic C Major",
+            "alphanumName": "DiatonicCMajor",
+            "file": "02 - Diatonic C Major.txt"
+        },
+        {
+            "name": "Diatonic F♯ Major",
+            "alphanumName": "DiatonicFsMajor",
+            "file": "03 - Diatonic F♯ Major.txt"
+        },
+        {
+            "name": "Diatonic A♭ Major",
+            "alphanumName": "DiatonicAfMajor",
+            "file": "04 - Diatonic A♭ Major.txt"
+        },
+        {
+            "name": "Harmonic D Minor",
+            "alphanumName": "HarmonicDMinor",
+            "file": "05 - Harmonic D Minor.txt"
+        },
+        {
+            "name": "Harmonic F♯ Minor",
+            "alphanumName": "HarmonicFsMinor",
+            "file": "06 - Harmonic F♯ Minor.txt"
+        },
+        {
+            "name": "Melodic E Minor",
+            "alphanumName": "MelodicEMinor",
+            "file": "07 - Melodic E Minor.txt"
+        },
+        {
+            "name": "Classical Chromaticism in G",
+            "alphanumName": "ClassicalChromaticismInG",
+            "file": "08 - Classical Chromaticism in G.txt"
+        }
+    ]
+}
