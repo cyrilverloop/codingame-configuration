@@ -1,0 +1,28 @@
+{
+    "path": "hard/MapColorations",
+    "name": "Map Colorations",
+    "alphanumName": "MapColorations",
+    "link": "https://www.codingame.com/ide/puzzle/map-colorations",
+    "tests": [
+        {
+            "name": "Small graph",
+            "alphanumName": "SmallGraph",
+            "file": "01 - Small graph.txt"
+        },
+        {
+            "name": "European countries",
+            "alphanumName": "EuropeanCountries",
+            "file": "02 - European countries.txt"
+        },
+        {
+            "name": "Large number of colors",
+            "alphanumName": "LargeNumberOfColors",
+            "file": "03 - Large number of colors.txt"
+        },
+        {
+            "name": "USA",
+            "alphanumName": "USA",
+            "file": "04 - USA.txt"
+        }
+    ]
+}

@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Reconstruct a Tree".
 - configuration for "Mrs. Knuth - Part I".
 - configuration for "Musical Intervals".
+- configuration for "Map Colorations".
 
 ### Changed
 - difficulty of "Parse SQL Queries" from easy to medium.
