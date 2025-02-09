@@ -1,0 +1,58 @@
+{
+    "path": "hard/ObsoleteProgramming",
+    "name": "Obsolete Programming",
+    "alphanumName": "ObsoleteProgramming",
+    "link": "https://www.codingame.com/ide/puzzle/obsolete-programming",
+    "tests": [
+        {
+            "name": "Arithmetic test",
+            "alphanumName": "ArithmeticTest",
+            "file": "01 - Arithmetic test.txt"
+        },
+        {
+            "name": "Stack Manipulations",
+            "alphanumName": "StackManipulations",
+            "file": "02 - Stack Manipulations.txt"
+        },
+        {
+            "name": "«Logic»",
+            "alphanumName": "Logic",
+            "file": "03 - «Logic».txt"
+        },
+        {
+            "name": "Simple function - square",
+            "alphanumName": "SimpleFunctionSquare",
+            "file": "04 - Simple function - square.txt"
+        },
+        {
+            "name": "Function and test",
+            "alphanumName": "FunctionAndTest",
+            "file": "05 - Function and test.txt"
+        },
+        {
+            "name": "Function calling function and nested if",
+            "alphanumName": "FunctionCallingFunctionAndNestedIf",
+            "file": "06 - Function calling function and nested if.txt"
+        },
+        {
+            "name": "the Queen of functions",
+            "alphanumName": "theQueenOfFunctions",
+            "file": "07 - the Queen of functions.txt"
+        },
+        {
+            "name": "I have no loop and I must iterate",
+            "alphanumName": "IHaveNoLoopAndIMustIterate",
+            "file": "08 - I have no loop and I must iterate.txt"
+        },
+        {
+            "name": "Hello Fibonacci !",
+            "alphanumName": "HelloFibonacci",
+            "file": "09 - Hello Fibonacci !.txt"
+        },
+        {
+            "name": "Integer square root",
+            "alphanumName": "IntegerSquareRoot",
+            "file": "10 - Integer square root.txt"
+        }
+    ]
+}
