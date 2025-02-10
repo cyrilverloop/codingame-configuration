@@ -1,0 +1,83 @@
+{
+    "path": "hard/Eighty86AssemblerPartI",
+    "name": "8086 Assembler, part I",
+    "alphanumName": "Eighty86AssemblerPartI",
+    "link": "https://www.codingame.com/ide/puzzle/8086-assembler-part-i",
+    "tests": [
+        {
+            "name": "Simple program",
+            "alphanumName": "SimpleProgram",
+            "file": "01 - Simple program.txt"
+        },
+        {
+            "name": "Unknown command",
+            "alphanumName": "UnknownCommand",
+            "file": "02 - Unknown command.txt"
+        },
+        {
+            "name": "Invalid expression or argument",
+            "alphanumName": "InvalidExpressionOrArgument",
+            "file": "03 - Invalid expression or argument.txt"
+        },
+        {
+            "name": "Invalid operand",
+            "alphanumName": "InvalidOperand",
+            "file": "04 - Invalid operand.txt"
+        },
+        {
+            "name": "Invalid number of arguments",
+            "alphanumName": "InvalidNumberOfArguments",
+            "file": "05 - Invalid number of arguments.txt"
+        },
+        {
+            "name": "Overflow",
+            "alphanumName": "Overflow",
+            "file": "06 - Overflow.txt"
+        },
+        {
+            "name": "Invalid character",
+            "alphanumName": "InvalidCharacter",
+            "file": "07 - Invalid character.txt"
+        },
+        {
+            "name": "Invalid character sequence",
+            "alphanumName": "InvalidCharacterSequence",
+            "file": "08 - Invalid character sequence.txt"
+        },
+        {
+            "name": "Strong parser",
+            "alphanumName": "StrongParser",
+            "file": "09 - Strong parser.txt"
+        },
+        {
+            "name": "Hello",
+            "alphanumName": "Hello",
+            "file": "10 - Hello.txt"
+        },
+        {
+            "name": "Let’s mov",
+            "alphanumName": "LetsMov",
+            "file": "11 - Let’s mov.txt"
+        },
+        {
+            "name": "Encoding",
+            "alphanumName": "Encoding",
+            "file": "12 - Encoding.txt"
+        },
+        {
+            "name": "Add a bit",
+            "alphanumName": "AddABit",
+            "file": "13 - Add a bit.txt"
+        },
+        {
+            "name": "Invalid hex number",
+            "alphanumName": "InvalidHexNumber",
+            "file": "14 - Invalid hex number.txt"
+        },
+        {
+            "name": "Add again",
+            "alphanumName": "AddAgain",
+            "file": "15 - Add again.txt"
+        }
+    ]
+}
