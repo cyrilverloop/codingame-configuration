@@ -1,0 +1,38 @@
+{
+    "path": "hard/TakuzuSolver",
+    "name": "Takuzu Solver",
+    "alphanumName": "TakuzuSolver",
+    "link": "https://www.codingame.com/ide/puzzle/takuzu-solver",
+    "tests": [
+        {
+            "name": "Test 4x4",
+            "alphanumName": "Test4x4",
+            "file": "01 - Test 4x4.txt"
+        },
+        {
+            "name": "Test 6x6",
+            "alphanumName": "Test6x6",
+            "file": "02 - Test 6x6.txt"
+        },
+        {
+            "name": "Test 8x8",
+            "alphanumName": "Test8x8",
+            "file": "03 - Test 8x8.txt"
+        },
+        {
+            "name": "Test 10x10",
+            "alphanumName": "Test10x10",
+            "file": "04 - Test 10x10.txt"
+        },
+        {
+            "name": "Test 12x12",
+            "alphanumName": "Test12x12",
+            "file": "05 - Test 12x12.txt"
+        },
+        {
+            "name": "Test 8x8 Hard",
+            "alphanumName": "Test8x8Hard",
+            "file": "06 - Test 8x8 Hard.txt"
+        }
+    ]
+}
