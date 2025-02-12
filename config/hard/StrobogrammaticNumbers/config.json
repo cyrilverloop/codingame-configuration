@@ -1,0 +1,38 @@
+{
+    "path": "hard/StrobogrammaticNumbers",
+    "name": "Strobogrammatic Numbers",
+    "alphanumName": "StrobogrammaticNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/strobogrammatic-numbers",
+    "tests": [
+        {
+            "name": "Low and Behold",
+            "alphanumName": "LowAndBehold",
+            "file": "01 - Low and Behold.txt"
+        },
+        {
+            "name": "Tumbling Numbers",
+            "alphanumName": "TumblingNumbers",
+            "file": "02 - Tumbling Numbers.txt"
+        },
+        {
+            "name": "Flipping Out",
+            "alphanumName": "FlippingOut",
+            "file": "03 - Flipping Out.txt"
+        },
+        {
+            "name": "Strobo-Mania",
+            "alphanumName": "StroboMania",
+            "file": "04 - Strobo-Mania.txt"
+        },
+        {
+            "name": "Mega Range",
+            "alphanumName": "MegaRange",
+            "file": "05 - Mega Range.txt"
+        },
+        {
+            "name": "Just in Case",
+            "alphanumName": "JustInCase",
+            "file": "06 - Just in Case.txt"
+        }
+    ]
+}
