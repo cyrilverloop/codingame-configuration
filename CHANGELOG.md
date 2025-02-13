@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "8086 Assembler, part I".
 - configuration for "Takuzu Solver".
 - configuration for "Strobogrammatic Numbers".
+- configuration for "Einstein’s riddle solver".
 
 ### Changed
 - difficulty of "Parse SQL Queries" from easy to medium.

@@ -1,0 +1,43 @@
+{
+    "path": "hard/EinsteinsRiddleSolver",
+    "name": "Einstein’s riddle solver",
+    "alphanumName": "EinsteinsRiddleSolver",
+    "link": "https://www.codingame.com/ide/puzzle/einsteins-riddle-solver",
+    "tests": [
+        {
+            "name": "4 *4 simple",
+            "alphanumName": "FourByFourSimple",
+            "file": "01 - 4 x4 simple.txt"
+        },
+        {
+            "name": "4 * 5 medium",
+            "alphanumName": "FourByFiveMedium",
+            "file": "02 - 4 x 5 medium.txt"
+        },
+        {
+            "name": "7 * 6 Hard",
+            "alphanumName": "SevenBySixHard",
+            "file": "03 - 7 x 6 Hard.txt"
+        },
+        {
+            "name": "5 * 5 Medium",
+            "alphanumName": "FiveByFiveMedium",
+            "file": "04 - 5 x 5 Medium.txt"
+        },
+        {
+            "name": "2 * 2 Trivial",
+            "alphanumName": "TwoByTwoTrivial",
+            "file": "05 - 2 x 2 Trivial.txt"
+        },
+        {
+            "name": "2 * 1 Simple",
+            "alphanumName": "TwoByOneSimple",
+            "file": "06 - 2 x 1 Simple.txt"
+        },
+        {
+            "name": "1 * 2 Simple",
+            "alphanumName": "OneByTwoSimple",
+            "file": "07 - 1 x 2 Simple.txt"
+        }
+    ]
+}
