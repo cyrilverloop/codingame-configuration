@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Strobogrammatic Numbers".
 - configuration for "Einstein’s riddle solver".
 - configuration for "ASCII Art QR code".
+- configuration for "DAWG".
 
 ### Changed
 - difficulty of "Parse SQL Queries" from easy to medium.
