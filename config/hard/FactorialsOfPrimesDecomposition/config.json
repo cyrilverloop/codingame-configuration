@@ -1,0 +1,38 @@
+{
+    "path": "hard/FactorialsOfPrimesDecomposition",
+    "name": "Factorials of primes decomposition",
+    "alphanumName": "FactorialsOfPrimesDecomposition",
+    "link": "https://www.codingame.com/ide/puzzle/factorials-of-primes-decomposition",
+    "tests": [
+        {
+            "name": "Pure factorial",
+            "alphanumName": "PureFactorial",
+            "file": "01 - Pure factorial.txt"
+        },
+        {
+            "name": "Small integer",
+            "alphanumName": "SmallInteger",
+            "file": "02 - Small integer.txt"
+        },
+        {
+            "name": "Power of factorial",
+            "alphanumName": "PowerOfFactorial",
+            "file": "03 - Power of factorial.txt"
+        },
+        {
+            "name": "Bigger integer",
+            "alphanumName": "BiggerInteger",
+            "file": "04 - Bigger integer.txt"
+        },
+        {
+            "name": "Inverse of factorial",
+            "alphanumName": "InverseOfFactorial",
+            "file": "05 - Inverse of factorial.txt"
+        },
+        {
+            "name": "Fraction",
+            "alphanumName": "Fraction",
+            "file": "06 - Fraction.txt"
+        }
+    ]
+}

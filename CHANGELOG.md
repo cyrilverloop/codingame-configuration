@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Einstein’s riddle solver".
 - configuration for "ASCII Art QR code".
 - configuration for "DAWG".
+- configuration for "Factorials of primes decomposition".
 
 ### Changed
 - difficulty of "Parse SQL Queries" from easy to medium.
