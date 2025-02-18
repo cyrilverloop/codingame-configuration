@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "DAWG".
 - configuration for "Factorials of primes decomposition".
 - configuration for "Hexagonal Maze - part2".
+- configuration for "Her Majesty’s well shared secret".
 
 ### Changed
 - difficulty of "Parse SQL Queries" from easy to medium.

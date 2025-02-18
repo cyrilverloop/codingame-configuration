@@ -1,0 +1,48 @@
+{
+    "path": "hard/HerMajestysWellSharedSecret",
+    "name": "Her Majesty’s well shared secret",
+    "alphanumName": "HerMajestysWellSharedSecret",
+    "link": "https://www.codingame.com/ide/puzzle/her-majestys-well-shared-secret",
+    "tests": [
+        {
+            "name": "EXAMPLE",
+            "alphanumName": "EXAMPLE",
+            "file": "01 - EXAMPLE.txt"
+        },
+        {
+            "name": "INTEL #1",
+            "alphanumName": "INTEL1",
+            "file": "02 - INTEL #1.txt"
+        },
+        {
+            "name": "INTEL #2",
+            "alphanumName": "INTEL2",
+            "file": "03 - INTEL #2.txt"
+        },
+        {
+            "name": "INTEL #3",
+            "alphanumName": "INTEL3",
+            "file": "04 - INTEL #3.txt"
+        },
+        {
+            "name": "INTEL #4",
+            "alphanumName": "INTEL4",
+            "file": "05 - INTEL #4.txt"
+        },
+        {
+            "name": "INTEL #5",
+            "alphanumName": "INTEL5",
+            "file": "06 - INTEL #5.txt"
+        },
+        {
+            "name": "INTEL #6",
+            "alphanumName": "INTEL6",
+            "file": "07 - INTEL #6.txt"
+        },
+        {
+            "name": "INTEL #7",
+            "alphanumName": "INTEL7",
+            "file": "08 - INTEL #7.txt"
+        }
+    ]
+}
