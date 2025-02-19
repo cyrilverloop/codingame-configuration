@@ -1,0 +1,38 @@
+{
+    "path": "hard/ThomasAndTheFreightCars",
+    "name": "Thomas and the Freight Cars",
+    "alphanumName": "ThomasAndTheFreightCars",
+    "link": "https://www.codingame.com/ide/puzzle/thomas-and-the-freight-cars",
+    "tests": [
+        {
+            "name": "Sample",
+            "alphanumName": "Sample",
+            "file": "01 - Sample.txt"
+        },
+        {
+            "name": "10 Cars",
+            "alphanumName": "TenCars",
+            "file": "02 - 10 Cars.txt"
+        },
+        {
+            "name": "20 Cars",
+            "alphanumName": "TwentyCars",
+            "file": "03 - 20 Cars.txt"
+        },
+        {
+            "name": "40 Cars",
+            "alphanumName": "FortyCars",
+            "file": "04 - 40 Cars.txt"
+        },
+        {
+            "name": "60 Cars",
+            "alphanumName": "SixtyCars",
+            "file": "05 - 60 Cars.txt"
+        },
+        {
+            "name": "100 Cars",
+            "alphanumName": "AHundredCars",
+            "file": "06 - 100 Cars.txt"
+        }
+    ]
+}
