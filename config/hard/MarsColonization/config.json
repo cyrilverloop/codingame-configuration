@@ -1,0 +1,58 @@
+{
+    "path": "hard/MarsColonization",
+    "name": "Mars Colonization",
+    "alphanumName": "MarsColonization",
+    "link": "https://www.codingame.com/ide/puzzle/mars-colonization",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Lonely remote site",
+            "alphanumName": "LonelyRemoteSite",
+            "file": "02 - Lonely remote site.txt"
+        },
+        {
+            "name": "Pentagon",
+            "alphanumName": "Pentagon",
+            "file": "03 - Pentagon.txt"
+        },
+        {
+            "name": "10 Stations",
+            "alphanumName": "TenStations",
+            "file": "04 - 10 Stations.txt"
+        },
+        {
+            "name": "20 Stations",
+            "alphanumName": "TwentyStations",
+            "file": "05 - 20 Stations.txt"
+        },
+        {
+            "name": "50 Stations",
+            "alphanumName": "FiftyStations",
+            "file": "06 - 50 Stations.txt"
+        },
+        {
+            "name": "75 Stations",
+            "alphanumName": "SeventyFiveStations",
+            "file": "07 - 75 Stations.txt"
+        },
+        {
+            "name": "100 Stations",
+            "alphanumName": "AHundredStations",
+            "file": "08 - 100 Stations.txt"
+        },
+        {
+            "name": "Many satellites links",
+            "alphanumName": "ManySatellitesLinks",
+            "file": "09 - Many satellites links.txt"
+        },
+        {
+            "name": "Not enough satellite links",
+            "alphanumName": "NotEnoughSatelliteLinks",
+            "file": "10 - Not enough satellite links.txt"
+        }
+    ]
+}
