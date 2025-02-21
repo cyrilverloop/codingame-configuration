@@ -26,12 +26,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Her Majesty’s well shared secret".
 - configuration for "Thomas and the Freight Cars".
 - configuration for "Mars Colonization".
+- configuration for "Simon’s Oracle".
 
 ### Changed
 - difficulty of "Parse SQL Queries" from easy to medium.
 - default code of "Parse SQL Queries".
 - tests of "Parse SQL Queries".
-- configuration for "Simon’s Oracle".
 
 ## [1.11.2] - 2025-01-31
 ### Fixed
