@@ -31,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - difficulty of "Parse SQL Queries" from easy to medium.
 - default code of "Parse SQL Queries".
 - tests of "Parse SQL Queries".
+- configuration for "Simon’s Oracle".
 
 ## [1.11.2] - 2025-01-31
 ### Fixed

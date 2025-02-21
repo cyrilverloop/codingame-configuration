@@ -1,0 +1,53 @@
+{
+    "path": "hard/SimonsOracle",
+    "name": "Simon’s Oracle",
+    "alphanumName": "SimonsOracle",
+    "link": "https://www.codingame.com/ide/puzzle/simons-oracle",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Repetition",
+            "alphanumName": "Repetition",
+            "file": "02 - Repetition.txt"
+        },
+        {
+            "name": "Continuation",
+            "alphanumName": "Continuation",
+            "file": "03 - Continuation.txt"
+        },
+        {
+            "name": "Secrecy",
+            "alphanumName": "Secrecy",
+            "file": "04 - Secrecy.txt"
+        },
+        {
+            "name": "Saturation",
+            "alphanumName": "Saturation",
+            "file": "05 - Saturation.txt"
+        },
+        {
+            "name": "Coincidence",
+            "alphanumName": "Coincidence",
+            "file": "06 - Coincidence.txt"
+        },
+        {
+            "name": "Perpetuity",
+            "alphanumName": "Perpetuity",
+            "file": "07 - Perpetuity.txt"
+        },
+        {
+            "name": "Structure",
+            "alphanumName": "Structure",
+            "file": "08 - Structure.txt"
+        },
+        {
+            "name": "Genius",
+            "alphanumName": "Genius",
+            "file": "09 - Genius.txt"
+        }
+    ]
+}
