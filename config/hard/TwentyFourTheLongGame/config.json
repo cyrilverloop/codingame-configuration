@@ -1,0 +1,98 @@
+{
+    "path": "hard/TwentyFourTheLongGame",
+    "name": "24: The Long Game",
+    "alphanumName": "TwentyFourTheLongGame",
+    "link": "https://www.codingame.com/ide/puzzle/24-the-long-game",
+    "tests": [
+        {
+            "name": "One solution",
+            "alphanumName": "OneSolution",
+            "file": "01 - One solution.txt"
+        },
+        {
+            "name": "Addition",
+            "alphanumName": "Addition",
+            "file": "02 - Addition.txt"
+        },
+        {
+            "name": "Subtraction",
+            "alphanumName": "Subtraction",
+            "file": "03 - Subtraction.txt"
+        },
+        {
+            "name": "No solution",
+            "alphanumName": "NoSolution",
+            "file": "04 - No solution.txt"
+        },
+        {
+            "name": "Two solutions",
+            "alphanumName": "TwoSolutions",
+            "file": "05 - Two solutions.txt"
+        },
+        {
+            "name": "Bigger numbers",
+            "alphanumName": "BiggerNumbers",
+            "file": "06 - Bigger numbers.txt"
+        },
+        {
+            "name": "Multiple options",
+            "alphanumName": "MultipleOptions",
+            "file": "07 - Multiple options.txt"
+        },
+        {
+            "name": "Even more options",
+            "alphanumName": "EvenMoreOptions",
+            "file": "08 - Even more options.txt"
+        },
+        {
+            "name": "One included",
+            "alphanumName": "OneIncluded",
+            "file": "09 - One included.txt"
+        },
+        {
+            "name": "Division",
+            "alphanumName": "Division",
+            "file": "10 - Division.txt"
+        },
+        {
+            "name": "A rounding matter",
+            "alphanumName": "ARoundingMatter",
+            "file": "11 - A rounding matter.txt"
+        },
+        {
+            "name": "The right position",
+            "alphanumName": "TheRightPosition",
+            "file": "12 - The right position.txt"
+        },
+        {
+            "name": "Subexpression sorting",
+            "alphanumName": "SubexpressionSorting",
+            "file": "13 - Subexpression sorting.txt"
+        },
+        {
+            "name": "String sorting",
+            "alphanumName": "StringSorting",
+            "file": "14 - String sorting.txt"
+        },
+        {
+            "name": "Too much?",
+            "alphanumName": "TooMuch",
+            "file": "15 - Too much.txt"
+        },
+        {
+            "name": "24 game",
+            "alphanumName": "TwentyFourGame",
+            "file": "16 - 24 game.txt"
+        },
+        {
+            "name": "Beyond the 24 game",
+            "alphanumName": "BeyondThe24Game",
+            "file": "17 - Beyond the 24 game.txt"
+        },
+        {
+            "name": "Stop! This is absurd.",
+            "alphanumName": "StopThisIsAbsurd.",
+            "file": "18 - Stop! This is absurd..txt"
+        }
+    ]
+}
