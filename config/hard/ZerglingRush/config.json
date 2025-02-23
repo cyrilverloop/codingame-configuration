@@ -1,0 +1,43 @@
+{
+    "path": "hard/ZerglingRush",
+    "name": "Zergling rush",
+    "alphanumName": "ZerglingRush",
+    "link": "https://www.codingame.com/ide/puzzle/zergling-rush",
+    "tests": [
+        {
+            "name": "Lone building",
+            "alphanumName": "LoneBuilding",
+            "file": "01 - Lone building.txt"
+        },
+        {
+            "name": "Walled off",
+            "alphanumName": "WalledOff",
+            "file": "02 - Walled off.txt"
+        },
+        {
+            "name": "Blocked ramp",
+            "alphanumName": "BlockedRamp",
+            "file": "03 - Blocked ramp.txt"
+        },
+        {
+            "name": "Misclick",
+            "alphanumName": "Misclick",
+            "file": "04 - Misclick.txt"
+        },
+        {
+            "name": "Hey, that’s cheating!",
+            "alphanumName": "HeyThatsCheating",
+            "file": "05 - Hey, that’s cheating!.txt"
+        },
+        {
+            "name": "CG",
+            "alphanumName": "CG",
+            "file": "06 - CG.txt"
+        },
+        {
+            "name": "Lift off",
+            "alphanumName": "LiftOff",
+            "file": "07 - Lift off.txt"
+        }
+    ]
+}
