@@ -1,0 +1,48 @@
+{
+    "path": "hard/ChessCavalry",
+    "name": "Chess cavalry",
+    "alphanumName": "ChessCavalry",
+    "link": "https://www.codingame.com/ide/puzzle/chess-cavalry",
+    "tests": [
+        {
+            "name": "Simple case",
+            "alphanumName": "SimpleCase",
+            "file": "01 - Simple case.txt"
+        },
+        {
+            "name": "4 moves",
+            "alphanumName": "FourMoves",
+            "file": "02 - 4 moves.txt"
+        },
+        {
+            "name": "Avoid a queen",
+            "alphanumName": "AvoidAQueen",
+            "file": "03 - Avoid a queen.txt"
+        },
+        {
+            "name": "Protected king",
+            "alphanumName": "ProtectedKing",
+            "file": "04 - Protected king.txt"
+        },
+        {
+            "name": "Protected king",
+            "alphanumName": "ProtectedKing",
+            "file": "04 - Protected king.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "Impossible",
+            "file": "05 - Impossible.txt"
+        },
+        {
+            "name": "So close, yet so far",
+            "alphanumName": "SoCloseYetSoFar",
+            "file": "06 - So close, yet so far.txt"
+        },
+        {
+            "name": "Still impossible",
+            "alphanumName": "StillImpossible",
+            "file": "07 - Still impossible.txt"
+        }
+    ]
+}
