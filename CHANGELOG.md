@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "24: The Long Game".
 - configuration for "Zergling rush".
 - configuration for "Chess cavalry".
+- configuration for "N Pearls Necklace".
 
 ### Changed
 - difficulty of "Parse SQL Queries" from easy to medium.
