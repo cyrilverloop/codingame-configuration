@@ -31,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Zergling rush".
 - configuration for "Chess cavalry".
 - configuration for "N Pearls Necklace".
+- configuration for "Turing machine".
 
 ### Changed
 - difficulty of "Parse SQL Queries" from easy to medium.

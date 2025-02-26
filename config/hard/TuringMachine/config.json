@@ -1,0 +1,33 @@
+{
+    "path": "hard/TuringMachine",
+    "name": "Turing machine",
+    "alphanumName": "TuringMachine",
+    "link": "https://www.codingame.com/ide/puzzle/turing-machine",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Busy beaver",
+            "alphanumName": "BusyBeaver",
+            "file": "02 - Busy beaver.txt"
+        },
+        {
+            "name": "Out of bounds right",
+            "alphanumName": "OutOfBoundsRight",
+            "file": "03 - Out of bounds right.txt"
+        },
+        {
+            "name": "Out of bounds left",
+            "alphanumName": "OutOfBoundsLeft",
+            "file": "04 - Out of bounds left.txt"
+        },
+        {
+            "name": "Busy beaver + copy",
+            "alphanumName": "BusyBeaverCopy",
+            "file": "05 - Busy beaver + copy.txt"
+        }
+    ]
+}
