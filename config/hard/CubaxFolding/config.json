@@ -1,0 +1,28 @@
+{
+    "path": "hard/CubaxFolding",
+    "name": "Cubax Folding",
+    "alphanumName": "CubaxFolding",
+    "link": "https://www.codingame.com/ide/puzzle/cubax-folding",
+    "tests": [
+        {
+            "name": "2*2*2",
+            "alphanumName": "TwoByTwoByTwo",
+            "file": "01 - 2x2x2.txt"
+        },
+        {
+            "name": "3*3*3",
+            "alphanumName": "ThreeByThreeByThree",
+            "file": "02 - 3x3x3.txt"
+        },
+        {
+            "name": "More solutions",
+            "alphanumName": "MoreSolutions",
+            "file": "03 - More solutions.txt"
+        },
+        {
+            "name": "4*4*4",
+            "alphanumName": "FourByFourByFour",
+            "file": "04 - 4x4x4.txt"
+        }
+    ]
+}
