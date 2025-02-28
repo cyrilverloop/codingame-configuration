@@ -1,0 +1,48 @@
+{
+    "path": "hard/MagicCountOfNumbers",
+    "name": "Magic count of numbers",
+    "alphanumName": "MagicCountOfNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/magic-count-of-numbers",
+    "tests": [
+        {
+            "name": "Test 1: One prime",
+            "alphanumName": "test1OnePrime",
+            "file": "01 - test 1 One prime.txt"
+        },
+        {
+            "name": "Test 2: Two primes",
+            "alphanumName": "test2TwoPrimes",
+            "file": "02 - test 2 Two primes.txt"
+        },
+        {
+            "name": "Test 3: Four primes",
+            "alphanumName": "test4FourPrimes",
+            "file": "03 - test 3 Four primes.txt"
+        },
+        {
+            "name": "Test 4: Big n",
+            "alphanumName": "test4BigN",
+            "file": "04 - test 4 Big n.txt"
+        },
+        {
+            "name": "Test 5: Six primes",
+            "alphanumName": "test5SixPrimes",
+            "file": "05 - test 5 Six primes.txt"
+        },
+        {
+            "name": "Test 6: Ten primes",
+            "alphanumName": "test6TenPrimes",
+            "file": "06 - test 6 Ten primes.txt"
+        },
+        {
+            "name": "Test 7: Big n and ten primes",
+            "alphanumName": "test7BigNAndTenPrimes",
+            "file": "07 - test 7 Big n and ten primes.txt"
+        },
+        {
+            "name": "Test 8: Ultimate test",
+            "alphanumName": "test8UltimateTest",
+            "file": "08 - test 8 Ultimate test.txt"
+        }
+    ]
+}
