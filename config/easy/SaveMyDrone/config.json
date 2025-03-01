@@ -1,0 +1,48 @@
+{
+    "path": "easy/SaveMyDrone",
+    "name": "Save my Drone!",
+    "alphanumName": "SaveMyDrone",
+    "link": "https://www.codingame.com/ide/puzzle/save-my-drone",
+    "tests": [
+        {
+            "name": "Drone Boi",
+            "alphanumName": "DroneBoi",
+            "file": "01 - Drone Boi.txt"
+        },
+        {
+            "name": "Upside Down",
+            "alphanumName": "UpsideDown",
+            "file": "02 - Upside Down.txt"
+        },
+        {
+            "name": "Cluttered",
+            "alphanumName": "Cluttered",
+            "file": "03 - Cluttered.txt"
+        },
+        {
+            "name": "Double Trouble",
+            "alphanumName": "DoubleTrouble",
+            "file": "04 - Double Trouble.txt"
+        },
+        {
+            "name": "Huh?",
+            "alphanumName": "Huh",
+            "file": "05 - Huh.txt"
+        },
+        {
+            "name": "Where?",
+            "alphanumName": "Where",
+            "file": "06 - Where.txt"
+        },
+        {
+            "name": "Big Boi",
+            "alphanumName": "BigBoi",
+            "file": "07 - Big Boi.txt"
+        },
+        {
+            "name": "Going Down",
+            "alphanumName": "GoingDown",
+            "file": "08 - Going Down.txt"
+        }
+    ]
+}
