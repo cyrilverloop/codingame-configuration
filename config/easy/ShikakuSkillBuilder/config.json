@@ -1,0 +1,53 @@
+{
+    "path": "easy/ShikakuSkillBuilder",
+    "name": "Shikaku Skill Builder",
+    "alphanumName": "ShikakuSkillBuilder",
+    "link": "https://www.codingame.com/ide/puzzle/shikaku-skill-builder",
+    "tests": [
+        {
+            "name": "Single Shape",
+            "alphanumName": "SingleShape",
+            "file": "01 - Single Shape.txt"
+        },
+        {
+            "name": "Multi-Shape",
+            "alphanumName": "MultiShape",
+            "file": "02 - Multi-Shape.txt"
+        },
+        {
+            "name": "Two Numbers",
+            "alphanumName": "TwoNumbers",
+            "file": "03 - Two Numbers.txt"
+        },
+        {
+            "name": "Not All Can Be Covered",
+            "alphanumName": "NotAllCanBeCovered",
+            "file": "04 - Not All Can Be Covered.txt"
+        },
+        {
+            "name": "One Number, Many Option",
+            "alphanumName": "OneNumberManyOption",
+            "file": "05 - One Number, Many Option.txt"
+        },
+        {
+            "name": "Large Grid",
+            "alphanumName": "LargeGrid",
+            "file": "06 - Large Grid.txt"
+        },
+        {
+            "name": "Chaos - Wide",
+            "alphanumName": "ChaosWide",
+            "file": "07 - Chaos - Wide.txt"
+        },
+        {
+            "name": "Chaos - Tall",
+            "alphanumName": "ChaosTall",
+            "file": "08 - Chaos - Tall.txt"
+        },
+        {
+            "name": "10 x 10 from Shikaku Solver",
+            "alphanumName": "TenxTenFromShikakuSolver",
+            "file": "09 - 10 x 10 from Shikaku Solver.txt"
+        }
+    ]
+}
