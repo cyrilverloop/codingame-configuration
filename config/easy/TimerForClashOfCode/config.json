@@ -1,0 +1,68 @@
+{
+    "path": "easy/TimerForClashOfCode",
+    "name": "Timer for Clash of Code",
+    "alphanumName": "TimerForClashOfCode",
+    "link": "https://www.codingame.com/ide/puzzle/timer-for-clash-of-code",
+    "tests": [
+        {
+            "name": "1 time stamp, timer starts game",
+            "alphanumName": "OneTimeStampTimerStartsGame",
+            "file": "01 - 1 time stamp, timer starts game.txt"
+        },
+        {
+            "name": "2 time stamps, timer starts game",
+            "alphanumName": "TwoTimeStampsTimerStartsGame",
+            "file": "02 - 2 time stamps, timer starts game.txt"
+        },
+        {
+            "name": "4 time stamps, timer starts game",
+            "alphanumName": "FourTimeStampsTimerStartsGame",
+            "file": "03 - 4 time stamps, timer starts game.txt"
+        },
+        {
+            "name": "6 time stamps, timer starts game",
+            "alphanumName": "SixTimeStampsTimerStartsGame",
+            "file": "04 - 6 time stamps, timer starts game.txt"
+        },
+        {
+            "name": "1 time stamp, timer reaches zero",
+            "alphanumName": "OneTimeStampTimerReachesZero",
+            "file": "05 - 1 time stamp, timer reaches zero.txt"
+        },
+        {
+            "name": "2 time stamps, timer reaches zero",
+            "alphanumName": "TwoTimeStampsTimerReachesZero",
+            "file": "06 - 2 time stamps, timer reaches zero.txt"
+        },
+        {
+            "name": "4 time stamps, timer reaches zero",
+            "alphanumName": "FourTimeStampsTimerReachesZero",
+            "file": "07 - 4 time stamps, timer reaches zero.txt"
+        },
+        {
+            "name": "6 time stamps, timer reaches zero",
+            "alphanumName": "SixTimeStampsTimerReachesZero",
+            "file": "08 - 6 time stamps, timer reaches zero.txt"
+        },
+        {
+            "name": "7, the room is filled",
+            "alphanumName": "SevenTheRoomIsFilled",
+            "file": "09 - 7, the room is filled.txt"
+        },
+        {
+            "name": "No one joins",
+            "alphanumName": "NoOneJoins",
+            "file": "10 - No one joins.txt"
+        },
+        {
+            "name": "Starting time, but someone joins",
+            "alphanumName": "StartingTimeButSomeoneJoins",
+            "file": "11 - Starting time, but someone joins.txt"
+        },
+        {
+            "name": "Down to the last seconds",
+            "alphanumName": "DownToTheLastSeconds",
+            "file": "12 - Down to the last seconds.txt"
+        }
+    ]
+}
