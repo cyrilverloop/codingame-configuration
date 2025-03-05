@@ -1,0 +1,63 @@
+{
+    "path": "medium/MrsKnuthPartII",
+    "name": "Mrs. Knuth - Part II",
+    "alphanumName": "MrsKnuthPartII",
+    "link": "https://www.codingame.com/ide/puzzle/mrs--knuth---part-ii",
+    "tests": [
+        {
+            "name": "Basic",
+            "alphanumName": "Basic",
+            "file": "01 - Basic.txt"
+        },
+        {
+            "name": "Still Pretty Easy",
+            "alphanumName": "StillPrettyEasy",
+            "file": "02 - Still Pretty Easy.txt"
+        },
+        {
+            "name": "Long Day of Potential Conflicts",
+            "alphanumName": "LongDayOfPotentialConflicts",
+            "file": "03 - Long Day of Potential Conflicts.txt"
+        },
+        {
+            "name": "Two Moderate Days",
+            "alphanumName": "TwoModerateDays",
+            "file": "04 - Two Moderate Days.txt"
+        },
+        {
+            "name": "Three-Day Workweek",
+            "alphanumName": "ThreeDayWorkweek",
+            "file": "05 - Three-Day Workweek.txt"
+        },
+        {
+            "name": "Four Moderate Days",
+            "alphanumName": "FourModerateDays",
+            "file": "06 - Four Moderate Days.txt"
+        },
+        {
+            "name": "Four Days with Many Options",
+            "alphanumName": "FourDaysWithManyOptions",
+            "file": "07 - Four Days with Many Options.txt"
+        },
+        {
+            "name": "Significant Free Time",
+            "alphanumName": "SignificantFreeTime",
+            "file": "08 - Significant Free Time.txt"
+        },
+        {
+            "name": "Five-Day Workweek",
+            "alphanumName": "FiveDayWorkweek",
+            "file": "09 - Five-Day Workweek.txt"
+        },
+        {
+            "name": "Five Very Full Days I",
+            "alphanumName": "FiveVeryFullDaysI",
+            "file": "10 - Five Very Full Days I.txt"
+        },
+        {
+            "name": "Five Very Full Days II",
+            "alphanumName": "FiveVeryFullDaysII",
+            "file": "11 - Five Very Full Days II.txt"
+        }
+    ]
+}

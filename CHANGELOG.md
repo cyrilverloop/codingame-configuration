@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Shikaku Skill Builder".
 - configuration for "Timer for Clash of Code".
 - configuration for "Excavating Palindromes".
+- configuration for "Mrs. Knuth - Part II".
 
 ## [1.12.0] - 2025-02-28
 ### Added
