@@ -1,0 +1,68 @@
+{
+    "path": "medium/EquationSearch",
+    "name": "Equation Search",
+    "alphanumName": "EquationSearch",
+    "link": "https://www.codingame.com/ide/puzzle/equation-search",
+    "tests": [
+        {
+            "name": "No Duplicate Operands",
+            "alphanumName": "NoDuplicateOperands",
+            "file": "01 - No Duplicate Operands.txt"
+        },
+        {
+            "name": "Same Operand Twice",
+            "alphanumName": "SameOperandTwice",
+            "file": "02 - Same Operand Twice.txt"
+        },
+        {
+            "name": "Only Same Operands",
+            "alphanumName": "OnlySameOperands",
+            "file": "03 - Only Same Operands.txt"
+        },
+        {
+            "name": "6 Equations, 1 Solution",
+            "alphanumName": "SixEquations1Solution",
+            "file": "04 - 6 Equations, 1 Solution.txt"
+        },
+        {
+            "name": "6 Equations, Multiple Solutions",
+            "alphanumName": "SixEquationsMultipleSolutions",
+            "file": "05 - 6 Equations, Multiple Solutions.txt"
+        },
+        {
+            "name": "10 Equations, 1 Solution",
+            "alphanumName": "TenEquations1Solution",
+            "file": "06 - 10 Equations, 1 Solution.txt"
+        },
+        {
+            "name": "10 Equations, Multiple Solutions",
+            "alphanumName": "TenEquationsMultipleSolutions",
+            "file": "07 - 10 Equations, Multiple Solutions.txt"
+        },
+        {
+            "name": "13 Equations",
+            "alphanumName": "ThirteenEquations",
+            "file": "08 - 13 Equations.txt"
+        },
+        {
+            "name": "14 Equations",
+            "alphanumName": "FourteenEquations",
+            "file": "09 - 14 Equations.txt"
+        },
+        {
+            "name": "15 Equations, 1 Solution",
+            "alphanumName": "FifteenEquations1Solution",
+            "file": "10 - 15 Equations, 1 Solution.txt"
+        },
+        {
+            "name": "15 Equations, Multiple Solutions",
+            "alphanumName": "FifteenEquationsMultipleSolutions",
+            "file": "11 - 15 Equations, Multiple Solutions.txt"
+        },
+        {
+            "name": " So Many Solutions",
+            "alphanumName": " SoManySolutions",
+            "file": "12 -  So Many Solutions.txt"
+        }
+    ]
+}
