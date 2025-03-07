@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Excavating Palindromes".
 - configuration for "Mrs. Knuth - Part II".
 - configuration for "Equation Search".
+- configuration for "1D Snake Arrange".
 
 ## [1.12.0] - 2025-02-28
 ### Added
