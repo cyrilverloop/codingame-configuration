@@ -1,0 +1,38 @@
+{
+    "path": "medium/Networking",
+    "name": "Networking",
+    "alphanumName": "Networking",
+    "link": "https://www.codingame.com/ide/puzzle/networking",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Few, short chains",
+            "alphanumName": "FewShortChains",
+            "file": "02 - Few, short chains.txt"
+        },
+        {
+            "name": "More, longer chains",
+            "alphanumName": "MoreLongerChains",
+            "file": "03 - More, longer chains.txt"
+        },
+        {
+            "name": "Many, longer chains",
+            "alphanumName": "ManyLongerChains",
+            "file": "04 - Many, longer chains.txt"
+        },
+        {
+            "name": "Many, very long chains",
+            "alphanumName": "ManyVeryLongChains",
+            "file": "05 - Many, very long chains.txt"
+        },
+        {
+            "name": "Very many, short chains",
+            "alphanumName": "VeryManyShortChains",
+            "file": "06 - Very many, short chains.txt"
+        }
+    ]
+}
