@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Equation Search".
 - configuration for "1D Snake Arrange".
 - configuration for "Networking".
+- configuration for "Highest truncated pyramid".
 
 ## [1.12.0] - 2025-02-28
 ### Added
