@@ -1,0 +1,73 @@
+{
+    "path": "easy/SignProgrammingLanguage",
+    "name": "Sign (programming) language",
+    "alphanumName": "SignProgrammingLanguage",
+    "link": "https://www.codingame.com/ide/puzzle/sign-programming-language",
+    "tests": [
+        {
+            "name": "/$ADD/",
+            "alphanumName": "ADD",
+            "file": "01 - ADD.txt"
+        },
+        {
+            "name": "//SUB/",
+            "alphanumName": "SUB",
+            "file": "02 - SUB.txt"
+        },
+        {
+            "name": "/$ADD/ /**MULN+1/",
+            "alphanumName": "ADDMULN1",
+            "file": "03 - ADDMULN+1.txt"
+        },
+        {
+            "name": "//SUB/ /**MULN+1/",
+            "alphanumName": "SUBMULN1",
+            "file": "04 - SUBMULN+1.txt"
+        },
+        {
+            "name": "/$ADD/ /*/MUL-N/",
+            "alphanumName": "ADDMULN",
+            "file": "05 - ADDMUL-N.txt"
+        },
+        {
+            "name": "//SUB/ /*/MUL-N/",
+            "alphanumName": "SUBMULN",
+            "file": "06 - SUBMUL-N.txt"
+        },
+        {
+            "name": "$ADDINSTCOUNT$",
+            "alphanumName": "ADDINSTCOUNT",
+            "file": "07 - ADDINSTCOUNT.txt"
+        },
+        {
+            "name": "/*$NOP",
+            "alphanumName": "NOP",
+            "file": "08 - NOP.txt"
+        },
+        {
+            "name": "$ADDINSTCOUNT$ /*$NOP",
+            "alphanumName": "ADDINSTCOUNTNOP",
+            "file": "09 - ADDINSTCOUNTNOP.txt"
+        },
+        {
+            "name": "$UNEVENADDINSTCOUNT",
+            "alphanumName": "UNEVENADDINSTCOUNT",
+            "file": "10 - UNEVENADDINSTCOUNT.txt"
+        },
+        {
+            "name": "$EMPTY$",
+            "alphanumName": "EMPTY",
+            "file": "11 - EMPTY.txt"
+        },
+        {
+            "name": "$MUL$TI$PLE$",
+            "alphanumName": "MULTIPLE",
+            "file": "12 - MULTIPLE.txt"
+        },
+        {
+            "name": "/$FINALTEST/",
+            "alphanumName": "FINALTEST",
+            "file": "13 - FINALTEST.txt"
+        }
+    ]
+}
