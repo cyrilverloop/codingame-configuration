@@ -1,0 +1,33 @@
+{
+    "path": "hard/SecretMessageDecoding",
+    "name": "Secret Message Decoding",
+    "alphanumName": "SecretMessageDecoding",
+    "link": "https://www.codingame.com/ide/puzzle/secret-message-decoding",
+    "tests": [
+        {
+            "name": "Hi",
+            "alphanumName": "Hi",
+            "file": "01 - Hi.txt"
+        },
+        {
+            "name": "Hello!",
+            "alphanumName": "Hello",
+            "file": "02 - Hello!.txt"
+        },
+        {
+            "name": "Short message",
+            "alphanumName": "ShortMessage",
+            "file": "03 - Short message.txt"
+        },
+        {
+            "name": "Special characters",
+            "alphanumName": "SpecialCharacters",
+            "file": "04 - Special characters.txt"
+        },
+        {
+            "name": "Long text",
+            "alphanumName": "LongText",
+            "file": "05 - Long text.txt"
+        }
+    ]
+}
