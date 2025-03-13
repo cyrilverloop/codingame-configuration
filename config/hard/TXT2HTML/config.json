@@ -1,0 +1,38 @@
+{
+    "path": "hard/TXT2HTML",
+    "name": "TXT2HTML",
+    "alphanumName": "TXT2HTML",
+    "link": "https://www.codingame.com/ide/puzzle/txt2html",
+    "tests": [
+        {
+            "name": "Case unique",
+            "alphanumName": "CaseUnique",
+            "file": "01 - Case unique.txt"
+        },
+        {
+            "name": "Grande case",
+            "alphanumName": "GrandeCase",
+            "file": "02 - Grande case.txt"
+        },
+        {
+            "name": "Une ligne, deux colonnes",
+            "alphanumName": "UneLigneDeuxColonnes",
+            "file": "03 - Une ligne, deux colonnes.txt"
+        },
+        {
+            "name": "Deux lignes, quatre colonnes",
+            "alphanumName": "DeuxLignesQuatreColonnes",
+            "file": "04 - Deux lignes, quatre colonnes.txt"
+        },
+        {
+            "name": "Contenu sur deux lignes",
+            "alphanumName": "ContenuSurDeuxLignes",
+            "file": "05 - Contenu sur deux lignes.txt"
+        },
+        {
+            "name": "Tableau complet",
+            "alphanumName": "TableauComplet",
+            "file": "06 - Tableau complet.txt"
+        }
+    ]
+}
