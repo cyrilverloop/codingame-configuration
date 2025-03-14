@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Secret Message Decoding".
 - configuration for "Boggle".
 - configuration for "TXT2HTML".
+- configuration for "Fractal Carpet".
 
 ## [1.12.0] - 2025-02-28
 ### Added

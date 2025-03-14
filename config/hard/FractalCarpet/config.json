@@ -1,0 +1,28 @@
+{
+    "path": "hard/FractalCarpet",
+    "name": "Fractal Carpet",
+    "alphanumName": "FractalCarpet",
+    "link": "https://www.codingame.com/ide/puzzle/fractal-carpet",
+    "tests": [
+        {
+            "name": "The Whole Carpet",
+            "alphanumName": "TheWholeCarpet",
+            "file": "01 - The Whole Carpet.txt"
+        },
+        {
+            "name": "Small Patch",
+            "alphanumName": "SmallPatch",
+            "file": "02 - Small Patch.txt"
+        },
+        {
+            "name": "Detailed Patch",
+            "alphanumName": "DetailedPatch",
+            "file": "03 - Detailed Patch.txt"
+        },
+        {
+            "name": "Magic Microscope Detail",
+            "alphanumName": "MagicMicroscopeDetail",
+            "file": "04 - Magic Microscope Detail.txt"
+        }
+    ]
+}
