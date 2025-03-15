@@ -1,0 +1,48 @@
+{
+    "path": "hard/NeighborSumGrids",
+    "name": "Neighbor-Sum Grids",
+    "alphanumName": "NeighborSumGrids",
+    "link": "https://www.codingame.com/ide/puzzle/neighbor-sum-grids",
+    "tests": [
+        {
+            "name": "10 missing",
+            "alphanumName": "TenMissing",
+            "file": "01 - 10 missing.txt"
+        },
+        {
+            "name": "13 missing",
+            "alphanumName": "ThirteenMissing",
+            "file": "02 - 13 missing.txt"
+        },
+        {
+            "name": "16 missing",
+            "alphanumName": "SixteenMissing",
+            "file": "03 - 16 missing.txt"
+        },
+        {
+            "name": "19 missing",
+            "alphanumName": "NineteenMissing",
+            "file": "04 - 19 missing.txt"
+        },
+        {
+            "name": "22 missing",
+            "alphanumName": "TwentyTwoMissing",
+            "file": "05 - 22 missing.txt"
+        },
+        {
+            "name": "22 missing",
+            "alphanumName": "TwentyTwoMissing2",
+            "file": "06 - 22 missing.txt"
+        },
+        {
+            "name": "23 missing",
+            "alphanumName": "TwentyThreeMissing",
+            "file": "07 - 23 missing.txt"
+        },
+        {
+            "name": "23 missing",
+            "alphanumName": "TwentyThreeMissing2",
+            "file": "08 - 23 missing.txt"
+        }
+    ]
+}
