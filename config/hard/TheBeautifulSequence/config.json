@@ -1,0 +1,43 @@
+{
+    "path": "hard/TheBeautifulSequence",
+    "name": "The Beautiful sequence",
+    "alphanumName": "TheBeautifulSequence",
+    "link": "https://www.codingame.com/ide/puzzle/the-beautiful-sequence",
+    "tests": [
+        {
+            "name": "Sample",
+            "alphanumName": "Sample",
+            "file": "01 - Sample.txt"
+        },
+        {
+            "name": "Only one element",
+            "alphanumName": "OnlyOneElement",
+            "file": "02 - Only one element.txt"
+        },
+        {
+            "name": "All the same",
+            "alphanumName": "AllTheSame",
+            "file": "03 - All the same.txt"
+        },
+        {
+            "name": "A larger testdata",
+            "alphanumName": "ALargerTestdata",
+            "file": "04 - A larger testdata.txt"
+        },
+        {
+            "name": "Increasing sequence",
+            "alphanumName": "IncreasingSequence",
+            "file": "05 - Increasing sequence.txt"
+        },
+        {
+            "name": "The largest testcase",
+            "alphanumName": "TheLargestTestcase",
+            "file": "06 - The largest testcase.txt"
+        },
+        {
+            "name": "Larger than largest yet smaller",
+            "alphanumName": "LargerThanLargestYetSmaller",
+            "file": "07 - Larger than largest yet smaller.txt"
+        }
+    ]
+}

@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "TXT2HTML".
 - configuration for "Fractal Carpet".
 - configuration for "Neighbor-Sum Grids".
+- configuration for "The Beautiful sequence".
 
 ## [1.12.0] - 2025-02-28
 ### Added
