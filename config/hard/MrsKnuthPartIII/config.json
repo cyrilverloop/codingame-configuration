@@ -1,0 +1,108 @@
+{
+    "path": "hard/MrsKnuthPartIII",
+    "name": "Mrs. Knuth - Part III",
+    "alphanumName": "MrsKnuthPartIII",
+    "link": "https://www.codingame.com/ide/puzzle/mrs--knuth---part-iii",
+    "tests": [
+        {
+            "name": "2 Lessons per Week for Ella",
+            "alphanumName": "TwoLessonsPerWeekForElla",
+            "file": "01 - 2 Lessons per Week for Ella.txt"
+        },
+        {
+            "name": "3 Lessons per Week for Ella",
+            "alphanumName": "ThreeLessonsPerWeekForElla",
+            "file": "02 - 3 Lessons per Week for Ella.txt"
+        },
+        {
+            "name": "4 Lessons per Week for Ella",
+            "alphanumName": "FourLessonsPerWeekForElla",
+            "file": "03 - 4 Lessons per Week for Ella.txt"
+        },
+        {
+            "name": "Morning is Better",
+            "alphanumName": "MorningIsBetter",
+            "file": "04 - Morning is Better.txt"
+        },
+        {
+            "name": "Mornings are Loud",
+            "alphanumName": "MorningsAreLoud",
+            "file": "05 - Mornings are Loud.txt"
+        },
+        {
+            "name": "Alphabetical",
+            "alphanumName": "Alphabetical",
+            "file": "06 - Alphabetical.txt"
+        },
+        {
+            "name": "Which Day is Better?",
+            "alphanumName": "WhichDayIsBetter",
+            "file": "07 - Which Day is Better.txt"
+        },
+        {
+            "name": "Maximize Continuous Free Time",
+            "alphanumName": "MaximizeContinuousFreeTime",
+            "file": "08 - Maximize Continuous Free Time.txt"
+        },
+        {
+            "name": "Continuous Free Time II",
+            "alphanumName": "ContinuousFreeTimeII",
+            "file": "09 - Continuous Free Time II.txt"
+        },
+        {
+            "name": "Meh",
+            "alphanumName": "Meh",
+            "file": "10 - Meh.txt"
+        },
+        {
+            "name": "Almost Perfect Schedule",
+            "alphanumName": "AlmostPerfectSchedule",
+            "file": "11 - Almost Perfect Schedule.txt"
+        },
+        {
+            "name": "Emma, We Need to Chat",
+            "alphanumName": "EmmaWeNeedToChat",
+            "file": "12 - Emma, We Need to Chat.txt"
+        },
+        {
+            "name": "4-Day Weekends!",
+            "alphanumName": "FourDayWeekends",
+            "file": "13 - 4-Day Weekends!.txt"
+        },
+        {
+            "name": "3-Day Weekends!",
+            "alphanumName": "ThreeDayWeekends",
+            "file": "14 - 3-Day Weekends!.txt"
+        },
+        {
+            "name": "Let’s Rethink This Ivy",
+            "alphanumName": "LetsRethinkThisIvy",
+            "file": "15 - Let’s Rethink This Ivy.txt"
+        },
+        {
+            "name": "5 Days of Drums...Ugh!",
+            "alphanumName": "FiveDaysOfDrumsUgh",
+            "file": "16 - 5 Days of Drums...Ugh!.txt"
+        },
+        {
+            "name": "Monday at 8am...Really?",
+            "alphanumName": "MondayAt8amReally",
+            "file": "17 - Monday at 8am...Really.txt"
+        },
+        {
+            "name": "So Many Options",
+            "alphanumName": "SoManyOptions",
+            "file": "18 - So Many Options.txt"
+        },
+        {
+            "name": "Here Comes the Weekend",
+            "alphanumName": "HereComesTheWeekend",
+            "file": "19 - Here Comes the Weekend.txt"
+        },
+        {
+            "name": "Hump Day!",
+            "alphanumName": "HumpDay",
+            "file": "20 - Hump Day!.txt"
+        }
+    ]
+}
