@@ -1,0 +1,28 @@
+{
+    "path": "hard/TheEmpireEnigma",
+    "name": "The Empire Enigma",
+    "alphanumName": "TheEmpireEnigma",
+    "link": "https://www.codingame.com/ide/puzzle/the-empire-enigma",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Attack!",
+            "alphanumName": "Attack",
+            "file": "02 - Attack!.txt"
+        },
+        {
+            "name": "Large offset",
+            "alphanumName": "LargeOffset",
+            "file": "03 - Large offset.txt"
+        },
+        {
+            "name": "Huge offset and long text",
+            "alphanumName": "HugeOffsetAndLongText",
+            "file": "04 - Huge offset and long text.txt"
+        }
+    ]
+}
