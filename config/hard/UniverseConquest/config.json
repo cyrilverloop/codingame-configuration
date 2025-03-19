@@ -1,0 +1,33 @@
+{
+    "path": "hard/UniverseConquest",
+    "name": "Universe Conquest",
+    "alphanumName": "UniverseConquest",
+    "link": "https://www.codingame.com/ide/puzzle/universe-conquest",
+    "tests": [
+        {
+            "name": "Head shot!",
+            "alphanumName": "HeadShot",
+            "file": "01 - Head shot!.txt"
+        },
+        {
+            "name": "Aim good!",
+            "alphanumName": "AimGood",
+            "file": "02 - Aim good!.txt"
+        },
+        {
+            "name": "So many ships!",
+            "alphanumName": "SoManyShips",
+            "file": "03 - So many ships!.txt"
+        },
+        {
+            "name": "With ease",
+            "alphanumName": "WithEase",
+            "file": "04 - With ease.txt"
+        },
+        {
+            "name": "Web",
+            "alphanumName": "Web",
+            "file": "05 - Web.txt"
+        }
+    ]
+}

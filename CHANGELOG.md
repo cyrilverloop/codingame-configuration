@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The Beautiful sequence".
 - configuration for "Mrs. Knuth - Part III".
 - configuration for "The Empire Enigma".
+- configuration for "Universe Conquest".
 
 ## [1.12.0] - 2025-02-28
 ### Added
