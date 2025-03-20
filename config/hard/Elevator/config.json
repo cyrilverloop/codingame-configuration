@@ -1,0 +1,48 @@
+{
+    "path": "hard/Elevator",
+    "name": "Elevator",
+    "alphanumName": "Elevator",
+    "link": "https://www.codingame.com/ide/puzzle/elevator",
+    "tests": [
+        {
+            "name": "Easy Down",
+            "alphanumName": "EasyDown",
+            "file": "01 - Easy Down.txt"
+        },
+        {
+            "name": "Easy Up",
+            "alphanumName": "EasyUp",
+            "file": "02 - Easy Up.txt"
+        },
+        {
+            "name": "Up and Down",
+            "alphanumName": "UpAndDown",
+            "file": "03 - Up and Down.txt"
+        },
+        {
+            "name": "Impossible",
+            "alphanumName": "Impossible",
+            "file": "04 - Impossible.txt"
+        },
+        {
+            "name": "Above and Below",
+            "alphanumName": "AboveAndBelow",
+            "file": "05 - Above and Below.txt"
+        },
+        {
+            "name": "Lots of Steps",
+            "alphanumName": "LotsOfSteps",
+            "file": "06 - Lots of Steps.txt"
+        },
+        {
+            "name": "Where’s my floor?",
+            "alphanumName": "WheresMyfloor",
+            "file": "07 - Where’s my floor.txt"
+        },
+        {
+            "name": "Stuck on floor 4",
+            "alphanumName": "StuckOnFloor4",
+            "file": "08 - Stuck on floor 4.txt"
+        }
+    ]
+}
