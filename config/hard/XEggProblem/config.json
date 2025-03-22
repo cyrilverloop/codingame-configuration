@@ -1,0 +1,48 @@
+{
+    "path": "hard/XEggProblem",
+    "name": "X egg problem",
+    "alphanumName": "XEggProblem",
+    "link": "https://www.codingame.com/ide/puzzle/x-egg-problem",
+    "tests": [
+        {
+            "name": "100 floors 1 egg",
+            "alphanumName": "AHundredFloors1Egg",
+            "file": "01 - 100 floors 1 egg.txt"
+        },
+        {
+            "name": "1 floor 4 eggs",
+            "alphanumName": "OneFloor4Eggs",
+            "file": "02 - 1 floor 4 eggs.txt"
+        },
+        {
+            "name": "100 floors 2 eggs",
+            "alphanumName": "AHundredFloors2Eggs",
+            "file": "03 - 100 floors 2 eggs.txt"
+        },
+        {
+            "name": "100 floors 3 eggs",
+            "alphanumName": "AHundredFloors3Eggs",
+            "file": "04 - 100 floors 3 eggs.txt"
+        },
+        {
+            "name": "1000 floors 5 eggs",
+            "alphanumName": "AThousandFloors5Eggs",
+            "file": "05 - 1000 floors 5 eggs.txt"
+        },
+        {
+            "name": "1000000 floors 10 eggs",
+            "alphanumName": "OneMillionFloors10eggs",
+            "file": "06 - 1000000 floors 10 eggs.txt"
+        },
+        {
+            "name": "100000 floors 20 eggs",
+            "alphanumName": "AHundredThousandFloors20Eggs",
+            "file": "07 - 100000 floors 20 eggs.txt"
+        },
+        {
+            "name": "1 mln floors 4 eggs",
+            "alphanumName": "OneMlnFloors4Eggs",
+            "file": "08 - 1 mln floors 4 eggs.txt"
+        }
+    ]
+}
