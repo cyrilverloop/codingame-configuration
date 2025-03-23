@@ -1,0 +1,43 @@
+{
+    "path": "hard/PaperFoldingCurve",
+    "name": "Paper-folding curve",
+    "alphanumName": "PaperFoldingCurve",
+    "link": "https://www.codingame.com/ide/puzzle/paper-folding-curve",
+    "tests": [
+        {
+            "name": "Order-3",
+            "alphanumName": "Order3",
+            "file": "01 - Order-3.txt"
+        },
+        {
+            "name": "Order-5",
+            "alphanumName": "Order5",
+            "file": "02 - Order-5.txt"
+        },
+        {
+            "name": "Order-15",
+            "alphanumName": "Order15",
+            "file": "03 - Order-15.txt"
+        },
+        {
+            "name": "Order-20",
+            "alphanumName": "Order20",
+            "file": "04 - Order-20.txt"
+        },
+        {
+            "name": "Order-21",
+            "alphanumName": "Order21",
+            "file": "05 - Order-21.txt"
+        },
+        {
+            "name": "Order-40",
+            "alphanumName": "Order40",
+            "file": "06 - Order-40.txt"
+        },
+        {
+            "name": "Close to limit",
+            "alphanumName": "CloseToLimit",
+            "file": "07 - Close to limit.txt"
+        }
+    ]
+}
