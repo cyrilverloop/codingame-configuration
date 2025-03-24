@@ -1,0 +1,33 @@
+{
+    "path": "hard/SHA256Hash",
+    "name": "SHA-256 Hash",
+    "alphanumName": "SHA256Hash",
+    "link": "https://www.codingame.com/ide/puzzle/sha-256-hash",
+    "tests": [
+        {
+            "name": "Which house are you?",
+            "alphanumName": "WhichHouseAreYou",
+            "file": "01 - Which house are you.txt"
+        },
+        {
+            "name": "You can’t escape!",
+            "alphanumName": "YouCantEscape",
+            "file": "02 - You can’t escape!.txt"
+        },
+        {
+            "name": "Obligatory CodinGame",
+            "alphanumName": "ObligatoryCodinGame",
+            "file": "03 - Obligatory CodinGame.txt"
+        },
+        {
+            "name": "Running out of ideas",
+            "alphanumName": "RunningOutOfIdeas",
+            "file": "04 - Running out of ideas.txt"
+        },
+        {
+            "name": "Jealous?",
+            "alphanumName": "Jealous",
+            "file": "05 - Jealous.txt"
+        }
+    ]
+}
