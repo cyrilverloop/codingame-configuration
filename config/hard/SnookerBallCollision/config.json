@@ -1,0 +1,38 @@
+{
+    "path": "hard/SnookerBallCollision",
+    "name": "Snooker Ball Collision",
+    "alphanumName": "SnookerBallCollision",
+    "link": "https://www.codingame.com/ide/puzzle/snooker-ball-collision",
+    "tests": [
+        {
+            "name": "Static",
+            "alphanumName": "Static",
+            "file": "01 - Static.txt"
+        },
+        {
+            "name": "No collision (wrong direction)",
+            "alphanumName": "NoCollisionWrongDirection",
+            "file": "02 - No collision (wrong direction).txt"
+        },
+        {
+            "name": "No collision (speed too low)",
+            "alphanumName": "NoCollisionSpeedTooLow",
+            "file": "03 - No collision (speed too low).txt"
+        },
+        {
+            "name": "Horizontal movement",
+            "alphanumName": "HorizontalMovement",
+            "file": "04 - Horizontal movement.txt"
+        },
+        {
+            "name": "Vertical movement",
+            "alphanumName": "VerticalMovement",
+            "file": "05 - Vertical movement.txt"
+        },
+        {
+            "name": "Normal movement",
+            "alphanumName": "NormalMovement",
+            "file": "06 - Normal movement.txt"
+        }
+    ]
+}
