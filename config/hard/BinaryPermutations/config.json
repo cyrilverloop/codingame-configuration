@@ -1,0 +1,28 @@
+{
+    "path": "hard/BinaryPermutations",
+    "name": "Binary Permutations",
+    "alphanumName": "BinaryPermutations",
+    "link": "https://www.codingame.com/ide/puzzle/binary-permutations",
+    "tests": [
+        {
+            "name": "Easy",
+            "alphanumName": "Easy",
+            "file": "01 - Easy.txt"
+        },
+        {
+            "name": "Medium",
+            "alphanumName": "Medium",
+            "file": "02 - Medium.txt"
+        },
+        {
+            "name": "8 Bits Easy",
+            "alphanumName": "EightBitsEasy",
+            "file": "03 - 8 Bits Easy.txt"
+        },
+        {
+            "name": "8 Bits Difficult",
+            "alphanumName": "EightBitsDifficult",
+            "file": "04 - 8 Bits Difficult.txt"
+        }
+    ]
+}
