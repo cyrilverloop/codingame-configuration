@@ -1,0 +1,43 @@
+{
+    "path": "hard/ChateauAssiege",
+    "name": "Chateau assiegé",
+    "alphanumName": "ChateauAssiege",
+    "link": "https://www.codingame.com/ide/puzzle/castle-siege",
+    "tests": [
+        {
+            "name": "Enough Time",
+            "alphanumName": "EnoughTime",
+            "file": "01 - Enough Time.txt"
+        },
+        {
+            "name": "Collision",
+            "alphanumName": "Collision",
+            "file": "02 - Collision.txt"
+        },
+        {
+            "name": "Out of Range",
+            "alphanumName": "OutOfRange",
+            "file": "03 - Out of Range.txt"
+        },
+        {
+            "name": "Priority Zero",
+            "alphanumName": "PriorityZero",
+            "file": "04 - Priority Zero.txt"
+        },
+        {
+            "name": "East Criteria",
+            "alphanumName": "EastCriteria",
+            "file": "05 - East Criteria.txt"
+        },
+        {
+            "name": "Gauntlet 1",
+            "alphanumName": "Gauntlet1",
+            "file": "06 - Gauntlet 1.txt"
+        },
+        {
+            "name": "Gauntlet 2",
+            "alphanumName": "Gauntlet2",
+            "file": "07 - Gauntlet 2.txt"
+        }
+    ]
+}
