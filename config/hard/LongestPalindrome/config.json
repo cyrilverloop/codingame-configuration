@@ -1,0 +1,48 @@
+{
+    "path": "hard/LongestPalindrome",
+    "name": "Longest Palindrome",
+    "alphanumName": "LongestPalindrome",
+    "link": "https://www.codingame.com/ide/puzzle/longest-palindrome",
+    "tests": [
+        {
+            "name": "palindromic word",
+            "alphanumName": "palindromicWord",
+            "file": "01 - palindromic word.txt"
+        },
+        {
+            "name": "middle palindrome",
+            "alphanumName": "middlePalindrome",
+            "file": "02 - middle palindrome.txt"
+        },
+        {
+            "name": "multiple sided palindrome",
+            "alphanumName": "multipleSidedPalindrome",
+            "file": "03 - multiple sided palindrome.txt"
+        },
+        {
+            "name": "DNA medium (256 chars)",
+            "alphanumName": "DNAMedium256Chars",
+            "file": "04 - DNA medium (256 chars).txt"
+        },
+        {
+            "name": "DNA long (5000 chars)",
+            "alphanumName": "DNALong5000Chars",
+            "file": "05 - DNA long (5000 chars).txt"
+        },
+        {
+            "name": "In PI (10 000 digits)",
+            "alphanumName": "InPI10000Digits",
+            "file": "06 - In PI (10 000 digits).txt"
+        },
+        {
+            "name": "long palindrome with long input (10000 chars)",
+            "alphanumName": "longPalindromeWithLongInput10000Chars",
+            "file": "07 - long palindrome with long input (10000 chars).txt"
+        },
+        {
+            "name": "cyclic palindrom",
+            "alphanumName": "cyclicPalindrom",
+            "file": "08 - cyclic palindrom.txt"
+        }
+    ]
+}
