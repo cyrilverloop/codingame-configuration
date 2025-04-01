@@ -1,0 +1,48 @@
+{
+    "path": "medium/ShapeOutline",
+    "name": "Shape Outline",
+    "alphanumName": "ShapeOutline",
+    "link": "https://www.codingame.com/ide/puzzle/shape-outline",
+    "tests": [
+        {
+            "name": "Triangle",
+            "alphanumName": "Triangle",
+            "file": "01 - Triangle.txt"
+        },
+        {
+            "name": "X",
+            "alphanumName": "X",
+            "file": "02 - X.txt"
+        },
+        {
+            "name": "Play",
+            "alphanumName": "Play",
+            "file": "03 - Play.txt"
+        },
+        {
+            "name": "Plus",
+            "alphanumName": "Plus",
+            "file": "04 - Plus.txt"
+        },
+        {
+            "name": "Heart",
+            "alphanumName": "Heart",
+            "file": "05 - Heart.txt"
+        },
+        {
+            "name": "Codin Game",
+            "alphanumName": "CodinGame",
+            "file": "06 - Codin Game.txt"
+        },
+        {
+            "name": "Maze",
+            "alphanumName": "Maze",
+            "file": "07 - Maze.txt"
+        },
+        {
+            "name": "Dark Night",
+            "alphanumName": "DarkNight",
+            "file": "08 - Dark Night.txt"
+        }
+    ]
+}
