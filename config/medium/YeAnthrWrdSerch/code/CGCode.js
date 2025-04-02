@@ -1,0 +1,12 @@
+var inputs = readline().split(' ');
+const height = parseInt(inputs[0]);
+const width = parseInt(inputs[1]);
+for (let i = 0; i < height; i++) {
+    const row = readline();
+}
+const words = readline();
+
+// Write an answer using console.log()
+// To debug: console.error('Debug messages...');
+
+console.log('grid with unused letters hidden');

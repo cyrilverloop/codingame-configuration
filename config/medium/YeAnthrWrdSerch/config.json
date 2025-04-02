@@ -1,0 +1,63 @@
+{
+    "path": "medium/YeAnthrWrdSerch",
+    "name": "Ye_ An_th_r W_rd Se_rch",
+    "alphanumName": "YeAnthrWrdSerch",
+    "link": "https://www.codingame.com/ide/puzzle/ye_-an_th_r-w_rd-se_rch",
+    "tests": [
+        {
+            "name": "Horizontal / Vertical / Forward",
+            "alphanumName": "HorizontalVerticalForward",
+            "file": "01 - Horizontal Vertical Forward.txt"
+        },
+        {
+            "name": "Horizontal / Vertical / Backward",
+            "alphanumName": "HorizontalVerticalBackward",
+            "file": "02 - Horizontal Vertical Backward.txt"
+        },
+        {
+            "name": "Diagonal / Forward",
+            "alphanumName": "DiagonalForward",
+            "file": "03 - Diagonal Forward.txt"
+        },
+        {
+            "name": "Diagonal / Backward",
+            "alphanumName": "DiagonalBackward",
+            "file": "04 - Diagonal Backward.txt"
+        },
+        {
+            "name": "All Directions",
+            "alphanumName": "AllDirections",
+            "file": "05 - All Directions.txt"
+        },
+        {
+            "name": "Flower Power",
+            "alphanumName": "FlowerPower",
+            "file": "06 - Flower Power.txt"
+        },
+        {
+            "name": "Overlap",
+            "alphanumName": "Overlap",
+            "file": "07 - Overlap.txt"
+        },
+        {
+            "name": "Dog Pound",
+            "alphanumName": "DogPound",
+            "file": "08 - Dog Pound.txt"
+        },
+        {
+            "name": "Many Short Words",
+            "alphanumName": "ManyShortWords",
+            "file": "09 - Many Short Words.txt"
+        },
+        {
+            "name": "Tightly Packed",
+            "alphanumName": "TightlyPacked",
+            "file": "10 - Tightly Packed.txt"
+        },
+        {
+            "name": "Knuth’s Mathematicians",
+            "alphanumName": "KnuthsMathematicians",
+            "file": "11 - Knuth’s Mathematicians.txt"
+        }
+    ]
+}
