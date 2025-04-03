@@ -1,0 +1,38 @@
+{
+    "path": "medium/InsideArea",
+    "name": "Inside Area",
+    "alphanumName": "InsideArea",
+    "link": "https://www.codingame.com/ide/puzzle/inside-area",
+    "tests": [
+        {
+            "name": "口",
+            "alphanumName": "test1",
+            "file": "01 - 口.txt"
+        },
+        {
+            "name": "凹",
+            "alphanumName": "test2",
+            "file": "02 - 凹.txt"
+        },
+        {
+            "name": "凸",
+            "alphanumName": "test3",
+            "file": "03 - 凸.txt"
+        },
+        {
+            "name": "arc de triomphe",
+            "alphanumName": "arcDeTriomphe",
+            "file": "04 - arc de triomphe.txt"
+        },
+        {
+            "name": "really large",
+            "alphanumName": "reallyLarge",
+            "file": "05 - really large.txt"
+        },
+        {
+            "name": "really really large",
+            "alphanumName": "reallyReallyLarge",
+            "file": "06 - really really large.txt"
+        }
+    ]
+}
