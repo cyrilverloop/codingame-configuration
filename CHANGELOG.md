@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Shape Outline".
 - configuration for "Ye_ An_th_r W_rd Se_rch".
 - configuration for "Inside Area".
+- configuration for "Function notation".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed
