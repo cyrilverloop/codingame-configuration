@@ -1,0 +1,33 @@
+{
+    "path": "hard/Vortex",
+    "name": "Vortex",
+    "alphanumName": "Vortex",
+    "link": "https://www.codingame.com/ide/puzzle/vortex",
+    "tests": [
+        {
+            "name": "Simplest",
+            "alphanumName": "Simplest",
+            "file": "01 - Simplest.txt"
+        },
+        {
+            "name": "Example 7x5 matrix",
+            "alphanumName": "Example7x5matrix",
+            "file": "02 - Example 7x5 matrix.txt"
+        },
+        {
+            "name": "Just an 8x12 matrix",
+            "alphanumName": "JustAn8x12Matrix",
+            "file": "03 - Just an 8x12 matrix.txt"
+        },
+        {
+            "name": "Many pixels",
+            "alphanumName": "ManyPixels",
+            "file": "04 - Many pixels.txt"
+        },
+        {
+            "name": "INSANE!!!",
+            "alphanumName": "INSANE",
+            "file": "05 - INSANE!!!.txt"
+        }
+    ]
+}
