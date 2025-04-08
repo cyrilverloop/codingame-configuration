@@ -1,0 +1,38 @@
+{
+    "path": "hard/EncounterSurface",
+    "name": "Encounter surface",
+    "alphanumName": "EncounterSurface",
+    "link": "https://www.codingame.com/ide/puzzle/encounter-surface",
+    "tests": [
+        {
+            "name": "First contact",
+            "alphanumName": "FirstContact",
+            "file": "01 - First contact.txt"
+        },
+        {
+            "name": "Real case",
+            "alphanumName": "RealCase",
+            "file": "02 - Real case.txt"
+        },
+        {
+            "name": "Great battle",
+            "alphanumName": "GreatBattle",
+            "file": "03 - Great battle.txt"
+        },
+        {
+            "name": "Huge area",
+            "alphanumName": "HugeArea",
+            "file": "04 - Huge area.txt"
+        },
+        {
+            "name": "No contact",
+            "alphanumName": "NoContact",
+            "file": "05 - No contact.txt"
+        },
+        {
+            "name": "Side superposition",
+            "alphanumName": "SideSuperposition",
+            "file": "06 - Side superposition.txt"
+        }
+    ]
+}
