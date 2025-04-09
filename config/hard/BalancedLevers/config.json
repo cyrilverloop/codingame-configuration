@@ -1,0 +1,83 @@
+{
+    "path": "hard/BalancedLevers",
+    "name": "Balanced Levers",
+    "alphanumName": "BalancedLevers",
+    "link": "https://www.codingame.com/ide/puzzle/balanced-levers",
+    "tests": [
+        {
+            "name": "3w #1",
+            "alphanumName": "3w1",
+            "file": "01 - 3w #1.txt"
+        },
+        {
+            "name": "3w #2",
+            "alphanumName": "3w2",
+            "file": "02 - 3w #2.txt"
+        },
+        {
+            "name": "3w #3",
+            "alphanumName": "3w3",
+            "file": "03 - 3w #3.txt"
+        },
+        {
+            "name": "4w #1",
+            "alphanumName": "4w1",
+            "file": "04 - 4w #1.txt"
+        },
+        {
+            "name": "4w #2",
+            "alphanumName": "4w2",
+            "file": "05 - 4w #2.txt"
+        },
+        {
+            "name": "4w #3",
+            "alphanumName": "4w3",
+            "file": "06 - 4w #3.txt"
+        },
+        {
+            "name": "5w #1",
+            "alphanumName": "5w1",
+            "file": "07 - 5w #1.txt"
+        },
+        {
+            "name": "5w #2",
+            "alphanumName": "5w2",
+            "file": "08 - 5w #2.txt"
+        },
+        {
+            "name": "5w #3",
+            "alphanumName": "5w3",
+            "file": "09 - 5w #3.txt"
+        },
+        {
+            "name": "6w #1",
+            "alphanumName": "6w#1",
+            "file": "10 - 6w #1.txt"
+        },
+        {
+            "name": "6w #2",
+            "alphanumName": "6w#2",
+            "file": "11 - 6w #2.txt"
+        },
+        {
+            "name": "6w #3",
+            "alphanumName": "6w#3",
+            "file": "12 - 6w #3.txt"
+        },
+        {
+            "name": "Single",
+            "alphanumName": "Single",
+            "file": "13 - Single.txt"
+        },
+        {
+            "name": "Tiny room",
+            "alphanumName": "TinyRoom",
+            "file": "14 - Tiny room.txt"
+        },
+        {
+            "name": "Twins",
+            "alphanumName": "Twins",
+            "file": "15 - Twins.txt"
+        }
+    ]
+}

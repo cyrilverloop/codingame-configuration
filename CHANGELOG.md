@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The Total is Right - Weird edition".
 - configuration for "Discrete Log Problem".
 - configuration for "Encounter surface".
+- configuration for "Balanced Levers".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed
