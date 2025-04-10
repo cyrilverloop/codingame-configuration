@@ -50,7 +50,7 @@ One file per test;
 
 ## Install
 
-### JavaScript
+### JavaScript / TypeScript
 
 ```shellsession
 npm i @cyrilverloop/codingame-configuration
