@@ -15,7 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Discrete Log Problem".
 - configuration for "Encounter surface".
 - configuration for "Balanced Levers".
-- TypeScript code for "Temperatures", "ASCII Art", "Unary", "MIME Type",
+- TypeScript and C++ code for
+"Temperatures", "ASCII Art", "Unary", "MIME Type",
 "Defibrillators", "Horse-racing Duals", "Dwarfs standing on the shoulders of giants",
 "Telephone Numbers", "Stock Exchange Losses", "Scrabble", "Mayan Calculation", "War",
 "The Gift", "Network Cabling", "Conway Sequence", "Blunder - Episode 1",
