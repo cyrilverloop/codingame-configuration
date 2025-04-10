@@ -15,6 +15,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Discrete Log Problem".
 - configuration for "Encounter surface".
 - configuration for "Balanced Levers".
+- TypeScript code for "Temperatures", "ASCII Art", "Unary", "MIME Type",
+"Defibrillators", "Horse-racing Duals", "Dwarfs standing on the shoulders of giants",
+"Telephone Numbers", "Stock Exchange Losses", "Scrabble", "Mayan Calculation", "War",
+"The Gift", "Network Cabling", "Conway Sequence", "Blunder - Episode 1",
+"Blunder - Episode 2", "Blunder - Episode 3", "Surface", "CGX Formatter",
+"Genome Sequencing", "Super Computer", "Roller Coaster", "TAN Network",
+"Music Scores" and "The Resistance".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed
