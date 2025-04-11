@@ -1,0 +1,38 @@
+{
+    "path": "hard/NintendoSponsoredChallenge",
+    "name": "Nintendo Sponsored Challenge",
+    "alphanumName": "NintendoSponsoredChallenge",
+    "link": "https://www.codingame.com/ide/puzzle/nintendo-sponsored-contest",
+    "tests": [
+        {
+            "name": "32 bits",
+            "alphanumName": "32Bits",
+            "file": "01 - 32 bits.txt"
+        },
+        {
+            "name": "32 bits",
+            "alphanumName": "32Bits2",
+            "file": "02 - 32 bits.txt"
+        },
+        {
+            "name": "32 bits",
+            "alphanumName": "32Bits3",
+            "file": "03 - 32 bits.txt"
+        },
+        {
+            "name": "32 bits",
+            "alphanumName": "32Bits4",
+            "file": "04 - 32 bits.txt"
+        },
+        {
+            "name": "128 bits",
+            "alphanumName": "128Bits",
+            "file": "05 - 128 bits.txt"
+        },
+        {
+            "name": "256 bits (for mega NERD only)",
+            "alphanumName": "256BitsForMegaNERDOnly",
+            "file": "06 - 256 bits (for mega NERD only).txt"
+        }
+    ]
+}

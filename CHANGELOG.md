@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 "Blunder - Episode 2", "Blunder - Episode 3", "Surface", "CGX Formatter",
 "Genome Sequencing", "Super Computer", "Roller Coaster", "TAN Network",
 "Music Scores" and "The Resistance".
+- configuration for "Nintendo Sponsored Challenge".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed
