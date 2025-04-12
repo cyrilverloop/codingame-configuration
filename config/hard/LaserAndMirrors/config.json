@@ -1,0 +1,38 @@
+{
+    "path": "hard/LaserAndMirrors",
+    "name": "Laser and mirrors",
+    "alphanumName": "LaserAndMirrors",
+    "link": "https://www.codingame.com/ide/puzzle/laser-and-mirrors",
+    "tests": [
+        {
+            "name": "Square",
+            "alphanumName": "Square",
+            "file": "01 - Square.txt"
+        },
+        {
+            "name": "Small rectangle",
+            "alphanumName": "SmallRectangle",
+            "file": "02 - Small rectangle.txt"
+        },
+        {
+            "name": "Multiple bounces",
+            "alphanumName": "MultipleBounces",
+            "file": "03 - Multiple bounces.txt"
+        },
+        {
+            "name": "Big but feasible",
+            "alphanumName": "BigButFeasible",
+            "file": "04 - Big but feasible.txt"
+        },
+        {
+            "name": "Too big",
+            "alphanumName": "TooBig",
+            "file": "05 - Too big.txt"
+        },
+        {
+            "name": "Very very big room",
+            "alphanumName": "VeryVeryBigRoom",
+            "file": "06 - Very very big room.txt"
+        }
+    ]
+}
