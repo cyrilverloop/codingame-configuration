@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 "Music Scores" and "The Resistance".
 - configuration for "Nintendo Sponsored Challenge".
 - configuration for "Laser and mirrors".
+- configuration for "Legendary Archer Octavius".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed

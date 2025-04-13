@@ -1,0 +1,48 @@
+{
+    "path": "hard/LegendaryArcherOctavius",
+    "name": "Legendary Archer Octavius",
+    "alphanumName": "LegendaryArcherOctavius",
+    "link": "https://www.codingame.com/ide/puzzle/legendary-archer-octavius",
+    "tests": [
+        {
+            "name": "Trivial",
+            "alphanumName": "Trivial",
+            "file": "01 - Trivial.txt"
+        },
+        {
+            "name": "Zipline Action",
+            "alphanumName": "ZiplineAction",
+            "file": "02 - Zipline Action.txt"
+        },
+        {
+            "name": "Chug, chug, chug!",
+            "alphanumName": "ChugChugChug",
+            "file": "03 - Chug, chug, chug!.txt"
+        },
+        {
+            "name": "Haste makes waste",
+            "alphanumName": "HasteMakesWaste",
+            "file": "04 - Haste makes waste.txt"
+        },
+        {
+            "name": "Noclipping UFOs",
+            "alphanumName": "NoclippingUFOs",
+            "file": "05 - Noclipping UFOs.txt"
+        },
+        {
+            "name": "Reinforcements",
+            "alphanumName": "Reinforcements",
+            "file": "06 - Reinforcements.txt"
+        },
+        {
+            "name": "Surrounded",
+            "alphanumName": "Surrounded",
+            "file": "07 - Surrounded.txt"
+        },
+        {
+            "name": "Martian Invasion",
+            "alphanumName": "MartianInvasion",
+            "file": "08 - Martian Invasion.txt"
+        }
+    ]
+}
