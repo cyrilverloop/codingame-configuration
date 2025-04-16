@@ -1,0 +1,28 @@
+{
+    "path": "hard/Cryptarithm",
+    "name": "Cryptarithm",
+    "alphanumName": "Cryptarithm",
+    "link": "https://www.codingame.com/ide/puzzle/cryptarithm",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "9846+2+648=10496",
+            "alphanumName": "Nine846p2p648e10496",
+            "file": "02 - 9846+2+648=10496.txt"
+        },
+        {
+            "name": "Sum of 5 values",
+            "alphanumName": "SumOf5Values",
+            "file": "03 - Sum of 5 values.txt"
+        },
+        {
+            "name": "85+15=100",
+            "alphanumName": "Eight5p15e100",
+            "file": "04 - 85+15=100.txt"
+        }
+    ]
+}

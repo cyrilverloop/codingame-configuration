@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Legendary Archer Octavius".
 - configuration for "KGood".
 - configuration for "Maximising integers".
+- configuration for "Cryptarithm".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed
