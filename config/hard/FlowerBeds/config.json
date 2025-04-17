@@ -1,0 +1,28 @@
+{
+    "path": "hard/FlowerBeds",
+    "name": "Flower beds",
+    "alphanumName": "FlowerBeds",
+    "link": "https://www.codingame.com/ide/puzzle/flower-beds",
+    "tests": [
+        {
+            "name": "Small with few edges",
+            "alphanumName": "SmallWithFewEdges",
+            "file": "01 - Small with few edges.txt"
+        },
+        {
+            "name": "Small with many edges",
+            "alphanumName": "SmallWithManyEdges",
+            "file": "02 - Small with many edges.txt"
+        },
+        {
+            "name": "Big with few edges",
+            "alphanumName": "BigWithFewEdges",
+            "file": "03 - Big with few edges.txt"
+        },
+        {
+            "name": "Versaille",
+            "alphanumName": "Versaille",
+            "file": "04 - Versaille.txt"
+        }
+    ]
+}
