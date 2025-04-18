@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Maximising integers".
 - configuration for "Cryptarithm".
 - configuration for "Flower beds".
+- configuration for "Hangman".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed

@@ -1,0 +1,28 @@
+{
+    "path": "hard/Hangman",
+    "name": "Hangman",
+    "alphanumName": "Hangman",
+    "link": "https://www.codingame.com/ide/puzzle/hangman",
+    "tests": [
+        {
+            "name": "Solution found",
+            "alphanumName": "SolutionFound",
+            "file": "01 - Solution found.txt"
+        },
+        {
+            "name": "Wrong answer",
+            "alphanumName": "WrongAnswer",
+            "file": "02 - Wrong answer.txt"
+        },
+        {
+            "name": "White space",
+            "alphanumName": "WhiteSpace",
+            "file": "03 - White space.txt"
+        },
+        {
+            "name": "Same letter",
+            "alphanumName": "SameLetter",
+            "file": "04 - Same letter.txt"
+        }
+    ]
+}
