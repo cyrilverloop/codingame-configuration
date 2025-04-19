@@ -1,0 +1,33 @@
+{
+    "path": "hard/CodeYourOwnAutomaton2000Step1",
+    "name": "Code your own Automaton2000, step 1",
+    "alphanumName": "CodeYourOwnAutomaton2000Step1",
+    "link": "https://www.codingame.com/ide/puzzle/code-your-own-automaton2000-step-1",
+    "tests": [
+        {
+            "name": "Simple example",
+            "alphanumName": "SimpleExample",
+            "file": "01 - Simple example.txt"
+        },
+        {
+            "name": "Real case",
+            "alphanumName": "RealCase",
+            "file": "02 - Real case.txt"
+        },
+        {
+            "name": "Changing tree",
+            "alphanumName": "ChangingTree",
+            "file": "03 - Changing tree.txt"
+        },
+        {
+            "name": "Infinite loop",
+            "alphanumName": "InfiniteLoop",
+            "file": "04 - Infinite loop.txt"
+        },
+        {
+            "name": "Border line cases",
+            "alphanumName": "BorderLineCases",
+            "file": "05 - Border line cases.txt"
+        }
+    ]
+}
