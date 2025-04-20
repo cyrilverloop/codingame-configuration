@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Flower beds".
 - configuration for "Hangman".
 - configuration for "Code your own Automaton2000, step 1".
+- configuration for "7-segment display".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed

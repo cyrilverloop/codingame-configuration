@@ -1,0 +1,28 @@
+{
+    "path": "hard/SevenSegmentDisplay",
+    "name": "7-segment display",
+    "alphanumName": "SevenSegmentDisplay",
+    "link": "https://www.codingame.com/ide/puzzle/7-segment-display",
+    "tests": [
+        {
+            "name": "8",
+            "alphanumName": "Eight",
+            "file": "01 - 8.txt"
+        },
+        {
+            "name": "256",
+            "alphanumName": "Two56",
+            "file": "02 - 256.txt"
+        },
+        {
+            "name": "333",
+            "alphanumName": "Three33",
+            "file": "03 - 333.txt"
+        },
+        {
+            "name": "14790",
+            "alphanumName": "One4790",
+            "file": "04 - 14790.txt"
+        }
+    ]
+}
