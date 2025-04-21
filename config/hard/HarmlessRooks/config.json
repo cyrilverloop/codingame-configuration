@@ -1,0 +1,73 @@
+{
+    "path": "hard/HarmlessRooks",
+    "name": "Harmless Rooks",
+    "alphanumName": "HarmlessRooks",
+    "link": "https://www.codingame.com/ide/puzzle/harmless-rooks",
+    "tests": [
+        {
+            "name": "Size 5",
+            "alphanumName": "Size5",
+            "file": "01 - Size 5.txt"
+        },
+        {
+            "name": "Size 7",
+            "alphanumName": "Size7",
+            "file": "02 - Size 7.txt"
+        },
+        {
+            "name": "Size 8",
+            "alphanumName": "Size8",
+            "file": "03 - Size 8.txt"
+        },
+        {
+            "name": "Size 10",
+            "alphanumName": "Size10",
+            "file": "04 - Size 10.txt"
+        },
+        {
+            "name": "Size 11",
+            "alphanumName": "Size11",
+            "file": "05 - Size 11.txt"
+        },
+        {
+            "name": "Size 16",
+            "alphanumName": "Size16",
+            "file": "06 - Size 16.txt"
+        },
+        {
+            "name": "Size 30",
+            "alphanumName": "Size30",
+            "file": "07 - Size 30.txt"
+        },
+        {
+            "name": "Size 50",
+            "alphanumName": "Size50",
+            "file": "08 - Size 50.txt"
+        },
+        {
+            "name": "Size 99 (1)",
+            "alphanumName": "Size991",
+            "file": "09 - Size 99 (1).txt"
+        },
+        {
+            "name": "Size 99 (2)",
+            "alphanumName": "Size992",
+            "file": "10 - Size 99 (2).txt"
+        },
+        {
+            "name": "Size 99 (3)",
+            "alphanumName": "Size993",
+            "file": "11 - Size 99 (3).txt"
+        },
+        {
+            "name": "Size 99 (4)",
+            "alphanumName": "Size994",
+            "file": "12 - Size 99 (4).txt"
+        },
+        {
+            "name": "Size 1",
+            "alphanumName": "Size1",
+            "file": "13 - Size 1.txt"
+        }
+    ]
+}
