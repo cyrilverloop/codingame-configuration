@@ -35,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "7-segment display".
 - configuration for "Harmless Rooks".
 - configuration for "Pascal Trapezoid".
+- configuration for "Staircases".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed

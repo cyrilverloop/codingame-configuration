@@ -1,0 +1,33 @@
+{
+    "path": "hard/Staircases",
+    "name": "Staircases",
+    "alphanumName": "Staircases",
+    "link": "https://www.codingame.com/ide/puzzle/staircases",
+    "tests": [
+        {
+            "name": "Exemple",
+            "alphanumName": "Exemple",
+            "file": "01 - Exemple.txt"
+        },
+        {
+            "name": "10",
+            "alphanumName": "ten",
+            "file": "02 - 10.txt"
+        },
+        {
+            "name": "25",
+            "alphanumName": "twentyFive",
+            "file": "03 - 25.txt"
+        },
+        {
+            "name": "500",
+            "alphanumName": "fiveHundred",
+            "file": "04 - 500.txt"
+        },
+        {
+            "name": "4",
+            "alphanumName": "four",
+            "file": "05 - 4.txt"
+        }
+    ]
+}
