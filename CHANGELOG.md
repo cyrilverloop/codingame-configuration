@@ -36,6 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Harmless Rooks".
 - configuration for "Pascal Trapezoid".
 - configuration for "Staircases".
+- configuration for "The max surface box".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed
