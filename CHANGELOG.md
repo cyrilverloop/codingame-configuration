@@ -39,6 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The max surface box".
 - configuration for "Basic Decision Tree - 1".
 - configuration for "Basic Decision Tree - 2".
+- configuration for "Levenshtein distance".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed

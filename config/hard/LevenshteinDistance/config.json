@@ -1,0 +1,43 @@
+{
+    "path": "hard/LevenshteinDistance",
+    "name": "Levenshtein distance",
+    "alphanumName": "LevenshteinDistance",
+    "link": "https://www.codingame.com/ide/puzzle/levenshtein-distance",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Normal",
+            "alphanumName": "Normal",
+            "file": "02 - Normal.txt"
+        },
+        {
+            "name": "Harder",
+            "alphanumName": "Harder",
+            "file": "03 - Harder.txt"
+        },
+        {
+            "name": "Long words",
+            "alphanumName": "LongWords",
+            "file": "04 - Long words.txt"
+        },
+        {
+            "name": "Sentence",
+            "alphanumName": "Sentence",
+            "file": "05 - Sentence.txt"
+        },
+        {
+            "name": "No change",
+            "alphanumName": "NoChange",
+            "file": "06 - No change.txt"
+        },
+        {
+            "name": "One very long word",
+            "alphanumName": "OneVeryLongWord",
+            "file": "07 - One very long word.txt"
+        }
+    ]
+}
