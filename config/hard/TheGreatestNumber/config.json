@@ -1,0 +1,43 @@
+{
+    "path": "hard/TheGreatestNumber",
+    "name": "The greatest number",
+    "alphanumName": "TheGreatestNumber",
+    "link": "https://www.codingame.com/ide/puzzle/the-greatest-number",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Positif",
+            "alphanumName": "Positif",
+            "file": "02 - Positif.txt"
+        },
+        {
+            "name": "Sans virgule",
+            "alphanumName": "SansVirgule",
+            "file": "03 - Sans virgule.txt"
+        },
+        {
+            "name": "Gérer le zéro",
+            "alphanumName": "GererLeZero",
+            "file": "04 - Gérer le zéro.txt"
+        },
+        {
+            "name": "Gérer le zéro une 2ème fois",
+            "alphanumName": "GererLeZeroUne2emeFois",
+            "file": "05 - Gérer le zéro une 2ème fois.txt"
+        },
+        {
+            "name": "Pleins de zéros",
+            "alphanumName": "PleinsDeZeros",
+            "file": "06 - Pleins de zéros.txt"
+        },
+        {
+            "name": "Retour aux bases",
+            "alphanumName": "RetourAuxBases",
+            "file": "07 - Retour aux bases.txt"
+        }
+    ]
+}
