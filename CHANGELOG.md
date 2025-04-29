@@ -41,6 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Basic Decision Tree - 2".
 - configuration for "Levenshtein distance".
 - configuration for "The greatest number".
+- configuration for "Misère Nim".
 
 ## [1.13.2] - 2025-03-31
 ### Fixed

@@ -1,0 +1,48 @@
+{
+    "path": "hard/MisereNim",
+    "name": "Misère Nim",
+    "alphanumName": "MisereNim",
+    "link": "https://www.codingame.com/ide/puzzle/misere-nim",
+    "tests": [
+        {
+            "name": "One heap",
+            "alphanumName": "OneHeap",
+            "file": "01 - One heap.txt"
+        },
+        {
+            "name": "Two heaps, simple",
+            "alphanumName": "TwoHeapsSimple",
+            "file": "02 - Two heaps, simple.txt"
+        },
+        {
+            "name": "Two heaps",
+            "alphanumName": "TwoHeaps",
+            "file": "03 - Two heaps.txt"
+        },
+        {
+            "name": "Three heaps, simple",
+            "alphanumName": "ThreeHeapsSimple",
+            "file": "04 - Three heaps, simple.txt"
+        },
+        {
+            "name": "Multiple possibilities",
+            "alphanumName": "MultiplePossibilities",
+            "file": "05 - Multiple possibilities.txt"
+        },
+        {
+            "name": "Three heaps",
+            "alphanumName": "ThreeHeaps",
+            "file": "06 - Three heaps.txt"
+        },
+        {
+            "name": "Hard",
+            "alphanumName": "Hard",
+            "file": "07 - Hard.txt"
+        },
+        {
+            "name": "Hard, multiple moves",
+            "alphanumName": "HardMultipleMoves",
+            "file": "08 - Hard, multiple moves.txt"
+        }
+    ]
+}
