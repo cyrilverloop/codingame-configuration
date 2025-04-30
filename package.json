@@ -1,6 +1,6 @@
 {
   "name": "@cyrilverloop/codingame-configuration",
-  "version": "1.13.2",
+  "version": "1.14.0",
   "description": "A project that contains CodinGame input, output and default code.",
   "repository": {
     "type": "git",
