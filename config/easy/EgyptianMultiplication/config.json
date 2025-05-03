@@ -1,0 +1,28 @@
+{
+    "path": "easy/EgyptianMultiplication",
+    "name": "Egyptian multiplication",
+    "alphanumName": "EgyptianMultiplication",
+    "link": "https://www.codingame.com/ide/puzzle/egyptian-multiplication",
+    "tests": [
+        {
+            "name": "Simple a<b",
+            "alphanumName": "SimpleALTB",
+            "file": "01 - Simple a less than b.txt"
+        },
+        {
+            "name": "Simple a>b",
+            "alphanumName": "SimpleAGTB",
+            "file": "02 - Simple a greater than b.txt"
+        },
+        {
+            "name": "Zero",
+            "alphanumName": "Zero",
+            "file": "03 - Zero.txt"
+        },
+        {
+            "name": "Bigger numbers",
+            "alphanumName": "BiggerNumbers",
+            "file": "04 - Bigger numbers.txt"
+        }
+    ]
+}
