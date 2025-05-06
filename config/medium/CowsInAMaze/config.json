@@ -1,0 +1,38 @@
+{
+    "path": "medium/CowsInAMaze",
+    "name": "Cows in a Maze",
+    "alphanumName": "CowsInAMaze",
+    "link": "https://www.codingame.com/ide/puzzle/cows-in-a-maze",
+    "tests": [
+        {
+            "name": "Sample",
+            "alphanumName": "Sample",
+            "file": "01 - Sample.txt"
+        },
+        {
+            "name": "Farmer Nhoj is cruel",
+            "alphanumName": "FarmerNhojIsCruel",
+            "file": "02 - Farmer Nhoj is cruel.txt"
+        },
+        {
+            "name": "Why does Farmer John have so few cows",
+            "alphanumName": "WhyDoesFarmerJohnHaveSoFewCows",
+            "file": "03 - Why does Farmer John have so few cows.txt"
+        },
+        {
+            "name": "BIG MAZE (actually pretty small)",
+            "alphanumName": "BIGMAZEActuallyPrettySmall",
+            "file": "04 - BIG MAZE (actually pretty small).txt"
+        },
+        {
+            "name": "Yay all the cows survived",
+            "alphanumName": "YayAllTheCowsSurvived",
+            "file": "05 - Yay all the cows survived.txt"
+        },
+        {
+            "name": "How come Nhoj only knows 1 number",
+            "alphanumName": "HowComeNhojOnlyKnows1Number",
+            "file": "06 - How come Nhoj only knows 1 number.txt"
+        }
+    ]
+}
