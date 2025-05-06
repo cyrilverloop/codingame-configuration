@@ -1,8 +1,8 @@
 {
     "path": "hard/TheTotalIsRightWeirdEdition",
-    "name": "ASCII Art QR code",
+    "name": "The Total is Right - Weird edition",
     "alphanumName": "TheTotalIsRightWeirdEdition",
-    "link": "The Total is Right - Weird edition",
+    "link": "https://www.codingame.com/ide/puzzle/the-total-is-right---weird-edition",
     "tests": [
         {
             "name": "Test 1",

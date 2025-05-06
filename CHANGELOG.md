@@ -13,6 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Frog Date".
 - configuration for "Cows in a Maze".
 
+### Fixed
+- name and link of "The Total is Right - Weird edition".
+
 ## [1.14.0] - 2025-04-30
 ### Added
 - configuration for "Shape Outline".
