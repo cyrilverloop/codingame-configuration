@@ -1,0 +1,38 @@
+{
+    "path": "hard/HauntedManor",
+    "name": "Haunted Manor",
+    "alphanumName": "HauntedManor",
+    "link": "https://www.codingame.com/ide/puzzle/haunted-manor",
+    "tests": [
+        {
+            "name": "3x3 manor",
+            "alphanumName": "threeX3Manor",
+            "file": "01 - 3x3 manor.txt"
+        },
+        {
+            "name": "4x4 manor",
+            "alphanumName": "fourX4Manor",
+            "file": "02 - 4x4 manor.txt"
+        },
+        {
+            "name": "5x5 manor",
+            "alphanumName": "fiveX5Manor",
+            "file": "03 - 5x5 manor.txt"
+        },
+        {
+            "name": "7x7 manor",
+            "alphanumName": "sevenX7Manor",
+            "file": "04 - 7x7 manor.txt"
+        },
+        {
+            "name": "Another 7x7 manor",
+            "alphanumName": "Another7x7Manor",
+            "file": "05 - Another 7x7 manor.txt"
+        },
+        {
+            "name": "Not much of a manor",
+            "alphanumName": "NotMuchOfAManor",
+            "file": "06 - Not much of a manor.txt"
+        }
+    ]
+}
