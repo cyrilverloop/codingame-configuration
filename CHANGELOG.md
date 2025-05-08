@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Frog Date".
 - configuration for "Cows in a Maze".
 - configuration for "Haunted Manor".
+- configuration for "Erdős Number".
 
 ### Fixed
 - name and link of "The Total is Right - Weird edition".

@@ -1,0 +1,38 @@
+{
+    "path": "hard/ErdősNumber",
+    "name": "Erdős Number",
+    "alphanumName": "ErdősNumber",
+    "link": "https://www.codingame.com/ide/puzzle/erdos-number",
+    "tests": [
+        {
+            "name": "Albert Einstein",
+            "alphanumName": "AlbertEinstein",
+            "file": "01 - Albert Einstein.txt"
+        },
+        {
+            "name": "Isaac Newton",
+            "alphanumName": "IsaacNewton",
+            "file": "02 - Isaac Newton.txt"
+        },
+        {
+            "name": "Paul Erdős",
+            "alphanumName": "PaulErdos",
+            "file": "03 - Paul Erdős.txt"
+        },
+        {
+            "name": "Maryam Mirzakhani",
+            "alphanumName": "MaryamMirzakhani",
+            "file": "04 - Maryam Mirzakhani.txt"
+        },
+        {
+            "name": "Andrew Wiles",
+            "alphanumName": "AndrewWiles",
+            "file": "05 - Andrew Wiles.txt"
+        },
+        {
+            "name": "Alan Turing",
+            "alphanumName": "AlanTuring",
+            "file": "06 - Alan Turing.txt"
+        }
+    ]
+}
