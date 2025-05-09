@@ -1,0 +1,28 @@
+{
+    "path": "hard/SlidingMazePuzzle",
+    "name": "Sliding Maze Puzzle",
+    "alphanumName": "SlidingMazePuzzle",
+    "link": "https://www.codingame.com/ide/puzzle/sliding-maze-puzzle",
+    "tests": [
+        {
+            "name": "9 steps",
+            "alphanumName": "NineSteps",
+            "file": "01 - 9 steps.txt"
+        },
+        {
+            "name": "22 steps",
+            "alphanumName": "two2steps",
+            "file": "02 - 22 steps.txt"
+        },
+        {
+            "name": "42 steps",
+            "alphanumName": "four2Steps",
+            "file": "03 - 42 steps.txt"
+        },
+        {
+            "name": "189 steps",
+            "alphanumName": "one89Steps",
+            "file": "04 - 189 steps.txt"
+        }
+    ]
+}

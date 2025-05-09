@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Cows in a Maze".
 - configuration for "Haunted Manor".
 - configuration for "Erdős Number".
+- configuration for "Sliding Maze Puzzle".
 
 ### Fixed
 - name and link of "The Total is Right - Weird edition".
