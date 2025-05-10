@@ -1,0 +1,28 @@
+{
+    "path": "hard/TheHolyGrail",
+    "name": "The Holy Grail",
+    "alphanumName": "TheHolyGrail",
+    "link": "https://www.codingame.com/ide/puzzle/the-holy-grail",
+    "tests": [
+        {
+            "name": "Simple 3x3",
+            "alphanumName": "Simple3x3",
+            "file": "01 - Simple 3x3.txt"
+        },
+        {
+            "name": "Stairs",
+            "alphanumName": "Stairs",
+            "file": "02 - Stairs.txt"
+        },
+        {
+            "name": "One more challenging one",
+            "alphanumName": "OneMoreChallengingOne",
+            "file": "03 - One more challenging one.txt"
+        },
+        {
+            "name": "Even more complex",
+            "alphanumName": "EvenMoreComplex",
+            "file": "04 - Even more complex.txt"
+        }
+    ]
+}
