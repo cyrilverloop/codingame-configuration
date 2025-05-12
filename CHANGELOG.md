@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Sliding Maze Puzzle".
 - configuration for "The Holy Grail".
 - configuration for "MAGICAL FROG".
+- configuration for "CG Chat Interpreter".
 
 ### Fixed
 - name and link of "The Total is Right - Weird edition".

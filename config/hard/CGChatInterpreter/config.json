@@ -1,0 +1,63 @@
+{
+    "path": "hard/CGChatInterpreter",
+    "name": "CG Chat Interpreter",
+    "alphanumName": "CGChatInterpreter",
+    "link": "https://www.codingame.com/ide/puzzle/cg-chat-interpreter",
+    "tests": [
+        {
+            "name": "Syntax: Constants",
+            "alphanumName": "SyntaxConstants",
+            "file": "01 - Syntax Constants.txt"
+        },
+        {
+            "name": "Syntax: Context",
+            "alphanumName": "SyntaxContext",
+            "file": "02 - Syntax Context.txt"
+        },
+        {
+            "name": "Syntax: Addition",
+            "alphanumName": "SyntaxAddition",
+            "file": "03 - Syntax Addition.txt"
+        },
+        {
+            "name": "Syntax: Subtraction",
+            "alphanumName": "SyntaxSubtraction",
+            "file": "04 - Syntax Subtraction.txt"
+        },
+        {
+            "name": "Syntax: Multiplication",
+            "alphanumName": "SyntaxMultiplication",
+            "file": "05 - Syntax Multiplication.txt"
+        },
+        {
+            "name": "Syntax: Squares",
+            "alphanumName": "SyntaxSquares",
+            "file": "06 - Syntax Squares.txt"
+        },
+        {
+            "name": "Syntax: \"me\" and \"you\"",
+            "alphanumName": "SyntaxMeAndYou",
+            "file": "07 - Syntax me and you.txt"
+        },
+        {
+            "name": "Syntax: Nick references",
+            "alphanumName": "SyntaxNickReferences",
+            "file": "08 - Syntax Nick references.txt"
+        },
+        {
+            "name": "Syntax: pop, dup, flip",
+            "alphanumName": "SyntaxPopDupFlip",
+            "file": "09 - Syntax pop, dup, flip.txt"
+        },
+        {
+            "name": "Syntax: Nested arithmetic",
+            "alphanumName": "SyntaxNestedArithmetic",
+            "file": "10 - Syntax Nested arithmetic.txt"
+        },
+        {
+            "name": "Quiz",
+            "alphanumName": "Quiz",
+            "file": "11 - Quiz.txt"
+        }
+    ]
+}
