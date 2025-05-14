@@ -1,0 +1,53 @@
+{
+    "path": "hard/CGsNextTopModel",
+    "name": "CG’s Next Top Model",
+    "alphanumName": "CGsNextTopModel",
+    "link": "https://www.codingame.com/ide/puzzle/cgs-next-top-model",
+    "tests": [
+        {
+            "name": "Linear",
+            "alphanumName": "Linear",
+            "file": "01 - Linear.txt"
+        },
+        {
+            "name": "Parabola",
+            "alphanumName": "Parabola",
+            "file": "02 - Parabola.txt"
+        },
+        {
+            "name": "Sine",
+            "alphanumName": "Sine",
+            "file": "03 - Sine.txt"
+        },
+        {
+            "name": "Exponential",
+            "alphanumName": "Exponential",
+            "file": "04 - Exponential.txt"
+        },
+        {
+            "name": "Mystery One",
+            "alphanumName": "MysteryOne",
+            "file": "05 - Mystery One.txt"
+        },
+        {
+            "name": "Mystery Two",
+            "alphanumName": "MysteryTwo",
+            "file": "06 - Mystery Two.txt"
+        },
+        {
+            "name": "Mystery Three",
+            "alphanumName": "MysteryThree",
+            "file": "07 - Mystery Three.txt"
+        },
+        {
+            "name": "Are you using test data correctly",
+            "alphanumName": "AreYouUsingTestDataCorrectly",
+            "file": "08 - Are you using test data correctly.txt"
+        },
+        {
+            "name": "Make sure to use training and test",
+            "alphanumName": "MakeSureToUseTrainingAndTest",
+            "file": "09 - Make sure to use training and test.txt"
+        }
+    ]
+}
