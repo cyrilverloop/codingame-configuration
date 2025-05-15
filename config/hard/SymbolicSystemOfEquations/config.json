@@ -1,0 +1,38 @@
+{
+    "path": "hard/SymbolicSystemOfEquations",
+    "name": "Symbolic system of equations",
+    "alphanumName": "SymbolicSystemOfEquations",
+    "link": "https://www.codingame.com/ide/puzzle/symbolic-system-of-equations",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Circular reference, 2 variables",
+            "alphanumName": "CircularReference2Variables",
+            "file": "02 - Circular reference, 2 variables.txt"
+        },
+        {
+            "name": "Self reference",
+            "alphanumName": "SelfReference",
+            "file": "03 - Self reference.txt"
+        },
+        {
+            "name": "No equations",
+            "alphanumName": "NoEquations",
+            "file": "04 - No equations.txt"
+        },
+        {
+            "name": "Levels",
+            "alphanumName": "Levels",
+            "file": "05 - Levels.txt"
+        },
+        {
+            "name": "Levels again",
+            "alphanumName": "LevelsAgain",
+            "file": "06 - Levels again.txt"
+        }
+    ]
+}
