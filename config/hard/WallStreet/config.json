@@ -1,0 +1,38 @@
+{
+    "path": "hard/WallStreet",
+    "name": "Wall Street",
+    "alphanumName": "WallStreet",
+    "link": "https://www.codingame.com/ide/puzzle/wall-street",
+    "tests": [
+        {
+            "name": "Simple Trade",
+            "alphanumName": "SimpleTrade",
+            "file": "01 - Simple Trade.txt"
+        },
+        {
+            "name": "Two Symbols",
+            "alphanumName": "TwoSymbols",
+            "file": "02 - Two Symbols.txt"
+        },
+        {
+            "name": "No Trade",
+            "alphanumName": "NoTrade",
+            "file": "03 - No Trade.txt"
+        },
+        {
+            "name": "Multiple Trades",
+            "alphanumName": "MultipleTrades",
+            "file": "04 - Multiple Trades.txt"
+        },
+        {
+            "name": "Busy Day",
+            "alphanumName": "BusyDay",
+            "file": "05 - Busy Day.txt"
+        },
+        {
+            "name": "Crazy Day",
+            "alphanumName": "CrazyDay",
+            "file": "06 - Crazy Day.txt"
+        }
+    ]
+}
