@@ -1,0 +1,28 @@
+{
+    "path": "hard/AlternativeVote",
+    "name": "Alternative vote",
+    "alphanumName": "AlternativeVote",
+    "link": "https://www.codingame.com/ide/puzzle/alternative-vote",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "3 candidates",
+            "alphanumName": "ThreeCandidates",
+            "file": "02 - 3 candidates.txt"
+        },
+        {
+            "name": "5 candidates",
+            "alphanumName": "FiveCandidates",
+            "file": "03 - 5 candidates.txt"
+        },
+        {
+            "name": "2 candidats",
+            "alphanumName": "TwoCandidats",
+            "file": "04 - 2 candidats.txt"
+        }
+    ]
+}
