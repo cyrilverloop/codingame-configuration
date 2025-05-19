@@ -1,0 +1,38 @@
+{
+    "path": "hard/AppleTree",
+    "name": "Apple tree",
+    "alphanumName": "AppleTree",
+    "link": "https://www.codingame.com/ide/puzzle/apple-tree",
+    "tests": [
+        {
+            "name": "No collisions",
+            "alphanumName": "NoCollisions",
+            "file": "01 - No collisions.txt"
+        },
+        {
+            "name": "Single collision",
+            "alphanumName": "SingleCollision",
+            "file": "02 - Single collision.txt"
+        },
+        {
+            "name": "Multiple collisions",
+            "alphanumName": "MultipleCollisions",
+            "file": "03 - Multiple collisions.txt"
+        },
+        {
+            "name": "Cascade",
+            "alphanumName": "Cascade",
+            "file": "04 - Cascade.txt"
+        },
+        {
+            "name": "Multiple cascades",
+            "alphanumName": "MultipleCascades",
+            "file": "05 - Multiple cascades.txt"
+        },
+        {
+            "name": "Tower",
+            "alphanumName": "Tower",
+            "file": "06 - Tower.txt"
+        }
+    ]
+}

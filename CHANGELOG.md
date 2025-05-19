@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Wall Street".
 - configuration for "Alternative vote".
 - configuration for "Hanoi tower".
+- configuration for "Apple tree".
 
 ### Fixed
 - name and link of "The Total is Right - Weird edition".
