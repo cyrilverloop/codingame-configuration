@@ -1,0 +1,38 @@
+{
+    "path": "hard/Breakout",
+    "name": "Breakout",
+    "alphanumName": "Breakout",
+    "link": "https://www.codingame.com/ide/puzzle/breakout",
+    "tests": [
+        {
+            "name": "Straight out",
+            "alphanumName": "StraightOut",
+            "file": "01 - Straight out.txt"
+        },
+        {
+            "name": "One brick",
+            "alphanumName": "OneBrick",
+            "file": "02 - One brick.txt"
+        },
+        {
+            "name": "Off the walls",
+            "alphanumName": "OffTheWalls",
+            "file": "03 - Off the walls.txt"
+        },
+        {
+            "name": "Escape",
+            "alphanumName": "Escape",
+            "file": "04 - Escape.txt"
+        },
+        {
+            "name": "Off the paddle",
+            "alphanumName": "OffThePaddle",
+            "file": "05 - Off the paddle.txt"
+        },
+        {
+            "name": "Good game",
+            "alphanumName": "GoodGame",
+            "file": "06 - Good game.txt"
+        }
+    ]
+}
