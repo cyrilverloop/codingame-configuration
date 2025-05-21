@@ -1,0 +1,48 @@
+{
+    "path": "hard/MaxRect",
+    "name": "Max Rect",
+    "alphanumName": "MaxRect",
+    "link": "https://www.codingame.com/ide/puzzle/max-rect",
+    "tests": [
+        {
+            "name": "Small",
+            "alphanumName": "Small",
+            "file": "01 - Small.txt"
+        },
+        {
+            "name": "Medium",
+            "alphanumName": "Medium",
+            "file": "02 - Medium.txt"
+        },
+        {
+            "name": "Big",
+            "alphanumName": "Big",
+            "file": "03 - Big.txt"
+        },
+        {
+            "name": "Time out?",
+            "alphanumName": "TimeOut",
+            "file": "04 - Time out.txt"
+        },
+        {
+            "name": "All Negatives",
+            "alphanumName": "AllNegatives",
+            "file": "05 - All Negatives.txt"
+        },
+        {
+            "name": "1x1",
+            "alphanumName": "1x1",
+            "file": "06 - 1x1.txt"
+        },
+        {
+            "name": "One column",
+            "alphanumName": "OneColumn",
+            "file": "07 - One column.txt"
+        },
+        {
+            "name": "One row",
+            "alphanumName": "OneRow",
+            "file": "08 - One row.txt"
+        }
+    ]
+}

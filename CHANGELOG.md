@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Hanoi tower".
 - configuration for "Apple tree".
 - configuration for "Breakout".
+- configuration for "Max Rect".
 
 ### Fixed
 - name and link of "The Total is Right - Weird edition".
