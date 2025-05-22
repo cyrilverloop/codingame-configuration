@@ -1,0 +1,28 @@
+{
+    "path": "hard/ThreeLittlePiggies",
+    "name": "Three little piggies",
+    "alphanumName": "ThreeLittlePiggies",
+    "link": "https://www.codingame.com/ide/puzzle/three-little-piggies",
+    "tests": [
+        {
+            "name": "Day 1: Three pigs",
+            "alphanumName": "Day1ThreePigs",
+            "file": "01 - Day 1 Three pigs.txt"
+        },
+        {
+            "name": "Night 1: Three pigs",
+            "alphanumName": "Night1ThreePigs",
+            "file": "02 - Night 1 Three pigs.txt"
+        },
+        {
+            "name": "Day 2: Two pigs",
+            "alphanumName": "Day2TwoPigs",
+            "file": "03 - Day 2 Two pigs.txt"
+        },
+        {
+            "name": "Night 2: Two pigs",
+            "alphanumName": "Night2TwoPigs",
+            "file": "04 - Night 2 Two pigs.txt"
+        }
+    ]
+}
