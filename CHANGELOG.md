@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Breakout".
 - configuration for "Max Rect".
 - configuration for "Three little piggies".
+- configuration for "Dumbbells solver".
 
 ### Fixed
 - name and link of "The Total is Right - Weird edition".
