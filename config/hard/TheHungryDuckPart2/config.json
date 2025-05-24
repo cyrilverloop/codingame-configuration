@@ -1,0 +1,28 @@
+{
+    "path": "hard/TheHungryDuckPart2",
+    "name": "The hungry duck - part 2",
+    "alphanumName": "TheHungryDuckPart2",
+    "link": "https://www.codingame.com/ide/puzzle/the-hungry-duck---part-2",
+    "tests": [
+        {
+            "name": "city pond",
+            "alphanumName": "cityPond",
+            "file": "01 - city pond.txt"
+        },
+        {
+            "name": "Lake Constance",
+            "alphanumName": "LakeConstance",
+            "file": "02 - Lake Constance.txt"
+        },
+        {
+            "name": "Nile",
+            "alphanumName": "Nile",
+            "file": "03 - Nile.txt"
+        },
+        {
+            "name": "Atlantic Ocean",
+            "alphanumName": "AtlanticOcean",
+            "file": "04 - Atlantic Ocean.txt"
+        }
+    ]
+}
