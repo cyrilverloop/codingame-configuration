@@ -1,0 +1,78 @@
+{
+    "path": "hard/DoublySolvedRubiksCube",
+    "name": "Doubly solved Rubik’s cube",
+    "alphanumName": "DoublySolvedRubiksCube",
+    "link": "https://www.codingame.com/ide/puzzle/doubly-solved-rubiks-cube",
+    "tests": [
+        {
+            "name": "Single rotation",
+            "alphanumName": "SingleRotation",
+            "file": "01 - Single rotation.txt"
+        },
+        {
+            "name": "Middle slice",
+            "alphanumName": "MiddleSlice",
+            "file": "02 - Middle slice.txt"
+        },
+        {
+            "name": "Solved",
+            "alphanumName": "Solved",
+            "file": "03 - Solved.txt"
+        },
+        {
+            "name": "2 twists",
+            "alphanumName": "twoTwists",
+            "file": "04 - 2 twists.txt"
+        },
+        {
+            "name": "5 twists",
+            "alphanumName": "fiveTwists",
+            "file": "05 - 5 twists.txt"
+        },
+        {
+            "name": "10 twists",
+            "alphanumName": "tenTwists",
+            "file": "06 - 10 twists.txt"
+        },
+        {
+            "name": "15 twists",
+            "alphanumName": "fifteenTwists",
+            "file": "07 - 15 twists.txt"
+        },
+        {
+            "name": "20 twists",
+            "alphanumName": "twentyTwists",
+            "file": "08 - 20 twists.txt"
+        },
+        {
+            "name": "1000 twists",
+            "alphanumName": "oneThousandTwists",
+            "file": "09 - 1000 twists.txt"
+        },
+        {
+            "name": "Random state 1",
+            "alphanumName": "RandomState1",
+            "file": "10 - Random state 1.txt"
+        },
+        {
+            "name": "Random state 2",
+            "alphanumName": "RandomState2",
+            "file": "11 - Random state 2.txt"
+        },
+        {
+            "name": "Random state 3",
+            "alphanumName": "RandomState3",
+            "file": "12 - Random state 3.txt"
+        },
+        {
+            "name": "Random state 4",
+            "alphanumName": "RandomState4",
+            "file": "13 - Random state 4.txt"
+        },
+        {
+            "name": "Random state 5",
+            "alphanumName": "RandomState5",
+            "file": "14 - Random state 5.txt"
+        }
+    ]
+}

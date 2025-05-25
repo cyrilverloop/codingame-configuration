@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Three little piggies".
 - configuration for "Dumbbells solver".
 - configuration for "The hungry duck - part 2".
+- configuration for "Doubly solved Rubik’s cube".
 
 ### Fixed
 - name and link of "The Total is Right - Weird edition".
