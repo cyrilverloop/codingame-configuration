@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The hungry duck - part 2".
 - configuration for "Doubly solved Rubik’s cube".
 - configuration for "Simplify Selection Ranges".
+- configuration for "Pedestrian Traffic".
 
 ### Fixed
 - name and link of "The Total is Right - Weird edition".

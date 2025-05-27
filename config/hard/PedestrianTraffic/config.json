@@ -1,0 +1,68 @@
+{
+    "path": "hard/PedestrianTraffic",
+    "name": "Pedestrian Traffic",
+    "alphanumName": "PedestrianTraffic",
+    "link": "https://www.codingame.com/ide/puzzle/pedestrian-traffic",
+    "tests": [
+        {
+            "name": "Crossing Paths",
+            "alphanumName": "CrossingPaths",
+            "file": "01 - Crossing Paths.txt"
+        },
+        {
+            "name": "One Way Stampede",
+            "alphanumName": "OneWayStampede",
+            "file": "02 - One Way Stampede.txt"
+        },
+        {
+            "name": "Simple Dependency",
+            "alphanumName": "SimpleDependency",
+            "file": "03 - Simple Dependency.txt"
+        },
+        {
+            "name": "More Dependencies",
+            "alphanumName": "MoreDependencies",
+            "file": "04 - More Dependencies.txt"
+        },
+        {
+            "name": "Complex Dependencies",
+            "alphanumName": "ComplexDependencies",
+            "file": "05 - Complex Dependencies.txt"
+        },
+        {
+            "name": "Temporary Blockage",
+            "alphanumName": "TemporaryBlockage",
+            "file": "06 - Temporary Blockage.txt"
+        },
+        {
+            "name": "Ring Around the Rosie",
+            "alphanumName": "RingAroundTheRosie",
+            "file": "07 - Ring Around the Rosie.txt"
+        },
+        {
+            "name": "Empty Path",
+            "alphanumName": "EmptyPath",
+            "file": "08 - Empty Path.txt"
+        },
+        {
+            "name": "Group Collision",
+            "alphanumName": "GroupCollision",
+            "file": "09 - Group Collision.txt"
+        },
+        {
+            "name": "Long Path",
+            "alphanumName": "LongPath",
+            "file": "10 - Long Path.txt"
+        },
+        {
+            "name": "Longer Path",
+            "alphanumName": "LongerPath",
+            "file": "11 - Longer Path.txt"
+        },
+        {
+            "name": "Longest Path",
+            "alphanumName": "LongestPath",
+            "file": "12 - Longest Path.txt"
+        }
+    ]
+}
