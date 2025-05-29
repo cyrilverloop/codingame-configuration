@@ -34,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Simplify Selection Ranges".
 - configuration for "Pedestrian Traffic".
 - configuration for "Cloudy Weather".
+- configuration for "Monte Carlo Tree Search exercise".
 
 ### Fixed
 - name and link of "The Total is Right - Weird edition".

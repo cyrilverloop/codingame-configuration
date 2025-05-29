@@ -1,0 +1,43 @@
+{
+    "path": "hard/MonteCarloTreeSearchExercise",
+    "name": "Monte Carlo Tree Search exercise",
+    "alphanumName": "MonteCarloTreeSearchExercise",
+    "link": "https://www.codingame.com/ide/puzzle/monte-carlo-tree-search-exercise",
+    "tests": [
+        {
+            "name": "Tiny tree test",
+            "alphanumName": "TinyTreeTest",
+            "file": "01 - Tiny tree test.txt"
+        },
+        {
+            "name": "Nondeterministic scores test",
+            "alphanumName": "NondeterministicScoresTest",
+            "file": "02 - Nondeterministic scores test.txt"
+        },
+        {
+            "name": "Significant exploration test",
+            "alphanumName": "SignificantExplorationTest",
+            "file": "03 - Significant exploration test.txt"
+        },
+        {
+            "name": "UCB1-tie test",
+            "alphanumName": "UCB1TieTest",
+            "file": "04 - UCB1-tie test.txt"
+        },
+        {
+            "name": "Small random test",
+            "alphanumName": "SmallRandomTest",
+            "file": "05 - Small random test.txt"
+        },
+        {
+            "name": "Large test",
+            "alphanumName": "LargeTest",
+            "file": "06 - Large test.txt"
+        },
+        {
+            "name": "Another large test",
+            "alphanumName": "AnotherLargeTest",
+            "file": "07 - Another large test.txt"
+        }
+    ]
+}
