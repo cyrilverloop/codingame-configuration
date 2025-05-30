@@ -1,0 +1,43 @@
+{
+    "path": "hard/AGameOfGo",
+    "name": "A Game of Go",
+    "alphanumName": "AGameOfGo",
+    "link": "https://www.codingame.com/ide/puzzle/a-game-of-go",
+    "tests": [
+        {
+            "name": "Some stones on an empty field",
+            "alphanumName": "SomeStonesOnAnEmptyField",
+            "file": "01 - Some stones on an empty field.txt"
+        },
+        {
+            "name": "Stones get removed",
+            "alphanumName": "StonesGetRemoved",
+            "file": "02 - Stones get removed.txt"
+        },
+        {
+            "name": "Field not free",
+            "alphanumName": "FieldNotFree",
+            "file": "03 - Field not free.txt"
+        },
+        {
+            "name": "Suicidal move",
+            "alphanumName": "SuicidalMove",
+            "file": "04 - Suicidal move.txt"
+        },
+        {
+            "name": "Non-Suicidal move",
+            "alphanumName": "NonSuicidalMove",
+            "file": "05 - Non-Suicidal move.txt"
+        },
+        {
+            "name": "Ko rule violated",
+            "alphanumName": "KoRuleViolated",
+            "file": "06 - Ko rule violated.txt"
+        },
+        {
+            "name": "Bigger field",
+            "alphanumName": "BiggerField",
+            "file": "07 - Bigger field.txt"
+        }
+    ]
+}
