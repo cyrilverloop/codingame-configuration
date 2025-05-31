@@ -1,0 +1,28 @@
+{
+    "path": "hard/ElectricalGrid",
+    "name": "Electrical grid",
+    "alphanumName": "ElectricalGrid",
+    "link": "https://www.codingame.com/ide/puzzle/electrical-grid",
+    "tests": [
+        {
+            "name": "Triangle",
+            "alphanumName": "Triangle",
+            "file": "01 - Triangle.txt"
+        },
+        {
+            "name": "Some houses",
+            "alphanumName": "SomeHouses",
+            "file": "02 - Some houses.txt"
+        },
+        {
+            "name": "Lonely house",
+            "alphanumName": "LonelyHouse",
+            "file": "03 - Lonely house.txt"
+        },
+        {
+            "name": "Fully connectable",
+            "alphanumName": "FullyConnectable",
+            "file": "04 - Fully connectable.txt"
+        }
+    ]
+}
