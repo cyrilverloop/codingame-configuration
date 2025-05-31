@@ -11,42 +11,42 @@
         },
         {
             "name": "Small map #2",
-            "alphanumName": "SmallMap#2",
+            "alphanumName": "SmallMap2",
             "file": "02 - Small map #2.txt"
         },
         {
             "name": "Small map #3",
-            "alphanumName": "SmallMap#3",
+            "alphanumName": "SmallMap3",
             "file": "03 - Small map #3.txt"
         },
         {
             "name": "Medium map #1",
-            "alphanumName": "MediumMap#1",
+            "alphanumName": "MediumMap1",
             "file": "04 - Medium map #1.txt"
         },
         {
             "name": "Medium map #2",
-            "alphanumName": "MediumMap#2",
+            "alphanumName": "MediumMap2",
             "file": "05 - Medium map #2.txt"
         },
         {
             "name": "Large map #1",
-            "alphanumName": "LargeMap#1",
+            "alphanumName": "LargeMap1",
             "file": "06 - Large map #1.txt"
         },
         {
             "name": "Large map #2",
-            "alphanumName": "LargeMap#2",
+            "alphanumName": "LargeMap2",
             "file": "07 - Large map #2.txt"
         },
         {
             "name": "Large map #3",
-            "alphanumName": "LargeMap#3",
+            "alphanumName": "LargeMap3",
             "file": "08 - Large map #3.txt"
         },
         {
             "name": "Large map #4",
-            "alphanumName": "LargeMap#4",
+            "alphanumName": "LargeMap4",
             "file": "09 - Large map #4.txt"
         }
     ]
