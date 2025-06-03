@@ -1,0 +1,38 @@
+{
+    "path": "easy/ChineseNumbers",
+    "name": "Chinese Numbers",
+    "alphanumName": "ChineseNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/chinese-numbers",
+    "tests": [
+        {
+            "name": "Teeny",
+            "alphanumName": "Teeny",
+            "file": "01 - Teeny.txt"
+        },
+        {
+            "name": "Tiny",
+            "alphanumName": "Tiny",
+            "file": "02 - Tiny.txt"
+        },
+        {
+            "name": "Six-digit Figure",
+            "alphanumName": "SixDigitFigure",
+            "file": "03 - Six-digit Figure.txt"
+        },
+        {
+            "name": "BIG BOY",
+            "alphanumName": "BIGBOY",
+            "file": "04 - BIG BOY.txt"
+        },
+        {
+            "name": "Unorganized",
+            "alphanumName": "Unorganized",
+            "file": "05 - Unorganized.txt"
+        },
+        {
+            "name": "Phone Call?",
+            "alphanumName": "PhoneCall",
+            "file": "06 - Phone Call.txt"
+        }
+    ]
+}
