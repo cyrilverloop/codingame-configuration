@@ -1,0 +1,33 @@
+{
+    "path": "easy/WhoIsLeading",
+    "name": "Who is leading ?",
+    "alphanumName": "WhoIsLeading",
+    "link": "https://www.codingame.com/ide/puzzle/who-is-leading",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "England Argentina",
+            "alphanumName": "EnglandArgentina",
+            "file": "02 - England Argentina.txt"
+        },
+        {
+            "name": "France South Africa",
+            "alphanumName": "FranceSouthAfrica",
+            "file": "03 - France South Africa.txt"
+        },
+        {
+            "name": "New Zealand Uruguay",
+            "alphanumName": "NewZealandUruguay",
+            "file": "04 - New Zealand Uruguay.txt"
+        },
+        {
+            "name": "Perfect Tie",
+            "alphanumName": "PerfectTie",
+            "file": "05 - Perfect Tie.txt"
+        }
+    ]
+}
