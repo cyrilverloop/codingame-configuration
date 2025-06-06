@@ -1,0 +1,88 @@
+{
+    "path": "hard/ShapeRecognition",
+    "name": "Shape Recognition",
+    "alphanumName": "ShapeRecognition",
+    "link": "https://www.codingame.com/ide/puzzle/shape-recognition",
+    "tests": [
+        {
+            "name": "Triangle",
+            "alphanumName": "Triangle",
+            "file": "01 - Triangle.txt"
+        },
+        {
+            "name": "Circle",
+            "alphanumName": "Circle",
+            "file": "02 - Circle.txt"
+        },
+        {
+            "name": "Square",
+            "alphanumName": "Square",
+            "file": "03 - Square.txt"
+        },
+        {
+            "name": "10% Accuracy",
+            "alphanumName": "tenAccuracy",
+            "file": "04 - 10% Accuracy.txt"
+        },
+        {
+            "name": "20% Accuracy",
+            "alphanumName": "twentyAccuracy",
+            "file": "05 - 20% Accuracy.txt"
+        },
+        {
+            "name": "30% Accuracy",
+            "alphanumName": "thirtyAccuracy",
+            "file": "06 - 30% Accuracy.txt"
+        },
+        {
+            "name": "40% Accuracy",
+            "alphanumName": "fortyAccuracy",
+            "file": "07 - 40% Accuracy.txt"
+        },
+        {
+            "name": "50% Accuracy",
+            "alphanumName": "fiftyAccuracy",
+            "file": "08 - 50% Accuracy.txt"
+        },
+        {
+            "name": "60% Accuracy",
+            "alphanumName": "sixtyAccuracy",
+            "file": "09 - 60% Accuracy.txt"
+        },
+        {
+            "name": "70% Accuracy",
+            "alphanumName": "seventyAccuracy",
+            "file": "10 - 70% Accuracy.txt"
+        },
+        {
+            "name": "80% Accuracy",
+            "alphanumName": "eightyAccuracy",
+            "file": "11 - 80% Accuracy.txt"
+        },
+        {
+            "name": "90% Accuracy",
+            "alphanumName": "ninetyAccuracy",
+            "file": "12 - 90% Accuracy.txt"
+        },
+        {
+            "name": "100% Accuracy",
+            "alphanumName": "aHundredAccuracy",
+            "file": "13 - 100% Accuracy.txt"
+        },
+        {
+            "name": "One more just for fun!",
+            "alphanumName": "OneMoreJustForFun",
+            "file": "14 - One more just for fun!.txt"
+        },
+        {
+            "name": "You’re a DATA SCIENTIST!",
+            "alphanumName": "YoureADATASCIENTIST",
+            "file": "15 - You’re a DATA SCIENTIST!.txt"
+        },
+        {
+            "name": "Final one I promise!",
+            "alphanumName": "FinalOneIPromise",
+            "file": "16 - Final one I promise!.txt"
+        }
+    ]
+}
