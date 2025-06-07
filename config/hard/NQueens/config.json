@@ -1,0 +1,28 @@
+{
+    "path": "hard/NQueens",
+    "name": "n Queens",
+    "alphanumName": "NQueens²",
+    "link": "https://www.codingame.com/ide/puzzle/n-queens",
+    "tests": [
+        {
+            "name": "Simple and possible",
+            "alphanumName": "SimpleAndPossible",
+            "file": "01 - Simple and possible.txt"
+        },
+        {
+            "name": "Simple and impossible",
+            "alphanumName": "SimpleAndImpossible",
+            "file": "02 - Simple and impossible.txt"
+        },
+        {
+            "name": "Classic chess",
+            "alphanumName": "ClassicChess",
+            "file": "03 - Classic chess.txt"
+        },
+        {
+            "name": "Bigger",
+            "alphanumName": "Bigger",
+            "file": "04 - Bigger.txt"
+        }
+    ]
+}
