@@ -1,0 +1,53 @@
+{
+    "path": "hard/HornSATSolver",
+    "name": "Horn-SAT solver",
+    "alphanumName": "HornSATSolver",
+    "link": "https://www.codingame.com/ide/puzzle/horn-sat-solver",
+    "tests": [
+        {
+            "name": "short sat",
+            "alphanumName": "shortSat",
+            "file": "01 - short sat.txt"
+        },
+        {
+            "name": "short unsat",
+            "alphanumName": "shortUnsat",
+            "file": "02 - short unsat.txt"
+        },
+        {
+            "name": "empty clause",
+            "alphanumName": "emptyClause",
+            "file": "03 - empty clause.txt"
+        },
+        {
+            "name": "medium sat",
+            "alphanumName": "mediumSat",
+            "file": "04 - medium sat.txt"
+        },
+        {
+            "name": "medium unsat",
+            "alphanumName": "mediumUnsat",
+            "file": "05 - medium unsat.txt"
+        },
+        {
+            "name": "huge sat",
+            "alphanumName": "hugeSat",
+            "file": "06 - huge sat.txt"
+        },
+        {
+            "name": "huge unsat",
+            "alphanumName": "hugeUnsat",
+            "file": "07 - huge unsat.txt"
+        },
+        {
+            "name": "only one non-unit clause",
+            "alphanumName": "onlyOneNonUnitClause",
+            "file": "08 - only one non-unit clause.txt"
+        },
+        {
+            "name": "negative literals only",
+            "alphanumName": "negativeLiteralsOnly",
+            "file": "09 - negative literals only.txt"
+        }
+    ]
+}
