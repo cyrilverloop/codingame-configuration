@@ -1,0 +1,33 @@
+{
+    "path": "hard/Tetris",
+    "name": "Tetris",
+    "alphanumName": "Tetris",
+    "link": "https://www.codingame.com/ide/puzzle/tetris",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Not on the bottom",
+            "alphanumName": "NotOnTheBottom",
+            "file": "02 - Not on the bottom.txt"
+        },
+        {
+            "name": "That sucks",
+            "alphanumName": "ThatSucks",
+            "file": "03 - That sucks.txt"
+        },
+        {
+            "name": "Better",
+            "alphanumName": "Better",
+            "file": "04 - Better.txt"
+        },
+        {
+            "name": "The Holy Grail",
+            "alphanumName": "TheHolyGrail",
+            "file": "05 - The Holy Grail.txt"
+        }
+    ]
+}
