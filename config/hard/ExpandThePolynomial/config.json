@@ -1,0 +1,43 @@
+{
+    "path": "hard/ExpandThePolynomial",
+    "name": "Expand the polynomial",
+    "alphanumName": "ExpandThePolynomial",
+    "link": "https://www.codingame.com/ide/puzzle/expand-the-polynomial",
+    "tests": [
+        {
+            "name": "Simple product",
+            "alphanumName": "SimpleProduct",
+            "file": "01 - Simple product.txt"
+        },
+        {
+            "name": "Square",
+            "alphanumName": "Square",
+            "file": "02 - Square.txt"
+        },
+        {
+            "name": "With ax",
+            "alphanumName": "WithAx",
+            "file": "03 - With ax.txt"
+        },
+        {
+            "name": "Null coef",
+            "alphanumName": "NullCoef",
+            "file": "04 - Null coef.txt"
+        },
+        {
+            "name": "Bigger degree",
+            "alphanumName": "BiggerDegree",
+            "file": "05 - Bigger degree.txt"
+        },
+        {
+            "name": "Cyclotomic polynomial",
+            "alphanumName": "CyclotomicPolynomial",
+            "file": "06 - Cyclotomic polynomial.txt"
+        },
+        {
+            "name": "Monomial with no integer",
+            "alphanumName": "MonomialWithNoInteger",
+            "file": "07 - Monomial with no integer.txt"
+        }
+    ]
+}
