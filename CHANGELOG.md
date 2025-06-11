@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Horn-SAT solver".
 - configuration for "Tetris".
 - configuration for "Expand the polynomial".
+- configuration for "Chess moves on FEN position".
 
 ## [1.15.0] - 2025-05-31
 ### Added

@@ -1,0 +1,33 @@
+{
+    "path": "hard/ChessMovesOnFENPosition",
+    "name": "Chess moves on FEN position",
+    "alphanumName": "ChessMovesOnFENPosition",
+    "link": "https://www.codingame.com/ide/puzzle/chess-moves-on-fen-position",
+    "tests": [
+        {
+            "name": "Starting position 1 move",
+            "alphanumName": "StartingPosition1Move",
+            "file": "01 - Starting position 1 move.txt"
+        },
+        {
+            "name": "Starting position several moves",
+            "alphanumName": "StartingPositionSeveralMoves",
+            "file": "02 - Starting position several moves.txt"
+        },
+        {
+            "name": "Castling",
+            "alphanumName": "Castling",
+            "file": "03 - Castling.txt"
+        },
+        {
+            "name": "En passant",
+            "alphanumName": "EnPassant",
+            "file": "04 - En passant.txt"
+        },
+        {
+            "name": "Pawn promotion",
+            "alphanumName": "PawnPromotion",
+            "file": "05 - Pawn promotion.txt"
+        }
+    ]
+}
