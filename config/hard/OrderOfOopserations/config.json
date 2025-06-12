@@ -1,0 +1,43 @@
+{
+    "path": "hard/OrderOfOopserations",
+    "name": "Order of Oopserations!",
+    "alphanumName": "OrderOfOopserations",
+    "link": "https://www.codingame.com/ide/puzzle/order-of-oopserations",
+    "tests": [
+        {
+            "name": "A simple test",
+            "alphanumName": "ASimpleTest",
+            "file": "01 - A simple test.txt"
+        },
+        {
+            "name": "Order Matters",
+            "alphanumName": "OrderMatters",
+            "file": "02 - Order Matters.txt"
+        },
+        {
+            "name": "Negatives",
+            "alphanumName": "Negatives",
+            "file": "03 - Negatives.txt"
+        },
+        {
+            "name": "The answer to everything",
+            "alphanumName": "TheAnswerToEverything",
+            "file": "04 - The answer to everything.txt"
+        },
+        {
+            "name": "A long test",
+            "alphanumName": "ALongTest",
+            "file": "05 - A long test.txt"
+        },
+        {
+            "name": "Up and down",
+            "alphanumName": "UpAndDown",
+            "file": "06 - Up and down.txt"
+        },
+        {
+            "name": "First is last",
+            "alphanumName": "FirstIsLast",
+            "file": "07 - First is last.txt"
+        }
+    ]
+}
