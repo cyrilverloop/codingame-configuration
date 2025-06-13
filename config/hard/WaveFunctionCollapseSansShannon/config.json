@@ -1,0 +1,48 @@
+{
+    "path": "hard/WaveFunctionCollapseSansShannon",
+    "name": "Wave Function Collapse (sans Shannon)",
+    "alphanumName": "WaveFunctionCollapseSansShannon",
+    "link": "https://www.codingame.com/ide/puzzle/wave-function-collapse-sans-shannon",
+    "tests": [
+        {
+            "name": "First Example - Restore it",
+            "alphanumName": "FirstExampleRestoreIt",
+            "file": "01 - First Example - Restore it.txt"
+        },
+        {
+            "name": "Second Example - Grow it",
+            "alphanumName": "SecondExampleGrowIt",
+            "file": "02 - Second Example - Grow it.txt"
+        },
+        {
+            "name": "Body Swap",
+            "alphanumName": "BodySwap",
+            "file": "03 - Body Swap.txt"
+        },
+        {
+            "name": "Widen The Picture",
+            "alphanumName": "WidenThePicture",
+            "file": "04 - Widen The Picture.txt"
+        },
+        {
+            "name": "Grill",
+            "alphanumName": "Grill",
+            "file": "05 - Grill.txt"
+        },
+        {
+            "name": "Resize",
+            "alphanumName": "Resize",
+            "file": "06 - Resize.txt"
+        },
+        {
+            "name": "Bob Was Here",
+            "alphanumName": "BobWasHere",
+            "file": "07 - Bob Was Here.txt"
+        },
+        {
+            "name": "aMAZEing",
+            "alphanumName": "aMAZEing",
+            "file": "08 - aMAZEing.txt"
+        }
+    ]
+}
