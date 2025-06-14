@@ -1,0 +1,88 @@
+{
+    "path": "hard/GridClimbing",
+    "name": "Grid climbing",
+    "alphanumName": "GridClimbing",
+    "link": "https://www.codingame.com/ide/puzzle/grid-climbing",
+    "tests": [
+        {
+            "name": "1. N = 3 (Example)",
+            "alphanumName": "N3Example",
+            "file": "01 - N = 3 (Example).txt"
+        },
+        {
+            "name": "2. N = 4 (Special)",
+            "alphanumName": "N4Special",
+            "file": "02 - N = 4 (Special).txt"
+        },
+        {
+            "name": "3. N = 5 (Special)",
+            "alphanumName": "N5Special",
+            "file": "03 - N = 5 (Special).txt"
+        },
+        {
+            "name": "4. N = 5 (Special bis)",
+            "alphanumName": "N5SpecialBis",
+            "file": "04 - N = 5 (Special bis).txt"
+        },
+        {
+            "name": "5. You actually can go back",
+            "alphanumName": "YouActuallyCanGoBack",
+            "file": "05 - You actually can go back.txt"
+        },
+        {
+            "name": "6. N = 6",
+            "alphanumName": "N6",
+            "file": "06 - N = 6.txt"
+        },
+        {
+            "name": "7. N = 7",
+            "alphanumName": "N7",
+            "file": "07 - N = 7.txt"
+        },
+        {
+            "name": "8. N = 8",
+            "alphanumName": "N8",
+            "file": "08 - N = 8.txt"
+        },
+        {
+            "name": "9. N = 9",
+            "alphanumName": "N9",
+            "file": "09 - N = 9.txt"
+        },
+        {
+            "name": "10. N = 10",
+            "alphanumName": "N10",
+            "file": "10 - N = 10.txt"
+        },
+        {
+            "name": "11. N = 15",
+            "alphanumName": "N15",
+            "file": "11 - N = 15.txt"
+        },
+        {
+            "name": "12. N = 20, no obstacles",
+            "alphanumName": "N20NoObstacles",
+            "file": "12 - N = 20, no obstacles.txt"
+        },
+        {
+            "name": "13. N = 20, obstacles",
+            "alphanumName": "N20Obstacles",
+            "file": "13 - N = 20, obstacles.txt"
+        },
+        {
+            "name": "14. N = 30",
+            "alphanumName": "N30",
+            "file": "14 - N = 30.txt"
+        },
+        {
+            "name": "15. N = 40",
+            "alphanumName": "N40",
+            "file": "15 - N = 40.txt"
+        },
+        {
+            "name": "15. N = 40, the biggest jump",
+            "alphanumName": "N40TheBiggestJump",
+            "file": "16 - N = 40, the biggest jump.txt"
+        }
+    ]
+}
