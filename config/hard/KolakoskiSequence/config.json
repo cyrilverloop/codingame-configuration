@@ -1,0 +1,28 @@
+{
+    "path": "hard/KolakoskiSequence",
+    "name": "Kolakoski Sequence",
+    "alphanumName": "KolakoskiSequence",
+    "link": "https://www.codingame.com/ide/puzzle/kolakoski-sequence",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "More symbols",
+            "alphanumName": "MoreSymbols",
+            "file": "02 - More symbols.txt"
+        },
+        {
+            "name": "Small sequence",
+            "alphanumName": "SmallSequence",
+            "file": "03 - Small sequence.txt"
+        },
+        {
+            "name": "Big test",
+            "alphanumName": "BigTest",
+            "file": "04 - Big test.txt"
+        }
+    ]
+}
