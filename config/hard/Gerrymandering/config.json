@@ -1,0 +1,33 @@
+{
+    "path": "hard/Gerrymandering",
+    "name": "Gerrymandering",
+    "alphanumName": "Gerrymandering",
+    "link": "https://www.codingame.com/ide/puzzle/gerrymandering",
+    "tests": [
+        {
+            "name": "Small county",
+            "alphanumName": "SmallCounty",
+            "file": "01 - Small county.txt"
+        },
+        {
+            "name": "Chile",
+            "alphanumName": "Chile",
+            "file": "02 - Chile.txt"
+        },
+        {
+            "name": "Medium",
+            "alphanumName": "Medium",
+            "file": "03 - Medium.txt"
+        },
+        {
+            "name": "Large 1",
+            "alphanumName": "Large1",
+            "file": "04 - Large 1.txt"
+        },
+        {
+            "name": "Large 2",
+            "alphanumName": "Large2",
+            "file": "05 - Large 2.txt"
+        }
+    ]
+}
