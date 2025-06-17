@@ -1,0 +1,33 @@
+{
+    "path": "hard/HillNotationAndHillOrder",
+    "name": "Hill Notation and Hill Order",
+    "alphanumName": "HillNotationAndHillOrder",
+    "link": "https://www.codingame.com/ide/puzzle/hill-notation-and-hill-order",
+    "tests": [
+        {
+            "name": "Simple Sort",
+            "alphanumName": "SimpleSort",
+            "file": "01 - Simple Sort.txt"
+        },
+        {
+            "name": "Quantity Sort",
+            "alphanumName": "QuantitySort",
+            "file": "02 - Quantity Sort.txt"
+        },
+        {
+            "name": "Duplicates",
+            "alphanumName": "Duplicates",
+            "file": "03 - Duplicates.txt"
+        },
+        {
+            "name": "Bigger Sort",
+            "alphanumName": "BiggerSort",
+            "file": "04 - Bigger Sort.txt"
+        },
+        {
+            "name": "Parenthesis",
+            "alphanumName": "Parenthesis",
+            "file": "05 - Parenthesis.txt"
+        }
+    ]
+}
