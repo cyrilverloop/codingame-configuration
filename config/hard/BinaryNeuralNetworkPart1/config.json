@@ -1,0 +1,58 @@
+{
+    "path": "hard/BinaryNeuralNetworkPart1",
+    "name": "Binary neural network - Part 1",
+    "alphanumName": "BinaryNeuralNetworkPart1",
+    "link": "https://www.codingame.com/ide/puzzle/binary-neural-network---part-1",
+    "tests": [
+        {
+            "name": "Copycat",
+            "alphanumName": "Copycat",
+            "file": "01 - Copycat.txt"
+        },
+        {
+            "name": "Opposite",
+            "alphanumName": "Opposite",
+            "file": "02 - Opposite.txt"
+        },
+        {
+            "name": "Or",
+            "alphanumName": "Or",
+            "file": "03 - Or.txt"
+        },
+        {
+            "name": "And",
+            "alphanumName": "And",
+            "file": "04 - And.txt"
+        },
+        {
+            "name": "Reverse bits",
+            "alphanumName": "ReverseBits",
+            "file": "05 - Reverse bits.txt"
+        },
+        {
+            "name": "Is odd",
+            "alphanumName": "IsOdd",
+            "file": "06 - Is odd.txt"
+        },
+        {
+            "name": "One hidden layer",
+            "alphanumName": "OneHiddenLayer",
+            "file": "07 - One hidden layer.txt"
+        },
+        {
+            "name": "Xor",
+            "alphanumName": "Xor",
+            "file": "08 - Xor.txt"
+        },
+        {
+            "name": "Average",
+            "alphanumName": "Average",
+            "file": "09 - Average.txt"
+        },
+        {
+            "name": "Two hidden layers",
+            "alphanumName": "TwoHiddenLayers",
+            "file": "10 - Two hidden layers.txt"
+        }
+    ]
+}
