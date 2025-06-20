@@ -1,0 +1,33 @@
+{
+    "path": "hard/SpreadsheetLabels",
+    "name": "Spreadsheet Labels",
+    "alphanumName": "SpreadsheetLabels",
+    "link": "https://www.codingame.com/ide/puzzle/spreadsheet-labels",
+    "tests": [
+        {
+            "name": "Small Numbers",
+            "alphanumName": "SmallNumbers",
+            "file": "01 - Small Numbers.txt"
+        },
+        {
+            "name": "Small Letters",
+            "alphanumName": "SmallLetters",
+            "file": "02 - Small Letters.txt"
+        },
+        {
+            "name": "Three and Four Digits",
+            "alphanumName": "ThreeAndFourDigits",
+            "file": "03 - Three and Four Digits.txt"
+        },
+        {
+            "name": "Medium Numbers and Letters",
+            "alphanumName": "MediumNumbersAndLetters",
+            "file": "04 - Medium Numbers and Letters.txt"
+        },
+        {
+            "name": "Big Numbers and Letters",
+            "alphanumName": "BigNumbersAndLetters",
+            "file": "05 - Big Numbers and Letters.txt"
+        }
+    ]
+}
