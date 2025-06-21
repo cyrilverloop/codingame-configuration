@@ -1,0 +1,43 @@
+{
+    "path": "hard/HitTheRoad",
+    "name": "Hit the road",
+    "alphanumName": "HitTheRoad",
+    "link": "https://www.codingame.com/ide/puzzle/hit-the-road",
+    "tests": [
+        {
+            "name": "Example 1",
+            "alphanumName": "Example1",
+            "file": "01 - Example 1.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "Example2",
+            "file": "02 - Example 2.txt"
+        },
+        {
+            "name": "Half turn",
+            "alphanumName": "HalfTurn",
+            "file": "03 - Half turn.txt"
+        },
+        {
+            "name": "No time windows everywhere",
+            "alphanumName": "NoTimeWindowsEverywhere",
+            "file": "04 - No time windows everywhere.txt"
+        },
+        {
+            "name": "Unreachable",
+            "alphanumName": "Unreachable",
+            "file": "05 - Unreachable.txt"
+        },
+        {
+            "name": "Example 3",
+            "alphanumName": "Example3",
+            "file": "06 - Example 3.txt"
+        },
+        {
+            "name": "Example 4",
+            "alphanumName": "Example4",
+            "file": "07 - Example 4.txt"
+        }
+    ]
+}
