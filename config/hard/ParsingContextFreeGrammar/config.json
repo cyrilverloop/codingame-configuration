@@ -1,0 +1,38 @@
+{
+    "path": "hard/ParsingContextFreeGrammar",
+    "name": "Parsing context-free grammar",
+    "alphanumName": "ParsingContextFreeGrammar",
+    "link": "https://www.codingame.com/ide/puzzle/parsing-context-free-grammar",
+    "tests": [
+        {
+            "name": "Well-formed brackets",
+            "alphanumName": "WellFormedBrackets",
+            "file": "01 - Well-formed brackets.txt"
+        },
+        {
+            "name": "Well-formed brackets - ambiguous",
+            "alphanumName": "WellFormedBracketsAmbiguous",
+            "file": "02 - Well-formed brackets - ambiguous.txt"
+        },
+        {
+            "name": "Small grammar, many short tests",
+            "alphanumName": "SmallGrammarManyShortTests",
+            "file": "03 - Small grammar, many short tests.txt"
+        },
+        {
+            "name": "Large grammar, many medium tests",
+            "alphanumName": "LargeGrammarManyMediumTests",
+            "file": "04 - Large grammar, many medium tests.txt"
+        },
+        {
+            "name": "Large grammar, medium number of large tests",
+            "alphanumName": "LargeGrammarMediumNumberOfLargeTests",
+            "file": "05 - Large grammar, medium number of large tests.txt"
+        },
+        {
+            "name": "Large grammar, small number of very large tests",
+            "alphanumName": "LargeGrammarSmallNumberOfVeryLargeTests",
+            "file": "06 - Large grammar, small number of very large tests.txt"
+        }
+    ]
+}

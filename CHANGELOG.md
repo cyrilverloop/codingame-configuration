@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Spreadsheet Labels".
 - configuration for "Hit the road".
 - configuration for "Sum of odd".
+- configuration for "Parsing context-free grammar".
 
 ## [1.15.0] - 2025-05-31
 ### Added
