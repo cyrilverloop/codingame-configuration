@@ -1,0 +1,78 @@
+{
+    "path": "hard/CheatSolving",
+    "name": "Cheat Solving",
+    "alphanumName": "CheatSolving",
+    "link": "https://www.codingame.com/ide/puzzle/cheat-solving",
+    "tests": [
+        {
+            "name": "L2 D R′ D′ F′ D′ R D′ R2 F2",
+            "alphanumName": "L2DRDFDRDR2F2",
+            "file": "01 - L2 D R′ D′ F′ D′ R D′ R2 F2.txt"
+        },
+        {
+            "name": "UF flip, URF twist on y2",
+            "alphanumName": "UFFlipURFTwistOny2",
+            "file": "02 - UF flip, URF twist on y2.txt"
+        },
+        {
+            "name": "Edge case 1",
+            "alphanumName": "EdgeCase1",
+            "file": "03 - Edge case 1.txt"
+        },
+        {
+            "name": "Edge case 2",
+            "alphanumName": "EdgeCase2",
+            "file": "04 - Edge case 2.txt"
+        },
+        {
+            "name": "Corner case 1",
+            "alphanumName": "CornerCase1",
+            "file": "05 - Corner case 1.txt"
+        },
+        {
+            "name": "Corner case 2",
+            "alphanumName": "CornerCase2",
+            "file": "06 - Corner case 2.txt"
+        },
+        {
+            "name": "Corner case 3",
+            "alphanumName": "CornerCase3",
+            "file": "07 - Corner case 3.txt"
+        },
+        {
+            "name": "F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2",
+            "alphanumName": "FU2R2U2UL2U2B2R2U2BLBF2LRF2DF2",
+            "file": "08 - F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2.txt"
+        },
+        {
+            "name": "Edge case 1 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2",
+            "alphanumName": "EdgeCase1OnFU2R2UB2UL2U2B2R2U2BLBF2LRF2DF2",
+            "file": "09 - Edge case 1 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2.txt"
+        },
+        {
+            "name": "Edge case 2 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2",
+            "alphanumName": "EdgeCase2OnFU2R2UB2UL2U2B2R2U2BLBF2LRF2DF2",
+            "file": "10 - Edge case 2 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2.txt"
+        },
+        {
+            "name": "Corner case 1 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2",
+            "alphanumName": "CornerCase1OnFU2R2UB2UL2U2B2R2U2BLBF2LRF2DF2",
+            "file": "11 - Corner case 1 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2.txt"
+        },
+        {
+            "name": "Corner case 2 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2",
+            "alphanumName": "CornerCase2OnFU2R2UB2UL2U2B2R2U2BLBF2LRF2DF2",
+            "file": "12 - Corner case 2 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2.txt"
+        },
+        {
+            "name": "Corner case 3 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2",
+            "alphanumName": "CornerCase3OnFU2R2UB2UL2U2B2R2U2BLBF2LRF2DF2",
+            "file": "13 - Corner case 3 on F U2 R2 U′ B2 U′ L2 U2 B2 R2 U2 B′ L B F2 L R F2 D′ F2.txt"
+        },
+        {
+            "name": "Sticker Salad",
+            "alphanumName": "StickerSalad",
+            "file": "14 - Sticker Salad.txt"
+        }
+    ]
+}
