@@ -1,0 +1,53 @@
+{
+    "path": "hard/DivisibilityOfFibonacciNumbersSum",
+    "name": "Divisibility of Fibonacci numbers sum",
+    "alphanumName": "DivisibilityOfFibonacciNumbersSum",
+    "link": "https://www.codingame.com/ide/puzzle/divisibility-of-fibonacci-numbers-sum",
+    "tests": [
+        {
+            "name": "First example",
+            "alphanumName": "FirstExample",
+            "file": "01 - First example.txt"
+        },
+        {
+            "name": "Other example",
+            "alphanumName": "OtherExample",
+            "file": "02 - Other example.txt"
+        },
+        {
+            "name": "Big numbers",
+            "alphanumName": "BigNumbers",
+            "file": "03 - Big numbers.txt"
+        },
+        {
+            "name": "Even big numbers",
+            "alphanumName": "EvenBigNumbers",
+            "file": "04 - Even big numbers.txt"
+        },
+        {
+            "name": "Larger indices",
+            "alphanumName": "LargerIndices",
+            "file": "05 - Larger indices.txt"
+        },
+        {
+            "name": "Even larger indices",
+            "alphanumName": "EvenLargerIndices",
+            "file": "06 - Even larger indices.txt"
+        },
+        {
+            "name": "Become really big",
+            "alphanumName": "BecomeReallyBig",
+            "file": "07 - Become really big.txt"
+        },
+        {
+            "name": "Really huge",
+            "alphanumName": "ReallyHuge",
+            "file": "08 - Really huge.txt"
+        },
+        {
+            "name": "Other really huge",
+            "alphanumName": "OtherReallyHuge",
+            "file": "09 - Other really huge.txt"
+        }
+    ]
+}
