@@ -1,0 +1,48 @@
+{
+    "path": "hard/ToSkysEdge",
+    "name": "To Sky’s Edge",
+    "alphanumName": "ToSkysEdge",
+    "link": "https://www.codingame.com/ide/puzzle/to-skys-edge",
+    "tests": [
+        {
+            "name": "Simple expedition",
+            "alphanumName": "SimpleExpedition",
+            "file": "01 - Simple expedition.txt"
+        },
+        {
+            "name": "Great capacity",
+            "alphanumName": "GreatCapacity",
+            "file": "02 - Great capacity.txt"
+        },
+        {
+            "name": "Tight capacity",
+            "alphanumName": "TightCapacity",
+            "file": "03 - Tight capacity.txt"
+        },
+        {
+            "name": "Baby boom",
+            "alphanumName": "BabyBoom",
+            "file": "04 - Baby boom.txt"
+        },
+        {
+            "name": "Large span",
+            "alphanumName": "LargeSpan",
+            "file": "05 - Large span.txt"
+        },
+        {
+            "name": "All ages",
+            "alphanumName": "AllAges",
+            "file": "06 - All ages.txt"
+        },
+        {
+            "name": "A long voyage",
+            "alphanumName": "ALongVoyage",
+            "file": "07 - A long voyage.txt"
+        },
+        {
+            "name": "Let’s go to Mars instead",
+            "alphanumName": "LetsGoToMarsInstead",
+            "file": "08 - Let’s go to Mars instead.txt"
+        }
+    ]
+}
