@@ -1,0 +1,28 @@
+{
+    "path": "hard/TheHungryDuckPart1",
+    "name": "The hungry duck - part 1",
+    "alphanumName": "TheHungryDuckPart1",
+    "link": "https://www.codingame.com/ide/puzzle/the-hungry-duck---part-1",
+    "tests": [
+        {
+            "name": "Example lake",
+            "alphanumName": "ExampleLake",
+            "file": "01 - Example lake.txt"
+        },
+        {
+            "name": "Nice little lake in a forest",
+            "alphanumName": "NiceLittleLakeInAForest",
+            "file": "02 - Nice little lake in a forest.txt"
+        },
+        {
+            "name": "Town Creek",
+            "alphanumName": "TownCreek",
+            "file": "03 - Town Creek.txt"
+        },
+        {
+            "name": "Lac Daumesnil",
+            "alphanumName": "LacDaumesnil",
+            "file": "04 - Lac Daumesnil.txt"
+        }
+    ]
+}
