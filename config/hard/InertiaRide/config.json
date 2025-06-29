@@ -1,0 +1,48 @@
+{
+    "path": "hard/InertiaRide",
+    "name": "Inertia ride",
+    "alphanumName": "InertiaRide",
+    "link": "https://www.codingame.com/ide/puzzle/inertia-ride",
+    "tests": [
+        {
+            "name": "Basic roller coaster",
+            "alphanumName": "BasicRollerCoaster",
+            "file": "01 - Basic roller coaster.txt"
+        },
+        {
+            "name": "Not enough inertia",
+            "alphanumName": "NotEnoughInertia",
+            "file": "02 - Not enough inertia.txt"
+        },
+        {
+            "name": "Failed start",
+            "alphanumName": "FailedStart",
+            "file": "03 - Failed start.txt"
+        },
+        {
+            "name": "Back to the start",
+            "alphanumName": "BackToTheStart",
+            "file": "04 - Back to the start.txt"
+        },
+        {
+            "name": "Ups and downs",
+            "alphanumName": "UpsAndDowns",
+            "file": "05 - Ups and downs.txt"
+        },
+        {
+            "name": "Good roller coaster",
+            "alphanumName": "GoodRollerCoaster",
+            "file": "06 - Good roller coaster.txt"
+        },
+        {
+            "name": "Unstable balance",
+            "alphanumName": "UnstableBalance",
+            "file": "07 - Unstable balance.txt"
+        },
+        {
+            "name": "Huge roller coaster",
+            "alphanumName": "HugeRollerCoaster",
+            "file": "08 - Huge roller coaster.txt"
+        }
+    ]
+}
