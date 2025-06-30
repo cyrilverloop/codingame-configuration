@@ -1,0 +1,48 @@
+{
+    "path": "hard/AManWithAPlan",
+    "name": "A Man with a Plan",
+    "alphanumName": "AManWithAPlan",
+    "link": "https://www.codingame.com/ide/puzzle/a-man-with-a-plan",
+    "tests": [
+        {
+            "name": "Run to the Hills",
+            "alphanumName": "RunToTheHills",
+            "file": "01 - Run to the Hills.txt"
+        },
+        {
+            "name": "Hall of the Mountain King",
+            "alphanumName": "HallOfTheMountainKing",
+            "file": "02 - Hall of the Mountain King.txt"
+        },
+        {
+            "name": "The River",
+            "alphanumName": "TheRiver",
+            "file": "03 - The River.txt"
+        },
+        {
+            "name": "Rise of the Chaos Wizards",
+            "alphanumName": "RiseOfTheChaosWizards",
+            "file": "04 - Rise of the Chaos Wizards.txt"
+        },
+        {
+            "name": "Iron Man",
+            "alphanumName": "IronMan",
+            "file": "05 - Iron Man.txt"
+        },
+        {
+            "name": "To Hell and Back",
+            "alphanumName": "ToHellAndBack",
+            "file": "06 - To Hell and Back.txt"
+        },
+        {
+            "name": "Thunderhorse",
+            "alphanumName": "Thunderhorse",
+            "file": "07 - Thunderhorse.txt"
+        },
+        {
+            "name": "Carry On",
+            "alphanumName": "CarryOn",
+            "file": "08 - Carry On.txt"
+        }
+    ]
+}
