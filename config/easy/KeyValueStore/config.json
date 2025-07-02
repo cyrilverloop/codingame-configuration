@@ -1,0 +1,38 @@
+{
+    "path": "easy/KeyValueStore",
+    "name": "key-value store",
+    "alphanumName": "KeyValueStore",
+    "link": "https://www.codingame.com/ide/puzzle/key-value-store",
+    "tests": [
+        {
+            "name": "OS INFO",
+            "alphanumName": "OSINFO",
+            "file": "01 - OS INFO.txt"
+        },
+        {
+            "name": "ABCD",
+            "alphanumName": "ABCD",
+            "file": "02 - ABCD.txt"
+        },
+        {
+            "name": "SET / UPDATE",
+            "alphanumName": "SETUPDATE",
+            "file": "03 - SET UPDATE.txt"
+        },
+        {
+            "name": "codin-game",
+            "alphanumName": "codinGame",
+            "file": "04 - codin-game.txt"
+        },
+        {
+            "name": "NULL",
+            "alphanumName": "NULL",
+            "file": "05 - NULL.txt"
+        },
+        {
+            "name": "All",
+            "alphanumName": "All",
+            "file": "06 - All.txt"
+        }
+    ]
+}

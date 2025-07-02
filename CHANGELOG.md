@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - configuration for "Button Mash".
+- configuration for "key-value store".
 
 ## [1.16.0] - 2025-06-30
 ### Added
