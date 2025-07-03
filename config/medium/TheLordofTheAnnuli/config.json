@@ -1,0 +1,73 @@
+{
+    "path": "medium/TheLordofTheAnnuli",
+    "name": "The Lord of the Annuli",
+    "alphanumName": "TheLordofTheAnnuli",
+    "link": "https://www.codingame.com/ide/puzzle/the-lord-of-the-annuli",
+    "tests": [
+        {
+            "name": "Plain centered disc, no supersampling",
+            "alphanumName": "PlainCenteredDiscNoSupersampling",
+            "file": "01 - Plain centered disc, no supersampling.txt"
+        },
+        {
+            "name": "Plain centered disc with a little supersampling",
+            "alphanumName": "PlainCenteredDiscWithALittleSupersampling",
+            "file": "02 - Plain centered disc with a little supersampling.txt"
+        },
+        {
+            "name": "Our first ring",
+            "alphanumName": "OurFirstRing",
+            "file": "03 - Our first ring.txt"
+        },
+        {
+            "name": "A slighty larger slightly shifted ring",
+            "alphanumName": "ASlightyLargerSlightlyShiftedRing",
+            "file": "04 - A slighty larger slightly shifted ring.txt"
+        },
+        {
+            "name": "A nice rainbow",
+            "alphanumName": "ANiceRainbow",
+            "file": "05 - A nice rainbow.txt"
+        },
+        {
+            "name": "A thin ring",
+            "alphanumName": "AThinRing",
+            "file": "06 - A thin ring.txt"
+        },
+        {
+            "name": "A quarter of a ring",
+            "alphanumName": "AQuarterOfARing",
+            "file": "07 - A quarter of a ring.txt"
+        },
+        {
+            "name": "The edge of a big disc",
+            "alphanumName": "TheEdgeOfABigDisc",
+            "file": "08 - The edge of a big disc.txt"
+        },
+        {
+            "name": "An even thinner ring segment",
+            "alphanumName": "AnEvenThinnerRingSegment",
+            "file": "09 - An even thinner ring segment.txt"
+        },
+        {
+            "name": "A tiny asymmetric hole",
+            "alphanumName": "ATinyAsymmetricHole",
+            "file": "10 - A tiny asymmetric hole.txt"
+        },
+        {
+            "name": "A thick ring section",
+            "alphanumName": "AThickRingSection",
+            "file": "11 - A thick ring section.txt"
+        },
+        {
+            "name": "Almost a straight line",
+            "alphanumName": "AlmostAStraightLine",
+            "file": "12 - Almost a straight line.txt"
+        },
+        {
+            "name": "Into the void",
+            "alphanumName": "IntoTheVoid",
+            "file": "13 - Into the void.txt"
+        }
+    ]
+}
