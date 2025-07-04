@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Button Mash".
 - configuration for "key-value store".
 - configuration for "The Lord of the Annuli".
+- configuration for "Mondrian painting strokes".
 
 ## [1.16.0] - 2025-06-30
 ### Added

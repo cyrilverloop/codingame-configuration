@@ -1,0 +1,48 @@
+{
+    "path": "medium/MondrianPaintingStrokes",
+    "name": "Mondrian painting strokes",
+    "alphanumName": "MondrianPaintingStrokes",
+    "link": "https://www.codingame.com/ide/puzzle/mondrian-painting-strokes",
+    "tests": [
+        {
+            "name": "Two rectangles",
+            "alphanumName": "TwoRectangles",
+            "file": "01 - Two rectangles.txt"
+        },
+        {
+            "name": "Three rectangles",
+            "alphanumName": "ThreeRectangles",
+            "file": "02 - Three rectangles.txt"
+        },
+        {
+            "name": "Four rectangles aligned",
+            "alphanumName": "FourRectanglesAligned",
+            "file": "03 - Four rectangles aligned.txt"
+        },
+        {
+            "name": "Four rectangles not aligned",
+            "alphanumName": "FourRectanglesNotAligned",
+            "file": "04 - Four rectangles not aligned.txt"
+        },
+        {
+            "name": "More complex shapes",
+            "alphanumName": "MoreComplexShapes",
+            "file": "05 - More complex shapes.txt"
+        },
+        {
+            "name": "Tableau I by Piet Mondrian",
+            "alphanumName": "TableauIByPietMondrian",
+            "file": "06 - Tableau I by Piet Mondrian.txt"
+        },
+        {
+            "name": "Untitled composition by Piet Mondrian",
+            "alphanumName": "UntitledCompositionByPietMondrian",
+            "file": "07 - Untitled composition by Piet Mondrian.txt"
+        },
+        {
+            "name": "Big canvas with random rectangles",
+            "alphanumName": "BigCanvasWithRandomRectangles",
+            "file": "08 - Big canvas with random rectangles.txt"
+        }
+    ]
+}
