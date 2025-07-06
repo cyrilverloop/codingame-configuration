@@ -1,0 +1,38 @@
+{
+    "path": "hard/3DDuckHunt",
+    "name": "3D Duck Hunt",
+    "alphanumName": "3DDuckHunt",
+    "link": "https://www.codingame.com/ide/puzzle/3d-duck-hunt",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "careful about zeros",
+            "alphanumName": "carefulAboutZeros",
+            "file": "02 - careful about zeros.txt"
+        },
+        {
+            "name": "more zeros",
+            "alphanumName": "moreZeros",
+            "file": "03 - more zeros.txt"
+        },
+        {
+            "name": "a little faster",
+            "alphanumName": "aLittleFaster",
+            "file": "04 - a little faster.txt"
+        },
+        {
+            "name": "a bit large",
+            "alphanumName": "aBitLarge",
+            "file": "05 - a bit large.txt"
+        },
+        {
+            "name": "super large",
+            "alphanumName": "superLarge",
+            "file": "06 - super large.txt"
+        }
+    ]
+}
