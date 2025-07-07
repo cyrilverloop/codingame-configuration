@@ -1,0 +1,16 @@
+<?php
+fscanf(STDIN, "%d", $N);
+for ($i = 0; $i < $N; $i++)
+{
+    $action = stream_get_line(STDIN, 256 + 1, "\n");
+}
+fscanf(STDIN, "%d", $nbOrders);
+for ($i = 0; $i < $nbOrders; $i++)
+{
+    $order = stream_get_line(STDIN, 256 + 1, "\n");
+}
+
+// Write an answer using echo(). DON'T FORGET THE TRAILING \n
+// To debug: error_log(var_export($var, true)); (equivalent to var_dump)
+
+echo("answer\n");

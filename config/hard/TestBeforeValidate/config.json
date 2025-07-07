@@ -1,0 +1,28 @@
+{
+    "path": "hard/TestBeforeValidate",
+    "name": "Test before Validate!",
+    "alphanumName": "TestBeforeValidate",
+    "link": "https://www.codingame.com/ide/puzzle/test-before-validate!",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "One precedence",
+            "alphanumName": "OnePrecedence",
+            "file": "02 - One precedence.txt"
+        },
+        {
+            "name": "One after another",
+            "alphanumName": "OneAfterAnother",
+            "file": "03 - One after another.txt"
+        },
+        {
+            "name": "One action without precedence",
+            "alphanumName": "OneActionWithoutPrecedence",
+            "file": "04 - One action without precedence.txt"
+        }
+    ]
+}
