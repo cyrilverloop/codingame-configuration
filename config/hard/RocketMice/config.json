@@ -1,0 +1,73 @@
+{
+    "path": "hard/RocketMice",
+    "name": "Rocket mice",
+    "alphanumName": "RocketMice",
+    "link": "https://www.codingame.com/ide/puzzle/rocket-mice",
+    "tests": [
+        {
+            "name": "Worthless arrows and no cats",
+            "alphanumName": "WorthlessArrowsAndNoCats",
+            "file": "01 - Worthless arrows and no cats.txt"
+        },
+        {
+            "name": "Scoring cats",
+            "alphanumName": "ScoringCats",
+            "file": "02 - Scoring cats.txt"
+        },
+        {
+            "name": "No score",
+            "alphanumName": "NoScore",
+            "file": "03 - No score.txt"
+        },
+        {
+            "name": "Redirecting arrows",
+            "alphanumName": "RedirectingArrows",
+            "file": "04 - Redirecting arrows.txt"
+        },
+        {
+            "name": "One for each",
+            "alphanumName": "OneForEach",
+            "file": "05 - One for each.txt"
+        },
+        {
+            "name": "Redirecting walls",
+            "alphanumName": "RedirectingWalls",
+            "file": "06 - Redirecting walls.txt"
+        },
+        {
+            "name": "Treacherous pits",
+            "alphanumName": "TreacherousPits",
+            "file": "07 - Treacherous pits.txt"
+        },
+        {
+            "name": "Expiring arrows",
+            "alphanumName": "ExpiringArrows",
+            "file": "08 - Expiring arrows.txt"
+        },
+        {
+            "name": "Eating the mice",
+            "alphanumName": "EatingTheMice",
+            "file": "09 - Eating the mice.txt"
+        },
+        {
+            "name": "Eating in passing",
+            "alphanumName": "EatingInPassing",
+            "file": "10 - Eating in passing.txt"
+        },
+        {
+            "name": "Simple battle",
+            "alphanumName": "SimpleBattle",
+            "file": "11 - Simple battle.txt"
+        },
+        {
+            "name": "Rumble",
+            "alphanumName": "Rumble",
+            "file": "12 - Rumble.txt"
+        },
+        {
+            "name": "All out war",
+            "alphanumName": "AllOutWar",
+            "file": "13 - All out war.txt"
+        }
+    ]
+}
