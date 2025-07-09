@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "3D Duck Hunt".
 - configuration for "Test before Validate!".
 - configuration for "Rocket mice".
+- configuration for "Breaking Apart".
 
 ## [1.16.0] - 2025-06-30
 ### Added

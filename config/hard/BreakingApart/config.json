@@ -1,0 +1,38 @@
+{
+    "path": "hard/BreakingApart",
+    "name": "Breaking Apart",
+    "alphanumName": "BreakingApart",
+    "link": "https://www.codingame.com/ide/puzzle/breaking-apart",
+    "tests": [
+        {
+            "name": "Single Break",
+            "alphanumName": "SingleBreak",
+            "file": "01 - Single Break.txt"
+        },
+        {
+            "name": "Too short for a break",
+            "alphanumName": "TooShortForABreak",
+            "file": "02 - Too short for a break.txt"
+        },
+        {
+            "name": "No singles left over",
+            "alphanumName": "NoSinglesLeftOver",
+            "file": "03 - No singles left over.txt"
+        },
+        {
+            "name": "One word many breaks",
+            "alphanumName": "OneWordManyBreaks",
+            "file": "04 - One word many breaks.txt"
+        },
+        {
+            "name": "Lorem ipsum modified",
+            "alphanumName": "LoremIpsumModified",
+            "file": "05 - Lorem ipsum modified.txt"
+        },
+        {
+            "name": "Large test",
+            "alphanumName": "LargeTest",
+            "file": "06 - Large test.txt"
+        }
+    ]
+}
