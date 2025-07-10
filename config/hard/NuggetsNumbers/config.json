@@ -1,0 +1,48 @@
+{
+    "path": "hard/NuggetsNumbers",
+    "name": "Nuggets numbers",
+    "alphanumName": "NuggetsNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/nuggets-numbers",
+    "tests": [
+        {
+            "name": "2 boxes",
+            "alphanumName": "TwoBoxes",
+            "file": "01 - 2 boxes.txt"
+        },
+        {
+            "name": "2 boxes again",
+            "alphanumName": "TwoBoxesAgain",
+            "file": "02 - 2 boxes again.txt"
+        },
+        {
+            "name": "No limit!",
+            "alphanumName": "NoLimit",
+            "file": "03 - No limit!.txt"
+        },
+        {
+            "name": "Standard Fast Food",
+            "alphanumName": "StandardFastFood",
+            "file": "04 - Standard Fast Food.txt"
+        },
+        {
+            "name": "Standard Fast Food 2",
+            "alphanumName": "StandardFastFood2",
+            "file": "05 - Standard Fast Food 2.txt"
+        },
+        {
+            "name": "Regular fast food",
+            "alphanumName": "RegularFastFood",
+            "file": "06 - Regular fast food.txt"
+        },
+        {
+            "name": "Endless fast food",
+            "alphanumName": "EndlessFastFood",
+            "file": "07 - Endless fast food.txt"
+        },
+        {
+            "name": "Industrial restaurant",
+            "alphanumName": "IndustrialRestaurant",
+            "file": "08 - Industrial restaurant.txt"
+        }
+    ]
+}
