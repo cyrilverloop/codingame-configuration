@@ -1,0 +1,83 @@
+{
+    "path": "hard/ChessBoardAnalyzer",
+    "name": "Chess board analyzer",
+    "alphanumName": "ChessBoardAnalyzer",
+    "link": "https://www.codingame.com/ide/puzzle/chess-board-analyzer",
+    "tests": [
+        {
+            "name": "Rooks mate",
+            "alphanumName": "RooksMate",
+            "file": "01 - Rooks mate.txt"
+        },
+        {
+            "name": "Mate with Rooks",
+            "alphanumName": "MateWithRooks",
+            "file": "02 - Mate with Rooks.txt"
+        },
+        {
+            "name": "Double Bishop mate",
+            "alphanumName": "DoubleBishopMate",
+            "file": "03 - Double Bishop mate.txt"
+        },
+        {
+            "name": "Anderssen mate",
+            "alphanumName": "AnderssenMate",
+            "file": "04 - Anderssen mate.txt"
+        },
+        {
+            "name": "One Rook mate",
+            "alphanumName": "OneRookMate",
+            "file": "05 - One Rook mate.txt"
+        },
+        {
+            "name": "Second turn win",
+            "alphanumName": "SecondTurnWin",
+            "file": "06 - Second turn win.txt"
+        },
+        {
+            "name": "Third turn win",
+            "alphanumName": "ThirdTurnWin",
+            "file": "07 - Third turn win.txt"
+        },
+        {
+            "name": "Initial board",
+            "alphanumName": "InitialBoard",
+            "file": "08 - Initial board.txt"
+        },
+        {
+            "name": "There is exit",
+            "alphanumName": "ThereIsExit",
+            "file": "09 - There is exit.txt"
+        },
+        {
+            "name": "Queen",
+            "alphanumName": "Queen",
+            "file": "10 - Queen.txt"
+        },
+        {
+            "name": "Fischer vs Panno",
+            "alphanumName": "FischerVsPanno",
+            "file": "11 - Fischer vs Panno.txt"
+        },
+        {
+            "name": "Topalov",
+            "alphanumName": "Topalov",
+            "file": "12 - Topalov.txt"
+        },
+        {
+            "name": "Game of the century",
+            "alphanumName": "GameOfTheCentury",
+            "file": "13 - Game of the century.txt"
+        },
+        {
+            "name": "Escape by overtaking",
+            "alphanumName": "EscapeByOvertaking",
+            "file": "14 - Escape by overtaking.txt"
+        },
+        {
+            "name": "Close one",
+            "alphanumName": "CloseOne",
+            "file": "15 - Close one.txt"
+        }
+    ]
+}
