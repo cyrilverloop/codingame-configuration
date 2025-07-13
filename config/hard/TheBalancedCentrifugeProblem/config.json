@@ -1,0 +1,48 @@
+{
+    "path": "hard/TheBalancedCentrifugeProblem",
+    "name": "The Balanced Centrifuge Problem",
+    "alphanumName": "TheBalancedCentrifugeProblem",
+    "link": "https://www.codingame.com/ide/puzzle/the-balanced-centrifuge-problem",
+    "tests": [
+        {
+            "name": "Prime",
+            "alphanumName": "Prime",
+            "file": "01 - Prime.txt"
+        },
+        {
+            "name": "Small Composite",
+            "alphanumName": "SmallComposite",
+            "file": "02 - Small Composite.txt"
+        },
+        {
+            "name": "Medium Composite",
+            "alphanumName": "MediumComposite",
+            "file": "03 - Medium Composite.txt"
+        },
+        {
+            "name": "Two Primes",
+            "alphanumName": "TwoPrimes",
+            "file": "04 - Two Primes.txt"
+        },
+        {
+            "name": "Hard 1",
+            "alphanumName": "Hard1",
+            "file": "05 - Hard 1.txt"
+        },
+        {
+            "name": "Hard 2",
+            "alphanumName": "Hard2",
+            "file": "06 - Hard 2.txt"
+        },
+        {
+            "name": "Tricky",
+            "alphanumName": "Tricky",
+            "file": "07 - Tricky.txt"
+        },
+        {
+            "name": "Power of a Prime",
+            "alphanumName": "PowerOfAPrime",
+            "file": "08 - Power of a Prime.txt"
+        }
+    ]
+}
