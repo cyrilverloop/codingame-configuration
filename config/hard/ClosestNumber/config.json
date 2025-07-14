@@ -1,0 +1,93 @@
+{
+    "path": "hard/ClosestNumber",
+    "name": "Closest Number",
+    "alphanumName": "ClosestNumber",
+    "link": "https://www.codingame.com/ide/puzzle/closest-number",
+    "tests": [
+        {
+            "name": "M has fewer digits",
+            "alphanumName": "MHasFewerDigits",
+            "file": "01 - M has fewer digits.txt"
+        },
+        {
+            "name": "M has more digits",
+            "alphanumName": "MHasMoreDigits",
+            "file": "02 - M has more digits.txt"
+        },
+        {
+            "name": "Exact solution",
+            "alphanumName": "ExactSolution",
+            "file": "03 - Exact solution.txt"
+        },
+        {
+            "name": "Solution with leading zeros",
+            "alphanumName": "SolutionWithLeadingZeros",
+            "file": "04 - Solution with leading zeros.txt"
+        },
+        {
+            "name": "Same number of digits, solution < N",
+            "alphanumName": "SameNumberOfDigitsSolutionLTN",
+            "file": "05 - Same number of digits, solution LT N.txt"
+        },
+        {
+            "name": "Same number of digits, solution > N",
+            "alphanumName": "SameNumberOfDigitsSolutionGTN",
+            "file": "06 - Same number of digits, solution GT N.txt"
+        },
+        {
+            "name": "No permutation lower than N",
+            "alphanumName": "NoPermutationLowerThanN",
+            "file": "07 - No permutation lower than N.txt"
+        },
+        {
+            "name": "No permutation greater than N",
+            "alphanumName": "NoPermutationGreaterThanN",
+            "file": "08 - No permutation greater than N.txt"
+        },
+        {
+            "name": "Longest common prefix is not always right",
+            "alphanumName": "LongestCommonPrefixIsNotAlwaysRight",
+            "file": "09 - Longest common prefix is not always right.txt"
+        },
+        {
+            "name": "Two optimal permutations",
+            "alphanumName": "TwoOptimalPermutations",
+            "file": "10 - Two optimal permutations.txt"
+        },
+        {
+            "name": "M has more digits, with zeros",
+            "alphanumName": "MHasMoreDigitsWithZeros",
+            "file": "11 - M has more digits, with zeros.txt"
+        },
+        {
+            "name": "Large numbers 1",
+            "alphanumName": "LargeNumbers1",
+            "file": "12 - Large numbers 1.txt"
+        },
+        {
+            "name": "Large numbers 2",
+            "alphanumName": "LargeNumbers2",
+            "file": "13 - Large numbers 2.txt"
+        },
+        {
+            "name": "Large numbers 3",
+            "alphanumName": "LargeNumbers3",
+            "file": "14 - Large numbers 3.txt"
+        },
+        {
+            "name": "Very large numbers 1",
+            "alphanumName": "VeryLargeNumbers1",
+            "file": "15 - Very large numbers 1.txt"
+        },
+        {
+            "name": "Very large numbers 2",
+            "alphanumName": "VeryLargeNumbers2",
+            "file": "16 - Very large numbers 2.txt"
+        },
+        {
+            "name": "Very large numbers 3",
+            "alphanumName": "VeryLargeNumbers3",
+            "file": "17 - Very large numbers 3.txt"
+        }
+    ]
+}
