@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Google Interview - The Two Egg Problem".
 - configuration for "The Balanced Centrifuge Problem".
 - configuration for "Closest Number".
+- configuration for "Execution Circle".
 
 ## [1.16.0] - 2025-06-30
 ### Added
