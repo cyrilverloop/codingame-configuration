@@ -1,0 +1,33 @@
+{
+    "path": "hard/HitoriSolver",
+    "name": "Hitori solver",
+    "alphanumName": "HitoriSolver",
+    "link": "https://www.codingame.com/ide/puzzle/hitori-solver",
+    "tests": [
+        {
+            "name": "Simple 3x3",
+            "alphanumName": "Simple3x3",
+            "file": "01 - Simple 3x3.txt"
+        },
+        {
+            "name": "Connected 2x2",
+            "alphanumName": "Connected2x2",
+            "file": "02 - Connected 2x2.txt"
+        },
+        {
+            "name": "Bigger",
+            "alphanumName": "Bigger",
+            "file": "03 - Bigger.txt"
+        },
+        {
+            "name": "Even bigger",
+            "alphanumName": "EvenBigger",
+            "file": "04 - Even bigger.txt"
+        },
+        {
+            "name": "8x8",
+            "alphanumName": "8x8",
+            "file": "05 - 8x8.txt"
+        }
+    ]
+}
