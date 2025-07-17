@@ -1,0 +1,43 @@
+{
+    "path": "easy/CityLightsPart1",
+    "name": "City Lights Part 1",
+    "alphanumName": "CityLightsPart1",
+    "link": "https://www.codingame.com/ide/puzzle/city-lights-part-1",
+    "tests": [
+        {
+            "name": "1 Town",
+            "alphanumName": "OneTown",
+            "file": "01 - 1 Town.txt"
+        },
+        {
+            "name": "2 Towns",
+            "alphanumName": "TwoTowns",
+            "file": "02 - 2 Towns.txt"
+        },
+        {
+            "name": "More Towns",
+            "alphanumName": "MoreTowns",
+            "file": "03 - More Towns.txt"
+        },
+        {
+            "name": "Rural",
+            "alphanumName": "Rural",
+            "file": "04 - Rural.txt"
+        },
+        {
+            "name": "Urban",
+            "alphanumName": "Urban",
+            "file": "05 - Urban.txt"
+        },
+        {
+            "name": "TOO MUCH LIGHT",
+            "alphanumName": "TOOMUCHLIGHT",
+            "file": "06 - TOO MUCH LIGHT.txt"
+        },
+        {
+            "name": "im blind",
+            "alphanumName": "imBlind",
+            "file": "07 - im blind.txt"
+        }
+    ]
+}
