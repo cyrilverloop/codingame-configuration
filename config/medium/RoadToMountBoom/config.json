@@ -1,0 +1,133 @@
+{
+    "path": "medium/RoadToMountBoom",
+    "name": "Road to Mount Boom",
+    "alphanumName": "RoadToMountBoom",
+    "link": "https://www.codingame.com/ide/puzzle/road-to-mount-boom",
+    "tests": [
+        {
+            "name": "Basic North",
+            "alphanumName": "BasicNorth",
+            "file": "01 - Basic North.txt"
+        },
+        {
+            "name": "Basic East",
+            "alphanumName": "BasicEast",
+            "file": "02 - Basic East.txt"
+        },
+        {
+            "name": "Basic South",
+            "alphanumName": "BasicSouth",
+            "file": "03 - Basic South.txt"
+        },
+        {
+            "name": "Basic West",
+            "alphanumName": "BasicWest",
+            "file": "04 - Basic West.txt"
+        },
+        {
+            "name": "Basic North-East",
+            "alphanumName": "BasicNorthEast",
+            "file": "05 - Basic North-East.txt"
+        },
+        {
+            "name": "Basic South-East",
+            "alphanumName": "BasicSouthEast",
+            "file": "06 - Basic South-East.txt"
+        },
+        {
+            "name": "Basic South-West",
+            "alphanumName": "BasicSouthWest",
+            "file": "07 - Basic South-West.txt"
+        },
+        {
+            "name": "Basic North-West",
+            "alphanumName": "BasicNorthWest",
+            "file": "08 - Basic North-West.txt"
+        },
+        {
+            "name": "North and NE (Open)",
+            "alphanumName": "NorthAndNEOpen",
+            "file": "09 - North and NE (Open).txt"
+        },
+        {
+            "name": "East and SE (Open)",
+            "alphanumName": "EastAndSEOpen",
+            "file": "10 - East and SE (Open).txt"
+        },
+        {
+            "name": "South and SW (Open)",
+            "alphanumName": "SouthAndSWOpen",
+            "file": "11 - South and SW (Open).txt"
+        },
+        {
+            "name": "West and NW (Open)",
+            "alphanumName": "WestAndNWOpen",
+            "file": "12 - West and NW (Open).txt"
+        },
+        {
+            "name": "Simple Horizontal Journey",
+            "alphanumName": "SimpleHorizontalJourney",
+            "file": "13 - Simple Horizontal Journey.txt"
+        },
+        {
+            "name": "Simple Vertical Journey",
+            "alphanumName": "SimpleVerticalJourney",
+            "file": "14 - Simple Vertical Journey.txt"
+        },
+        {
+            "name": "Simple Diagonal Journey",
+            "alphanumName": "SimpleDiagonalJourney",
+            "file": "15 - Simple Diagonal Journey.txt"
+        },
+        {
+            "name": "Simple Diagonal Journey 2",
+            "alphanumName": "SimpleDiagonalJourney2",
+            "file": "16 - Simple Diagonal Journey 2.txt"
+        },
+        {
+            "name": "Around the World 1",
+            "alphanumName": "AroundTheWorld1",
+            "file": "17 - Around the World 1.txt"
+        },
+        {
+            "name": "Around the World 2",
+            "alphanumName": "AroundTheWorld2",
+            "file": "18 - Around the World 2.txt"
+        },
+        {
+            "name": "Maze 1",
+            "alphanumName": "Maze1",
+            "file": "19 - Maze 1.txt"
+        },
+        {
+            "name": "Maze 2",
+            "alphanumName": "Maze2",
+            "file": "20 - Maze 2.txt"
+        },
+        {
+            "name": "Large Maze",
+            "alphanumName": "LargeMaze",
+            "file": "21 - Large Maze.txt"
+        },
+        {
+            "name": "Simple Outside Traversal",
+            "alphanumName": "SimpleOutsideTraversal",
+            "file": "22 - Simple Outside Traversal.txt"
+        },
+        {
+            "name": "Horizontal Outside Traversal",
+            "alphanumName": "HorizontalOutsideTraversal",
+            "file": "23 - Horizontal Outside Traversal.txt"
+        },
+        {
+            "name": "Vertical Outside Traversal",
+            "alphanumName": "VerticalOutsideTraversal",
+            "file": "24 - Vertical Outside Traversal.txt"
+        },
+        {
+            "name": "Complete Traversal",
+            "alphanumName": "CompleteTraversal",
+            "file": "25 - Complete Traversal.txt"
+        }
+    ]
+}
