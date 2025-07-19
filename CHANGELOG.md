@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Hitori solver".
 - configuration for "City Lights Part 1".
 - configuration for "Road to Mount Boom".
+- configuration for "Find the Shortest Path Home".
 
 ## [1.16.0] - 2025-06-30
 ### Added
