@@ -1,0 +1,28 @@
+{
+    "path": "expert/SquaresOrder",
+    "name": "Squares order",
+    "alphanumName": "SquaresOrder",
+    "link": "https://www.codingame.com/ide/puzzle/squares-order",
+    "tests": [
+        {
+            "name": "2 squares",
+            "alphanumName": "TwoSquares",
+            "file": "01 - 2 squares.txt"
+        },
+        {
+            "name": "1 square",
+            "alphanumName": "OneSquare",
+            "file": "02 - 1 square.txt"
+        },
+        {
+            "name": "3 squares",
+            "alphanumName": "ThreeSquares",
+            "file": "03 - 3 squares.txt"
+        },
+        {
+            "name": "5 squares",
+            "alphanumName": "FiveSquares",
+            "file": "04 - 5 squares.txt"
+        }
+    ]
+}
