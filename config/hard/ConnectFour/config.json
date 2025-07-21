@@ -1,0 +1,28 @@
+{
+    "path": "hard/ConnectFour",
+    "name": "Connect four",
+    "alphanumName": "ConnectFour",
+    "link": "https://www.codingame.com/ide/puzzle/connect-four",
+    "tests": [
+        {
+            "name": "Horizontal",
+            "alphanumName": "Horizontal",
+            "file": "01 - Horizontal.txt"
+        },
+        {
+            "name": "Vertical",
+            "alphanumName": "Vertical",
+            "file": "02 - Vertical.txt"
+        },
+        {
+            "name": "Diagonal",
+            "alphanumName": "Diagonal",
+            "file": "03 - Diagonal.txt"
+        },
+        {
+            "name": "Whose turn is it?",
+            "alphanumName": "WhoseTurnIsIt",
+            "file": "04 - Whose turn is it.txt"
+        }
+    ]
+}
