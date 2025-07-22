@@ -1,0 +1,43 @@
+{
+    "path": "hard/MysterySums",
+    "name": "Mystery sums",
+    "alphanumName": "MysterySums",
+    "link": "https://www.codingame.com/ide/puzzle/mystery-sums",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "52? + 8 = 530",
+            "alphanumName": "five28530",
+            "file": "02 - 528530.txt"
+        },
+        {
+            "name": "?1 + 1? = 27",
+            "alphanumName": "one1127",
+            "file": "03 - 1127.txt"
+        },
+        {
+            "name": "10 * ? = 70",
+            "alphanumName": "one070",
+            "file": "04 - 1070.txt"
+        },
+        {
+            "name": "?? / 3 = 5",
+            "alphanumName": "three5",
+            "file": "05 - 35.txt"
+        },
+        {
+            "name": "?8 - 71 - 1? = 2",
+            "alphanumName": "eight7112",
+            "file": "06 - 87112.txt"
+        },
+        {
+            "name": "91 + 8 = 99",
+            "alphanumName": "nine1899",
+            "file": "07 - 91899.txt"
+        }
+    ]
+}
