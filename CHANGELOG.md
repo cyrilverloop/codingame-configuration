@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Connect four".
 - configuration for "Mystery sums".
 - configuration for "Heart of the City".
+- configuration for "The Lucky Number".
 
 ## [1.16.0] - 2025-06-30
 ### Added

@@ -1,0 +1,38 @@
+{
+    "path": "expert/TheLuckyNumber",
+    "name": "The Lucky Number",
+    "alphanumName": "TheLuckyNumber",
+    "link": "https://www.codingame.com/ide/puzzle/the-lucky-number",
+    "tests": [
+        {
+            "name": "Sample",
+            "alphanumName": "Sample",
+            "file": "01 - Sample.txt"
+        },
+        {
+            "name": "Overlapping",
+            "alphanumName": "Overlapping",
+            "file": "02 - Overlapping.txt"
+        },
+        {
+            "name": "Same",
+            "alphanumName": "Same",
+            "file": "03 - Same.txt"
+        },
+        {
+            "name": "Larger",
+            "alphanumName": "Larger",
+            "file": "04 - Larger.txt"
+        },
+        {
+            "name": "64-bit integer",
+            "alphanumName": "SixtyFourBitInteger",
+            "file": "05 - 64-bit integer.txt"
+        },
+        {
+            "name": "Biggest",
+            "alphanumName": "Biggest",
+            "file": "06 - Biggest.txt"
+        }
+    ]
+}
