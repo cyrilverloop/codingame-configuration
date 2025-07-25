@@ -1,0 +1,48 @@
+{
+    "path": "expert/Hourglass",
+    "name": "Hourglass",
+    "alphanumName": "Hourglass",
+    "link": "https://www.codingame.com/ide/puzzle/hourglass",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Faster than Usain Bolt",
+            "alphanumName": "FasterThanUsainBolt",
+            "file": "02 - Faster than Usain Bolt.txt"
+        },
+        {
+            "name": "Time’s up!",
+            "alphanumName": "TimesUp",
+            "file": "03 - Time’s up!.txt"
+        },
+        {
+            "name": "Tryhard",
+            "alphanumName": "Tryhard",
+            "file": "04 - Tryhard.txt"
+        },
+        {
+            "name": "Where's all the sand?",
+            "alphanumName": "WheresAllTheSand",
+            "file": "05 - Where’s all the sand.txt"
+        },
+        {
+            "name": "This used to be more accurate..",
+            "alphanumName": "ThisUsedToBeMoreAccurate",
+            "file": "06 - This used to be more accurate...txt"
+        },
+        {
+            "name": "Falling asleep...",
+            "alphanumName": "FallingAsleep",
+            "file": "07 - Falling asleep....txt"
+        },
+        {
+            "name": "EARTHQUAKE!!!",
+            "alphanumName": "EARTHQUAKE",
+            "file": "08 - EARTHQUAKE!!!.txt"
+        }
+    ]
+}
