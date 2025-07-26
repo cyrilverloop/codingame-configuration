@@ -1,0 +1,38 @@
+{
+    "path": "expert/TheCrimeScene",
+    "name": "The Crime Scene",
+    "alphanumName": "TheCrimeScene",
+    "link": "https://www.codingame.com/ide/puzzle/the-crime-scene",
+    "tests": [
+        {
+            "name": "3 clues",
+            "alphanumName": "ThreeClues",
+            "file": "01 - 3 clues.txt"
+        },
+        {
+            "name": "4 clues",
+            "alphanumName": "FourClues",
+            "file": "02 - 4 clues.txt"
+        },
+        {
+            "name": "Big crime",
+            "alphanumName": "BigCrime",
+            "file": "03 - Big crime.txt"
+        },
+        {
+            "name": "Huge crime",
+            "alphanumName": "HugeCrime",
+            "file": "04 - Huge crime.txt"
+        },
+        {
+            "name": "2 clues",
+            "alphanumName": "TwoClues",
+            "file": "05 - 2 clues.txt"
+        },
+        {
+            "name": "1 clue",
+            "alphanumName": "OneClue",
+            "file": "06 - 1 clue.txt"
+        }
+    ]
+}
