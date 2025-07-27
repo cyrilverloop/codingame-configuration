@@ -1,0 +1,43 @@
+{
+    "path": "expert/DungeonDesigner",
+    "name": "Dungeon Designer",
+    "alphanumName": "DungeonDesigner",
+    "link": "https://www.codingame.com/ide/puzzle/dungeon-designer",
+    "tests": [
+        {
+            "name": "Small one",
+            "alphanumName": "SmallOne",
+            "file": "01 - Small one.txt"
+        },
+        {
+            "name": "Verrry smal one",
+            "alphanumName": "VerrrySmalOne",
+            "file": "02 - Verrry smal one.txt"
+        },
+        {
+            "name": "Bigger one",
+            "alphanumName": "BiggerOne",
+            "file": "03 - Bigger one.txt"
+        },
+        {
+            "name": "Rectangular - X not in front of barracks",
+            "alphanumName": "RectangularXNotInFrontOfBarracks",
+            "file": "04 - Rectangular - X not in front of barracks.txt"
+        },
+        {
+            "name": "Big",
+            "alphanumName": "Big",
+            "file": "05 - Big.txt"
+        },
+        {
+            "name": "Corridor |",
+            "alphanumName": "Corridor",
+            "file": "06 - Corridor.txt"
+        },
+        {
+            "name": "Corridor -",
+            "alphanumName": "Corridor -",
+            "file": "07 - Corridor -.txt"
+        }
+    ]
+}
