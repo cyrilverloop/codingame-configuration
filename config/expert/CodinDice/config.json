@@ -1,0 +1,48 @@
+{
+    "path": "expert/CodinDice",
+    "name": "CodinDice",
+    "alphanumName": "CodinDice",
+    "link": "https://www.codingame.com/ide/puzzle/codindice",
+    "tests": [
+        {
+            "name": "Simple case.",
+            "alphanumName": "SimpleCase",
+            "file": "01 - Simple case..txt"
+        },
+        {
+            "name": "A bit further.",
+            "alphanumName": "ABitFurther.",
+            "file": "02 - A bit further..txt"
+        },
+        {
+            "name": "The C move",
+            "alphanumName": "TheCMove",
+            "file": "03 - The C move.txt"
+        },
+        {
+            "name": "Getting serious.",
+            "alphanumName": "GettingSerious",
+            "file": "04 - Getting serious..txt"
+        },
+        {
+            "name": "Many dice.",
+            "alphanumName": "ManyDice",
+            "file": "05 - Many dice..txt"
+        },
+        {
+            "name": "Iron Die.",
+            "alphanumName": "IronDie",
+            "file": "06 - Iron Die..txt"
+        },
+        {
+            "name": "TOP TOP TOP TOP",
+            "alphanumName": "TOPTOPTOPTOP",
+            "file": "07 - TOP TOP TOP TOP.txt"
+        },
+        {
+            "name": "Out and Back",
+            "alphanumName": "OutAndBack",
+            "file": "08 - Out and Back.txt"
+        }
+    ]
+}
