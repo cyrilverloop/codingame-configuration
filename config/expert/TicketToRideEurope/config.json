@@ -1,0 +1,128 @@
+{
+    "path": "expert/TicketToRideEurope",
+    "name": "Ticket to Ride: Europe",
+    "alphanumName": "TicketToRideEurope",
+    "link": "https://www.codingame.com/ide/puzzle/ticket-to-ride-europe",
+    "tests": [
+        {
+            "name": "One ticket, three routes",
+            "alphanumName": "OneTicketThreeRoutes",
+            "file": "01 - One ticket, three routes.txt"
+        },
+        {
+            "name": "Rules: Colored route 1",
+            "alphanumName": "RulesColoredRoute1",
+            "file": "02 - Rules Colored route 1.txt"
+        },
+        {
+            "name": "Rules: Colored route 2",
+            "alphanumName": "RulesColoredRoute2",
+            "file": "03 - Rules Colored route 2.txt"
+        },
+        {
+            "name": "Rules: Car shortage",
+            "alphanumName": "RulesCarShortage",
+            "file": "04 - Rules Car shortage.txt"
+        },
+        {
+            "name": "Rules: Card shortage",
+            "alphanumName": "RulesCardShortage",
+            "file": "05 - Rules Card shortage.txt"
+        },
+        {
+            "name": "Rules: Use an engine",
+            "alphanumName": "RulesUseAnengine",
+            "file": "06 - Rules Use an engine.txt"
+        },
+        {
+            "name": "Rules: Gray route",
+            "alphanumName": "RulesGrayRoute",
+            "file": "07 - Rules Gray route.txt"
+        },
+        {
+            "name": "Rules: Gray mixed colors",
+            "alphanumName": "RulesGrayMixedColors",
+            "file": "08 - Rules Gray mixed colors.txt"
+        },
+        {
+            "name": "Rules: Ferry",
+            "alphanumName": "RulesFerry",
+            "file": "09 - Rules Ferry.txt"
+        },
+        {
+            "name": "Rules: Engine shortage",
+            "alphanumName": "RulesEngineShortage",
+            "file": "10 - Rules Engine shortage.txt"
+        },
+        {
+            "name": "Rules: Two routes",
+            "alphanumName": "RulesTwoRoutes",
+            "file": "11 - Rules Two routes.txt"
+        },
+        {
+            "name": "Rules: Expend cars",
+            "alphanumName": "RulesExpendCars",
+            "file": "12 - Rules Expend cars.txt"
+        },
+        {
+            "name": "Rules: Expend cards",
+            "alphanumName": "RulesExpendCards",
+            "file": "13 - Rules Expend cards.txt"
+        },
+        {
+            "name": "Rules: Simple ticket",
+            "alphanumName": "RulesSimpleTicket",
+            "file": "14 - Rules Simple ticket.txt"
+        },
+        {
+            "name": "Rules: Incomplete ticket",
+            "alphanumName": "RulesIncompleteTicket",
+            "file": "15 - Rules Incomplete ticket.txt"
+        },
+        {
+            "name": "Multiple tickets",
+            "alphanumName": "MultipleTickets",
+            "file": "16 - Multiple tickets.txt"
+        },
+        {
+            "name": "Engines and gray routes",
+            "alphanumName": "EnginesAndGrayRoutes",
+            "file": "17 - Engines and gray routes.txt"
+        },
+        {
+            "name": "Shades of gray",
+            "alphanumName": "ShadesOfGray",
+            "file": "18 - Shades of gray.txt"
+        },
+        {
+            "name": "Shades of gray 2",
+            "alphanumName": "ShadesOfGray2",
+            "file": "19 - Shades of gray 2.txt"
+        },
+        {
+            "name": "The long trap",
+            "alphanumName": "TheLongTrap",
+            "file": "20 - The long trap.txt"
+        },
+        {
+            "name": "Another long trap",
+            "alphanumName": "AnotherLongTrap",
+            "file": "21 - Another long trap.txt"
+        },
+        {
+            "name": "The middle trap",
+            "alphanumName": "TheMiddleTrap",
+            "file": "22 - The middle trap.txt"
+        },
+        {
+            "name": "Multi-purpose routes",
+            "alphanumName": "MultiPurposeRoutes",
+            "file": "23 - Multi-purpose routes.txt"
+        },
+        {
+            "name": "Oh, the possibilities!",
+            "alphanumName": "OhThePossibilities",
+            "file": "24 - Oh, the possibilities!.txt"
+        }
+    ]
+}
