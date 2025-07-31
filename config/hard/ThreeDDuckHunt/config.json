@@ -1,7 +1,7 @@
 {
-    "path": "hard/3DDuckHunt",
+    "path": "hard/ThreeDDuckHunt",
     "name": "3D Duck Hunt",
-    "alphanumName": "3DDuckHunt",
+    "alphanumName": "ThreeDDuckHunt",
     "link": "https://www.codingame.com/ide/puzzle/3d-duck-hunt",
     "tests": [
         {
