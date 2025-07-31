@@ -36,6 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "CodinDice".
 - configuration for "Ticket to Ride: Europe".
 - configuration for "Flood the World".
+- configuration for "Unflood The World".
 
 ## [1.16.0] - 2025-06-30
 ### Added
