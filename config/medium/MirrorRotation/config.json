@@ -1,0 +1,38 @@
+{
+    "path": "medium/MirrorRotation",
+    "name": "Mirror Rotation",
+    "alphanumName": "MirrorRotation",
+    "link": "https://www.codingame.com/ide/puzzle/mirror-rotation",
+    "tests": [
+        {
+            "name": "1 Flip",
+            "alphanumName": "OneFlip",
+            "file": "01 - 1 Flip.txt"
+        },
+        {
+            "name": "Multiple",
+            "alphanumName": "Multiple",
+            "file": "02 - Multiple.txt"
+        },
+        {
+            "name": "Shortest Path",
+            "alphanumName": "ShortestPath",
+            "file": "03 - Shortest Path.txt"
+        },
+        {
+            "name": "Swirl",
+            "alphanumName": "Swirl",
+            "file": "04 - Swirl.txt"
+        },
+        {
+            "name": "Loop",
+            "alphanumName": "Loop",
+            "file": "05 - Loop.txt"
+        },
+        {
+            "name": "Confusing",
+            "alphanumName": "Confusing",
+            "file": "06 - Confusing.txt"
+        }
+    ]
+}

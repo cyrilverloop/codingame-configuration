@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Takuzu Solver (Easy mode)".
 - configuration for "Scaleable TicTacToe".
+- configuration for "Mirror Rotation".
 
 ## [1.17.1] - 2025-07-31
 ### Fixed
