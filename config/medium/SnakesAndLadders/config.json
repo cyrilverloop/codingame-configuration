@@ -1,0 +1,133 @@
+{
+    "path": "medium/SnakesAndLadders",
+    "name": "Snakes and Ladders",
+    "alphanumName": "SnakesAndLadders",
+    "link": "https://www.codingame.com/ide/puzzle/snakes-and-ladders",
+    "tests": [
+        {
+            "name": "Small Board",
+            "alphanumName": "SmallBoard",
+            "file": "01 - Small Board.txt"
+        },
+        {
+            "name": "Standard Board",
+            "alphanumName": "StandardBoard",
+            "file": "02 - Standard Board.txt"
+        },
+        {
+            "name": "Large Board",
+            "alphanumName": "LargeBoard",
+            "file": "03 - Large Board.txt"
+        },
+        {
+            "name": "Small Bland Board",
+            "alphanumName": "SmallBlandBoard",
+            "file": "04 - Small Bland Board.txt"
+        },
+        {
+            "name": "Medium Bland Board",
+            "alphanumName": "MediumBlandBoard",
+            "file": "05 - Medium Bland Board.txt"
+        },
+        {
+            "name": "Large Bland Board",
+            "alphanumName": "LargeBlandBoard",
+            "file": "06 - Large Bland Board.txt"
+        },
+        {
+            "name": "Small Board and Small Dice",
+            "alphanumName": "SmallBoardAndSmallDice",
+            "file": "07 - Small Board and Small Dice.txt"
+        },
+        {
+            "name": "Small Board and Large Dice",
+            "alphanumName": "SmallBoardAndLargeDice",
+            "file": "08 - Small Board and Large Dice.txt"
+        },
+        {
+            "name": "Large Board and Small Die",
+            "alphanumName": "LargeBoardAndSmallDie",
+            "file": "09 - Large Board and Small Die.txt"
+        },
+        {
+            "name": "Large Board and Large Die",
+            "alphanumName": "LargeBoardAndLargeDie",
+            "file": "10 - Large Board and Large Die.txt"
+        },
+        {
+            "name": "Small Non-Standard Board",
+            "alphanumName": "SmallNonStandardBoard",
+            "file": "11 - Small Non-Standard Board.txt"
+        },
+        {
+            "name": "Medium Non-Standard Board",
+            "alphanumName": "MediumNonStandardBoard",
+            "file": "12 - Medium Non-Standard Board.txt"
+        },
+        {
+            "name": "Large Non-Standard Board",
+            "alphanumName": "LargeNonStandardBoard",
+            "file": "13 - Large Non-Standard Board.txt"
+        },
+        {
+            "name": "Pocket Board",
+            "alphanumName": "PocketBoard",
+            "file": "14 - Pocket Board.txt"
+        },
+        {
+            "name": "No Ladders, Just Snakes",
+            "alphanumName": "NoLaddersJustSnakes",
+            "file": "15 - No Ladders, Just Snakes.txt"
+        },
+        {
+            "name": "No Snakes, Just Ladders",
+            "alphanumName": "NoSnakesJustLadders",
+            "file": "16 - No Snakes, Just Ladders.txt"
+        },
+        {
+            "name": "Empty Board",
+            "alphanumName": "EmptyBoard",
+            "file": "17 - Empty Board.txt"
+        },
+        {
+            "name": "Empty Board 2",
+            "alphanumName": "EmptyBoard2",
+            "file": "18 - Empty Board 2.txt"
+        },
+        {
+            "name": "No Chaining Detector",
+            "alphanumName": "NoChainingDetector",
+            "file": "19 - No Chaining Detector.txt"
+        },
+        {
+            "name": "Helpful Ladder",
+            "alphanumName": "HelpfulLadder",
+            "file": "20 - Helpful Ladder.txt"
+        },
+        {
+            "name": "Many Snakes and Ladders",
+            "alphanumName": "ManySnakesAndLadders",
+            "file": "21 - Many Snakes and Ladders.txt"
+        },
+        {
+            "name": "Many Snakes and Ladders 2",
+            "alphanumName": "ManySnakesAndLadders2",
+            "file": "22 - Many Snakes and Ladders 2.txt"
+        },
+        {
+            "name": "Many Snakes and Ladders 3",
+            "alphanumName": "ManySnakesAndLadders3",
+            "file": "23 - Many Snakes and Ladders 3.txt"
+        },
+        {
+            "name": "Useful Snake",
+            "alphanumName": "UsefulSnake",
+            "file": "24 - Useful Snake.txt"
+        },
+        {
+            "name": "Useful Snakes",
+            "alphanumName": "UsefulSnakes",
+            "file": "25 - Useful Snakes.txt"
+        }
+    ]
+}
