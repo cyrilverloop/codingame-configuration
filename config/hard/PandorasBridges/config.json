@@ -1,0 +1,43 @@
+{
+    "path": "hard/PandorasBridges",
+    "name": "Pandora’s Bridges",
+    "alphanumName": "PandorasBridges",
+    "link": "https://www.codingame.com/ide/puzzle/pandoras-bridges",
+    "tests": [
+        {
+            "name": "Small Islands",
+            "alphanumName": "SmallIslands",
+            "file": "01 - Small Islands.txt"
+        },
+        {
+            "name": "Distance Checker",
+            "alphanumName": "DistanceChecker",
+            "file": "02 - Distance Checker.txt"
+        },
+        {
+            "name": "Angle Checker",
+            "alphanumName": "AngleChecker",
+            "file": "03 - Angle Checker.txt"
+        },
+        {
+            "name": "Vertical and Horizontal",
+            "alphanumName": "VerticalAndHorizontal",
+            "file": "04 - Vertical and Horizontal.txt"
+        },
+        {
+            "name": "Medium Islands",
+            "alphanumName": "MediumIslands",
+            "file": "05 - Medium Islands.txt"
+        },
+        {
+            "name": "Lots of Islands",
+            "alphanumName": "LotsOfIslands",
+            "file": "06 - Lots of Islands.txt"
+        },
+        {
+            "name": "Lots Lots of Islands",
+            "alphanumName": "LotsLotsOfIslands",
+            "file": "07 - Lots Lots of Islands.txt"
+        }
+    ]
+}
