@@ -1,0 +1,33 @@
+{
+    "path": "expert/SpyTheSpies",
+    "name": "Spy the Spies",
+    "alphanumName": "SpyTheSpies",
+    "link": "https://www.codingame.com/ide/puzzle/spy-the-spies",
+    "tests": [
+        {
+            "name": "All in common",
+            "alphanumName": "AllInCommon",
+            "file": "01 - All in common.txt"
+        },
+        {
+            "name": "Common differentiator",
+            "alphanumName": "CommonDifferentiator",
+            "file": "02 - Common differentiator.txt"
+        },
+        {
+            "name": "Extra attributes",
+            "alphanumName": "ExtraAttributes",
+            "file": "03 - Extra attributes.txt"
+        },
+        {
+            "name": "Extra steps",
+            "alphanumName": "ExtraSteps",
+            "file": "04 - Extra steps.txt"
+        },
+        {
+            "name": "Very entangled",
+            "alphanumName": "VeryEntangled",
+            "file": "05 - Very entangled.txt"
+        }
+    ]
+}
