@@ -1,0 +1,28 @@
+{
+    "path": "expert/FillTheSquare",
+    "name": "Fill the square!",
+    "alphanumName": "FillTheSquare",
+    "link": "https://www.codingame.com/ide/puzzle/fill-the-square",
+    "tests": [
+        {
+            "name": "3x3",
+            "alphanumName": "ThreeXThree",
+            "file": "01 - 3x3.txt"
+        },
+        {
+            "name": "6x6",
+            "alphanumName": "SixXSix",
+            "file": "02 - 6x6.txt"
+        },
+        {
+            "name": "10x10",
+            "alphanumName": "TenXTen",
+            "file": "03 - 10x10.txt"
+        },
+        {
+            "name": "CG",
+            "alphanumName": "CG",
+            "file": "04 - CG.txt"
+        }
+    ]
+}
