@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Pandora’s Bridges".
 - configuration for "Spy the Spies".
 - configuration for "Fill the square!".
+- configuration for "25x25 Sudoku".
 
 ## [1.17.1] - 2025-07-31
 ### Fixed
