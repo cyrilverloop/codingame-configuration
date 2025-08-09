@@ -1,0 +1,53 @@
+{
+    "path": "expert/ChemicalEquationBalancing",
+    "name": "Chemical Equation Balancing",
+    "alphanumName": "ChemicalEquationBalancing",
+    "link": "https://www.codingame.com/ide/puzzle/chemical-equation-balancing",
+    "tests": [
+        {
+            "name": "Simple & Single Letter Elements",
+            "alphanumName": "SimpleSingleLetterElements",
+            "file": "01 - Simple & Single Letter Elements.txt"
+        },
+        {
+            "name": "Photosynthesis",
+            "alphanumName": "Photosynthesis",
+            "file": "02 - Photosynthesis.txt"
+        },
+        {
+            "name": "Multi-letter Elements",
+            "alphanumName": "MultiLetterElements",
+            "file": "03 - Multi-letter Elements.txt"
+        },
+        {
+            "name": "Fire",
+            "alphanumName": "Fire",
+            "file": "04 - Fire.txt"
+        },
+        {
+            "name": "Uncommon Elements",
+            "alphanumName": "UncommonElements",
+            "file": "05 - Uncommon Elements.txt"
+        },
+        {
+            "name": "Chloroplatinic Acid",
+            "alphanumName": "ChloroplatinicAcid",
+            "file": "06 - Chloroplatinic Acid.txt"
+        },
+        {
+            "name": "Sulfuric Acid",
+            "alphanumName": "SulfuricAcid",
+            "file": "07 - Sulfuric Acid.txt"
+        },
+        {
+            "name": "Not real chemistry",
+            "alphanumName": "NotRealChemistry",
+            "file": "08 - Not real chemistry.txt"
+        },
+        {
+            "name": "Iron(III) fluoride",
+            "alphanumName": "IronIIIFluoride",
+            "file": "09 - Iron(III) fluoride.txt"
+        }
+    ]
+}
