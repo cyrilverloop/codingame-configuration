@@ -1,0 +1,28 @@
+{
+    "path": "expert/PrimeTransformations",
+    "name": "Prime Transformations",
+    "alphanumName": "PrimeTransformations",
+    "link": "https://www.codingame.com/ide/puzzle/prime-transformations",
+    "tests": [
+        {
+            "name": "Forward Power",
+            "alphanumName": "ForwardPower",
+            "file": "01 - Forward Power.txt"
+        },
+        {
+            "name": "Backward Power",
+            "alphanumName": "BackwardPower",
+            "file": "02 - Backward Power.txt"
+        },
+        {
+            "name": "Factor Deduction",
+            "alphanumName": "FactorDeduction",
+            "file": "03 - Factor Deduction.txt"
+        },
+        {
+            "name": "Index Deduction",
+            "alphanumName": "IndexDeduction",
+            "file": "04 - Index Deduction.txt"
+        }
+    ]
+}

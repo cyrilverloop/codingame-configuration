@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "25x25 Sudoku".
 - configuration for "Chemical Equation Balancing".
 - configuration for "High-rise buildings".
+- configuration for "Prime Transformations".
 
 ## [1.17.1] - 2025-07-31
 ### Fixed
