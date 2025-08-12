@@ -1,0 +1,28 @@
+{
+    "path": "expert/TheBarnyard",
+    "name": "The barnyard",
+    "alphanumName": "TheBarnyard",
+    "link": "https://www.codingame.com/ide/puzzle/the-barnyard",
+    "tests": [
+        {
+            "name": "Two animals",
+            "alphanumName": "TwoAnimals",
+            "file": "01 - Two animals.txt"
+        },
+        {
+            "name": "Three animals",
+            "alphanumName": "ThreeAnimals",
+            "file": "02 - Three animals.txt"
+        },
+        {
+            "name": "Four animals",
+            "alphanumName": "FourAnimals",
+            "file": "03 - Four animals.txt"
+        },
+        {
+            "name": "Five animals",
+            "alphanumName": "FiveAnimals",
+            "file": "04 - Five animals.txt"
+        }
+    ]
+}
