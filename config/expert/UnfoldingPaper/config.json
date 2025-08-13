@@ -1,0 +1,43 @@
+{
+    "path": "expert/UnfoldingPaper",
+    "name": "Unfolding paper",
+    "alphanumName": "UnfoldingPaper",
+    "link": "https://www.codingame.com/ide/puzzle/unfolding-paper",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Multiple folds",
+            "alphanumName": "MultipleFolds",
+            "file": "02 - Multiple folds.txt"
+        },
+        {
+            "name": "Big sheet",
+            "alphanumName": "BigSheet",
+            "file": "03 - Big sheet.txt"
+        },
+        {
+            "name": "Long unfolding",
+            "alphanumName": "LongUnfolding",
+            "file": "04 - Long unfolding.txt"
+        },
+        {
+            "name": "Many pieces",
+            "alphanumName": "ManyPieces",
+            "file": "05 - Many pieces.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "Random",
+            "file": "06 - Random.txt"
+        },
+        {
+            "name": "Chess board",
+            "alphanumName": "ChessBoard",
+            "file": "07 - Chess board.txt"
+        }
+    ]
+}
