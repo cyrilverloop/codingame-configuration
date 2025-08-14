@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Prime Transformations".
 - configuration for "The barnyard".
 - configuration for "Unfolding paper".
+- configuration for "Binary neural network - Part 2".
 
 ## [1.17.1] - 2025-07-31
 ### Fixed

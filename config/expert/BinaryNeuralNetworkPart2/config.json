@@ -1,0 +1,38 @@
+{
+    "path": "expert/BinaryNeuralNetworkPart2",
+    "name": "Binary neural network - Part 2",
+    "alphanumName": "BinaryNeuralNetworkPart2",
+    "link": "https://www.codingame.com/ide/puzzle/binary-neural-network---part-2",
+    "tests": [
+        {
+            "name": "Average",
+            "alphanumName": "Average",
+            "file": "01 - Average.txt"
+        },
+        {
+            "name": "Reverse",
+            "alphanumName": "Reverse",
+            "file": "02 - Reverse.txt"
+        },
+        {
+            "name": "Last digit",
+            "alphanumName": "LastDigit",
+            "file": "03 - Last digit.txt"
+        },
+        {
+            "name": "AndOr",
+            "alphanumName": "AndOr",
+            "file": "04 - AndOr.txt"
+        },
+        {
+            "name": "Always zero",
+            "alphanumName": "AlwaysZero",
+            "file": "05 - Always zero.txt"
+        },
+        {
+            "name": "And Xor",
+            "alphanumName": "AndXor",
+            "file": "06 - And Xor.txt"
+        }
+    ]
+}
