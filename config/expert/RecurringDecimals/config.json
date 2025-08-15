@@ -1,0 +1,53 @@
+{
+    "path": "expert/RecurringDecimals",
+    "name": "Recurring Decimals",
+    "alphanumName": "RecurringDecimals",
+    "link": "https://www.codingame.com/ide/puzzle/recurring-decimals",
+    "tests": [
+        {
+            "name": "Small Terminating",
+            "alphanumName": "SmallTerminating",
+            "file": "01 - Small Terminating.txt"
+        },
+        {
+            "name": "Medium Terminating",
+            "alphanumName": "MediumTerminating",
+            "file": "02 - Medium Terminating.txt"
+        },
+        {
+            "name": "Large Terminating",
+            "alphanumName": "LargeTerminating",
+            "file": "03 - Large Terminating.txt"
+        },
+        {
+            "name": "Small Non-Terminating",
+            "alphanumName": "SmallNonTerminating",
+            "file": "04 - Small Non-Terminating.txt"
+        },
+        {
+            "name": "Medium Non-Terminating",
+            "alphanumName": "MediumNonTerminating",
+            "file": "05 - Medium Non-Terminating.txt"
+        },
+        {
+            "name": "Large Non Terminating",
+            "alphanumName": "LargeNonTerminating",
+            "file": "06 - Large Non Terminating.txt"
+        },
+        {
+            "name": "Small Mixed",
+            "alphanumName": "SmallMixed",
+            "file": "07 - Small Mixed.txt"
+        },
+        {
+            "name": "Large Mixed",
+            "alphanumName": "LargeMixed",
+            "file": "08 - Large Mixed.txt"
+        },
+        {
+            "name": "Test 9",
+            "alphanumName": "Test9",
+            "file": "09 - Test 9.txt"
+        }
+    ]
+}
