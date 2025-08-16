@@ -1,0 +1,88 @@
+{
+    "path": "expert/CompletedMahjongHands",
+    "name": "Completed Mahjong Hands",
+    "alphanumName": "CompletedMahjongHands",
+    "link": "https://www.codingame.com/ide/puzzle/completed-mahjong-hands",
+    "tests": [
+        {
+            "name": "Four triplets",
+            "alphanumName": "FourTriplets",
+            "file": "01 - Four triplets.txt"
+        },
+        {
+            "name": "Wrong wait",
+            "alphanumName": "WrongWait",
+            "file": "02 - Wrong wait.txt"
+        },
+        {
+            "name": "All sequences",
+            "alphanumName": "AllSequences",
+            "file": "03 - All sequences.txt"
+        },
+        {
+            "name": "Wrong wind",
+            "alphanumName": "WrongWind",
+            "file": "04 - Wrong wind.txt"
+        },
+        {
+            "name": "Seven pairs",
+            "alphanumName": "SevenPairs",
+            "file": "05 - Seven pairs.txt"
+        },
+        {
+            "name": "Kokushi musou, any wait",
+            "alphanumName": "KokushiMusouAnyWait",
+            "file": "06 - Kokushi musou, any wait.txt"
+        },
+        {
+            "name": "Complex hand",
+            "alphanumName": "ComplexHand",
+            "file": "07 - Complex hand.txt"
+        },
+        {
+            "name": "Complex wait",
+            "alphanumName": "ComplexWait",
+            "file": "08 - Complex wait.txt"
+        },
+        {
+            "name": "No pair",
+            "alphanumName": "NoPair",
+            "file": "09 - No pair.txt"
+        },
+        {
+            "name": "Wrong draw",
+            "alphanumName": "WrongDraw",
+            "file": "10 - Wrong draw.txt"
+        },
+        {
+            "name": "Right draw",
+            "alphanumName": "RightDraw",
+            "file": "11 - Right draw.txt"
+        },
+        {
+            "name": "Trash",
+            "alphanumName": "Trash",
+            "file": "12 - Trash.txt"
+        },
+        {
+            "name": "Golden gate bridge",
+            "alphanumName": "GoldenGateBridge",
+            "file": "13 - Golden gate bridge.txt"
+        },
+        {
+            "name": "Four overlapping runs",
+            "alphanumName": "FourOverlappingRuns",
+            "file": "14 - Four overlapping runs.txt"
+        },
+        {
+            "name": "Not seven pairs",
+            "alphanumName": "NotSevenPairs",
+            "file": "15 - Not seven pairs.txt"
+        },
+        {
+            "name": "Kokushi musou, missed wait",
+            "alphanumName": "KokushiMusouMissedWait",
+            "file": "16 - Kokushi musou, missed wait.txt"
+        }
+    ]
+}
