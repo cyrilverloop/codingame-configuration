@@ -1,0 +1,48 @@
+{
+    "path": "expert/PrimeFractalsinPascalsTriangle",
+    "name": "Prime Fractals in Pascal’s Triangle",
+    "alphanumName": "PrimeFractalsinPascalsTriangle",
+    "link": "https://www.codingame.com/ide/puzzle/prime-fractals-in-pascals-triangle",
+    "tests": [
+        {
+            "name": "Basic",
+            "alphanumName": "Basic",
+            "file": "01 - Basic.txt"
+        },
+        {
+            "name": "R = C (easy)",
+            "alphanumName": "RCEasy",
+            "file": "02 - R = C (easy).txt"
+        },
+        {
+            "name": "R = C (medium)",
+            "alphanumName": "RCMedium",
+            "file": "03 - R = C (medium).txt"
+        },
+        {
+            "name": "R = C (hard)",
+            "alphanumName": "RCHard",
+            "file": "04 - R = C (hard).txt"
+        },
+        {
+            "name": "R != C (easy)",
+            "alphanumName": "RnCEasy",
+            "file": "05 - R != C (easy).txt"
+        },
+        {
+            "name": "R != C (medium)",
+            "alphanumName": "RnCMedium",
+            "file": "06 - R != C (medium).txt"
+        },
+        {
+            "name": "R != C (hard)",
+            "alphanumName": "RnCHard",
+            "file": "07 - R != C (hard).txt"
+        },
+        {
+            "name": "Mixed",
+            "alphanumName": "Mixed",
+            "file": "08 - Mixed.txt"
+        }
+    ]
+}
