@@ -1,0 +1,83 @@
+{
+    "path": "expert/CrossTheLines",
+    "name": "Cross the lines",
+    "alphanumName": "CrossTheLines",
+    "link": "https://www.codingame.com/ide/puzzle/cross-the-lines",
+    "tests": [
+        {
+            "name": "One triangle",
+            "alphanumName": "OneTriangle",
+            "file": "01 - One triangle.txt"
+        },
+        {
+            "name": "1 square",
+            "alphanumName": "OneSquare",
+            "file": "02 - 1 square.txt"
+        },
+        {
+            "name": "Unconnected lines",
+            "alphanumName": "UnconnectedLines",
+            "file": "03 - Unconnected lines.txt"
+        },
+        {
+            "name": "1 square 1 triangle",
+            "alphanumName": "OneSquare1Triangle",
+            "file": "04 - 1 square 1 triangle.txt"
+        },
+        {
+            "name": "Unconnected lines 2",
+            "alphanumName": "UnconnectedLines2",
+            "file": "05 - Unconnected lines 2.txt"
+        },
+        {
+            "name": "It’s a trap!",
+            "alphanumName": "ItsATrap",
+            "file": "06 - It’s a trap!.txt"
+        },
+        {
+            "name": "It is a non convex trap!",
+            "alphanumName": "ItIsANonConvexTrap",
+            "file": "07 - It is a non convex trap!.txt"
+        },
+        {
+            "name": "It’s a trap in a trap!",
+            "alphanumName": "ItsATrapInATrap",
+            "file": "08 - It’s a trap in a trap!.txt"
+        },
+        {
+            "name": "Touching triangles",
+            "alphanumName": "TouchingTriangles",
+            "file": "09 - Touching triangles.txt"
+        },
+        {
+            "name": "Touching squares",
+            "alphanumName": "TouchingSquares",
+            "file": "10 - Touching squares.txt"
+        },
+        {
+            "name": "Bigger case",
+            "alphanumName": "BiggerCase",
+            "file": "11 - Bigger case.txt"
+        },
+        {
+            "name": "Triforce",
+            "alphanumName": "Triforce",
+            "file": "12 - Triforce.txt"
+        },
+        {
+            "name": "Quadforce",
+            "alphanumName": "Quadforce",
+            "file": "13 - Quadforce.txt"
+        },
+        {
+            "name": "Broken triforce",
+            "alphanumName": "BrokenTriforce",
+            "file": "14 - Broken triforce.txt"
+        },
+        {
+            "name": "Almost Destroyed Triforce",
+            "alphanumName": "AlmostDestroyedTriforce",
+            "file": "15 - Almost Destroyed Triforce.txt"
+        }
+    ]
+}
