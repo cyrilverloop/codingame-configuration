@@ -1,0 +1,63 @@
+{
+    "path": "expert/Skylines",
+    "name": "Skylines",
+    "alphanumName": "Skylines",
+    "link": "https://www.codingame.com/ide/puzzle/skylines",
+    "tests": [
+        {
+            "name": "Single building",
+            "alphanumName": "SingleBuilding",
+            "file": "01 - Single building.txt"
+        },
+        {
+            "name": "2 separate buildings",
+            "alphanumName": "TwoSeparateBuildings",
+            "file": "02 - 2 separate buildings.txt"
+        },
+        {
+            "name": "2 adjacent buildings",
+            "alphanumName": "TwoAdjacentBuildings",
+            "file": "03 - 2 adjacent buildings.txt"
+        },
+        {
+            "name": "2 overlapping buildings",
+            "alphanumName": "TwoOverlappingBuildings",
+            "file": "04 - 2 overlapping buildings.txt"
+        },
+        {
+            "name": "3 connected buildings",
+            "alphanumName": "ThreeConnectedBuildings",
+            "file": "05 - 3 connected buildings.txt"
+        },
+        {
+            "name": "Lots of overlap",
+            "alphanumName": "LotsOfOverlap",
+            "file": "06 - Lots of overlap.txt"
+        },
+        {
+            "name": "Separation",
+            "alphanumName": "Separation",
+            "file": "07 - Separation.txt"
+        },
+        {
+            "name": "Big city",
+            "alphanumName": "BigCity",
+            "file": "08 - Big city.txt"
+        },
+        {
+            "name": "Bigger city",
+            "alphanumName": "BiggerCity",
+            "file": "09 - Bigger city.txt"
+        },
+        {
+            "name": "Metropolis",
+            "alphanumName": "Metropolis",
+            "file": "10 - Metropolis.txt"
+        },
+        {
+            "name": "Almost adjacent",
+            "alphanumName": "AlmostAdjacent",
+            "file": "11 - Almost adjacent.txt"
+        }
+    ]
+}

@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Completed Mahjong Hands".
 - configuration for "Prime Fractals in Pascal’s Triangle".
 - configuration for "Cross the lines".
+- configuration for "Skylines".
 
 ## [1.17.1] - 2025-07-31
 ### Fixed
