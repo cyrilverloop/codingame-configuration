@@ -1,0 +1,53 @@
+{
+    "path": "expert/WhenPigsFly",
+    "name": "When pigs fly",
+    "alphanumName": "WhenPigsFly",
+    "link": "https://www.codingame.com/ide/puzzle/when-pigs-fly",
+    "tests": [
+        {
+            "name": "Object classes",
+            "alphanumName": "ObjectClasses",
+            "file": "01 - Object classes.txt"
+        },
+        {
+            "name": "Traits and Abilities",
+            "alphanumName": "TraitsAndAbilities",
+            "file": "02 - Traits and Abilities.txt"
+        },
+        {
+            "name": "Some but not all",
+            "alphanumName": "SomeButNotAll",
+            "file": "03 - Some but not all.txt"
+        },
+        {
+            "name": "Branching inheritance",
+            "alphanumName": "BranchingInheritance",
+            "file": "04 - Branching inheritance.txt"
+        },
+        {
+            "name": "Roundabout",
+            "alphanumName": "Roundabout",
+            "file": "05 - Roundabout.txt"
+        },
+        {
+            "name": "Doubles",
+            "alphanumName": "Doubles",
+            "file": "06 - Doubles.txt"
+        },
+        {
+            "name": "Big Loop",
+            "alphanumName": "BigLoop",
+            "file": "07 - Big Loop.txt"
+        },
+        {
+            "name": "Unrelated",
+            "alphanumName": "Unrelated",
+            "file": "08 - Unrelated.txt"
+        },
+        {
+            "name": "Final Test",
+            "alphanumName": "FinalTest",
+            "file": "09 - Final Test.txt"
+        }
+    ]
+}
