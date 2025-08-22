@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Skylines".
 - configuration for "A Million Digits of Pi".
 - configuration for "When pigs fly".
+- configuration for "Xorandor".
 
 ## [1.17.1] - 2025-07-31
 ### Fixed

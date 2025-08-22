@@ -1,0 +1,38 @@
+{
+    "path": "expert/Xorandor",
+    "name": "Xorandor",
+    "alphanumName": "Xorandor",
+    "link": "https://www.codingame.com/ide/puzzle/xorandor",
+    "tests": [
+        {
+            "name": "Example : OrAnd",
+            "alphanumName": "ExampleOrAnd",
+            "file": "01 - Example OrAnd.txt"
+        },
+        {
+            "name": "Not ?",
+            "alphanumName": "Not",
+            "file": "02 - Not.txt"
+        },
+        {
+            "name": "Fork ?",
+            "alphanumName": "Fork",
+            "file": "03 - Fork.txt"
+        },
+        {
+            "name": "Switch ?",
+            "alphanumName": "Switch",
+            "file": "04 - Switch.txt"
+        },
+        {
+            "name": "Xnornandnor",
+            "alphanumName": "Xnornandnor",
+            "file": "05 - Xnornandnor.txt"
+        },
+        {
+            "name": "Big one",
+            "alphanumName": "BigOne",
+            "file": "06 - Big one.txt"
+        }
+    ]
+}
