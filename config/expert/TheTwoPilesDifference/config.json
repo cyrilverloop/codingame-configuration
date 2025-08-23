@@ -1,0 +1,33 @@
+{
+    "path": "expert/TheTwoPilesDifference",
+    "name": "The two piles difference",
+    "alphanumName": "TheTwoPilesDifference",
+    "link": "https://www.codingame.com/ide/puzzle/the-two-piles-difference",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Normal",
+            "alphanumName": "Normal",
+            "file": "02 - Normal.txt"
+        },
+        {
+            "name": "Complex",
+            "alphanumName": "Complex",
+            "file": "03 - Complex.txt"
+        },
+        {
+            "name": "More values",
+            "alphanumName": "MoreValues",
+            "file": "04 - More values.txt"
+        },
+        {
+            "name": "Big size",
+            "alphanumName": "BigSize",
+            "file": "05 - Big size.txt"
+        }
+    ]
+}
