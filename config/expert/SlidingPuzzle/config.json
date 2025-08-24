@@ -1,0 +1,28 @@
+{
+    "path": "expert/SlidingPuzzle",
+    "name": "Sliding puzzle",
+    "alphanumName": "SlidingPuzzle",
+    "link": "https://www.codingame.com/ide/puzzle/sliding-puzzle",
+    "tests": [
+        {
+            "name": "2x2",
+            "alphanumName": "TwoByTwo",
+            "file": "01 - 2x2.txt"
+        },
+        {
+            "name": "3x3",
+            "alphanumName": "ThreeByThree",
+            "file": "02 - 3x3.txt"
+        },
+        {
+            "name": "10x1",
+            "alphanumName": "TenByOne",
+            "file": "03 - 10x1.txt"
+        },
+        {
+            "name": "2x5",
+            "alphanumName": "TwoByFive",
+            "file": "04 - 2x5.txt"
+        }
+    ]
+}
