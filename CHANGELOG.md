@@ -32,6 +32,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Sliding puzzle".
 - configuration for "Mathematics for big ears".
 
+### Fixed
+- configuration path for "Nintendo Sponsored Challenge".
+
 ## [1.17.1] - 2025-07-31
 ### Fixed
 - name of test "Syntax: «me» and «you»" for "CG Chat Interpreter".
