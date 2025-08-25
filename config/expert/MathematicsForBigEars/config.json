@@ -1,0 +1,73 @@
+{
+    "path": "expert/MathematicsForBigEars",
+    "name": "Mathematics for big ears",
+    "alphanumName": "MathematicsForBigEars",
+    "link": "https://www.codingame.com/ide/puzzle/mathematics-for-big-ears",
+    "tests": [
+        {
+            "name": "C3 Cyclic group with 3 elements",
+            "alphanumName": "C3CyclicGroupWith3Elements",
+            "file": "01 - C3 Cyclic group with 3 elements.txt"
+        },
+        {
+            "name": "S3 Symmetric group on 3 elements",
+            "alphanumName": "S3SymmetricGroupOn3Elements",
+            "file": "02 - S3 Symmetric group on 3 elements.txt"
+        },
+        {
+            "name": "Klein group",
+            "alphanumName": "KleinGroup",
+            "file": "03 - Klein group.txt"
+        },
+        {
+            "name": "D6 Dihedral group of the hexagon",
+            "alphanumName": "D6DihedralGroupOfTheHexagon",
+            "file": "04 - D6 Dihedral group of the hexagon.txt"
+        },
+        {
+            "name": "H Group of quaternions",
+            "alphanumName": "HGroupOfQuaternions",
+            "file": "05 - H Group of quaternions.txt"
+        },
+        {
+            "name": "S5 Symmetric group on 5 elements",
+            "alphanumName": "S5SymmetricGroupOn5Elements",
+            "file": "06 - S5 Symmetric group on 5 elements.txt"
+        },
+        {
+            "name": "GL2(F3) Linear group of the 2×2 matrices over the finite field with 3 elements",
+            "alphanumName": "GL2F3LinearGroupOfThe2×2MatricesOverTheFiniteFieldWith3Elements",
+            "file": "07 - GL2(F3) Linear group of the 2×2 matrices over the finite field with 3 elements.txt"
+        },
+        {
+            "name": "PGL2(F3) Quotient of GL2(F3) by its centre",
+            "alphanumName": "PGL2F3QuotientOfGL2F3ByItsCentre",
+            "file": "08 - PGL2(F3) Quotient of GL2(F3) by its centre.txt"
+        },
+        {
+            "name": "PSL2(F7)",
+            "alphanumName": "PSL2F7",
+            "file": "09 - PSL2(F7).txt"
+        },
+        {
+            "name": "S7 Symmetric group on 7 elements",
+            "alphanumName": "S7SymmetricGroupOn7Elements",
+            "file": "10 - S7 Symmetric group on 7 elements.txt"
+        },
+        {
+            "name": "Squares subgroup of the edges of the Rubik’s cube",
+            "alphanumName": "SquaresSubgroupOfTheEdgesOfTheRubiksCube",
+            "file": "11 - Squares subgroup of the edges of the Rubik’s cube.txt"
+        },
+        {
+            "name": "M12 Mathieu group",
+            "alphanumName": "M12MathieuGroup",
+            "file": "12 - M12 Mathieu group.txt"
+        },
+        {
+            "name": "S5×S5×S3",
+            "alphanumName": "S5×S5×S3",
+            "file": "13 - S5×S5×S3.txt"
+        }
+    ]
+}
