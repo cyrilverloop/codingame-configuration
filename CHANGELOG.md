@@ -31,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "The two piles difference".
 - configuration for "Sliding puzzle".
 - configuration for "Mathematics for big ears".
+- configuration for "Nurikabe".
 
 ### Fixed
 - configuration path for "Nintendo Sponsored Challenge".
