@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Sliding puzzle".
 - configuration for "Mathematics for big ears".
 - configuration for "Nurikabe".
+- configuration for "Running Up That Hill".
 
 ### Fixed
 - configuration path for "Nintendo Sponsored Challenge".

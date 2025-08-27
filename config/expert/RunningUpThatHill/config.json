@@ -1,0 +1,78 @@
+{
+    "path": "expert/RunningUpThatHill",
+    "name": "Running Up That Hill",
+    "alphanumName": "RunningUpThatHill",
+    "link": "https://www.codingame.com/ide/puzzle/running-up-that-hill",
+    "tests": [
+        {
+            "name": "Example: 2×2",
+            "alphanumName": "Example2×2",
+            "file": "01 - Example: 2×2.txt"
+        },
+        {
+            "name": "2×2",
+            "alphanumName": "TwoByTwo",
+            "file": "02 - 2×2.txt"
+        },
+        {
+            "name": "Another 2×2",
+            "alphanumName": "Another2×2",
+            "file": "03 - Another 2×2.txt"
+        },
+        {
+            "name": "3×3",
+            "alphanumName": "ThreeByThree",
+            "file": "04 - 3×3.txt"
+        },
+        {
+            "name": "Another 3×3",
+            "alphanumName": "Another3×3",
+            "file": "05 - Another 3×3.txt"
+        },
+        {
+            "name": "3×3 permutation",
+            "alphanumName": "ThreeByThreePermutation",
+            "file": "06 - 3×3 permutation.txt"
+        },
+        {
+            "name": "4×4",
+            "alphanumName": "FourByFour",
+            "file": "07 - 4×4.txt"
+        },
+        {
+            "name": "Another 4×4",
+            "alphanumName": "Another4×4",
+            "file": "08 - Another 4×4.txt"
+        },
+        {
+            "name": "5×5",
+            "alphanumName": "FiveByFive",
+            "file": "09 - 5×5.txt"
+        },
+        {
+            "name": "Another 5×5",
+            "alphanumName": "Another5×5",
+            "file": "10 - Another 5×5.txt"
+        },
+        {
+            "name": "5×5 permutation",
+            "alphanumName": "FiveByFivePermutation",
+            "file": "11 - 5×5 permutation.txt"
+        },
+        {
+            "name": "6×6",
+            "alphanumName": "SixBySix",
+            "file": "12 - 6×6.txt"
+        },
+        {
+            "name": "Another 6×6",
+            "alphanumName": "Another6×6",
+            "file": "13 - Another 6×6.txt"
+        },
+        {
+            "name": "Mind the repetition",
+            "alphanumName": "MindTheRepetition",
+            "file": "14 - Mind the repetition.txt"
+        }
+    ]
+}
