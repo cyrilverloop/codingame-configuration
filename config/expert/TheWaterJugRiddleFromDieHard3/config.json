@@ -1,0 +1,28 @@
+{
+    "path": "expert/TheWaterJugRiddleFromDieHard3",
+    "name": "The water jug riddle from Die Hard 3",
+    "alphanumName": "TheWaterJugRiddleFromDieHard3",
+    "link": "https://www.codingame.com/ide/puzzle/the-water-jug-riddle-from-die-hard-3",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "2 recipients",
+            "alphanumName": "TwoRecipients",
+            "file": "02 - 2 recipients.txt"
+        },
+        {
+            "name": "3 recipients",
+            "alphanumName": "ThreeRecipients",
+            "file": "03 - 3 recipients.txt"
+        },
+        {
+            "name": "4 recipients",
+            "alphanumName": "FourRecipients",
+            "file": "04 - 4 recipients.txt"
+        }
+    ]
+}
