@@ -1,0 +1,33 @@
+{
+    "path": "expert/MinimaxSimpleExample",
+    "name": "Minimax Simple Example",
+    "alphanumName": "MinimaxSimpleExample",
+    "link": "https://www.codingame.com/ide/puzzle/minimax-simple-example",
+    "tests": [
+        {
+            "name": "4 turns",
+            "alphanumName": "FourTurns",
+            "file": "01 - 4 turns.txt"
+        },
+        {
+            "name": "2 turns",
+            "alphanumName": "TwoTurns",
+            "file": "02 - 2 turns.txt"
+        },
+        {
+            "name": "8 turns",
+            "alphanumName": "EightTurns",
+            "file": "03 - 8 turns.txt"
+        },
+        {
+            "name": "16 turns",
+            "alphanumName": "SixteenTurns",
+            "file": "04 - 16 turns.txt"
+        },
+        {
+            "name": "24 turns - 100 words",
+            "alphanumName": "TwentyFourTurns100Words",
+            "file": "05 - 24 turns - 100 words.txt"
+        }
+    ]
+}

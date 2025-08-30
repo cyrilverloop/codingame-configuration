@@ -35,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Running Up That Hill".
 - configuration for "Tiling by Squares".
 - configuration for "The water jug riddle from Die Hard 3".
+- configuration for "Minimax Simple Example".
 
 ### Fixed
 - configuration path for "Nintendo Sponsored Challenge".
