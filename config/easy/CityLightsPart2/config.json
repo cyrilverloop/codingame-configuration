@@ -1,0 +1,53 @@
+{
+    "path": "easy/CityLightsPart2",
+    "name": "City Lights Part 2",
+    "alphanumName": "CityLightsPart2",
+    "link": "https://www.codingame.com/ide/puzzle/city-lights-part-2",
+    "tests": [
+        {
+            "name": "Simple",
+            "alphanumName": "Simple",
+            "file": "01 - Simple.txt"
+        },
+        {
+            "name": "Simple Again",
+            "alphanumName": "SimpleAgain",
+            "file": "02 - Simple Again.txt"
+        },
+        {
+            "name": "More Towns",
+            "alphanumName": "MoreTowns",
+            "file": "03 - More Towns.txt"
+        },
+        {
+            "name": "Rural",
+            "alphanumName": "Rural",
+            "file": "04 - Rural.txt"
+        },
+        {
+            "name": "Urban",
+            "alphanumName": "Urban",
+            "file": "05 - Urban.txt"
+        },
+        {
+            "name": "TOO MUCH LIGHT",
+            "alphanumName": "TOOMUCHLIGHT",
+            "file": "06 - TOO MUCH LIGHT.txt"
+        },
+        {
+            "name": "im blind",
+            "alphanumName": "imBlind",
+            "file": "07 - im blind.txt"
+        },
+        {
+            "name": "pls stop wasting electricity",
+            "alphanumName": "plsStopWastingElectricity",
+            "file": "08 - pls stop wasting electricity.txt"
+        },
+        {
+            "name": "2D again???",
+            "alphanumName": "2DAgain",
+            "file": "09 - 2D again.txt"
+        }
+    ]
+}

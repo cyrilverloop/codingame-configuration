@@ -36,6 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Tiling by Squares".
 - configuration for "The water jug riddle from Die Hard 3".
 - configuration for "Minimax Simple Example".
+- configuration for "City Lights Part 2".
 
 ### Fixed
 - configuration path for "Nintendo Sponsored Challenge".
