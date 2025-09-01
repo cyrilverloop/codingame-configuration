@@ -1,0 +1,83 @@
+{
+    "path": "medium/SwappingElements",
+    "name": "Swapping Elements",
+    "alphanumName": "SwappingElements",
+    "link": "https://www.codingame.com/ide/puzzle/swapping-elements",
+    "tests": [
+        {
+            "name": "Kindergarten",
+            "alphanumName": "Kindergarten",
+            "file": "01 - Kindergarten.txt"
+        },
+        {
+            "name": "ABC",
+            "alphanumName": "ABC",
+            "file": "02 - ABC.txt"
+        },
+        {
+            "name": "Thread",
+            "alphanumName": "Thread",
+            "file": "03 - Thread.txt"
+        },
+        {
+            "name": "Bob",
+            "alphanumName": "Bob",
+            "file": "04 - Bob.txt"
+        },
+        {
+            "name": "Not Bob",
+            "alphanumName": "NotBob",
+            "file": "05 - Not Bob.txt"
+        },
+        {
+            "name": "Vacuum of the Space Key",
+            "alphanumName": "VacuumOfTheSpaceKey",
+            "file": "06 - Vacuum of the Space Key.txt"
+        },
+        {
+            "name": "Periodic Table",
+            "alphanumName": "PeriodicTable",
+            "file": "07 - Periodic Table.txt"
+        },
+        {
+            "name": "Chemical Compounds",
+            "alphanumName": "ChemicalCompounds",
+            "file": "08 - Chemical Compounds.txt"
+        },
+        {
+            "name": "Gibberish",
+            "alphanumName": "Gibberish",
+            "file": "09 - Gibberish.txt"
+        },
+        {
+            "name": "Negative",
+            "alphanumName": "Negative",
+            "file": "10 - Negative.txt"
+        },
+        {
+            "name": "How’s your day going?",
+            "alphanumName": "HowsYourDayGoing",
+            "file": "11 - How’s your day going.txt"
+        },
+        {
+            "name": "The World Ends",
+            "alphanumName": "TheWorldEnds",
+            "file": "12 - The World Ends.txt"
+        },
+        {
+            "name": "Numbering the Last One",
+            "alphanumName": "NumberingTheLastOne",
+            "file": "13 - Numbering the Last One.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "Random",
+            "file": "14 - Random.txt"
+        },
+        {
+            "name": "Coding",
+            "alphanumName": "Coding",
+            "file": "15 - Coding.txt"
+        }
+    ]
+}
