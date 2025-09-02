@@ -1,0 +1,43 @@
+{
+    "path": "medium/TableSolver",
+    "name": "Table Solver",
+    "alphanumName": "TableSolver",
+    "link": "https://www.codingame.com/ide/puzzle/table-solver",
+    "tests": [
+        {
+            "name": "Addition",
+            "alphanumName": "Addition",
+            "file": "01 - Addition.txt"
+        },
+        {
+            "name": "Subtraction",
+            "alphanumName": "Subtraction",
+            "file": "02 - Subtraction.txt"
+        },
+        {
+            "name": "Multiplication",
+            "alphanumName": "Multiplication",
+            "file": "03 - Multiplication.txt"
+        },
+        {
+            "name": "small",
+            "alphanumName": "small",
+            "file": "04 - small.txt"
+        },
+        {
+            "name": "BIG",
+            "alphanumName": "BIG",
+            "file": "05 - BIG.txt"
+        },
+        {
+            "name": "CG",
+            "alphanumName": "CG",
+            "file": "06 - CG.txt"
+        },
+        {
+            "name": "0",
+            "alphanumName": "Zero",
+            "file": "07 - 0.txt"
+        }
+    ]
+}
