@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Swapping Elements".
 - configuration for "Table Solver".
+- configuration for "Hill Notation and Hill Order".
 
 ## [1.18.0] - 2025-08-31
 ### Added
