@@ -1,0 +1,48 @@
+{
+    "path": "hard/UnfloodTheWorld",
+    "name": "Unflood The World",
+    "alphanumName": "UnfloodTheWorld",
+    "link": "https://www.codingame.com/ide/puzzle/unflood-the-world",
+    "tests": [
+        {
+            "name": "One drain",
+            "alphanumName": "OneDrain",
+            "file": "01 - One drain.txt"
+        },
+        {
+            "name": "Hill",
+            "alphanumName": "Hill",
+            "file": "02 - Hill.txt"
+        },
+        {
+            "name": "Wall",
+            "alphanumName": "Wall",
+            "file": "03 - Wall.txt"
+        },
+        {
+            "name": "Flat field",
+            "alphanumName": "FlatField",
+            "file": "04 - Flat field.txt"
+        },
+        {
+            "name": "Chess board",
+            "alphanumName": "ChessBoard",
+            "file": "05 - Chess board.txt"
+        },
+        {
+            "name": "Fractal",
+            "alphanumName": "Fractal",
+            "file": "06 - Fractal.txt"
+        },
+        {
+            "name": "Maze",
+            "alphanumName": "Maze",
+            "file": "07 - Maze.txt"
+        },
+        {
+            "name": "Plateaus",
+            "alphanumName": "Plateaus",
+            "file": "08 - Plateaus.txt"
+        }
+    ]
+}
