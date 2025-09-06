@@ -1,5 +1,5 @@
 {
-    "path": "hard/Hangman",
+    "path": "medium/Hangman",
     "name": "Hangman",
     "alphanumName": "Hangman",
     "link": "https://www.codingame.com/ide/puzzle/hangman",

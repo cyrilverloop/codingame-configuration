@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Unflood The World".
 - configuration for "Beautiful base : Is a beautiful sum ?".
 
+### Changed
+- difficulty of "Hangman" from hard to medium.
+
 ## [1.18.0] - 2025-08-31
 ### Added
 - configuration for "Takuzu Solver (Easy mode)".
