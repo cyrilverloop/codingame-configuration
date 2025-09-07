@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Hill Notation and Hill Order".
 - configuration for "Unflood The World".
 - configuration for "Beautiful base : Is a beautiful sum ?".
+- configuration for "Inequality Overlap Area".
 
 ### Changed
 - difficulty of "Hangman" from hard to medium.

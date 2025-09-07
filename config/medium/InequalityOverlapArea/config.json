@@ -1,0 +1,68 @@
+{
+    "path": "medium/InequalityOverlapArea",
+    "name": "Inequality Overlap Area",
+    "alphanumName": "InequalityOverlapArea",
+    "link": "https://www.codingame.com/ide/puzzle/inequality-overlap-area",
+    "tests": [
+        {
+            "name": "Simple Overlap",
+            "alphanumName": "SimpleOverlap",
+            "file": "01 - Simple Overlap.txt"
+        },
+        {
+            "name": "Floating",
+            "alphanumName": "Floating",
+            "file": "02 - Floating.txt"
+        },
+        {
+            "name": "Pentagon",
+            "alphanumName": "Pentagon",
+            "file": "03 - Pentagon.txt"
+        },
+        {
+            "name": "NO",
+            "alphanumName": "NO",
+            "file": "04 - NO.txt"
+        },
+        {
+            "name": "Infinite",
+            "alphanumName": "Infinite",
+            "file": "05 - Infinite.txt"
+        },
+        {
+            "name": "NoOverlap",
+            "alphanumName": "NoOverlap",
+            "file": "06 - NoOverlap.txt"
+        },
+        {
+            "name": "Not Finite",
+            "alphanumName": "NotFinite",
+            "file": "07 - Not Finite.txt"
+        },
+        {
+            "name": "Same Graph",
+            "alphanumName": "SameGraph",
+            "file": "08 - Same Graph.txt"
+        },
+        {
+            "name": "One Line",
+            "alphanumName": "OneLine",
+            "file": "09 - One Line.txt"
+        },
+        {
+            "name": "One Point",
+            "alphanumName": "OnePoint",
+            "file": "10 - One Point.txt"
+        },
+        {
+            "name": "Quadrilateral",
+            "alphanumName": "Quadrilateral",
+            "file": "11 - Quadrilateral.txt"
+        },
+        {
+            "name": "Rectangle",
+            "alphanumName": "Rectangle",
+            "file": "12 - Rectangle.txt"
+        }
+    ]
+}
