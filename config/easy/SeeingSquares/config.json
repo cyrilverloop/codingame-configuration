@@ -1,0 +1,98 @@
+{
+    "path": "easy/SeeingSquares",
+    "name": "Seeing Squares",
+    "alphanumName": "SeeingSquares",
+    "link": "https://www.codingame.com/ide/puzzle/seeing-squares",
+    "tests": [
+        {
+            "name": "Singular Square",
+            "alphanumName": "SingularSquare",
+            "file": "01 - Singular Square.txt"
+        },
+        {
+            "name": "Side By Side",
+            "alphanumName": "SideBySide",
+            "file": "02 - Side By Side.txt"
+        },
+        {
+            "name": "Some Missing Sides",
+            "alphanumName": "SomeMissingSides",
+            "file": "03 - Some Missing Sides.txt"
+        },
+        {
+            "name": "Slightly Bigger",
+            "alphanumName": "SlightlyBigger",
+            "file": "04 - Slightly Bigger.txt"
+        },
+        {
+            "name": "Snaking Sequence",
+            "alphanumName": "SnakingSequence",
+            "file": "05 - Snaking Sequence.txt"
+        },
+        {
+            "name": "Squares On Squares",
+            "alphanumName": "SquaresOnSquares",
+            "file": "06 - Squares On Squares.txt"
+        },
+        {
+            "name": "Spiralling",
+            "alphanumName": "Spiralling",
+            "file": "07 - Spiralling.txt"
+        },
+        {
+            "name": "Segmentation",
+            "alphanumName": "Segmentation",
+            "file": "08 - Segmentation.txt"
+        },
+        {
+            "name": "Squished",
+            "alphanumName": "Squished",
+            "file": "09 - Squished.txt"
+        },
+        {
+            "name": "So Many??",
+            "alphanumName": "SoMany",
+            "file": "10 - So Many.txt"
+        },
+        {
+            "name": "Slightly Off",
+            "alphanumName": "SlightlyOff",
+            "file": "11 - Slightly Off.txt"
+        },
+        {
+            "name": "Slightly Smaller",
+            "alphanumName": "SlightlySmaller",
+            "file": "12 - Slightly Smaller.txt"
+        },
+        {
+            "name": "Statue",
+            "alphanumName": "Statue",
+            "file": "13 - Statue.txt"
+        },
+        {
+            "name": "Some Abstraction",
+            "alphanumName": "SomeAbstraction",
+            "file": "14 - Some Abstraction.txt"
+        },
+        {
+            "name": "Spray And Pray",
+            "alphanumName": "SprayAndPray",
+            "file": "15 - Spray And Pray.txt"
+        },
+        {
+            "name": "Somehow The Lines Are Visible",
+            "alphanumName": "SomehowTheLinesAreVisible",
+            "file": "16 - Somehow The Lines Are Visible.txt"
+        },
+        {
+            "name": "Stripes And Spots",
+            "alphanumName": "StripesAndSpots",
+            "file": "17 - Stripes And Spots.txt"
+        },
+        {
+            "name": "So Many!!",
+            "alphanumName": "SoMany",
+            "file": "18 - So Many!!.txt"
+        }
+    ]
+}
