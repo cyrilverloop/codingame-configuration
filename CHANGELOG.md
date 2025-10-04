@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Seeing Squares".
 - configuration for "Grandma’s Serial Keys".
 
+### Fixed
+- name of "Organic Compounds 🔬".
+
 ## [1.19.0] - 2025-09-30
 ### Added
 - configuration for "Swapping Elements".
