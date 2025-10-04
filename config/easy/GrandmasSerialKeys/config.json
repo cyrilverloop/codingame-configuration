@@ -1,0 +1,43 @@
+{
+    "path": "easy/GrandmasSerialKeys",
+    "name": "Grandma’s Serial Keys",
+    "alphanumName": "GrandmasSerialKeys",
+    "link": "https://www.codingame.com/ide/puzzle/grandmas-serial-keys",
+    "tests": [
+        {
+            "name": "Easy One",
+            "alphanumName": "EasyOne",
+            "file": "01 - Easy One.txt"
+        },
+        {
+            "name": "Underscores",
+            "alphanumName": "Underscores",
+            "file": "02 - Underscores.txt"
+        },
+        {
+            "name": "All Characters",
+            "alphanumName": "AllCharacters",
+            "file": "03 - All Characters.txt"
+        },
+        {
+            "name": "One Character",
+            "alphanumName": "OneCharacter",
+            "file": "04 - One Character.txt"
+        },
+        {
+            "name": "Looooong One",
+            "alphanumName": "LooooongOne",
+            "file": "05 - Looooong One.txt"
+        },
+        {
+            "name": "One Key to Another Key",
+            "alphanumName": "OneKeyToAnotherKey",
+            "file": "06 - One Key to Another Key.txt"
+        },
+        {
+            "name": "Starts with 0",
+            "alphanumName": "StartsWith0",
+            "file": "07 - Starts with 0.txt"
+        }
+    ]
+}
