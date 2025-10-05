@@ -1,0 +1,48 @@
+{
+    "path": "medium/WesnothFightDeathProbabilities",
+    "name": "Wesnoth fight death probabilities",
+    "alphanumName": "WesnothFightDeathProbabilities",
+    "link": "https://www.codingame.com/ide/puzzle/wesnoth-fight-death-probabilities",
+    "tests": [
+        {
+            "name": "Rifleman vs Shaman",
+            "alphanumName": "RiflemanVsShaman",
+            "file": "01 - Rifleman vs Shaman.txt"
+        },
+        {
+            "name": "Shaman vs Rifleman",
+            "alphanumName": "ShamanVsRifleman",
+            "file": "02 - Shaman vs Rifleman.txt"
+        },
+        {
+            "name": "Rifleman vs Rifleman",
+            "alphanumName": "RiflemanVsRifleman",
+            "file": "03 - Rifleman vs Rifleman.txt"
+        },
+        {
+            "name": "Archer vs Swordsman",
+            "alphanumName": "ArcherVsSwordsman",
+            "file": "04 - Archer vs Swordsman.txt"
+        },
+        {
+            "name": "Light infantry vs Heavy infantry",
+            "alphanumName": "LightInfantryVsHeavyInfantry",
+            "file": "05 - Light infantry vs Heavy infantry.txt"
+        },
+        {
+            "name": "LightInfantryVsWoundedHeavyInfantry",
+            "alphanumName": "Light infantry vs wounded Heavy infantry",
+            "file": "06 - Light infantry vs wounded Heavy infantry.txt"
+        },
+        {
+            "name": "Wounded Heavy infantry vs Light infantry",
+            "alphanumName": "WoundedHeavyInfantryVsLightInfantry",
+            "file": "07 - Wounded Heavy infantry vs Light infantry.txt"
+        },
+        {
+            "name": "A harmless fight",
+            "alphanumName": "AHarmlessFight",
+            "file": "08 - A harmless fight.txt"
+        }
+    ]
+}

@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Peaks and Valleys in 2D Grid".
 - configuration for "Seeing Squares".
 - configuration for "Grandma’s Serial Keys".
+- configuration for "Wesnoth fight death probabilities".
 
 ### Fixed
 - name of "Organic Compounds 🔬".
