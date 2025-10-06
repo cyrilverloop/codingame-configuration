@@ -1,0 +1,98 @@
+{
+    "path": "medium/TiredPacMan",
+    "name": "Tired Pac-Man",
+    "alphanumName": "TiredPacMan",
+    "link": "https://www.codingame.com/ide/puzzle/tired-pac-man",
+    "tests": [
+        {
+            "name": "Basic Grid",
+            "alphanumName": "BasicGrid",
+            "file": "01 - Basic Grid.txt"
+        },
+        {
+            "name": "Basic Grid with Barriers",
+            "alphanumName": "BasicGridWithBarriers",
+            "file": "02 - Basic Grid with Barriers.txt"
+        },
+        {
+            "name": "Ghosts Gatekeeping",
+            "alphanumName": "GhostsGatekeeping",
+            "file": "03 - Ghosts Gatekeeping.txt"
+        },
+        {
+            "name": "Ghosts Extreme Gatekeeping",
+            "alphanumName": "GhostsExtremeGatekeeping",
+            "file": "04 - Ghosts Extreme Gatekeeping.txt"
+        },
+        {
+            "name": "No Fruit",
+            "alphanumName": "NoFruit",
+            "file": "05 - No Fruit.txt"
+        },
+        {
+            "name": "No Energy",
+            "alphanumName": "NoEnergy",
+            "file": "06 - No Energy.txt"
+        },
+        {
+            "name": "No Moves",
+            "alphanumName": "NoMoves",
+            "file": "07 - No Moves.txt"
+        },
+        {
+            "name": "Don’t Be Greedy",
+            "alphanumName": "DontBeGreedy",
+            "file": "08 - Don’t Be Greedy.txt"
+        },
+        {
+            "name": "Basic Wrap",
+            "alphanumName": "BasicWrap",
+            "file": "09 - Basic Wrap.txt"
+        },
+        {
+            "name": "Empty Grid",
+            "alphanumName": "EmptyGrid",
+            "file": "10 - Empty Grid.txt"
+        },
+        {
+            "name": "Medium Grid",
+            "alphanumName": "MediumGrid",
+            "file": "11 - Medium Grid.txt"
+        },
+        {
+            "name": "Large Grid",
+            "alphanumName": "LargeGrid",
+            "file": "12 - Large Grid.txt"
+        },
+        {
+            "name": "All Fruit Eaten",
+            "alphanumName": "AllFruitEaten",
+            "file": "13 - All Fruit Eaten.txt"
+        },
+        {
+            "name": "Dead Ends",
+            "alphanumName": "DeadEnds",
+            "file": "14 - Dead Ends.txt"
+        },
+        {
+            "name": "Ultimate Wrap",
+            "alphanumName": "UltimateWrap",
+            "file": "15 - Ultimate Wrap.txt"
+        },
+        {
+            "name": "Complex 1",
+            "alphanumName": "Complex1",
+            "file": "16 - Complex 1.txt"
+        },
+        {
+            "name": "Complex 2",
+            "alphanumName": "Complex2",
+            "file": "17 - Complex 2.txt"
+        },
+        {
+            "name": "Complex 3",
+            "alphanumName": "Complex3",
+            "file": "18 - Complex 3.txt"
+        }
+    ]
+}
