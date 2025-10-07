@@ -1,0 +1,53 @@
+{
+    "path": "medium/NDimensionalMaze",
+    "name": "N-dimensional maze",
+    "alphanumName": "NDimensionalMaze",
+    "link": "https://www.codingame.com/ide/puzzle/n-dimensional-maze",
+    "tests": [
+        {
+            "name": "Simple 3D",
+            "alphanumName": "Simple3D",
+            "file": "01 - Simple 3D.txt"
+        },
+        {
+            "name": "Simple 2D",
+            "alphanumName": "Simple2D",
+            "file": "02 - Simple 2D.txt"
+        },
+        {
+            "name": "4D",
+            "alphanumName": "FourD",
+            "file": "03 - 4D.txt"
+        },
+        {
+            "name": "Hyper-hypercube",
+            "alphanumName": "HyperHypercube",
+            "file": "04 - Hyper-hypercube.txt"
+        },
+        {
+            "name": "1D",
+            "alphanumName": "OneD",
+            "file": "05 - 1D.txt"
+        },
+        {
+            "name": "3D NO PATH",
+            "alphanumName": "3DNOPATH",
+            "file": "06 - 3D NO PATH.txt"
+        },
+        {
+            "name": "Blocked",
+            "alphanumName": "Blocked",
+            "file": "07 - Blocked.txt"
+        },
+        {
+            "name": "7D",
+            "alphanumName": "SevenD",
+            "file": "08 - 7D.txt"
+        },
+        {
+            "name": "8D",
+            "alphanumName": "EightD",
+            "file": "09 - 8D.txt"
+        }
+    ]
+}
