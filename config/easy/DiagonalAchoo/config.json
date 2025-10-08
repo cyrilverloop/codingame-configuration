@@ -1,0 +1,43 @@
+{
+    "path": "easy/DiagonalAchoo",
+    "name": "Diagonal-achoo!!",
+    "alphanumName": "DiagonalAchoo",
+    "link": "https://www.codingame.com/ide/puzzle/diagonal-achoo",
+    "tests": [
+        {
+            "name": "Easy Comparision",
+            "alphanumName": "EasyComparision",
+            "file": "01 - Easy Comparision.txt"
+        },
+        {
+            "name": "Simulation Chamber - I",
+            "alphanumName": "SimulationChamberI",
+            "file": "02 - Simulation Chamber - I.txt"
+        },
+        {
+            "name": "Simulation Chamber - II",
+            "alphanumName": "SimulationChamberII",
+            "file": "03 - Simulation Chamber - II.txt"
+        },
+        {
+            "name": "Large Scale Simulation",
+            "alphanumName": "LargeScaleSimulation",
+            "file": "04 - Large Scale Simulation.txt"
+        },
+        {
+            "name": "One Man Chambers",
+            "alphanumName": "OneManChambers",
+            "file": "05 - One Man Chambers.txt"
+        },
+        {
+            "name": "Weird Patterns - I",
+            "alphanumName": "WeirdPatternsI",
+            "file": "06 - Weird Patterns - I.txt"
+        },
+        {
+            "name": "Weird Patterns - II",
+            "alphanumName": "WeirdPatternsII",
+            "file": "07 - Weird Patterns - II.txt"
+        }
+    ]
+}

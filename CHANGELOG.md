@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Wesnoth fight death probabilities".
 - configuration for "Tired Pac-Man".
 - configuration for "N-dimensional maze".
+- configuration for "Diagonal-achoo!!".
 
 ### Fixed
 - name of "Organic Compounds 🔬".
