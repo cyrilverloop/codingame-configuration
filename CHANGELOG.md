@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Tired Pac-Man".
 - configuration for "N-dimensional maze".
 - configuration for "Diagonal-achoo!!".
+- configuration for "Integer pairs of AB/(A+B)".
 
 ### Fixed
 - name of "Organic Compounds 🔬".

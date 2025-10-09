@@ -1,0 +1,93 @@
+{
+    "path": "medium/IntegerPairsOfABAB",
+    "name": "Integer pairs of AB/(A+B)",
+    "alphanumName": "IntegerPairsOfABAB",
+    "link": "https://www.codingame.com/ide/puzzle/integer-pairs-of-abab",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Small Prime",
+            "alphanumName": "SmallPrime",
+            "file": "02 - Small Prime.txt"
+        },
+        {
+            "name": "Small Composite",
+            "alphanumName": "SmallComposite",
+            "file": "03 - Small Composite.txt"
+        },
+        {
+            "name": "Neither Prime nor Composite",
+            "alphanumName": "NeitherPrimeNorComposite",
+            "file": "04 - Neither Prime nor Composite.txt"
+        },
+        {
+            "name": "p^2",
+            "alphanumName": "p2",
+            "file": "05 - p^2.txt"
+        },
+        {
+            "name": "pq",
+            "alphanumName": "pq",
+            "file": "06 - pq.txt"
+        },
+        {
+            "name": "p^2q",
+            "alphanumName": "p2q",
+            "file": "07 - p^2q.txt"
+        },
+        {
+            "name": "Medium Prime",
+            "alphanumName": "MediumPrime",
+            "file": "08 - Medium Prime.txt"
+        },
+        {
+            "name": "Medium Highly Composite",
+            "alphanumName": "MediumHighlyComposite",
+            "file": "09 - Medium Highly Composite.txt"
+        },
+        {
+            "name": "p^2q^2",
+            "alphanumName": "p2q2",
+            "file": "10 - p^2q^2.txt"
+        },
+        {
+            "name": "pqr",
+            "alphanumName": "pqr",
+            "file": "11 - pqr.txt"
+        },
+        {
+            "name": "Large Prime",
+            "alphanumName": "LargePrime",
+            "file": "12 - Large Prime.txt"
+        },
+        {
+            "name": "Large Highly Composite",
+            "alphanumName": "LargeHighlyComposite",
+            "file": "13 - Large Highly Composite.txt"
+        },
+        {
+            "name": "Very Large Prime",
+            "alphanumName": "VeryLargePrime",
+            "file": "14 - Very Large Prime.txt"
+        },
+        {
+            "name": "Very Large Highly Composite",
+            "alphanumName": "VeryLargeHighlyComposite",
+            "file": "15 - Very Large Highly Composite.txt"
+        },
+        {
+            "name": "Many Unique Prime Factors",
+            "alphanumName": "ManyUniquePrimeFactors",
+            "file": "16 - Many Unique Prime Factors.txt"
+        },
+        {
+            "name": "Largest",
+            "alphanumName": "Largest",
+            "file": "17 - Largest.txt"
+        }
+    ]
+}
