@@ -1,0 +1,93 @@
+{
+    "path": "easy/OrganicCompound",
+    "name": "Organic Compound",
+    "alphanumName": "OrganicCompound",
+    "link": "https://www.codingame.com/ide/puzzle/organic-compound",
+    "tests": [
+        {
+            "name": "ethane",
+            "alphanumName": "ethane",
+            "file": "01 - ethane.txt"
+        },
+        {
+            "name": "butene",
+            "alphanumName": "butene",
+            "file": "02 - butene.txt"
+        },
+        {
+            "name": "hexanol",
+            "alphanumName": "hexanol",
+            "file": "03 - hexanol.txt"
+        },
+        {
+            "name": "methanoic acid",
+            "alphanumName": "methanoicAcid",
+            "file": "04 - methanoic acid.txt"
+        },
+        {
+            "name": "decanone",
+            "alphanumName": "decanone",
+            "file": "05 - decanone.txt"
+        },
+        {
+            "name": "octanal",
+            "alphanumName": "octanal",
+            "file": "06 - octanal.txt"
+        },
+        {
+            "name": "nonane",
+            "alphanumName": "nonane",
+            "file": "07 - nonane.txt"
+        },
+        {
+            "name": "pentanol",
+            "alphanumName": "pentanol",
+            "file": "08 - pentanol.txt"
+        },
+        {
+            "name": "octene",
+            "alphanumName": "octene",
+            "file": "09 - octene.txt"
+        },
+        {
+            "name": "propanoic acid",
+            "alphanumName": "propanoicAcid",
+            "file": "10 - propanoic acid.txt"
+        },
+        {
+            "name": "methanal",
+            "alphanumName": "methanal",
+            "file": "11 - methanal.txt"
+        },
+        {
+            "name": "propanone",
+            "alphanumName": "propanone",
+            "file": "12 - propanone.txt"
+        },
+        {
+            "name": "OTHERS (I) - ethyl ethanoate",
+            "alphanumName": "OTHERSIEthylEthanoate",
+            "file": "13 - OTHERS (I) - ethyl ethanoate.txt"
+        },
+        {
+            "name": "OTHERS (II) - ethane-1,2-diol",
+            "alphanumName": "OTHERSIIEthane12Diol",
+            "file": "14 - OTHERS (II) - ethane-1,2-diol.txt"
+        },
+        {
+            "name": "OTHERS (III) - Oxalic acid",
+            "alphanumName": "OTHERSIIIOxalicAcid",
+            "file": "15 - OTHERS (III) - Oxalic acid.txt"
+        },
+        {
+            "name": "OTHERS (IV) - Formamide",
+            "alphanumName": "OTHERSIVFormamide",
+            "file": "16 - OTHERS (IV) - Formamide.txt"
+        },
+        {
+            "name": "OTHERS (V) - Phenol",
+            "alphanumName": "OTHERSVPhenol",
+            "file": "17 - OTHERS (V) - Phenol.txt"
+        }
+    ]
+}
