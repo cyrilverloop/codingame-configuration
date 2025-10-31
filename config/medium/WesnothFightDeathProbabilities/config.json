@@ -30,8 +30,8 @@
             "file": "05 - Light infantry vs Heavy infantry.txt"
         },
         {
-            "name": "LightInfantryVsWoundedHeavyInfantry",
-            "alphanumName": "Light infantry vs wounded Heavy infantry",
+            "name": "Light infantry vs wounded Heavy infantry",
+            "alphanumName": "LightInfantryVsWoundedHeavyInfantry",
             "file": "06 - Light infantry vs wounded Heavy infantry.txt"
         },
         {
