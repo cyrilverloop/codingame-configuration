@@ -1,0 +1,53 @@
+{
+    "path": "medium/MovingTarget",
+    "name": "Moving Target",
+    "alphanumName": "MovingTarget",
+    "link": "https://www.codingame.com/ide/puzzle/moving-target",
+    "tests": [
+        {
+            "name": "Perpendicular case",
+            "alphanumName": "PerpendicularCase",
+            "file": "01 - Perpendicular case.txt"
+        },
+        {
+            "name": "Barely a hit",
+            "alphanumName": "BarelyAHit",
+            "file": "02 - Barely a hit.txt"
+        },
+        {
+            "name": "Too slow",
+            "alphanumName": "TooSlow",
+            "file": "03 - Too slow.txt"
+        },
+        {
+            "name": "Plane at rest",
+            "alphanumName": "PlaneAtRest",
+            "file": "04 - Plane at rest.txt"
+        },
+        {
+            "name": "Two solutions",
+            "alphanumName": "TwoSolutions",
+            "file": "05 - Two solutions.txt"
+        },
+        {
+            "name": "Random 1",
+            "alphanumName": "Random1",
+            "file": "06 - Random 1.txt"
+        },
+        {
+            "name": "Random 2",
+            "alphanumName": "Random2",
+            "file": "07 - Random 2.txt"
+        },
+        {
+            "name": "Random 3",
+            "alphanumName": "Random3",
+            "file": "08 - Random 3.txt"
+        },
+        {
+            "name": "Random 4",
+            "alphanumName": "Random4",
+            "file": "09 - Random 4.txt"
+        }
+    ]
+}

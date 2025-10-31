@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- configuration for "Moving Target".
 - configuration for "The L-Game: Counting board states".
 - configuration for "Peaks and Valleys in 2D Grid".
 - configuration for "Seeing Squares".
