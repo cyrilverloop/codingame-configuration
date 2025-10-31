@@ -1,0 +1,43 @@
+{
+    "path": "easy/TheLGameCountingBoardStates",
+    "name": "The L-Game: Counting board states",
+    "alphanumName": "TheLGameCountingBoardStates",
+    "link": "https://www.codingame.com/ide/puzzle/the-l-game-counting-board-states",
+    "tests": [
+        {
+            "name": "Simple 3x3",
+            "alphanumName": "Simple3x3",
+            "file": "01 - Simple 3x3.txt"
+        },
+        {
+            "name": "Slightly larger",
+            "alphanumName": "SlightlyLarger",
+            "file": "02 - Slightly larger.txt"
+        },
+        {
+            "name": "Height > Width",
+            "alphanumName": "HeightGtWidth",
+            "file": "03 - Height gt Width.txt"
+        },
+        {
+            "name": "Width > Height",
+            "alphanumName": "WidthGtHeight",
+            "file": "04 - Width gt Height.txt"
+        },
+        {
+            "name": "Too many blockers",
+            "alphanumName": "TooManyBlockers",
+            "file": "05 - Too many blockers.txt"
+        },
+        {
+            "name": "Many configurations",
+            "alphanumName": "ManyConfigurations",
+            "file": "06 - Many configurations.txt"
+        },
+        {
+            "name": "That’s a lot!",
+            "alphanumName": "ThatsALot",
+            "file": "07 - That’s a lot!.txt"
+        }
+    ]
+}
