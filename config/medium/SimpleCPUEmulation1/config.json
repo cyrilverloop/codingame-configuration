@@ -1,0 +1,28 @@
+{
+    "path": "medium/SimpleCPUEmulation1",
+    "name": "Simple CPU Emulation 1",
+    "alphanumName": "SimpleCPUEmulation1",
+    "link": "https://www.codingame.com/ide/puzzle/simple-cpu-emulation-1",
+    "tests": [
+        {
+            "name": "5+5",
+            "alphanumName": "FivePlusFive",
+            "file": "01 - 5+5.txt"
+        },
+        {
+            "name": "(11-6+2) | 8",
+            "alphanumName": "ElevenMinus6Plus2Pipe8",
+            "file": "02 - (11-6+2) pipe 8.txt"
+        },
+        {
+            "name": "Overflow 145+192",
+            "alphanumName": "Overflow145Plus192",
+            "file": "03 - Overflow 145+192.txt"
+        },
+        {
+            "name": "15-18",
+            "alphanumName": "FifteenMinusEighteen",
+            "file": "04 - 15-18.txt"
+        }
+    ]
+}
