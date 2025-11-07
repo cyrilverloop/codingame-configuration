@@ -1,0 +1,28 @@
+{
+    "path": "medium/AgentXMission3TheBottleInTheSea",
+    "name": "Agent X, Mission 3—The Bottle In The Sea",
+    "alphanumName": "AgentXMission3TheBottleInTheSea",
+    "link": "https://www.codingame.com/ide/puzzle/agent-x-mission-3the-bottle-in-the-sea",
+    "tests": [
+        {
+            "name": "Test 1",
+            "alphanumName": "Test1",
+            "file": "01 - Test 1.txt"
+        },
+        {
+            "name": "Test 2",
+            "alphanumName": "Test2",
+            "file": "02 - Test 2.txt"
+        },
+        {
+            "name": "Big message",
+            "alphanumName": "BigMessage",
+            "file": "03 - Big message.txt"
+        },
+        {
+            "name": "Realy big message with random word",
+            "alphanumName": "RealyBigMessageWithRandomWord",
+            "file": "04 - Realy big message with random word.txt"
+        }
+    ]
+}
