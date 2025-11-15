@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Agent X, Mission 3—The Bottle In The Sea".
 - configuration for "Synchronized Scrambles".
+- configuration for "nᵀᴴ Ramanujan Prime".
 
 ## [1.20.0] - 2025-10-31
 ### Added
