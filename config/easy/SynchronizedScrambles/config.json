@@ -1,0 +1,33 @@
+{
+    "path": "easy/SynchronizedScrambles",
+    "name": "Synchronized Scrambles",
+    "alphanumName": "SynchronizedScrambles",
+    "link": "https://www.codingame.com/ide/puzzle/synchronized-scrambles",
+    "tests": [
+        {
+            "name": "Just a minute",
+            "alphanumName": "JustAMinute",
+            "file": "01 - Just a minute.txt"
+        },
+        {
+            "name": "Two instants per day",
+            "alphanumName": "TwoInstantsPerDay",
+            "file": "02 - Two instants per day.txt"
+        },
+        {
+            "name": "10-minute window",
+            "alphanumName": "TenMinuteWindow",
+            "file": "03 - 10-minute window.txt"
+        },
+        {
+            "name": "Many random points",
+            "alphanumName": "ManyRandomPoints",
+            "file": "04 - Many random points.txt"
+        },
+        {
+            "name": "Almost an hour",
+            "alphanumName": "AlmostAnHour",
+            "file": "05 - Almost an hour.txt"
+        }
+    ]
+}
