@@ -1,0 +1,48 @@
+{
+    "path": "easy/ChocolateBarCut",
+    "name": "Chocolate Bar Cut",
+    "alphanumName": "ChocolateBarCut",
+    "link": "https://www.codingame.com/ide/puzzle/chocolate-bar-cut",
+    "tests": [
+        {
+            "name": "Small",
+            "alphanumName": "Small",
+            "file": "01 - Small.txt"
+        },
+        {
+            "name": "Line",
+            "alphanumName": "Line",
+            "file": "02 - Line.txt"
+        },
+        {
+            "name": "Without vertices",
+            "alphanumName": "WithoutVertices",
+            "file": "03 - Without vertices.txt"
+        },
+        {
+            "name": "Some vertices",
+            "alphanumName": "SomeVertices",
+            "file": "04 - Some vertices.txt"
+        },
+        {
+            "name": "Big",
+            "alphanumName": "Big",
+            "file": "05 - Big.txt"
+        },
+        {
+            "name": "Huge",
+            "alphanumName": "Huge",
+            "file": "06 - Huge.txt"
+        },
+        {
+            "name": "Astronomical",
+            "alphanumName": "Astronomical",
+            "file": "07 - Astronomical.txt"
+        },
+        {
+            "name": "Gargantuan",
+            "alphanumName": "Gargantuan",
+            "file": "08 - Gargantuan.txt"
+        }
+    ]
+}
