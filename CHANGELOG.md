@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- configuration for "Gauss and the Stolen Numbers".
 - configuration for "Chocolate Bar Cut".
 - configuration for "Agent X, Mission 3—The Bottle In The Sea".
 - configuration for "Synchronized Scrambles".

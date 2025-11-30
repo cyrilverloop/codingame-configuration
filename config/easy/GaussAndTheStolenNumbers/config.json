@@ -1,0 +1,33 @@
+{
+    "path": "easy/GaussAndTheStolenNumbers",
+    "name": "Gauss and the Stolen Numbers",
+    "alphanumName": "GaussAndTheStolenNumbers",
+    "link": "https://www.codingame.com/ide/puzzle/gauss-and-the-stolen-numbers",
+    "tests": [
+        {
+            "name": "General number",
+            "alphanumName": "GeneralNumber",
+            "file": "01 - General number.txt"
+        },
+        {
+            "name": "Lucky 7",
+            "alphanumName": "Lucky7",
+            "file": "02 - Lucky 7.txt"
+        },
+        {
+            "name": "Lets go bigger!",
+            "alphanumName": "LetsGoBigger",
+            "file": "03 - Lets go bigger!.txt"
+        },
+        {
+            "name": "Extreme ends",
+            "alphanumName": "ExtremeEnds",
+            "file": "04 - Extreme ends.txt"
+        },
+        {
+            "name": "Middle pair",
+            "alphanumName": "MiddlePair",
+            "file": "05 - Middle pair.txt"
+        }
+    ]
+}
