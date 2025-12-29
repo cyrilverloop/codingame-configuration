@@ -1,0 +1,108 @@
+{
+    "path": "medium/ShortestPalindromicPath",
+    "name": "Shortest Palindromic Path",
+    "alphanumName": "ShortestPalindromicPath",
+    "link": "https://www.codingame.com/ide/puzzle/shortest-palindromic-path",
+    "tests": [
+        {
+            "name": "Example 1",
+            "alphanumName": "Example1",
+            "file": "01 - Example 1.txt"
+        },
+        {
+            "name": "Example 2",
+            "alphanumName": "Example2",
+            "file": "02 - Example 2.txt"
+        },
+        {
+            "name": "No Diagonal",
+            "alphanumName": "NoDiagonal",
+            "file": "03 - No Diagonal.txt"
+        },
+        {
+            "name": "Palindromic Required",
+            "alphanumName": "PalindromicRequired",
+            "file": "04 - Palindromic Required.txt"
+        },
+        {
+            "name": "All 26 Characters",
+            "alphanumName": "All26Characters",
+            "file": "05 - All 26 Characters.txt"
+        },
+        {
+            "name": "Smallest",
+            "alphanumName": "Smallest",
+            "file": "06 - Smallest.txt"
+        },
+        {
+            "name": "Adjacent Start and Goal",
+            "alphanumName": "AdjacentStartAndGoal",
+            "file": "07 - Adjacent Start and Goal.txt"
+        },
+        {
+            "name": "Uniform",
+            "alphanumName": "Uniform",
+            "file": "08 - Uniform.txt"
+        },
+        {
+            "name": "Odd",
+            "alphanumName": "Odd",
+            "file": "09 - Odd.txt"
+        },
+        {
+            "name": "Even",
+            "alphanumName": "Even",
+            "file": "10 - Even.txt"
+        },
+        {
+            "name": "Multiple Paths",
+            "alphanumName": "MultiplePaths",
+            "file": "11 - Multiple Paths.txt"
+        },
+        {
+            "name": "Loop at Middle",
+            "alphanumName": "LoopAtMiddle",
+            "file": "12 - Loop at Middle.txt"
+        },
+        {
+            "name": "Loop at Start",
+            "alphanumName": "LoopAtStart",
+            "file": "13 - Loop at Start.txt"
+        },
+        {
+            "name": "Loop at Goal",
+            "alphanumName": "LoopAtGoal",
+            "file": "14 - Loop at Goal.txt"
+        },
+        {
+            "name": "Multiple Loops",
+            "alphanumName": "MultipleLoops",
+            "file": "15 - Multiple Loops.txt"
+        },
+        {
+            "name": "Long Sparse Snake",
+            "alphanumName": "LongSparseSnake",
+            "file": "16 - Long Sparse Snake.txt"
+        },
+        {
+            "name": "Long Spiral",
+            "alphanumName": "LongSpiral",
+            "file": "17 - Long Spiral.txt"
+        },
+        {
+            "name": "Long Snake",
+            "alphanumName": "LongSnake",
+            "file": "18 - Long Snake.txt"
+        },
+        {
+            "name": "Many BFS Steps",
+            "alphanumName": "ManyBFSSteps",
+            "file": "19 - Many BFS Steps.txt"
+        },
+        {
+            "name": "Many More BFS Steps",
+            "alphanumName": "ManyMoreBFSSteps",
+            "file": "20 - Many More BFS Steps.txt"
+        }
+    ]
+}

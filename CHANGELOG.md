@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Lines Intersections".
 - configuration for "Tic Tac Toe Engine".
+- configuration for "Shortest Palindromic Path".
 
 ## [1.21.0] - 2025-11-30
 ### Added
