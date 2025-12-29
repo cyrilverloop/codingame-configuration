@@ -1,0 +1,68 @@
+{
+    "path": "easy/LinesIntersections",
+    "name": "Lines Intersections",
+    "alphanumName": "LinesIntersections",
+    "link": "https://www.codingame.com/ide/puzzle/lines-intersections",
+    "tests": [
+        {
+            "name": "Triangle",
+            "alphanumName": "Triangle",
+            "file": "01 - Triangle.txt"
+        },
+        {
+            "name": "Two intersects",
+            "alphanumName": "TwoIntersects",
+            "file": "02 - Two intersects.txt"
+        },
+        {
+            "name": "Two parallel",
+            "alphanumName": "TwoParallel",
+            "file": "03 - Two parallel.txt"
+        },
+        {
+            "name": "Square",
+            "alphanumName": "Square",
+            "file": "04 - Square.txt"
+        },
+        {
+            "name": "Square crossed",
+            "alphanumName": "SquareCrossed",
+            "file": "05 - Square crossed.txt"
+        },
+        {
+            "name": "One line",
+            "alphanumName": "OneLine",
+            "file": "06 - One line.txt"
+        },
+        {
+            "name": "Zero",
+            "alphanumName": "Zero",
+            "file": "07 - Zero.txt"
+        },
+        {
+            "name": "10 lines",
+            "alphanumName": "TenLines",
+            "file": "08 - 10 lines.txt"
+        },
+        {
+            "name": "10 lines with maximum intersections",
+            "alphanumName": "TenLinesWithMaximumIntersections",
+            "file": "09 - 10 lines with maximum intersections.txt"
+        },
+        {
+            "name": "10 coincident lines",
+            "alphanumName": "TenCoincidentLines",
+            "file": "10 - 10 coincident lines.txt"
+        },
+        {
+            "name": "All cases",
+            "alphanumName": "AllCases",
+            "file": "11 - All cases.txt"
+        },
+        {
+            "name": "Star",
+            "alphanumName": "Star",
+            "file": "12 - Star.txt"
+        }
+    ]
+}
