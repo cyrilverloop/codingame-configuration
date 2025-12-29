@@ -1,0 +1,68 @@
+{
+    "path": "medium/TicTacToeEngine",
+    "name": "Tic Tac Toe Engine",
+    "alphanumName": "TicTacToeEngine",
+    "link": "https://www.codingame.com/ide/puzzle/tic-tac-toe-engine",
+    "tests": [
+        {
+            "name": "Winning Move",
+            "alphanumName": "WinningMove",
+            "file": "01 - Winning Move.txt"
+        },
+        {
+            "name": "Blocking the Win",
+            "alphanumName": "BlockingTheWin",
+            "file": "02 - Blocking the Win.txt"
+        },
+        {
+            "name": "Decisive Move",
+            "alphanumName": "DecisiveMove",
+            "file": "03 - Decisive Move.txt"
+        },
+        {
+            "name": "Drawn",
+            "alphanumName": "Drawn",
+            "file": "04 - Drawn.txt"
+        },
+        {
+            "name": "Optimal Win",
+            "alphanumName": "OptimalWin",
+            "file": "05 - Optimal Win.txt"
+        },
+        {
+            "name": "Winning Position",
+            "alphanumName": "WinningPosition",
+            "file": "06 - Winning Position.txt"
+        },
+        {
+            "name": "Lost",
+            "alphanumName": "Lost",
+            "file": "07 - Lost.txt"
+        },
+        {
+            "name": "Hold the Draw",
+            "alphanumName": "HoldTheDraw",
+            "file": "08 - Hold the Draw.txt"
+        },
+        {
+            "name": "Losing Position",
+            "alphanumName": "LosingPosition",
+            "file": "09 - Losing Position.txt"
+        },
+        {
+            "name": "Free Reign",
+            "alphanumName": "FreeReign",
+            "file": "10 - Free Reign.txt"
+        },
+        {
+            "name": "Corner Strategy",
+            "alphanumName": "CornerStrategy",
+            "file": "11 - Corner Strategy.txt"
+        },
+        {
+            "name": "Starting Position",
+            "alphanumName": "StartingPosition",
+            "file": "12 - Starting Position.txt"
+        }
+    ]
+}
