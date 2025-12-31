@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Tic Tac Toe Engine".
 - configuration for "Shortest Palindromic Path".
 - configuration for "Snowflakes".
+- configuration for "Set Probabilities (Card Game)".
 
 ## [1.21.0] - 2025-11-30
 ### Added

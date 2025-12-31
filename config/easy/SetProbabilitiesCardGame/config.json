@@ -1,0 +1,48 @@
+{
+    "path": "easy/SetProbabilitiesCardGame",
+    "name": "Set Probabilities (Card Game)",
+    "alphanumName": "SetProbabilitiesCardGame",
+    "link": "https://www.codingame.com/ide/puzzle/set-probabilities-card-game",
+    "tests": [
+        {
+            "name": "A simple start",
+            "alphanumName": "ASimpleStart",
+            "file": "01 - A simple start.txt"
+        },
+        {
+            "name": "A few more cards",
+            "alphanumName": "AFewMoreCards",
+            "file": "02 - A few more cards.txt"
+        },
+        {
+            "name": "And a few more...",
+            "alphanumName": "AndAFewMore",
+            "file": "03 - And a few more....txt"
+        },
+        {
+            "name": "A classic game of set",
+            "alphanumName": "AClassicGameOfSet",
+            "file": "04 - A classic game of set.txt"
+        },
+        {
+            "name": "Lots of cards",
+            "alphanumName": "LotsOfCards",
+            "file": "05 - Lots of cards.txt"
+        },
+        {
+            "name": "Almost guaranteed",
+            "alphanumName": "AlmostGuaranteed",
+            "file": "06 - Almost guaranteed.txt"
+        },
+        {
+            "name": "No need to draw a card!",
+            "alphanumName": "NoNeedToDrawACard",
+            "file": "07 - No need to draw a card!.txt"
+        },
+        {
+            "name": "I need to draw a card??",
+            "alphanumName": "INeedToDrawACard",
+            "file": "08 - I need to draw a card.txt"
+        }
+    ]
+}
