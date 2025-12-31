@@ -1,0 +1,128 @@
+{
+    "path": "medium/Snowflakes",
+    "name": "Snowflakes",
+    "alphanumName": "Snowflakes",
+    "link": "https://www.codingame.com/ide/puzzle/snowflakes",
+    "tests": [
+        {
+            "name": "Single Snowflake",
+            "alphanumName": "SingleSnowflake",
+            "file": "01 - Single Snowflake.txt"
+        },
+        {
+            "name": "Two Snowflakes",
+            "alphanumName": "TwoSnowflakes",
+            "file": "02 - Two Snowflakes.txt"
+        },
+        {
+            "name": "Simple Unique",
+            "alphanumName": "SimpleUnique",
+            "file": "03 - Simple Unique.txt"
+        },
+        {
+            "name": "Simple Rotation",
+            "alphanumName": "SimpleRotation",
+            "file": "04 - Simple Rotation.txt"
+        },
+        {
+            "name": "Simple Flipped",
+            "alphanumName": "SimpleFlipped",
+            "file": "05 - Simple Flipped.txt"
+        },
+        {
+            "name": "All Rotations",
+            "alphanumName": "AllRotations",
+            "file": "06 - All Rotations.txt"
+        },
+        {
+            "name": "All Orientations",
+            "alphanumName": "AllOrientations",
+            "file": "07 - All Orientations.txt"
+        },
+        {
+            "name": "Big Flake",
+            "alphanumName": "BigFlake",
+            "file": "08 - Big Flake.txt"
+        },
+        {
+            "name": "Empty Sky",
+            "alphanumName": "EmptySky",
+            "file": "09 - Empty Sky.txt"
+        },
+        {
+            "name": "Micro-Lens",
+            "alphanumName": "MicroLens",
+            "file": "10 - Micro-Lens.txt"
+        },
+        {
+            "name": "Micro-Lens 2",
+            "alphanumName": "MicroLens2",
+            "file": "11 - Micro-Lens 2.txt"
+        },
+        {
+            "name": "Single Flakes",
+            "alphanumName": "SingleFlakes",
+            "file": "12 - Single Flakes.txt"
+        },
+        {
+            "name": "Myth Busted",
+            "alphanumName": "MythBusted",
+            "file": "13 - Myth Busted.txt"
+        },
+        {
+            "name": "Myth Confirmed",
+            "alphanumName": "MythConfirmed",
+            "file": "14 - Myth Confirmed.txt"
+        },
+        {
+            "name": "Test 15",
+            "alphanumName": "Test15",
+            "file": "15 - Test 15.txt"
+        },
+        {
+            "name": "Test 16",
+            "alphanumName": "Test16",
+            "file": "16 - Test 16.txt"
+        },
+        {
+            "name": "Test 17",
+            "alphanumName": "Test17",
+            "file": "17 - Test 17.txt"
+        },
+        {
+            "name": "All But One",
+            "alphanumName": "AllButOne",
+            "file": "18 - All But One.txt"
+        },
+        {
+            "name": "Random",
+            "alphanumName": "Random",
+            "file": "19 - Random.txt"
+        },
+        {
+            "name": "Random 2",
+            "alphanumName": "Random2",
+            "file": "20 - Random 2.txt"
+        },
+        {
+            "name": "Random 3",
+            "alphanumName": "Random3",
+            "file": "21 - Random 3.txt"
+        },
+        {
+            "name": "Random 4",
+            "alphanumName": "Random4",
+            "file": "22 - Random 4.txt"
+        },
+        {
+            "name": "Many Hollow",
+            "alphanumName": "ManyHollow",
+            "file": "23 - Many Hollow.txt"
+        },
+        {
+            "name": "Flakes in Flakes",
+            "alphanumName": "FlakesInFlakes",
+            "file": "24 - Flakes in Flakes.txt"
+        }
+    ]
+}
