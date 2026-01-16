@@ -1,0 +1,68 @@
+{
+    "path": "medium/SantasGarland",
+    "name": "Santa’s Garland",
+    "alphanumName": "SantasGarland",
+    "link": "https://www.codingame.com/ide/puzzle/santas-garland",
+    "tests": [
+        {
+            "name": "Test 1: Simple Path",
+            "alphanumName": "Test1SimplePath",
+            "file": "01 - Simple Path.txt"
+        },
+        {
+            "name": "Test 2: Disconnected",
+            "alphanumName": "Test2Disconnected",
+            "file": "02 - Disconnected.txt"
+        },
+        {
+            "name": "Test 3: Triangle with Alternative Path",
+            "alphanumName": "Test3TriangleWithAlternativePath",
+            "file": "03 - Triangle with Alternative Path.txt"
+        },
+        {
+            "name": "Test 4: Hexagon Bad Diagonal",
+            "alphanumName": "Test4HexagonBadDiagonal",
+            "file": "04 - Hexagon Bad Diagonal.txt"
+        },
+        {
+            "name": "Test 5: Mid-failure with Bypass",
+            "alphanumName": "Test5MidFailureWithBypass",
+            "file": "05 - Mid-failure with Bypass.txt"
+        },
+        {
+            "name": "Test 6: Hub Blocked (different path lengths)",
+            "alphanumName": "Test6HubBlockedDifferentPathLengths",
+            "file": "06 - Hub Blocked (different path lengths).txt"
+        },
+        {
+            "name": "Test 7: Shortcut vs Two Detours",
+            "alphanumName": "Test7ShortcutVsTwoDetours",
+            "file": "07 - Shortcut vs Two Detours.txt"
+        },
+        {
+            "name": "Test 8: Grid Traversal",
+            "alphanumName": "Test8GridTraversal",
+            "file": "08 - Grid Traversal.txt"
+        },
+        {
+            "name": "Test 9: Fuses Blow at Final Step",
+            "alphanumName": "Test9FusesBlowAtFinalStep",
+            "file": "09 - Fuses Blow at Final Step.txt"
+        },
+        {
+            "name": "Test 10: Circle Complete Graph",
+            "alphanumName": "Test10CircleCompleteGraph",
+            "file": "10 - Circle Complete Graph.txt"
+        },
+        {
+            "name": "Test 11: Hamiltonian 10x10 Grid",
+            "alphanumName": "Test11Hamiltonian10x10Grid",
+            "file": "11 - Hamiltonian 10x10 Grid.txt"
+        },
+        {
+            "name": "Test 12: Triple Path Challenge",
+            "alphanumName": "Test12TriplePathChallenge",
+            "file": "12 - Triple Path Challenge.txt"
+        }
+    ]
+}
