@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - difficulty of "No More Pythons, Please!" from easy to medium.
 - difficulty of "The alien business of cows" from easy to medium.
 - difficulty of "Surakarta" from medium to hard.
+- difficulty of "Recurring Decimals" from expert to hard.
 
 ## [1.22.0] - 2025-12-31
 ### Added
