@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Santa’s Garland".
 
 ### Changed
-- difficulty of "Hangman" from easy to medium.
+- difficulty of "No More Pythons, Please!" from easy to medium.
 
 ## [1.22.0] - 2025-12-31
 ### Added
