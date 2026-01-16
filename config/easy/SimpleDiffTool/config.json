@@ -1,0 +1,78 @@
+{
+    "path": "easy/SimpleDiffTool",
+    "name": "Simple Diff Tool",
+    "alphanumName": "SimpleDiffTool",
+    "link": "https://www.codingame.com/ide/puzzle/simple-diff-tool",
+    "tests": [
+        {
+            "name": "Test - Add by content",
+            "alphanumName": "TestAddByContent",
+            "file": "01 - Test - Add by content.txt"
+        },
+        {
+            "name": "Test - Add by number",
+            "alphanumName": "TestAddByNumber",
+            "file": "02 - Test - Add by number.txt"
+        },
+        {
+            "name": "Test - Delete by content",
+            "alphanumName": "TestDeleteByContent",
+            "file": "03 - Test - Delete by content.txt"
+        },
+        {
+            "name": "Test - Delete by number",
+            "alphanumName": "TestDeleteByNumber",
+            "file": "04 - Test - Delete by number.txt"
+        },
+        {
+            "name": "Test - Change by content",
+            "alphanumName": "TestChangeByContent",
+            "file": "05 - Test - Change by content.txt"
+        },
+        {
+            "name": "Test - Change by number",
+            "alphanumName": "TestChangeByNumber",
+            "file": "06 - Test - Change by number.txt"
+        },
+        {
+            "name": "Test - No diffs by content",
+            "alphanumName": "TestNoDiffsByContent",
+            "file": "07 - Test - No diffs by content.txt"
+        },
+        {
+            "name": "Test - No diffs by number",
+            "alphanumName": "TestNoDiffsByNumber",
+            "file": "08 - Test - No diffs by number.txt"
+        },
+        {
+            "name": "Test - Moved lines by content",
+            "alphanumName": "TestMovedLinesByContent",
+            "file": "09 - Test - Moved lines by content.txt"
+        },
+        {
+            "name": "Test - Moved lines by number",
+            "alphanumName": "TestMovedLinesByNumber",
+            "file": "10 - Test - Moved lines by number.txt"
+        },
+        {
+            "name": "Test - Multiple diffs by content",
+            "alphanumName": "TestMultipleDiffsByContent",
+            "file": "11 - Test - Multiple diffs by content.txt"
+        },
+        {
+            "name": "Test - Multiple diffs by number",
+            "alphanumName": "TestMultipleDiffsByNumber",
+            "file": "12 - Test - Multiple diffs by number.txt"
+        },
+        {
+            "name": "Test - No lines by content",
+            "alphanumName": "TestNoLinesByContent",
+            "file": "13 - Test - No lines by content.txt"
+        },
+        {
+            "name": "Test - No lines by number",
+            "alphanumName": "TestNoLinesByNumber",
+            "file": "14 - Test - No lines by number.txt"
+        }
+    ]
+}
