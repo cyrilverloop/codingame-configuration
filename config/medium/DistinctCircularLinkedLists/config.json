@@ -1,0 +1,103 @@
+{
+    "path": "medium/DistinctCircularLinkedLists",
+    "name": "Distinct Circular Linked Lists",
+    "alphanumName": "DistinctCircularLinkedLists",
+    "link": "https://www.codingame.com/ide/puzzle/distinct-circular-linked-lists",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Random Nodes",
+            "alphanumName": "RandomNodes",
+            "file": "02 - Random Nodes.txt"
+        },
+        {
+            "name": "More Nodes",
+            "alphanumName": "MoreNodes",
+            "file": "03 - More Nodes.txt"
+        },
+        {
+            "name": "Just One",
+            "alphanumName": "JustOne",
+            "file": "04 - Just One.txt"
+        },
+        {
+            "name": "Even More Nodes",
+            "alphanumName": "EvenMoreNodes",
+            "file": "05 - Even More Nodes.txt"
+        },
+        {
+            "name": "Repeated Nodes",
+            "alphanumName": "RepeatedNodes",
+            "file": "06 - Repeated Nodes.txt"
+        },
+        {
+            "name": "Multiple Repeating Nodes",
+            "alphanumName": "MultipleRepeatingNodes",
+            "file": "07 - Multiple Repeating Nodes.txt"
+        },
+        {
+            "name": "Just One Again",
+            "alphanumName": "JustOneAgain",
+            "file": "08 - Just One Again.txt"
+        },
+        {
+            "name": "Good Pairing",
+            "alphanumName": "GoodPairing",
+            "file": "09 - Good Pairing.txt"
+        },
+        {
+            "name": "More Nodes",
+            "alphanumName": "MoreNodes",
+            "file": "10 - More Nodes.txt"
+        },
+        {
+            "name": "Similar CLLs",
+            "alphanumName": "SimilarCLLs",
+            "file": "11 - Similar CLLs.txt"
+        },
+        {
+            "name": "Even More Nodes",
+            "alphanumName": "EvenMoreNodes",
+            "file": "12 - Even More Nodes.txt"
+        },
+        {
+            "name": "Large CLLs",
+            "alphanumName": "LargeCLLs",
+            "file": "13 - Large CLLs.txt"
+        },
+        {
+            "name": "Many Different Nodes",
+            "alphanumName": "ManyDifferentNodes",
+            "file": "14 - Many Different Nodes.txt"
+        },
+        {
+            "name": "Node Spam",
+            "alphanumName": "NodeSpam",
+            "file": "15 - Node Spam.txt"
+        },
+        {
+            "name": "More Node Spam",
+            "alphanumName": "MoreNodeSpam",
+            "file": "16 - More Node Spam.txt"
+        },
+        {
+            "name": "Very Similar CLLs",
+            "alphanumName": "VerySimilarCLLs",
+            "file": "17 - Very Similar CLLs.txt"
+        },
+        {
+            "name": "Too Similar CLLs",
+            "alphanumName": "TooSimilarCLLs",
+            "file": "18 - Too Similar CLLs.txt"
+        },
+        {
+            "name": "Absolute Limit",
+            "alphanumName": "Absolute Limit",
+            "file": "19 - Absolute Limit.txt"
+        }
+    ]
+}
