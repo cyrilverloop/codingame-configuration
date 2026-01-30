@@ -1,0 +1,63 @@
+{
+    "path": "medium/TheQueensTrekWythoffsGame",
+    "name": "The Queen’s Trek (Wythoff’s Game)",
+    "alphanumName": "TheQueensTrekWythoffsGame",
+    "link": "https://www.codingame.com/ide/puzzle/the-queens-trek-wythoffs-game",
+    "tests": [
+        {
+            "name": "empty piles",
+            "alphanumName": "emptyPiles",
+            "file": "01 - empty piles.txt"
+        },
+        {
+            "name": "1 move - pile 1 empty",
+            "alphanumName": "oneMovePile1Empty",
+            "file": "02 - 1 move - pile 1 empty.txt"
+        },
+        {
+            "name": "1 move - pile 2 empty",
+            "alphanumName": "oneMovePile2Empty",
+            "file": "03 - 1 move - pile 2 empty.txt"
+        },
+        {
+            "name": "1 move - 2 piles",
+            "alphanumName": "oneMove2Piles",
+            "file": "04 - 1 move - 2 piles.txt"
+        },
+        {
+            "name": "Simple one",
+            "alphanumName": "SimpleOne",
+            "file": "05 - Simple one.txt"
+        },
+        {
+            "name": "First win - 1",
+            "alphanumName": "FirstWin1",
+            "file": "06 - First win - 1.txt"
+        },
+        {
+            "name": "Second win - 1",
+            "alphanumName": "SecondWin1",
+            "file": "07 - Second win - 1.txt"
+        },
+        {
+            "name": "First win - 2",
+            "alphanumName": "FirstWin2",
+            "file": "08 - First win - 2.txt"
+        },
+        {
+            "name": "Second win - 2",
+            "alphanumName": "SecondWin2",
+            "file": "09 - Second win - 2.txt"
+        },
+        {
+            "name": "First win - 3",
+            "alphanumName": "FirstWin3",
+            "file": "10 - First win - 3.txt"
+        },
+        {
+            "name": "Second win - 3",
+            "alphanumName": "SecondWin3",
+            "file": "11 - Second win - 3.txt"
+        }
+    ]
+}
