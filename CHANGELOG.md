@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- configuration for "Mountain range".
 - configuration for "Distinct Circular Linked Lists".
 - configuration for "The Queen’s Trek (Wythoff’s Game)".
 - configuration for "Simple Diff Tool".
