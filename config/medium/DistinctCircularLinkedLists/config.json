@@ -51,8 +51,8 @@
         },
         {
             "name": "More Nodes",
-            "alphanumName": "MoreNodes",
-            "file": "10 - More Nodes.txt"
+            "alphanumName": "MoreNodes2",
+            "file": "10 - More Nodes 2.txt"
         },
         {
             "name": "Similar CLLs",
@@ -61,8 +61,8 @@
         },
         {
             "name": "Even More Nodes",
-            "alphanumName": "EvenMoreNodes",
-            "file": "12 - Even More Nodes.txt"
+            "alphanumName": "EvenMoreNodes2",
+            "file": "12 - Even More Nodes 2.txt"
         },
         {
             "name": "Large CLLs",
