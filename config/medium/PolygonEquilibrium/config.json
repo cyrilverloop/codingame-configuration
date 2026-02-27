@@ -1,0 +1,73 @@
+{
+    "path": "medium/PolygonEquilibrium",
+    "name": "Polygon equilibrium",
+    "alphanumName": "PolygonEquilibrium",
+    "link": "https://www.codingame.com/ide/puzzle/polygon-equilibrium",
+    "tests": [
+        {
+            "name": "Simple triangle",
+            "alphanumName": "SimpleTriangle",
+            "file": "01 - Simple triangle.txt"
+        },
+        {
+            "name": "Tipping triangle",
+            "alphanumName": "TippingTriangle",
+            "file": "02 - Tipping triangle.txt"
+        },
+        {
+            "name": "Trapezoid",
+            "alphanumName": "Trapezoid",
+            "file": "03 - Trapezoid.txt"
+        },
+        {
+            "name": "Regular Octogon",
+            "alphanumName": "RegularOctogon",
+            "file": "04 - Regular Octogon.txt"
+        },
+        {
+            "name": "An L-shape",
+            "alphanumName": "AnLShape",
+            "file": "05 - An L-shape.txt"
+        },
+        {
+            "name": "A T-shape",
+            "alphanumName": "ATShape",
+            "file": "06 - A T-shape.txt"
+        },
+        {
+            "name": "Test 7",
+            "alphanumName": "test7",
+            "file": "07 - test 7.txt"
+        },
+        {
+            "name": "Test 8",
+            "alphanumName": "test8",
+            "file": "08 - test 8.txt"
+        },
+        {
+            "name": "Centroid outside of polygon",
+            "alphanumName": "CentroidOutsideOfPolygon",
+            "file": "09 - Centroid outside of polygon.txt"
+        },
+        {
+            "name": "Multiple vertices supporting segment",
+            "alphanumName": "MultipleVerticesSupportingSegment",
+            "file": "10 - Multiple vertices supporting segment.txt"
+        },
+        {
+            "name": "Weird shape",
+            "alphanumName": "WeirdShape",
+            "file": "11 - Weird shape.txt"
+        },
+        {
+            "name": "Barely balanced",
+            "alphanumName": "BarelyBalanced",
+            "file": "12 - Barely balanced.txt"
+        },
+        {
+            "name": "CG",
+            "alphanumName": "CG",
+            "file": "13 - CG.txt"
+        }
+    ]
+}
