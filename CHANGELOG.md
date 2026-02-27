@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "What a dessert!".
 - configuration for "MiniCPU Instruction Decoder".
+- configuration for "Snap!".
 
 ## [1.23.0] - 2026-02-02
 ### Added

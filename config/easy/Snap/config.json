@@ -1,0 +1,93 @@
+{
+    "path": "easy/Snap",
+    "name": "Snap!",
+    "alphanumName": "Snap",
+    "link": "https://www.codingame.com/ide/puzzle/snap",
+    "tests": [
+        {
+            "name": "Player 1 Win",
+            "alphanumName": "Player1Win",
+            "file": "01 - Player 1 Win.txt"
+        },
+        {
+            "name": "Player 2 Win",
+            "alphanumName": "Player2Win",
+            "file": "02 - Player 2 Win.txt"
+        },
+        {
+            "name": "Snapless",
+            "alphanumName": "Snapless",
+            "file": "03 - Snapless.txt"
+        },
+        {
+            "name": "Clutch Save",
+            "alphanumName": "ClutchSave",
+            "file": "04 - Clutch Save.txt"
+        },
+        {
+            "name": "Almost Clutch Save",
+            "alphanumName": "AlmostClutchSave",
+            "file": "05 - Almost Clutch Save.txt"
+        },
+        {
+            "name": "Quick Game",
+            "alphanumName": "QuickGame",
+            "file": "06 - Quick Game.txt"
+        },
+        {
+            "name": "Very Quick Game",
+            "alphanumName": "VeryQuickGame",
+            "file": "07 - Very Quick Game.txt"
+        },
+        {
+            "name": "Lucky Shuffle",
+            "alphanumName": "LuckyShuffle",
+            "file": "08 - Lucky Shuffle.txt"
+        },
+        {
+            "name": "Unfair Shuffle 1",
+            "alphanumName": "UnfairShuffle1",
+            "file": "09 - Unfair Shuffle 1.txt"
+        },
+        {
+            "name": "Unfair Shuffle 2",
+            "alphanumName": "UnfairShuffle2",
+            "file": "10 - Unfair Shuffle 2.txt"
+        },
+        {
+            "name": "Unfair Shuffle 3",
+            "alphanumName": "UnfairShuffle3",
+            "file": "11 - Unfair Shuffle 3.txt"
+        },
+        {
+            "name": "Standard Deck 1",
+            "alphanumName": "StandardDeck1",
+            "file": "12 - Standard Deck 1.txt"
+        },
+        {
+            "name": "Standard Deck 2",
+            "alphanumName": "StandardDeck2",
+            "file": "13 - Standard Deck 2.txt"
+        },
+        {
+            "name": "Standard Deck 3",
+            "alphanumName": "StandardDeck3",
+            "file": "14 - Standard Deck 3.txt"
+        },
+        {
+            "name": "Standard Deck 4",
+            "alphanumName": "StandardDeck4",
+            "file": "15 - Standard Deck 4.txt"
+        },
+        {
+            "name": "Standard Deck 5",
+            "alphanumName": "StandardDeck5",
+            "file": "16 - Standard Deck 5.txt"
+        },
+        {
+            "name": "Standard Deck 6",
+            "alphanumName": "StandardDeck6",
+            "file": "17 - Standard Deck 6.txt"
+        }
+    ]
+}
