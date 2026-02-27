@@ -1,0 +1,63 @@
+{
+    "path": "easy/MiniCPUInstructionDecoder",
+    "name": "MiniCPU Instruction Decoder",
+    "alphanumName": "MiniCPUInstructionDecoder",
+    "link": "https://www.codingame.com/ide/puzzle/minicpu-instruction-decoder",
+    "tests": [
+        {
+            "name": "Boot Sequence",
+            "alphanumName": "BootSequence",
+            "file": "01 - Boot Sequence.txt"
+        },
+        {
+            "name": "Multiply Core",
+            "alphanumName": "MultiplyCore",
+            "file": "02 - Multiply Core.txt"
+        },
+        {
+            "name": "INC and DEC",
+            "alphanumName": "INCAndDEC",
+            "file": "03 - INC and DEC.txt"
+        },
+        {
+            "name": "INC Overflow",
+            "alphanumName": "INCOverflow",
+            "file": "04 - INC Overflow.txt"
+        },
+        {
+            "name": "DEC Underflow",
+            "alphanumName": "DECUnderflow",
+            "file": "05 - DEC Underflow.txt"
+        },
+        {
+            "name": "ADD Overflow",
+            "alphanumName": "ADDOverflow",
+            "file": "06 - ADD Overflow.txt"
+        },
+        {
+            "name": "SUB Underflow",
+            "alphanumName": "SUBUnderflow",
+            "file": "07 - SUB Underflow.txt"
+        },
+        {
+            "name": "MUL Overflow",
+            "alphanumName": "MULOverflow",
+            "file": "08 - MUL Overflow.txt"
+        },
+        {
+            "name": "Mixed Operations",
+            "alphanumName": "MixedOperations",
+            "file": "09 - Mixed Operations.txt"
+        },
+        {
+            "name": "Immediate Halt",
+            "alphanumName": "ImmediateHalt",
+            "file": "10 - Immediate Halt.txt"
+        },
+        {
+            "name": "MOV Overwrite",
+            "alphanumName": "MOVOverwrite",
+            "file": "11 - MOV Overwrite.txt"
+        }
+    ]
+}
