@@ -1,0 +1,68 @@
+{
+    "path": "medium/ManaQuestHuntForThePerfectSeven",
+    "name": "Mana Quest: Hunt for the Perfect Seven",
+    "alphanumName": "ManaQuestHuntForThePerfectSeven",
+    "link": "https://www.codingame.com/ide/puzzle/mana-quest-hunt-for-the-perfect-seven",
+    "tests": [
+        {
+            "name": "Do I have a land",
+            "alphanumName": "DoIHaveALand",
+            "file": "01 - Do I have a land.txt"
+        },
+        {
+            "name": "Any card will do",
+            "alphanumName": "AnyCardWillDo",
+            "file": "02 - Any card will do.txt"
+        },
+        {
+            "name": "100%",
+            "alphanumName": "AHundredPercent",
+            "file": "03 - 100%.txt"
+        },
+        {
+            "name": "0%",
+            "alphanumName": "ZeroPercent",
+            "file": "04 - 0%.txt"
+        },
+        {
+            "name": "1 Pattern",
+            "alphanumName": "OnePattern",
+            "file": "05 - 1 Pattern.txt"
+        },
+        {
+            "name": "Overlap",
+            "alphanumName": "Overlap",
+            "file": "06 - Overlap.txt"
+        },
+        {
+            "name": "3 Patterns",
+            "alphanumName": "ThreePatterns",
+            "file": "07 - 3 Patterns.txt"
+        },
+        {
+            "name": "5 Patterns",
+            "alphanumName": "FivePatterns",
+            "file": "08 - 5 Patterns.txt"
+        },
+        {
+            "name": "6 Patterns",
+            "alphanumName": "SixPatterns",
+            "file": "09 - 6 Patterns.txt"
+        },
+        {
+            "name": "7 Patterns",
+            "alphanumName": "SevenPatterns",
+            "file": "10 - 7 Patterns.txt"
+        },
+        {
+            "name": "8 Patterns",
+            "alphanumName": "EightPatterns",
+            "file": "11 - 8 Patterns.txt"
+        },
+        {
+            "name": "8 Patterns Impossible",
+            "alphanumName": "EightPatternsImpossible",
+            "file": "12 - 8 Patterns Impossible.txt"
+        }
+    ]
+}

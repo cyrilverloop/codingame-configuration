@@ -1,0 +1,68 @@
+{
+    "path": "easy/LaughterIsContagious",
+    "name": "Laughter is contagious",
+    "alphanumName": "LaughterIsContagious",
+    "link": "https://www.codingame.com/ide/puzzle/laughter-is-contagious",
+    "tests": [
+        {
+            "name": "Everybody laughing",
+            "alphanumName": "EverybodyLaughing",
+            "file": "01 - Everybody laughing.txt"
+        },
+        {
+            "name": "Too far",
+            "alphanumName": "TooFar",
+            "file": "02 - Too far.txt"
+        },
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "03 - Example.txt"
+        },
+        {
+            "name": "Very funny",
+            "alphanumName": "VeryFunny",
+            "file": "04 - Very funny.txt"
+        },
+        {
+            "name": "Not funny",
+            "alphanumName": "NotFunny",
+            "file": "05 - Not funny.txt"
+        },
+        {
+            "name": "Lonely",
+            "alphanumName": "Lonely",
+            "file": "06 - Lonely.txt"
+        },
+        {
+            "name": "Solidarity",
+            "alphanumName": "Solidarity",
+            "file": "07 - Solidarity.txt"
+        },
+        {
+            "name": "Big show",
+            "alphanumName": "BigShow",
+            "file": "08 - Big show.txt"
+        },
+        {
+            "name": "Very big show",
+            "alphanumName": "VeryBigShow",
+            "file": "09 - Very big show.txt"
+        },
+        {
+            "name": "One Man Show",
+            "alphanumName": "OneManShow",
+            "file": "10 - One Man Show.txt"
+        },
+        {
+            "name": "Duo",
+            "alphanumName": "Duo",
+            "file": "11 - Duo.txt"
+        },
+        {
+            "name": "Trio",
+            "alphanumName": "Trio",
+            "file": "12 - Trio.txt"
+        }
+    ]
+}

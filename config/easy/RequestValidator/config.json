@@ -1,0 +1,83 @@
+{
+    "path": "easy/RequestValidator",
+    "name": "0xC0FFEE Request Validator",
+    "alphanumName": "RequestValidator",
+    "link": "https://www.codingame.com/ide/puzzle/0xc0ffee-request-validator",
+    "tests": [
+        {
+            "name": "Order Up!",
+            "alphanumName": "OrderUp",
+            "file": "01 - Order Up!.txt"
+        },
+        {
+            "name": "Corrupted",
+            "alphanumName": "Corrupted",
+            "file": "02 - Corrupted.txt"
+        },
+        {
+            "name": "One Cup",
+            "alphanumName": "OneCup",
+            "file": "03 - One Cup.txt"
+        },
+        {
+            "name": "Checksum Error",
+            "alphanumName": "ChecksumError",
+            "file": "04 - Checksum Error.txt"
+        },
+        {
+            "name": "Department Fix",
+            "alphanumName": "DepartmentFix",
+            "file": "05 - Department Fix.txt"
+        },
+        {
+            "name": "Mismatched Order",
+            "alphanumName": "MismatchedOrder",
+            "file": "06 - Mismatched Order.txt"
+        },
+        {
+            "name": "Misplaced Order",
+            "alphanumName": "MisplacedOrder",
+            "file": "07 - Misplaced Order.txt"
+        },
+        {
+            "name": "Order Zero",
+            "alphanumName": "OrderZero",
+            "file": "08 - Order Zero.txt"
+        },
+        {
+            "name": "Standardised Order",
+            "alphanumName": "StandardisedOrder",
+            "file": "09 - Standardised Order.txt"
+        },
+        {
+            "name": "Decaffeinated Coffee",
+            "alphanumName": "DecaffeinatedCoffee",
+            "file": "10 - Decaffeinated Coffee.txt"
+        },
+        {
+            "name": "Invalid Header",
+            "alphanumName": "InvalidHeader",
+            "file": "11 - Invalid Header.txt"
+        },
+        {
+            "name": "Infinite Stock",
+            "alphanumName": "InfiniteStock",
+            "file": "12 - Infinite Stock.txt"
+        },
+        {
+            "name": "Padded Frame",
+            "alphanumName": "PaddedFrame",
+            "file": "13 - Padded Frame.txt"
+        },
+        {
+            "name": "0xC0FFEE",
+            "alphanumName": "ZeroxC0FFEE",
+            "file": "14 - 0xC0FFEE.txt"
+        },
+        {
+            "name": "Missing Checksum",
+            "alphanumName": "MissingChecksum",
+            "file": "15 - Missing Checksum.txt"
+        }
+    ]
+}

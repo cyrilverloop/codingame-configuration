@@ -1,0 +1,38 @@
+{
+    "path": "easy/WhereWasThisKnightBefore",
+    "name": "Where Was This Knight Before?",
+    "alphanumName": "WhereWasThisKnightBefore",
+    "link": "https://www.codingame.com/ide/puzzle/where-was-this-knight-before",
+    "tests": [
+        {
+            "name": "Easy start",
+            "alphanumName": "EasyStart",
+            "file": "01 - Easy start.txt"
+        },
+        {
+            "name": "Some action",
+            "alphanumName": "SomeAction",
+            "file": "02 - Some action.txt"
+        },
+        {
+            "name": "Some noise on the board",
+            "alphanumName": "SomeNoiseOnTheBoard",
+            "file": "03 - Some noise on the board.txt"
+        },
+        {
+            "name": "Check mate",
+            "alphanumName": "CheckMate",
+            "file": "04 - Check mate.txt"
+        },
+        {
+            "name": "Crazy case",
+            "alphanumName": "CrazyCase",
+            "file": "05 - Crazy case.txt"
+        },
+        {
+            "name": "Lots of noise",
+            "alphanumName": "LotsOfNoise",
+            "file": "06 - Lots of noise.txt"
+        }
+    ]
+}
