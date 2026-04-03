@@ -1,0 +1,63 @@
+{
+    "path": "easy/PyramidStacker",
+    "name": "Pyramid Stacker",
+    "alphanumName": "PyramidStacker",
+    "link": "https://www.codingame.com/ide/puzzle/pyramid-stacker",
+    "tests": [
+        {
+            "name": "Full (Example)",
+            "alphanumName": "FullExample",
+            "file": "01 - Full (Example).txt"
+        },
+        {
+            "name": "Partial (Example)",
+            "alphanumName": "PartialExample",
+            "file": "02 - Partial (Example).txt"
+        },
+        {
+            "name": "One Cube",
+            "alphanumName": "OneCube",
+            "file": "03 - One Cube.txt"
+        },
+        {
+            "name": "Patchy",
+            "alphanumName": "Patchy",
+            "file": "04 - Patchy.txt"
+        },
+        {
+            "name": "Repeat",
+            "alphanumName": "Repeat",
+            "file": "05 - Repeat.txt"
+        },
+        {
+            "name": "Cut",
+            "alphanumName": "Cut",
+            "file": "06 - Cut.txt"
+        },
+        {
+            "name": "Full",
+            "alphanumName": "Full",
+            "file": "07 - Full.txt"
+        },
+        {
+            "name": "Sparse",
+            "alphanumName": "Sparse",
+            "file": "08 - Sparse.txt"
+        },
+        {
+            "name": "Tall",
+            "alphanumName": "Tall",
+            "file": "09 - Tall.txt"
+        },
+        {
+            "name": "Limit",
+            "alphanumName": "Limit",
+            "file": "10 - Limit.txt"
+        },
+        {
+            "name": "Empty",
+            "alphanumName": "Empty",
+            "file": "11 - Empty.txt"
+        }
+    ]
+}
