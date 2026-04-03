@@ -1,0 +1,43 @@
+{
+    "path": "medium/NumbersWithOnlyTwoDistinctDigits",
+    "name": "Numbers with only two distinct digits",
+    "alphanumName": "NumbersWithOnlyTwoDistinctDigits",
+    "link": "https://www.codingame.com/ide/puzzle/numbers-with-only-two-distinct-digits",
+    "tests": [
+        {
+            "name": "Base case",
+            "alphanumName": "BaseCase",
+            "file": "01 - Base case.txt"
+        },
+        {
+            "name": "2 digits long ans",
+            "alphanumName": "TwoDigitsLongAns",
+            "file": "02 - 2 digits long ans.txt"
+        },
+        {
+            "name": "With 7?",
+            "alphanumName": "With7",
+            "file": "03 - With 7.txt"
+        },
+        {
+            "name": "With more digits (21)",
+            "alphanumName": "WithMoreDigits21",
+            "file": "04 - With more digits (21).txt"
+        },
+        {
+            "name": "Still ok? 100 digits!",
+            "alphanumName": "StillOk100Digits",
+            "file": "05 - Still ok 100 digits!.txt"
+        },
+        {
+            "name": "250? NO WAY!",
+            "alphanumName": "Two50NOWAY",
+            "file": "06 - 250 NO WAY!.txt"
+        },
+        {
+            "name": "500??",
+            "alphanumName": "Five00",
+            "file": "07 - 500.txt"
+        }
+    ]
+}
