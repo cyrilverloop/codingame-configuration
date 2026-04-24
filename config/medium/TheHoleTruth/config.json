@@ -1,0 +1,58 @@
+{
+    "path": "medium/TheHoleTruth",
+    "name": "The Hole Truth",
+    "alphanumName": "TheHoleTruth",
+    "link": "https://www.codingame.com/ide/puzzle/the-hole-truth",
+    "tests": [
+        {
+            "name": "Simple ring",
+            "alphanumName": "SimpleRing",
+            "file": "01 - Simple ring.txt"
+        },
+        {
+            "name": "Two holes",
+            "alphanumName": "TwoHoles",
+            "file": "02 - Two holes.txt"
+        },
+        {
+            "name": "No holes",
+            "alphanumName": "NoHoles",
+            "file": "03 - No holes.txt"
+        },
+        {
+            "name": "Nested rings",
+            "alphanumName": "NestedRings",
+            "file": "04 - Nested rings.txt"
+        },
+        {
+            "name": "Border-touching shapes",
+            "alphanumName": "BorderTouchingShapes",
+            "file": "05 - Border-touching shapes.txt"
+        },
+        {
+            "name": "Smiley face",
+            "alphanumName": "SmileyFace",
+            "file": "06 - Smiley face.txt"
+        },
+        {
+            "name": "Tall grid with irregular hole",
+            "alphanumName": "TallGridWithIrregularHole",
+            "file": "07 - Tall grid with irregular hole.txt"
+        },
+        {
+            "name": "Nested blobs with winding walls",
+            "alphanumName": "NestedBlobsWithWindingWalls",
+            "file": "08 - Nested blobs with winding walls.txt"
+        },
+        {
+            "name": "Concentric rings and L-shaped enclosures",
+            "alphanumName": "ConcentricRingsAndLShapedEnclosures",
+            "file": "09 - Concentric rings and L-shaped enclosures.txt"
+        },
+        {
+            "name": "Stress test",
+            "alphanumName": "StressTest",
+            "file": "10 - Stress test.txt"
+        }
+    ]
+}
