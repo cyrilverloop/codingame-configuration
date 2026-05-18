@@ -1,0 +1,88 @@
+{
+    "path": "easy/LeapOfSheep",
+    "name": "Leap of sheep",
+    "alphanumName": "LeapOfSheep",
+    "link": "https://www.codingame.com/ide/puzzle/leap-of-sheep",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Highest is not best",
+            "alphanumName": "HighestIsNotBest",
+            "file": "02 - Highest is not best.txt"
+        },
+        {
+            "name": "Only 1 valid",
+            "alphanumName": "Only1Valid",
+            "file": "03 - Only 1 valid.txt"
+        },
+        {
+            "name": "Increasing then decreasing",
+            "alphanumName": "IncreasingThenDecreasing",
+            "file": "04 - Increasing then decreasing.txt"
+        },
+        {
+            "name": "Hills",
+            "alphanumName": "Hills",
+            "file": "05 - Hills.txt"
+        },
+        {
+            "name": "Symmetric field",
+            "alphanumName": "SymmetricField",
+            "file": "06 - Symmetric field.txt"
+        },
+        {
+            "name": "Fluctuations",
+            "alphanumName": "Fluctuations",
+            "file": "07 - Fluctuations.txt"
+        },
+        {
+            "name": "Small step",
+            "alphanumName": "SmallStep",
+            "file": "08 - Small step.txt"
+        },
+        {
+            "name": "Big heights",
+            "alphanumName": "BigHeights",
+            "file": "09 - Big heights.txt"
+        },
+        {
+            "name": "So high!",
+            "alphanumName": "SoHigh",
+            "file": "10 - So high!.txt"
+        },
+        {
+            "name": "Giant leap",
+            "alphanumName": "GiantLeap",
+            "file": "11 - Giant leap.txt"
+        },
+        {
+            "name": "Bigger",
+            "alphanumName": "Bigger",
+            "file": "12 - Bigger.txt"
+        },
+        {
+            "name": "Lots of similar",
+            "alphanumName": "LotsOfSimilar",
+            "file": "13 - Lots of similar.txt"
+        },
+        {
+            "name": "Leap of faith",
+            "alphanumName": "LeapOfFaith",
+            "file": "14 - Leap of faith.txt"
+        },
+        {
+            "name": "Similar heights",
+            "alphanumName": "SimilarHeights",
+            "file": "15 - Similar heights.txt"
+        },
+        {
+            "name": "So many piles",
+            "alphanumName": "SoManyPiles",
+            "file": "16 - So many piles.txt"
+        }
+    ]
+}
