@@ -1,0 +1,68 @@
+{
+    "path": "easy/CistercianAddition",
+    "name": "Cistercian addition",
+    "alphanumName": "CistercianAddition",
+    "link": "https://www.codingame.com/ide/puzzle/cistercian-addition",
+    "tests": [
+        {
+            "name": "Units",
+            "alphanumName": "Units",
+            "file": "01 - Units.txt"
+        },
+        {
+            "name": "Tens",
+            "alphanumName": "Tens",
+            "file": "02 - Tens.txt"
+        },
+        {
+            "name": "Hundreds",
+            "alphanumName": "Hundreds",
+            "file": "03 - Hundreds.txt"
+        },
+        {
+            "name": "Thousands",
+            "alphanumName": "Thousands",
+            "file": "04 - Thousands.txt"
+        },
+        {
+            "name": "Limit",
+            "alphanumName": "Limit",
+            "file": "05 - Limit.txt"
+        },
+        {
+            "name": "Missing tens",
+            "alphanumName": "MissingTens",
+            "file": "06 - Missing tens.txt"
+        },
+        {
+            "name": "Missing numbers",
+            "alphanumName": "MissingNumbers",
+            "file": "07 - Missing numbers.txt"
+        },
+        {
+            "name": "Change of multiples",
+            "alphanumName": "ChangeOfMultiples",
+            "file": "08 - Change of multiples.txt"
+        },
+        {
+            "name": "Basic symbols",
+            "alphanumName": "BasicSymbols",
+            "file": "09 - Basic symbols.txt"
+        },
+        {
+            "name": "Repetitive numbers",
+            "alphanumName": "RepetitiveNumbers",
+            "file": "10 - Repetitive numbers.txt"
+        },
+        {
+            "name": "Random number 1",
+            "alphanumName": "RandomNumber1",
+            "file": "11 - Random number 1.txt"
+        },
+        {
+            "name": "Random number 2",
+            "alphanumName": "RandomNumber2",
+            "file": "12 - Random number 2.txt"
+        }
+    ]
+}
