@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Leap of sheep".
 - configuration for "Cistercian addition".
+- configuration for "Orbital Logistics: Exact Load".
 
 ## [1.26.0] - 2026-04-30
 ### Added

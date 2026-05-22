@@ -1,0 +1,73 @@
+{
+    "path": "medium/OrbitalLogisticsExactLoad",
+    "name": "Orbital Logistics: Exact Load",
+    "alphanumName": "OrbitalLogisticsExactLoad",
+    "link": "https://www.codingame.com/ide/puzzle/orbital-logistics-exact-load",
+    "tests": [
+        {
+            "name": "Baby’s First Cargo Run",
+            "alphanumName": "BabysFirstCargoRun",
+            "file": "01 - Baby’s First Cargo Run.txt"
+        },
+        {
+            "name": "The Cargo Bay Says No",
+            "alphanumName": "TheCargoBaySaysNo",
+            "file": "02 - The Cargo Bay Says No.txt"
+        },
+        {
+            "name": "All Hands on Deck",
+            "alphanumName": "AllHandsOnDeck",
+            "file": "03 - All Hands on Deck.txt"
+        },
+        {
+            "name": "Nothing Fits Today",
+            "alphanumName": "NothingFitsToday",
+            "file": "04 - Nothing Fits Today.txt"
+        },
+        {
+            "name": "Many Roads to the Same Dock",
+            "alphanumName": "ManyRoadsToTheSameDock",
+            "file": "05 - Many Roads to the Same Dock.txt"
+        },
+        {
+            "name": "One Perfect Container",
+            "alphanumName": "OnePerfectContainer",
+            "file": "06 - One Perfect Container.txt"
+        },
+        {
+            "name": "Bigger Beats Better",
+            "alphanumName": "BiggerBeatsBetter",
+            "file": "07 - Bigger Beats Better.txt"
+        },
+        {
+            "name": "Many Roads to Orbit",
+            "alphanumName": "ManyRoadsToOrbit",
+            "file": "08 - Many Roads to Orbit.txt"
+        },
+        {
+            "name": "Insufficient Payload",
+            "alphanumName": "InsufficientPayload",
+            "file": "09 - Insufficient Payload.txt"
+        },
+        {
+            "name": "Tight Schedule",
+            "alphanumName": "TightSchedule",
+            "file": "10 - Tight Schedule.txt"
+        },
+        {
+            "name": "Full Capacity Pressure",
+            "alphanumName": "FullCapacityPressure",
+            "file": "11 - Full Capacity Pressure.txt"
+        },
+        {
+            "name": "Deep Space Logistics",
+            "alphanumName": "DeepSpaceLogistics",
+            "file": "12 - Deep Space Logistics.txt"
+        },
+        {
+            "name": "Mission Constraints",
+            "alphanumName": "MissionConstraints",
+            "file": "13 - Mission Constraints.txt"
+        }
+    ]
+}
