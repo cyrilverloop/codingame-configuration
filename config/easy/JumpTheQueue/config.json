@@ -1,0 +1,48 @@
+{
+    "path": "easy/JumpTheQueue",
+    "name": "Jump the Queue",
+    "alphanumName": "JumpTheQueue",
+    "link": "https://www.codingame.com/ide/puzzle/jump-the-queue",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Incomplete dequeue",
+            "alphanumName": "IncompleteDequeue",
+            "file": "02 - Incomplete dequeue.txt"
+        },
+        {
+            "name": "Interlacing events",
+            "alphanumName": "InterlacingEvents",
+            "file": "03 - Interlacing events.txt"
+        },
+        {
+            "name": "Rejoining the queue",
+            "alphanumName": "RejoiningTheQueue",
+            "file": "04 - Rejoining the queue.txt"
+        },
+        {
+            "name": "Busy queue",
+            "alphanumName": "BusyQueue",
+            "file": "05 - Busy queue.txt"
+        },
+        {
+            "name": "Bigger friend groups",
+            "alphanumName": "BiggerFriendGroups",
+            "file": "06 - Bigger friend groups.txt"
+        },
+        {
+            "name": "Large pack of lone wolves",
+            "alphanumName": "LargePackOfLoneWolves",
+            "file": "07 - Large pack of lone wolves.txt"
+        },
+        {
+            "name": "Long queue",
+            "alphanumName": "LongQueue",
+            "file": "08 - Long queue.txt"
+        }
+    ]
+}
