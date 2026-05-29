@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- configuration for "Build-A-Die".
 - configuration for "Jump the Queue".
 - configuration for "Leap of sheep".
 - configuration for "Cistercian addition".

@@ -1,0 +1,133 @@
+{
+    "path": "hard/BuildADie",
+    "name": "Build-A-Die",
+    "alphanumName": "BuildADie",
+    "link": "https://www.codingame.com/ide/puzzle/build-a-die",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Corners",
+            "alphanumName": "Corners",
+            "file": "02 - Corners.txt"
+        },
+        {
+            "name": "Side Profile",
+            "alphanumName": "SideProfile",
+            "file": "03 - Side Profile.txt"
+        },
+        {
+            "name": "Front Face",
+            "alphanumName": "FrontFace",
+            "file": "04 - Front Face.txt"
+        },
+        {
+            "name": "Mix",
+            "alphanumName": "Mix",
+            "file": "05 - Mix.txt"
+        },
+        {
+            "name": "Repeat",
+            "alphanumName": "Repeat",
+            "file": "06 - Repeat.txt"
+        },
+        {
+            "name": "Cryptic",
+            "alphanumName": "Cryptic",
+            "file": "07 - Cryptic.txt"
+        },
+        {
+            "name": "Missing Images",
+            "alphanumName": "MissingImages",
+            "file": "08 - Missing Images.txt"
+        },
+        {
+            "name": "No Solution",
+            "alphanumName": "NoSolution",
+            "file": "09 - No Solution.txt"
+        },
+        {
+            "name": "Multiple",
+            "alphanumName": "Multiple",
+            "file": "10 - Multiple.txt"
+        },
+        {
+            "name": "More",
+            "alphanumName": "More",
+            "file": "11 - More.txt"
+        },
+        {
+            "name": "Duplicate",
+            "alphanumName": "Duplicate",
+            "file": "12 - Duplicate.txt"
+        },
+        {
+            "name": "Identical",
+            "alphanumName": "Identical",
+            "file": "13 - Identical.txt"
+        },
+        {
+            "name": "Net 1",
+            "alphanumName": "Net1",
+            "file": "14 - Net 1.txt"
+        },
+        {
+            "name": "Net 2",
+            "alphanumName": "Net2",
+            "file": "15 - Net 2.txt"
+        },
+        {
+            "name": "Net 3",
+            "alphanumName": "Net3",
+            "file": "16 - Net 3.txt"
+        },
+        {
+            "name": "Net 4",
+            "alphanumName": "Net4",
+            "file": "17 - Net 4.txt"
+        },
+        {
+            "name": "Net 5",
+            "alphanumName": "Net5",
+            "file": "18 - Net 5.txt"
+        },
+        {
+            "name": "Net 6",
+            "alphanumName": "Net6",
+            "file": "19 - Net 6.txt"
+        },
+        {
+            "name": "Net 7",
+            "alphanumName": "Net7",
+            "file": "20 - Net 7.txt"
+        },
+        {
+            "name": "Net 8",
+            "alphanumName": "Net8",
+            "file": "21 - Net 8.txt"
+        },
+        {
+            "name": "Net 9",
+            "alphanumName": "Net9",
+            "file": "22 - Net 9.txt"
+        },
+        {
+            "name": "Net 10",
+            "alphanumName": "Net10",
+            "file": "23 - Net 10.txt"
+        },
+        {
+            "name": "Net 11",
+            "alphanumName": "Net11",
+            "file": "24 - Net 11.txt"
+        },
+        {
+            "name": "Nothing",
+            "alphanumName": "Nothing",
+            "file": "25 - Nothing.txt"
+        }
+    ]
+}
