@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - configuration for "Hagrid speaking".
+- configuration for "Squares".
 
 ## [1.28.0] - 2026-06-30
 ### Changed

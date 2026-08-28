@@ -1,0 +1,38 @@
+{
+    "path": "medium/Squares",
+    "name": "Squares",
+    "alphanumName": "Squares",
+    "link": "https://www.codingame.com/ide/puzzle/squares",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Overlap",
+            "alphanumName": "Overlap",
+            "file": "02 - Overlap.txt"
+        },
+        {
+            "name": "Fat Squares",
+            "alphanumName": "FatSquares",
+            "file": "03 - Fat Squares.txt"
+        },
+        {
+            "name": "Black Hole",
+            "alphanumName": "BlackHole",
+            "file": "04 - Black Hole.txt"
+        },
+        {
+            "name": "Venn",
+            "alphanumName": "Venn",
+            "file": "05 - Venn.txt"
+        },
+        {
+            "name": "Dartboard",
+            "alphanumName": "Dartboard",
+            "file": "06 - Dartboard.txt"
+        }
+    ]
+}
