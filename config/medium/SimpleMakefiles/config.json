@@ -1,0 +1,83 @@
+{
+    "path": "medium/SimpleMakefiles",
+    "name": "Simple Makefiles",
+    "alphanumName": "SimpleMakefiles",
+    "link": "https://www.codingame.com/ide/puzzle/simple-makefiles",
+    "tests": [
+        {
+            "name": "Problem statement example",
+            "alphanumName": "ProblemStatementExample",
+            "file": "01 - Problem statement example.txt"
+        },
+        {
+            "name": "Up-to-date check and partial rebuild",
+            "alphanumName": "UptodateCheckAndPartialRebuild",
+            "file": "02 - Up-to-date check and partial rebuild.txt"
+        },
+        {
+            "name": "Single rule with no actions",
+            "alphanumName": "SingleRuleWithNoActions",
+            "file": "03 - Single rule with no actions.txt"
+        },
+        {
+            "name": "Up-to-date ages",
+            "alphanumName": "UptodateAges",
+            "file": "04 - Up-to-date ages.txt"
+        },
+        {
+            "name": "Multiple goal targets",
+            "alphanumName": "MultipleGoalTargets",
+            "file": "05 - Multiple goal targets.txt"
+        },
+        {
+            "name": "No-action intermediates and unused rules",
+            "alphanumName": "NoactionIntermediatesAndUnusedRules",
+            "file": "06 - No-action intermediates and unused rules.txt"
+        },
+        {
+            "name": "Multiple targets with identical prerequisites",
+            "alphanumName": "MultipleTargetsWithIdenticalPrerequisites",
+            "file": "07 - Multiple targets with identical prerequisites.txt"
+        },
+        {
+            "name": "Built-in macros and comments",
+            "alphanumName": "BuiltinMacrosAndComments",
+            "file": "08 - Built-in macros and comments.txt"
+        },
+        {
+            "name": "Same target in multiple rules",
+            "alphanumName": "SameTargetInMultipleRules",
+            "file": "09 - Same target in multiple rules.txt"
+        },
+        {
+            "name": "Large partial rebuild",
+            "alphanumName": "LargePartialRebuild",
+            "file": "10 - Large partial rebuild.txt"
+        },
+        {
+            "name": "Cycle detection",
+            "alphanumName": "CycleDetection",
+            "file": "11 - Cycle detection.txt"
+        },
+        {
+            "name": "Unreachable cycle detection",
+            "alphanumName": "UnreachableCycleDetection",
+            "file": "12 - Unreachable cycle detection.txt"
+        },
+        {
+            "name": "All rebuild features combined",
+            "alphanumName": "AllRebuildFeaturesCombined",
+            "file": "13 - All rebuild features combined.txt"
+        },
+        {
+            "name": "Multiple action lines per rule",
+            "alphanumName": "MultipleActionLinesPerRule",
+            "file": "14 - Multiple action lines per rule.txt"
+        },
+        {
+            "name": "Kitchen sink",
+            "alphanumName": "KitchenSink",
+            "file": "15 - Kitchen sink.txt"
+        }
+    ]
+}

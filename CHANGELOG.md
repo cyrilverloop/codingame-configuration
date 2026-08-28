@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Hagrid speaking".
 - configuration for "Squares".
+- configuration for "Simple Makefiles".
 
 ## [1.28.0] - 2026-06-30
 ### Changed
