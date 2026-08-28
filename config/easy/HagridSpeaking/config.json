@@ -1,0 +1,48 @@
+{
+    "path": "easy/HagridSpeaking",
+    "name": "Hagrid speaking",
+    "alphanumName": "HagridSpeaking",
+    "link": "https://www.codingame.com/ide/puzzle/hagrid-speaking",
+    "tests": [
+        {
+            "name": "Simple sentences",
+            "alphanumName": "SimpleSentences",
+            "file": "01 - Simple sentences.txt"
+        },
+        {
+            "name": "Does Hagrid speak?",
+            "alphanumName": "DoesHagridSpeak",
+            "file": "02 - Does Hagrid speak.txt"
+        },
+        {
+            "name": "t,f, d and g replacement",
+            "alphanumName": "TFDandGreplacement",
+            "file": "03 - t,f, d and g replacement.txt"
+        },
+        {
+            "name": "Word replacement",
+            "alphanumName": "WordReplacement",
+            "file": "04 - Word replacement.txt"
+        },
+        {
+            "name": "Do yeh forge’ the case?",
+            "alphanumName": "DoYehForgeTheCase",
+            "file": "05 - Do yeh forge’ the case.txt"
+        },
+        {
+            "name": "Compound Words",
+            "alphanumName": "CompoundWords",
+            "file": "06 - Compound Words.txt"
+        },
+        {
+            "name": "Edge cases",
+            "alphanumName": "EdgeCases",
+            "file": "07 - Edge cases.txt"
+        },
+        {
+            "name": "Very long talk",
+            "alphanumName": "VeryLongTalk",
+            "file": "08 - Very long talk.txt"
+        }
+    ]
+}
