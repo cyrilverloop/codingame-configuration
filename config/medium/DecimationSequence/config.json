@@ -1,0 +1,58 @@
+{
+    "path": "medium/DecimationSequence",
+    "name": "Decimation sequence",
+    "alphanumName": "DecimationSequence",
+    "link": "https://www.codingame.com/ide/puzzle/decimation-sequence",
+    "tests": [
+        {
+            "name": "4 terms sequence, easy case",
+            "alphanumName": "fourTermsSequenceEasyCase",
+            "file": "01 - 4 terms sequence, easy case.txt"
+        },
+        {
+            "name": "4 terms sequence, medium case",
+            "alphanumName": "fourTermsSequenceMediumCase",
+            "file": "02 - 4 terms sequence, medium case.txt"
+        },
+        {
+            "name": "4 terms sequence, hard case",
+            "alphanumName": "fourTermsSequenceHardCase",
+            "file": "03 - 4 terms sequence, hard case.txt"
+        },
+        {
+            "name": "Classical sequence, easy case",
+            "alphanumName": "ClassicalSequenceEasyCase",
+            "file": "04 - Classical sequence, easy case.txt"
+        },
+        {
+            "name": "Classical sequence, medium case",
+            "alphanumName": "ClassicalSequenceMediumCase",
+            "file": "05 - Classical sequence, medium case.txt"
+        },
+        {
+            "name": "Classical sequence, hard case",
+            "alphanumName": "ClassicalSequenceHardCase",
+            "file": "06 - Classical sequence, hard case.txt"
+        },
+        {
+            "name": "Classical sequence, extreme case",
+            "alphanumName": "ClassicalSequenceExtremeCase",
+            "file": "07 - Classical sequence, extreme case.txt"
+        },
+        {
+            "name": "Random sequence, medium case",
+            "alphanumName": "RandomSequenceMediumCase",
+            "file": "08 - Random sequence, medium case.txt"
+        },
+        {
+            "name": "Random sequence, hard case",
+            "alphanumName": "RandomSequenceHardCase",
+            "file": "09 - Random sequence, hard case.txt"
+        },
+        {
+            "name": "Random sequence, extreme case",
+            "alphanumName": "RandomSequenceExtremeCase",
+            "file": "10 - Random sequence, extreme case.txt"
+        }
+    ]
+}

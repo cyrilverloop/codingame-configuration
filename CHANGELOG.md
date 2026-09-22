@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "You have been Hacked!".
 - configuration for "Signal Cascade".
+- configuration for "Decimation sequence".
 
 ## [1.29.0] - 2026-08-31
 ### Added
