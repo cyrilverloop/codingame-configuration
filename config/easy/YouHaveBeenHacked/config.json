@@ -1,0 +1,38 @@
+{
+    "path": "easy/YouHaveBeenHacked",
+    "name": "You have been Hacked!",
+    "alphanumName": "YouHaveBeenHacked",
+    "link": "https://www.codingame.com/ide/puzzle/you-have-been-hacked",
+    "tests": [
+        {
+            "name": "Basic Scenario",
+            "alphanumName": "BasicScenario",
+            "file": "01 - Basic Scenario.txt"
+        },
+        {
+            "name": "All Firewall Levels",
+            "alphanumName": "AllFirewallLevels",
+            "file": "02 - All Firewall Levels.txt"
+        },
+        {
+            "name": "Accumulated Strengths - All Blocked",
+            "alphanumName": "AccumulatedStrengthsAllBlocked",
+            "file": "03 - Accumulated Strengths - All Blocked.txt"
+        },
+        {
+            "name": "Interleaved Attacks",
+            "alphanumName": "InterleavedAttacks",
+            "file": "04 - Interleaved Attacks.txt"
+        },
+        {
+            "name": "Complex Interleaving",
+            "alphanumName": "ComplexInterleaving",
+            "file": "05 - Complex Interleaving.txt"
+        },
+        {
+            "name": "Total Disorder",
+            "alphanumName": "TotalDisorder",
+            "file": "06 - Total Disorder.txt"
+        }
+    ]
+}
