@@ -1,0 +1,48 @@
+{
+    "path": "easy/SignalCascade",
+    "name": "Signal Cascade",
+    "alphanumName": "SignalCascade",
+    "link": "https://www.codingame.com/ide/puzzle/signal-cascade",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Full Overload",
+            "alphanumName": "FullOverload",
+            "file": "02 - Full Overload.txt"
+        },
+        {
+            "name": "Chain Reaction",
+            "alphanumName": "ChainReaction",
+            "file": "03 - Chain Reaction.txt"
+        },
+        {
+            "name": "Diagonal Chain",
+            "alphanumName": "DiagonalChain",
+            "file": "04 - Diagonal Chain.txt"
+        },
+        {
+            "name": "No Overload",
+            "alphanumName": "NoOverload",
+            "file": "05 - No Overload.txt"
+        },
+        {
+            "name": "Large Calm Zone",
+            "alphanumName": "LargeCalmZone",
+            "file": "06 - Large Calm Zone.txt"
+        },
+        {
+            "name": "Random 1",
+            "alphanumName": "Random1",
+            "file": "07 - Random 1.txt"
+        },
+        {
+            "name": "Random 2",
+            "alphanumName": "Random2",
+            "file": "08 - Random 2.txt"
+        }
+    ]
+}
