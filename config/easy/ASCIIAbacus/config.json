@@ -1,0 +1,68 @@
+{
+    "path": "easy/ASCIIAbacus",
+    "name": "ASCII Abacus",
+    "alphanumName": "ASCIIAbacus",
+    "link": "https://www.codingame.com/ide/puzzle/ascii-abacus",
+    "tests": [
+        {
+            "name": "12345.6789",
+            "alphanumName": "One23456789",
+            "file": "01 - 12345.6789.txt"
+        },
+        {
+            "name": "9987065.403321",
+            "alphanumName": "Nine987065403321",
+            "file": "02 - 9987065.403321.txt"
+        },
+        {
+            "name": "23006.1103",
+            "alphanumName": "Two30061103",
+            "file": "03 - 23006.1103.txt"
+        },
+        {
+            "name": "10.8192453",
+            "alphanumName": "One08192453",
+            "file": "04 - 10.8192453.txt"
+        },
+        {
+            "name": "159489.0007",
+            "alphanumName": "One594890007",
+            "file": "05 - 159489.0007.txt"
+        },
+        {
+            "name": "482.03882048",
+            "alphanumName": "Four8203882048",
+            "file": "06 - 482.03882048.txt"
+        },
+        {
+            "name": "0.0628",
+            "alphanumName": "Zero0628",
+            "file": "07 - 0.0628.txt"
+        },
+        {
+            "name": "0.000000034",
+            "alphanumName": "Zero000000034",
+            "file": "08 - 0.000000034.txt"
+        },
+        {
+            "name": "849200478",
+            "alphanumName": "849200478",
+            "file": "09 - 849200478.txt"
+        },
+        {
+            "name": "9999999999999",
+            "alphanumName": "9999999999999",
+            "file": "10 - 9999999999999.txt"
+        },
+        {
+            "name": "0.000000000001",
+            "alphanumName": "Zero000000000001",
+            "file": "11 - 0.000000000001.txt"
+        },
+        {
+            "name": "0",
+            "alphanumName": "Zero",
+            "file": "12 - 0.txt"
+        }
+    ]
+}

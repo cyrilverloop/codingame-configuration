@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "You have been Hacked!".
 - configuration for "Signal Cascade".
 - configuration for "Decimation sequence".
+- configuration for "ASCII Abacus".
 
 ### Changed
 - name of "Simon’s Oracle" to "Simon’s Ex-Oracle".
