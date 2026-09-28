@@ -1,8 +1,8 @@
 {
-    "path": "hard/SimonsOracle",
-    "name": "Simon’s Oracle",
-    "alphanumName": "SimonsOracle",
-    "link": "https://www.codingame.com/ide/puzzle/simons-oracle",
+    "path": "hard/SimonsExOracle",
+    "name": "Simon’s Ex-Oracle",
+    "alphanumName": "SimonsExOracle",
+    "link": "https://www.codingame.com/ide/puzzle/simons-ex-oracle",
     "tests": [
         {
             "name": "Example",

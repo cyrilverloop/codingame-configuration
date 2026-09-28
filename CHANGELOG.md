@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Signal Cascade".
 - configuration for "Decimation sequence".
 
+### Changed
+- name of "Simon’s Oracle" to "Simon’s Ex-Oracle".
+
 ## [1.29.0] - 2026-08-31
 ### Added
 - configuration for "Hagrid speaking".
