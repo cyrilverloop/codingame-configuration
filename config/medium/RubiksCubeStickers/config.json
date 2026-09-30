@@ -1,0 +1,48 @@
+{
+    "path": "medium/RubiksCubeStickers",
+    "name": "Rubik’s Cube stickers",
+    "alphanumName": "RubiksCubeStickers",
+    "link": "https://www.codingame.com/ide/puzzle/rubiks-cube-stickers",
+    "tests": [
+        {
+            "name": "1 center sticker",
+            "alphanumName": "OneCenterSticker",
+            "file": "01 - 1 center sticker.txt"
+        },
+        {
+            "name": "1 sidesticker",
+            "alphanumName": "OneSidesticker",
+            "file": "02 - 1 sidesticker.txt"
+        },
+        {
+            "name": "1 corner sticker",
+            "alphanumName": "OneCornerSticker",
+            "file": "03 - 1 corner sticker.txt"
+        },
+        {
+            "name": "4 center stickers",
+            "alphanumName": "FourCenterStickers",
+            "file": "04 - 4 center stickers.txt"
+        },
+        {
+            "name": "4 side stickers",
+            "alphanumName": "FourSideStickers",
+            "file": "05 - 4 side stickers.txt"
+        },
+        {
+            "name": "4 corner stickers",
+            "alphanumName": "FourCornerStickers",
+            "file": "06 - 4 corner stickers.txt"
+        },
+        {
+            "name": "C O D I N G",
+            "alphanumName": "CODING",
+            "file": "07 - C O D I N G.txt"
+        },
+        {
+            "name": "S H A K E D",
+            "alphanumName": "SHAKED",
+            "file": "08 - S H A K E D.txt"
+        }
+    ]
+}
