@@ -1,0 +1,78 @@
+{
+    "path": "easy/ShoppingCarts",
+    "name": "Shopping carts",
+    "alphanumName": "ShoppingCarts",
+    "link": "https://www.codingame.com/ide/puzzle/shopping-carts",
+    "tests": [
+        {
+            "name": "Easy",
+            "alphanumName": "Easy",
+            "file": "01 - Easy.txt"
+        },
+        {
+            "name": "Nothing there, filling up",
+            "alphanumName": "NothingThereFillingUp",
+            "file": "02 - Nothing there, filling up.txt"
+        },
+        {
+            "name": "None left",
+            "alphanumName": "NoneLeft",
+            "file": "03 - None left.txt"
+        },
+        {
+            "name": "One too many taken",
+            "alphanumName": "OneTooManyTaken",
+            "file": "04 - One too many taken.txt"
+        },
+        {
+            "name": "More than one too many taken",
+            "alphanumName": "MoreThanOneTooManyTaken",
+            "file": "05 - More than one too many taken.txt"
+        },
+        {
+            "name": "Reducing unbalance",
+            "alphanumName": "ReducingUnbalance",
+            "file": "06 - Reducing unbalance.txt"
+        },
+        {
+            "name": "Perfectly balanced",
+            "alphanumName": "PerfectlyBalanced",
+            "file": "07 - Perfectly balanced.txt"
+        },
+        {
+            "name": "Tie-break 1",
+            "alphanumName": "TieBreak1",
+            "file": "08 - Tie-break 1.txt"
+        },
+        {
+            "name": "Tie-break 2",
+            "alphanumName": "TieBreak2",
+            "file": "09 - Tie-break 2.txt"
+        },
+        {
+            "name": "Large store",
+            "alphanumName": "LargeStore",
+            "file": "10 - Large store.txt"
+        },
+        {
+            "name": "Random test 1",
+            "alphanumName": "RandomTest1",
+            "file": "11 - Random test 1.txt"
+        },
+        {
+            "name": "Random test 2",
+            "alphanumName": "RandomTest2",
+            "file": "12 - Random test 2.txt"
+        },
+        {
+            "name": "Random test 3",
+            "alphanumName": "RandomTest3",
+            "file": "13 - Random test 3.txt"
+        },
+        {
+            "name": "Random test 4",
+            "alphanumName": "RandomTest4",
+            "file": "14 - Random test 4.txt"
+        }
+    ]
+}
