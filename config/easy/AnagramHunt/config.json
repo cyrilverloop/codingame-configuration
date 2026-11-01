@@ -1,0 +1,108 @@
+{
+    "path": "easy/AnagramHunt",
+    "name": "Anagram Hunt",
+    "alphanumName": "AnagramHunt",
+    "link": "https://www.codingame.com/ide/puzzle/anagram-hunt",
+    "tests": [
+        {
+            "name": "High Mode",
+            "alphanumName": "HighMode",
+            "file": "01 - High Mode.txt"
+        },
+        {
+            "name": "Low Mode",
+            "alphanumName": "LowMode",
+            "file": "02 - Low Mode.txt"
+        },
+        {
+            "name": "One player: High",
+            "alphanumName": "OnePlayerHigh",
+            "file": "03 - One player High.txt"
+        },
+        {
+            "name": "One player: Low",
+            "alphanumName": "OnePlayerLow",
+            "file": "04 - One player Low.txt"
+        },
+        {
+            "name": "Two valid words: High",
+            "alphanumName": "TwoValidWordsHigh",
+            "file": "05 - Two valid words High.txt"
+        },
+        {
+            "name": "Two valid words: Low",
+            "alphanumName": "TwoValidWordsLow",
+            "file": "06 - Two valid words Low.txt"
+        },
+        {
+            "name": "Player without valid word: High",
+            "alphanumName": "PlayerWithoutValidWordHigh",
+            "file": "07 - Player without valid word High.txt"
+        },
+        {
+            "name": "Player without valid word: Low",
+            "alphanumName": "PlayerWithoutValidWordLow",
+            "file": "08 - Player without valid word Low.txt"
+        },
+        {
+            "name": "Tie in scores: High",
+            "alphanumName": "TieInScoresHigh",
+            "file": "09 - Tie in scores High.txt"
+        },
+        {
+            "name": "Tie in scores: Low",
+            "alphanumName": "TieInScoresLow",
+            "file": "10 - Tie in scores Low.txt"
+        },
+        {
+            "name": "Everyone wins: High",
+            "alphanumName": "EveryoneWinsHigh",
+            "file": "11 - Everyone wins High.txt"
+        },
+        {
+            "name": "Everyone wins: Low",
+            "alphanumName": "EveryoneWinsLow",
+            "file": "12 - Everyone wins Low.txt"
+        },
+        {
+            "name": "Good hands?: High",
+            "alphanumName": "GoodHandsHigh",
+            "file": "13 - Good hands High.txt"
+        },
+        {
+            "name": "Good hands?: Low",
+            "alphanumName": "GoodHandsLow",
+            "file": "14 - Good hands Low.txt"
+        },
+        {
+            "name": "Three valid words: High",
+            "alphanumName": "ThreeValidWordsHigh",
+            "file": "15 - Three valid words High.txt"
+        },
+        {
+            "name": "Three valid words: Low",
+            "alphanumName": "ThreeValidWordsLow",
+            "file": "16 - Three valid words Low.txt"
+        },
+        {
+            "name": "Single winner: High",
+            "alphanumName": "SingleWinnerHigh",
+            "file": "17 - Single winner High.txt"
+        },
+        {
+            "name": "Single winner: Low",
+            "alphanumName": "SingleWinnerLow",
+            "file": "18 - Single winner Low.txt"
+        },
+        {
+            "name": "Everything: High",
+            "alphanumName": "EverythingHigh",
+            "file": "19 - Everything High.txt"
+        },
+        {
+            "name": "Everything: Low",
+            "alphanumName": "EverythingLow",
+            "file": "20 - Everything Low.txt"
+        }
+    ]
+}
