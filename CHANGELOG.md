@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - configuration for "Anagram Hunt".
 - configuration for "Shopping carts".
+- configuration for "Log Sanitizer".
 
 ## [1.30.0] - 2026-09-30
 ### Added

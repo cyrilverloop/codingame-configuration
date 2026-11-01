@@ -1,0 +1,43 @@
+{
+    "path": "easy/LogSanitizer",
+    "name": "Log Sanitizer",
+    "alphanumName": "LogSanitizer",
+    "link": "https://www.codingame.com/ide/puzzle/log-sanitizer",
+    "tests": [
+        {
+            "name": "Test 1: Simple examples",
+            "alphanumName": "Test1SimpleExamples",
+            "file": "01 - Test 1 Simple examples.txt"
+        },
+        {
+            "name": "Test 2: Start and end of line",
+            "alphanumName": "Test2StartAndEndOfLine",
+            "file": "02 - Test 2 Start and end of line.txt"
+        },
+        {
+            "name": "Test 3: Non-alphanumeric boundaries",
+            "alphanumName": "Test3NonAlphanumericBoundaries",
+            "file": "03 - Test 3 Non-alphanumeric boundaries.txt"
+        },
+        {
+            "name": "Test 4: Non-matching - credit card numbers",
+            "alphanumName": "Test4NonMatchingCreditCardNumbers",
+            "file": "04 - Test 4 Non-matching - credit card numbers.txt"
+        },
+        {
+            "name": "Test 5: Non-matching - API tokens",
+            "alphanumName": "Test5NonMatchingAPITokens",
+            "file": "05 - Test 5 Non-matching - API tokens.txt"
+        },
+        {
+            "name": "Test 6: Overlapping",
+            "alphanumName": "Test6Overlapping",
+            "file": "06 - Test 6 Overlapping.txt"
+        },
+        {
+            "name": "Test 7: Overlapping with priority",
+            "alphanumName": "Test7OverlappingWithPriority",
+            "file": "07 - Test 7 Overlapping with priority.txt"
+        }
+    ]
+}
