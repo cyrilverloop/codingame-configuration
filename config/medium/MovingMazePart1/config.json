@@ -1,0 +1,58 @@
+{
+    "path": "medium/MovingMazePart1",
+    "name": "Moving Maze Part 1",
+    "alphanumName": "MovingMazePart1",
+    "link": "https://www.codingame.com/ide/puzzle/moving-maze-part-1",
+    "tests": [
+        {
+            "name": "Test 1 - You hold the key",
+            "alphanumName": "Test1YouHoldTheKey",
+            "file": "01 - Test 1 - You hold the key.txt"
+        },
+        {
+            "name": "Test 2 - Extra tile not needed",
+            "alphanumName": "Test2ExtraTileNotNeeded",
+            "file": "02 - Test 2 - Extra tile not needed.txt"
+        },
+        {
+            "name": "Test 3 - Shift row left",
+            "alphanumName": "Test3ShiftRowLeft",
+            "file": "03 - Test 3 - Shift row left.txt"
+        },
+        {
+            "name": "Test 4 - Shift row right",
+            "alphanumName": "Test4ShiftRowRight",
+            "file": "04 - Test 4 - Shift row right.txt"
+        },
+        {
+            "name": "Test 5 - Shift column up",
+            "alphanumName": "Test5ShiftColumnUp",
+            "file": "05 - Test 5 - Shift column up.txt"
+        },
+        {
+            "name": "Test 6 - Shift column down",
+            "alphanumName": "Test6ShiftColumnDown",
+            "file": "06 - Test 6 - Shift column down.txt"
+        },
+        {
+            "name": "Test 7 - Shift the player",
+            "alphanumName": "Test7ShiftThePlayer",
+            "file": "07 - Test 7 - Shift the player.txt"
+        },
+        {
+            "name": "Test 8 - Shift the treasure",
+            "alphanumName": "Test8ShiftTheTreasure",
+            "file": "08 - Test 8 - Shift the treasure.txt"
+        },
+        {
+            "name": "Test 9 - Zig Zag",
+            "alphanumName": "Test9ZigZag",
+            "file": "09 - Test 9 - Zig Zag.txt"
+        },
+        {
+            "name": "Test 10 - Swirl",
+            "alphanumName": "Test10Swirl",
+            "file": "10 - Test 10 - Swirl.txt"
+        }
+    ]
+}
