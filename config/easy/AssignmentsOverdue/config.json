@@ -1,0 +1,48 @@
+{
+    "path": "easy/AssignmentsOverdue",
+    "name": "Assignments Overdue",
+    "alphanumName": "AssignmentsOverdue",
+    "link": "https://www.codingame.com/ide/puzzle/assignments-overdue",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "No Penalty",
+            "alphanumName": "NoPenalty",
+            "file": "02 - No Penalty.txt"
+        },
+        {
+            "name": "Harder Costlier",
+            "alphanumName": "HarderCostlier",
+            "file": "03 - Harder Costlier.txt"
+        },
+        {
+            "name": "Some Long Term Tasks",
+            "alphanumName": "SomeLongTermTasks",
+            "file": "04 - Some Long Term Tasks.txt"
+        },
+        {
+            "name": "Longer Queue",
+            "alphanumName": "LongerQueue",
+            "file": "05 - Longer Queue.txt"
+        },
+        {
+            "name": "Same",
+            "alphanumName": "Same",
+            "file": "06 - Same.txt"
+        },
+        {
+            "name": "Some Critical Tasks",
+            "alphanumName": "SomeCriticalTasks",
+            "file": "07 - Some Critical Tasks.txt"
+        },
+        {
+            "name": "Overwhelming",
+            "alphanumName": "Overwhelming",
+            "file": "08 - Overwhelming.txt"
+        }
+    ]
+}
