@@ -1,0 +1,88 @@
+{
+    "path": "easy/StaticEquilibrium",
+    "name": "Static Equilibrium",
+    "alphanumName": "StaticEquilibrium",
+    "link": "https://www.codingame.com/ide/puzzle/static-equilibrium",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "Already in Equilibrium (x-direction)",
+            "alphanumName": "AlreadyInEquilibriumXDirection",
+            "file": "02 - Already in Equilibrium (x-direction).txt"
+        },
+        {
+            "name": "Already in Equilibrium (y-direction)",
+            "alphanumName": "AlreadyInEquilibriumYDirection",
+            "file": "03 - Already in Equilibrium (y-direction).txt"
+        },
+        {
+            "name": "Positive x-direction",
+            "alphanumName": "PositiveXDirection",
+            "file": "04 - Positive x-direction.txt"
+        },
+        {
+            "name": "Negative x-direction",
+            "alphanumName": "NegativeXDirection",
+            "file": "05 - Negative x-direction.txt"
+        },
+        {
+            "name": "Positive y-direction",
+            "alphanumName": "PositiveYDirection",
+            "file": "06 - Positive y-direction.txt"
+        },
+        {
+            "name": "Negative y-direction",
+            "alphanumName": "NegativeYDirection",
+            "file": "07 - Negative y-direction.txt"
+        },
+        {
+            "name": "Random Forces (1)",
+            "alphanumName": "RandomForces1",
+            "file": "08 - Random Forces (1).txt"
+        },
+        {
+            "name": "Random Forces (2)",
+            "alphanumName": "RandomForces2",
+            "file": "09 - Random Forces (2).txt"
+        },
+        {
+            "name": "Equilibrium again!",
+            "alphanumName": "EquilibriumAgain",
+            "file": "10 - Equilibrium again!.txt"
+        },
+        {
+            "name": "First Quadrant",
+            "alphanumName": "FirstQuadrant",
+            "file": "11 - First Quadrant.txt"
+        },
+        {
+            "name": "Second Quadrant",
+            "alphanumName": "SecondQuadrant",
+            "file": "12 - Second Quadrant.txt"
+        },
+        {
+            "name": "Third Quadrant (with a little more forces)",
+            "alphanumName": "ThirdQuadrantWithALittleMoreForces",
+            "file": "13 - Third Quadrant (with a little more forces).txt"
+        },
+        {
+            "name": "Fourth Quadrant (with a lot more forces)",
+            "alphanumName": "FourthQuadrantWithALotMoreForces",
+            "file": "14 - Fourth Quadrant (with a lot more forces).txt"
+        },
+        {
+            "name": "Just one",
+            "alphanumName": "JustOne",
+            "file": "15 - Just one.txt"
+        },
+        {
+            "name": "Stress test",
+            "alphanumName": "StressTest",
+            "file": "16 - Stress test.txt"
+        }
+    ]
+}

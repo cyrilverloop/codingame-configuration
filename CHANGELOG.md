@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Anagram Hunt".
 - configuration for "Shopping carts".
 - configuration for "Log Sanitizer".
+- configuration for "Static Equilibrium".
 
 ## [1.30.0] - 2026-09-30
 ### Added
