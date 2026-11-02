@@ -14,6 +14,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Card Deck Shuffle".
 - configuration for "Moving Maze Part 1".
 
+### Changed
+- name of "Simon’s Ex-Oracle" to "Simon’s Oracle".
+
 ## [1.30.0] - 2026-09-30
 ### Added
 - configuration for "You have been Hacked!".
