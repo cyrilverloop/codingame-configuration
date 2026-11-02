@@ -1,0 +1,58 @@
+{
+    "path": "easy/CardDeckShuffle",
+    "name": "Card Deck Shuffle",
+    "alphanumName": "CardDeckShuffle",
+    "link": "https://www.codingame.com/ide/puzzle/card-deck-shuffle",
+    "tests": [
+        {
+            "name": "Example",
+            "alphanumName": "Example",
+            "file": "01 - Example.txt"
+        },
+        {
+            "name": "N=1",
+            "alphanumName": "N1",
+            "file": "02 - N=1.txt"
+        },
+        {
+            "name": "N=2",
+            "alphanumName": "N2",
+            "file": "03 - N=2.txt"
+        },
+        {
+            "name": "N=4",
+            "alphanumName": "N4",
+            "file": "04 - N=4.txt"
+        },
+        {
+            "name": "Odd number of cards",
+            "alphanumName": "OddNumberOfCards",
+            "file": "05 - Odd number of cards.txt"
+        },
+        {
+            "name": "Only Spades",
+            "alphanumName": "OnlySpades",
+            "file": "06 - Only Spades.txt"
+        },
+        {
+            "name": "Binary test",
+            "alphanumName": "BinaryTest",
+            "file": "07 - Binary test.txt"
+        },
+        {
+            "name": "The whole deck",
+            "alphanumName": "TheWholeDeck",
+            "file": "08 - The whole deck.txt"
+        },
+        {
+            "name": "N=151",
+            "alphanumName": "N151",
+            "file": "09 - N=151.txt"
+        },
+        {
+            "name": "Going Big",
+            "alphanumName": "GoingBig",
+            "file": "10 - Going Big.txt"
+        }
+    ]
+}

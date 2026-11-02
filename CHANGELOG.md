@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - configuration for "Log Sanitizer".
 - configuration for "Static Equilibrium".
 - configuration for "Assignments Overdue".
+- configuration for "Card Deck Shuffle".
 
 ## [1.30.0] - 2026-09-30
 ### Added
